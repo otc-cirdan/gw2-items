@@ -62316,7 +62316,7 @@ id,name,type,level,rarity,vendor_value
 96051,Saltspray's Voice,Weapon,80,Exotic,264
 96052,Research Note,Consumable,0,Basic,0
 96053,Amberjack,Container,0,Rare,192
-96054,Legendary Weapon Starter Kit,Container,0,Legendary,640
+96054,Legendary Weapon Starter Kit—Set 1,Container,0,Legendary,640
 96055,Dead Alewife,Container,0,Fine,64
 96056,Fortified Precursor Warhorn Mouthpiece,CraftingMaterial,0,Exotic,64
 96057,Living Water Dagger,Weapon,80,Ascended,330
@@ -62573,7 +62573,7 @@ id,name,type,level,rarity,vendor_value
 96402,Recipe: Suun's Epaulets,Consumable,0,Ascended,160
 96403,Gate of Heaven,Weapon,80,Exotic,396
 96404,Lucky Sacred Hand Axe,Consumable,0,Exotic,0
-96405,[[1086654]],Container,80,Exotic,264
+96405,Starter Kit: The Predator,Container,80,Exotic,264
 96407,Recipe: Togo's Warhammer,Consumable,0,Ascended,160
 96408,Harbinger's Authorization Papers,Consumable,80,Exotic,132
 96409,Suun's Dragon Insignia,CraftingMaterial,0,Ascended,30
@@ -64645,6 +64645,7 @@ id,name,type,level,rarity,vendor_value
 99504,Mini Oni,MiniPet,0,Exotic,0
 99505,Street Noodles Chair,Gizmo,0,Rare,0
 99506,Minister's Hat,Armor,80,Exotic,330
+99507,Starter Kit: The Moot,Container,80,Exotic,264
 99508,Light Special Ops Harness,Armor,80,Ascended,495
 99509,Soo-Won's Claw Skin,Consumable,0,Legendary,0
 99511,Lingering Void Aether,Consumable,80,Exotic,132
@@ -65089,6 +65090,7 @@ id,name,type,level,rarity,vendor_value
 100048,Relic of the Ice,Relic,60,Exotic,200
 100049,Sanctified Focus Skin,Consumable,0,Rare,0
 100052,Skyscale Hatchling Harvesting Tool,Gathering,0,Rare,192
+100054,Viper's Abomination Torch,Weapon,80,Exotic,264
 100055,Essence of Triumph,CraftingMaterial,0,Rare,0
 100058,Astral Ward Pillar,Consumable,0,Basic,0
 100060,Common Kryptis Motivation,Gizmo,0,Fine,0
@@ -65108,16 +65110,18 @@ id,name,type,level,rarity,vendor_value
 100088,Berserker's Shattered Shield,Weapon,80,Exotic,264
 100089,Magi's Skyforged Greatsword,Weapon,80,Rare,297
 100090,Relic of the Dragonhunter,Relic,60,Exotic,200
+100092,Viper's Abomination Short Bow,Weapon,80,Exotic,396
 100094,Skyscale of Spirit,Consumable,0,Exotic,5000
 100096,Mist-Hardened Transcendent Chest,Container,0,Exotic,0
 100097,Shrine Guardians' Gratitude,Container,0,Basic,0
+100098,Clot of Congealed Screams,CraftingMaterial,0,Exotic,0
 100099,"""/bless"" Emote Tome",Consumable,0,Exotic,0
 100101,Storm's Eye Axe,Weapon,80,Exotic,264
 100103,Deluxe Gear Box,Container,0,Exotic,0
 100104,Recipe: Storm's Eye Mace,Consumable,0,Exotic,128
 100108,Recipe: Stormforged Sword,Consumable,0,Exotic,128
 100109,Amnytas Hoard,Container,0,Rare,0
-100110,Sinister Demonflesh Torch,Weapon,80,Rare,198
+100110,Sinister Saryx Torch,Weapon,80,Rare,198
 100111,Skyscale of Air,Consumable,0,Exotic,5000
 100114,Inspiration of Deldrimor,Consumable,0,Exotic,0
 100115,Relic of Mabon,Relic,60,Exotic,200
@@ -65125,6 +65129,7 @@ id,name,type,level,rarity,vendor_value
 100117,Recipe: Storm's Eye Warhorn,Consumable,0,Exotic,128
 100118,Skyscale of Water,Consumable,0,Exotic,5000
 100120,Magi's Skyforged Short Bow,Weapon,80,Rare,297
+100121,Viper's Abomination Greatsword,Weapon,80,Exotic,396
 100123,Tasty Wurm Segment,Trophy,0,Masterwork,5000
 100124,Rabid Skyscale Shield,Weapon,80,Ascended,330
 100129,Black Lion Glyph Selection Container,Container,0,Rare,0
@@ -65135,6 +65140,7 @@ id,name,type,level,rarity,vendor_value
 100134,Recipe: Relic of the Cavalier,Consumable,0,Exotic,128
 100135,Rift Hunter Medium Gloves,Armor,80,Exotic,238
 100137,Wizard's Vault Weekly Completion Chest,Container,0,Exotic,0
+100139,Sinister Saryx Sword,Weapon,80,Rare,198
 100141,Mini Cerus,MiniPet,0,Masterwork,50
 100142,Ride the Ley Line,Consumable,0,Exotic,0
 100143,Shaman's Stormforged Scepter,Weapon,80,Exotic,264
@@ -65159,6 +65165,8 @@ id,name,type,level,rarity,vendor_value
 100166,Storm's Eye Rifle,Weapon,80,Exotic,396
 100169,Deluxe Gear Box,Container,0,Exotic,0
 100170,Sample of Kryptis Possession,Consumable,0,Exotic,5000
+100172,Sanctified Helm Skin,Consumable,0,Masterwork,0
+100173,Viper's Abomination Pistol,Weapon,80,Exotic,264
 100174,Mabon's Journal,Gizmo,0,Basic,0
 100175,Recipe: Relic of the Trooper,Consumable,0,Exotic,128
 100177,Relic of Peitha,Relic,60,Exotic,200
@@ -65166,7 +65174,8 @@ id,name,type,level,rarity,vendor_value
 100180,Celestial Fish,Container,0,Legendary,640
 100181,Recipe: Relic of Antitoxin,Consumable,0,Exotic,128
 100182,Partial Academic Arch,Consumable,0,Basic,0
-100186,Recipe: Relic of Water,Consumable,0,Exotic,128
+100183,Sinister Saryx Dagger,Weapon,80,Rare,198
+100186,Recipe: Relic of the Water,Consumable,0,Exotic,128
 100188,Berserker's Shattered Hammer,Weapon,80,Exotic,396
 100189,Recipe: Relic of the Deadeye,Consumable,0,Exotic,128
 100192,Skyforged Weapon Box,Container,0,Rare,0
@@ -65219,6 +65228,7 @@ id,name,type,level,rarity,vendor_value
 100274,Recipe: Relic of Dwayna,Consumable,0,Exotic,128
 100277,Dwarven Relic,Consumable,0,Rare,0
 100280,Golden Ticket,Consumable,0,Ascended,0
+100281,Viper's Abomination Shield,Weapon,80,Exotic,264
 100282,Astral Ward Heavy Shoulders,Armor,80,Exotic,291
 100284,Sanctified Weapon Skin Selection Box,Container,0,Rare,0
 100289,Rabid Skyscale Longbow,Weapon,80,Ascended,495
@@ -65260,6 +65270,7 @@ id,name,type,level,rarity,vendor_value
 100346,Rift Hunter Light Gloves,Armor,80,Exotic,238
 100348,Valkyrie Eagle Eye Mace,Weapon,80,Rare,198
 100349,Astral Ward Heavy Coat,Armor,80,Exotic,396
+100350,Sinister Saryx Staff,Weapon,80,Rare,297
 100351,Sanctified Scepter Skin,Consumable,0,Rare,0
 100352,Deluxe Gear Box,Container,0,Exotic,0
 100353,Visage of Nourys,Armor,80,Exotic,330
@@ -65286,10 +65297,12 @@ id,name,type,level,rarity,vendor_value
 100388,Relic of the Astral Ward,Relic,60,Exotic,200
 100390,Relic of Antitoxin,Relic,60,Exotic,200
 100392,Astral Ward Heavy Boots,Armor,80,Exotic,264
+100394,Sinister Saryx Longbow,Weapon,80,Rare,297
 100395,Echo of the Past,Trophy,0,Exotic,0
 100398,Sanctified Hammer Skin,Consumable,0,Rare,0
 100399,Jokopu,Container,0,Exotic,256
 100400,Relic of the Sunless,Relic,60,Exotic,200
+100401,Sanctified Coat Skin,Consumable,0,Masterwork,0
 100405,Deluxe Gear Box,Container,0,Exotic,0
 100409,Pacified Magical Storm,Consumable,0,Exotic,0
 100411,Relic of the Trooper,Relic,60,Exotic,200
@@ -65305,6 +65318,7 @@ id,name,type,level,rarity,vendor_value
 100422,Scrap of Secrets of the Obscure Mastery,Consumable,0,Masterwork,0
 100424,Rabid Skyscale Pistol,Weapon,80,Ascended,330
 100427,Mini Construct of Galdra,MiniPet,0,Masterwork,50
+100428,Viper's Abomination Rifle,Weapon,80,Exotic,396
 100429,Relic of Mercy,Relic,60,Exotic,216
 100430,Vermilion Harvesting Tool,Gathering,0,Rare,192
 100431,Recipe: Stormforged Pistol,Consumable,0,Exotic,128
@@ -65313,13 +65327,17 @@ id,name,type,level,rarity,vendor_value
 100436,Astral Ward Medium Gloves,Armor,80,Exotic,238
 100437,Skyscale of Death,Consumable,0,Exotic,5000
 100440,Round Academic Column,Consumable,0,Basic,0
+100441,Sinister Saryx Short Bow,Weapon,80,Rare,297
 100442,Relic of Dwayna,Relic,60,Exotic,200
 100443,Shaman's Stormforged Shield,Weapon,80,Exotic,264
+100444,Sinister Saryx Focus,Weapon,80,Rare,198
 100448,Relic of the Citadel,Relic,60,Exotic,200
+100449,Sanctified Leggings Skin,Consumable,0,Masterwork,0
 100450,Relic of the Chronomancer,Relic,60,Exotic,200
 100451,Memory of Ascension,Consumable,0,Exotic,0
 100453,Relic of the Firebrand,Relic,60,Exotic,200
 100455,Relic of Durability,Relic,60,Exotic,200
+100456,Sinister Saryx Greatsword,Weapon,80,Rare,297
 100458,Firestorm Logging Tool,Gathering,0,Rare,192
 100459,Astral Ward Heavy Gloves,Armor,80,Exotic,238
 100460,Astral Ward Square Floor,Consumable,0,Basic,0
@@ -65330,7 +65348,10 @@ id,name,type,level,rarity,vendor_value
 100468,Recipe: Relic of the Monk,Consumable,0,Exotic,128
 100469,Instant Reward Track Progress,Consumable,0,Basic,0
 100470,Cosmic Logging Tool,Gathering,0,Rare,0
+100472,Sinister Saryx Shield,Weapon,80,Rare,198
 100473,Large Static Charge,Consumable,0,Basic,0
+100474,Viper's Abomination Mace,Weapon,80,Exotic,264
+100476,Viper's Abomination Dagger,Weapon,80,Exotic,264
 100477,Ancient Coin,Consumable,0,Basic,0
 100480,Astral Ward Wall,Consumable,0,Basic,0
 100483,Malice's Heartstring,Weapon,80,Ascended,495
@@ -65341,6 +65362,7 @@ id,name,type,level,rarity,vendor_value
 100491,Skyscale of Ice,Consumable,0,Exotic,5000
 100492,Astral Ward Medium Coat,Armor,80,Exotic,396
 100493,Berserker's Shattered Greatsword,Weapon,80,Exotic,396
+100494,Viper's Abomination Axe,Weapon,80,Exotic,264
 100498,Sanctified Torch Skin,Consumable,0,Rare,0
 100500,Amnytas Gear Box,Container,0,Basic,0
 100501,Vermilion Logging Tool,Gathering,0,Rare,192
@@ -65366,9 +65388,11 @@ id,name,type,level,rarity,vendor_value
 100539,Rabid Skyscale Rifle,Weapon,80,Ascended,495
 100542,Relic of the Cavalier,Relic,60,Exotic,200
 100544,Gift of Skywatch Archipelago,CraftingMaterial,0,Exotic,0
+100546,Sinister Saryx Warhorn,Weapon,80,Rare,198
 100547,Skywatch Archipelago: Hero's Choice Chest,Container,0,Exotic,0
 100548,Sanctified Rifle Skin,Consumable,0,Rare,0
 100549,VIII: Forbearance,Consumable,0,Basic,0
+100551,Viper's Abomination Sword,Weapon,80,Exotic,264
 100552,Deluxe Gear Box,Container,0,Fine,29
 100553,Magi's Skyforged Mace,Weapon,80,Rare,198
 100554,Sanctified Dagger Skin,Consumable,0,Rare,0
@@ -65377,6 +65401,7 @@ id,name,type,level,rarity,vendor_value
 100557,Relic of the Wizard's Tower,Relic,60,Exotic,200
 100558,Stone Summit Loot Box,Container,0,Basic,0
 100559,Tasty Devourer Carapace,Consumable,0,Exotic,5000
+100560,Sinister Saryx Rifle,Weapon,80,Rare,297
 100561,Relic of the Adventurer,Relic,60,Exotic,200
 100562,Relic of Durability,Relic,60,Exotic,200
 100564,Recipe: Relic of Leadership,Consumable,0,Exotic,128
@@ -65385,11 +65410,13 @@ id,name,type,level,rarity,vendor_value
 100569,Purified Kryptis Essence,CraftingMaterial,0,Ascended,0
 100570,XII: The Endless,Consumable,0,Basic,0
 100571,Deluxe Gear Box,Container,0,Exotic,0
+100572,Viper's Abomination Warhorn,Weapon,80,Exotic,264
 100574,Rift Hunter Medium Boots,Armor,80,Exotic,264
 100575,Essence of Knowledge,Consumable,0,Rare,0
 100576,Mist-Infused Saddle Oil,Consumable,0,Exotic,5000
 100579,Relic of the Nightmare,Relic,60,Exotic,200
 100580,Relic of the Necromancer,Relic,60,Exotic,200
+100584,Viper's Abomination Hammer,Weapon,80,Exotic,396
 100585,Forged Ankle Joint,Consumable,0,Exotic,5000
 100586,Astral Ward Tiled Circular Platform,Consumable,0,Basic,0
 100587,Mini Avatar of Malice,MiniPet,0,Masterwork,50
@@ -65407,6 +65434,7 @@ id,name,type,level,rarity,vendor_value
 100603,Magi's Skyforged Axe,Weapon,80,Rare,198
 100605,Essence of the Obscure,Trophy,0,Rare,0
 100606,Complete Academic Arch,Consumable,0,Basic,0
+100608,Sinister Saryx Hammer,Weapon,80,Rare,297
 100609,Recipe: Relic of the Flock,Consumable,0,Exotic,128
 100610,Astral Ward Orb Stand,Consumable,0,Basic,0
 100614,Relic of Evasion,Relic,60,Exotic,200
@@ -65448,10 +65476,12 @@ id,name,type,level,rarity,vendor_value
 100667,Berserker's Shattered Torch,Weapon,80,Exotic,264
 100669,Spire of the Forgotten,Weapon,80,Exotic,0
 100670,Fly-by-Night: Bronze,Container,0,Fine,0
+100672,Sinister Saryx Mace,Weapon,80,Rare,198
 100674,Berserker's Shattered Rifle,Weapon,80,Exotic,396
 100677,Tasty Chak Legs,Consumable,0,Exotic,5000
 100679,Deluxe Gear Box,Container,0,Exotic,0
 100682,Fractured Fish,Container,0,Basic,32
+100684,Sinister Saryx Scepter,Weapon,80,Rare,198
 100686,Recipe: Relic of the Herald,Consumable,0,Exotic,128
 100688,Mini Lyhr,MiniPet,0,Rare,50
 100690,Fly-by-Night: Bronze,Container,0,Fine,0
@@ -65470,6 +65500,7 @@ id,name,type,level,rarity,vendor_value
 100710,Infernal Envoy Glider Skin,Consumable,0,Masterwork,0
 100711,Tall Academic Arch,Consumable,0,Basic,0
 100713,Recipe: Stormforged Short Bow,Consumable,0,Exotic,128
+100714,Sinister Saryx Axe,Weapon,80,Rare,198
 100715,Valkyrie Eagle Eye Focus,Weapon,80,Rare,198
 100716,Recipe: Storm's Eye Focus,Consumable,0,Exotic,128
 100717,Mini Sky Chak Drone,MiniPet,0,Masterwork,50
@@ -65503,6 +65534,7 @@ id,name,type,level,rarity,vendor_value
 100765,Visage of Nourys,Armor,80,Exotic,330
 100766,Analytical Charm,Consumable,0,Exotic,5000
 100769,Plush Quaggan,Consumable,0,Exotic,5000
+100770,Viper's Abomination Scepter,Weapon,80,Exotic,264
 100775,Relic of Vass,Relic,60,Exotic,200
 100776,Berserker's Shattered Axe,Weapon,80,Exotic,264
 100777,Magi's Skyforged Shield,Weapon,80,Rare,198
@@ -65550,6 +65582,8 @@ id,name,type,level,rarity,vendor_value
 100858,Cerus's Coffer,Container,0,Exotic,0
 100861,Elonian Sandpaper,Consumable,0,Exotic,5000
 100865,Recipe: Relic of the Citadel,Consumable,0,Exotic,128
+100866,Viper's Abomination Staff,Weapon,80,Exotic,396
+100868,Viper's Abomination Focus,Weapon,80,Exotic,264
 100869,Recipe: Relic of the Defender,Consumable,0,Exotic,128
 100870,Rift Hunter Medium Shoulders,Armor,80,Exotic,291
 100874,Storm's Eye Scepter,Weapon,80,Exotic,264
@@ -65579,6 +65613,7 @@ id,name,type,level,rarity,vendor_value
 100918,Recipe: Stormforged Longbow,Consumable,0,Exotic,128
 100919,Valkyrie Eagle Eye Hammer,Weapon,80,Rare,297
 100920,Eternal Blade,Weapon,80,Exotic,0
+100923,Sinister Saryx Pistol,Weapon,80,Rare,198
 100924,Relic of the Deadeye,Relic,60,Exotic,200
 100926,"""/Possessed"" Emote Tome",Consumable,0,Ascended,0
 100927,Relic Container: Survival,Container,0,Exotic,200
@@ -65607,6 +65642,7 @@ id,name,type,level,rarity,vendor_value
 100962,Chest of the Obscure,Container,0,Exotic,0
 100963,Rabid Skyscale Dagger,Weapon,80,Ascended,330
 100966,Tasty Trail Ration,Consumable,0,Exotic,5000
+100967,Viper's Abomination Longbow,Weapon,80,Exotic,396
 100968,Choya Logging Tool,Gathering,0,Rare,192
 100969,Recipe: Rare Kryptis Motivation,Consumable,0,Masterwork,64
 100973,Recipe: Storm's Eye Rifle,Consumable,0,Exotic,128
@@ -65732,14 +65768,140 @@ id,name,type,level,rarity,vendor_value
 101113,Cloth Aquabreather,Armor,80,Exotic,330
 101114,Grim Machine Rifle,Weapon,80,Exotic,396
 101115,Grim Machine Sword,Weapon,80,Exotic,264
+101116,Relic of Febe,Relic,60,Exotic,200
+101117,Forgotten Convergence Reward Box,Container,0,Basic,0
+101119,Cursed Heavy Gloves,Armor,80,Ascended,297
 101121,,Consumable,0,Basic,0
+101122,Wrath of Ignaxious,Weapon,80,Ascended,330
+101123,Legendary Weapon Starter Kit—Set 2,Container,0,Legendary,640
+101127,Phantom Pollock,Container,0,Fine,64
+101128,Recipe: Consecrated Saryx Shield,Consumable,0,Exotic,128
+101129,Oneiros-Spun Light Helm,Armor,80,Exotic,330
+101134,Grieving Consecrated Saryx Staff,Weapon,80,Exotic,396
+101135,Dark Sanctified Axe Skin,Consumable,0,Rare,0
+101136,Dark Sanctified Scepter Skin,Consumable,0,Rare,0
+101138,Grieving Consecrated Saryx Rifle,Weapon,80,Exotic,396
 101139,Relic of the Midnight King,Relic,60,Exotic,200
 101140,Mini Incarnation of Terror,MiniPet,0,Masterwork,50
 101142,Exalted Mining Tool,Gathering,0,Rare,0
+101143,Mini Uenno,MiniPet,0,Masterwork,50
+101144,Vial of Cosmic Energies,Container,0,Basic,0
+101145,Dark Sanctified Longbow Skin,Consumable,0,Rare,0
+101147,Arcane Delights Mount Adoption License,Consumable,0,Rare,999
+101148,Nugget of Kryptis Essence,Container,0,Exotic,0
+101149,Oneiros-Spun Light Coat,Armor,80,Exotic,396
+101150,Calcified Gasp,Consumable,0,Basic,0
+101151,Mini Corrupted,MiniPet,0,Masterwork,50
+101153,Cursed Medium Gloves,Armor,80,Ascended,297
+101154,Dark Sanctified Mace Skin,Consumable,0,Rare,0
+101156,Oneiros-Spun Medium Coat,Armor,80,Exotic,396
+101157,Recipe: Consecrated Saryx Rifle,Consumable,0,Exotic,128
+101158,Recipe: Consecrated Saryx Axe,Consumable,0,Exotic,128
+101160,Grieving Consecrated Saryx Focus,Weapon,80,Exotic,264
+101161,Grieving Consecrated Saryx Hammer,Weapon,80,Exotic,396
+101162,Grieving Consecrated Saryx Axe,Weapon,80,Exotic,264
+101163,Recipe: Consecrated Saryx Pistol,Consumable,0,Exotic,128
+101164,Dark Sanctified Hammer Skin,Consumable,0,Rare,0
+101165,Oneiros-Spun Light Leggings,Armor,80,Exotic,370
 101166,Relic of the Demon Queen,Relic,60,Exotic,200
+101172,Dagda's Magnificent Coffer,Container,0,Exotic,0
+101174,Grieving Consecrated Saryx Greatsword,Weapon,80,Exotic,396
+101175,Mini Judgment,MiniPet,0,Masterwork,50
+101176,Wurm's Enrichment Choice Chest,Container,0,Rare,0
+101177,Cursed Light Gloves,Armor,80,Ascended,297
+101178,Cursed Gloves Choice Chest,Container,0,Ascended,320
+101180,Dark Sanctified Dagger Skin,Consumable,0,Rare,0
+101182,Dark Sanctified Sword Skin,Consumable,0,Rare,0
+101184,Recipe: Consecrated Saryx Longbow,Consumable,0,Exotic,128
+101185,Convergence: Hero's Choice Chest,Container,0,Exotic,0
+101186,Oneiros-Spun Cape,Back,80,Exotic,264
+101187,Wurm's WXP Blessing Enrichment,UpgradeComponent,0,Fine,8
+101188,Dark Sanctified Torch Skin,Consumable,0,Rare,0
+101189,Oneiros-Spun Medium Boots,Armor,80,Exotic,264
+101191,Relic of Nourys,Relic,60,Exotic,200
+101192,Grieving Consecrated Saryx Short Bow,Weapon,80,Exotic,396
+101193,Wurm's WvW Reward Track Blessing Enrichment,UpgradeComponent,0,Fine,8
+101194,Nugget of Kryptis Essence,Container,0,Exotic,0
+101195,Inner Nayos: Hero's Choice Chest,Container,0,Exotic,0
+101196,Oneiros-Spun Medium Leggings,Armor,80,Exotic,370
+101198,Relic of Nayos,Relic,60,Exotic,200
+101199,Arcane Flow Infusion,UpgradeComponent,80,Exotic,10000
 101201,Note to Arina,Gizmo,0,Basic,0
+101203,Oneiros-Spun Medium Helm,Armor,80,Exotic,330
+101204,Nugget of Kryptis Essence,Container,0,Exotic,0
+101205,Sanctified Cape Skin,Consumable,0,Masterwork,0
+101208,Oneiros-Spun Light Shoulders,Armor,80,Exotic,291
+101209,Glutfish,Container,0,Ascended,320
+101210,Oneiros-Spun Heavy Boots,Armor,80,Exotic,264
+101212,Grieving Consecrated Saryx Longbow,Weapon,80,Exotic,396
+101213,Concealed Unstable Kryptis Essence Coffer,Gizmo,0,Masterwork,0
+101214,Grieving Consecrated Saryx Sword,Weapon,80,Exotic,264
+101215,Recipe: Consecrated Saryx Torch,Consumable,0,Exotic,128
+101216,Recipe: Consecrated Saryx Short Bow,Consumable,0,Exotic,128
+101217,Dark Sanctified Rifle Skin,Consumable,0,Rare,0
+101218,"Frode's Journal, Page 5",Gizmo,0,Basic,0
+101221,Recipe: Consecrated Saryx Hammer,Consumable,0,Exotic,128
+101222,Dark Sanctified Staff Skin,Consumable,0,Rare,0
+101223,Arcane Flow Infusion,UpgradeComponent,80,Exotic,10000
+101224,Dark Sanctified Warhorn Skin,Consumable,0,Rare,0
+101227,Dark Sanctified Weapon Skin Selection Box,Container,0,Rare,0
+101228,Nayos Hoard,Container,0,Rare,0
+101229,Oneiros-Spun Heavy Helm,Armor,80,Exotic,330
+101230,Recipe: Consecrated Saryx Warhorn,Consumable,0,Exotic,128
+101231,Oneiros-Spun Medium Gloves,Armor,80,Exotic,238
+101232,"Frode's Journal, Page 4",Gizmo,0,Basic,0
+101234,Arcane Flow Infusion,UpgradeComponent,80,Exotic,10000
 101235,Bag of Loot,Container,0,Fine,66
+101236,Mastery Point,Consumable,0,Basic,0
+101237,Arcane Flow Infusion,UpgradeComponent,80,Exotic,10000
+101238,Arcane Delights Mount Select License,Consumable,0,Rare,999
+101240,Blightbob,Container,0,Rare,192
+101241,Daydream,Container,0,Basic,32
+101242,Mini Narcisse,MiniPet,0,Masterwork,50
+101243,Recipe: Consecrated Saryx Scepter,Consumable,0,Exotic,128
+101245,Nugget of Kryptis Essence,Container,0,Exotic,116
+101247,Grieving Consecrated Saryx Mace,Weapon,80,Exotic,264
+101248,Grieving Consecrated Saryx Pistol,Weapon,80,Exotic,264
+101249,Oneiros-Spun Heavy Gloves,Armor,80,Exotic,238
+101250,Wurm's Experienced Blessing Enrichment,UpgradeComponent,0,Fine,8
+101252,Recipe: Consecrated Saryx Staff,Consumable,0,Exotic,128
+101253,Nugget of Kryptis Essence,Container,0,Exotic,0
+101254,Recipe: Consecrated Saryx Sword,Consumable,0,Exotic,128
+101256,Oneiros-Spun Heavy Shoulders,Armor,80,Exotic,291
+101257,Grieving Consecrated Saryx Warhorn,Weapon,80,Exotic,264
+101258,Oneiros-Spun Light Gloves,Armor,80,Exotic,238
+101260,Deluxe Gear Box,Container,0,Exotic,0
+101261,Arcane Flow Infusion,UpgradeComponent,80,Exotic,10000
+101265,Saryx Weapon Box,Container,0,Rare,0
+101266,Exposed Stabilized Kryptis Essence Coffer,Container,0,Masterwork,0
+101267,Dark Sanctified Pistol Skin,Consumable,0,Rare,0
 101268,Relic of Karakosa,Relic,60,Exotic,200
+101270,Nayos Hoard,Container,0,Rare,0
+101271,Grieving Consecrated Saryx Dagger,Weapon,80,Exotic,264
+101273,Grieving Consecrated Saryx Shield,Weapon,80,Exotic,264
+101274,Nugget of Kryptis Essence,Container,0,Exotic,0
+101275,Oneiros-Spun Heavy Coat,Armor,80,Exotic,396
+101276,Jotun Infusion,UpgradeComponent,80,Exotic,10000
+101277,Recipe: Consecrated Saryx Greatsword,Consumable,0,Exotic,128
+101278,Arcane Flow Infusion,UpgradeComponent,80,Exotic,10000
+101279,Arcane Flow Infusion,UpgradeComponent,80,Exotic,10000
+101280,Oneiros-Spun Heavy Leggings,Armor,80,Exotic,370
+101281,Dark Sanctified Focus Skin,Consumable,0,Rare,0
 101282,Convergence Mastery,Consumable,0,Exotic,0
+101283,Grieving Consecrated Saryx Torch,Weapon,80,Exotic,264
+101284,"Frode's Journal, Page 6",Gizmo,0,Basic,0
+101285,Dark Sanctified Greatsword Skin,Consumable,0,Rare,0
+101286,Oneiros-Spun Light Boots,Armor,80,Exotic,264
+101287,Dark Sanctified Shield Skin,Consumable,0,Rare,0
+101288,Nayos Hoard,Container,0,Rare,0
+101291,Recipe: Consecrated Saryx Focus,Consumable,0,Exotic,128
+101293,Recipe: Consecrated Saryx Dagger,Consumable,0,Exotic,128
+101294,Grieving Consecrated Saryx Scepter,Weapon,80,Exotic,264
+101295,Kryptis Convergence Extraction,Container,0,Fine,29
 101297,Large Calcified Gasp,Consumable,0,Basic,0
+101298,Unstable Kryptis Motivation,Gizmo,0,Exotic,0
 101299,Abomination Weapon Box,Container,0,Exotic,0
+101300,Dark Sanctified Short Bow Skin,Consumable,0,Rare,0
+101301,Recipe: Consecrated Saryx Mace,Consumable,0,Exotic,128
+101302,Wurm's Magical Blessing Enrichment,UpgradeComponent,0,Fine,8
+101303,Oneiros-Spun Medium Shoulders,Armor,80,Exotic,291
