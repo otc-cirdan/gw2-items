@@ -65778,6 +65778,7 @@ id,name,type,level,rarity,vendor_value
 101128,Recipe: Consecrated Saryx Shield,Consumable,0,Exotic,128
 101129,Oneiros-Spun Light Helm,Armor,80,Exotic,330
 101132,Kryptis Bush,Consumable,0,Basic,0
+101133,Kryptis Platform,Consumable,0,Basic,0
 101134,Grieving Consecrated Saryx Staff,Weapon,80,Exotic,396
 101135,Dark Sanctified Axe Skin,Consumable,0,Rare,0
 101136,Dark Sanctified Scepter Skin,Consumable,0,Rare,0
@@ -65860,6 +65861,7 @@ id,name,type,level,rarity,vendor_value
 101241,Daydream,Container,0,Basic,32
 101242,Mini Narcisse,MiniPet,0,Masterwork,50
 101243,Recipe: Consecrated Saryx Scepter,Consumable,0,Exotic,128
+101244,Kryptis Goo Plane,Consumable,0,Basic,0
 101245,Nugget of Kryptis Essence,Container,0,Exotic,116
 101247,Grieving Consecrated Saryx Mace,Weapon,80,Exotic,264
 101248,Grieving Consecrated Saryx Pistol,Weapon,80,Exotic,264
