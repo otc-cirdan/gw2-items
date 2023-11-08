@@ -65777,6 +65777,7 @@ id,name,type,level,rarity,vendor_value
 101127,Phantom Pollock,Container,0,Fine,64
 101128,Recipe: Consecrated Saryx Shield,Consumable,0,Exotic,128
 101129,Oneiros-Spun Light Helm,Armor,80,Exotic,330
+101132,Kryptis Bush,Consumable,0,Basic,0
 101134,Grieving Consecrated Saryx Staff,Weapon,80,Exotic,396
 101135,Dark Sanctified Axe Skin,Consumable,0,Rare,0
 101136,Dark Sanctified Scepter Skin,Consumable,0,Rare,0
@@ -65878,6 +65879,7 @@ id,name,type,level,rarity,vendor_value
 101268,Relic of Karakosa,Relic,60,Exotic,200
 101270,Nayos Hoard,Container,0,Rare,0
 101271,Grieving Consecrated Saryx Dagger,Weapon,80,Exotic,264
+101272,Wurm's Gilded Blessing Enrichment,UpgradeComponent,0,Fine,8
 101273,Grieving Consecrated Saryx Shield,Weapon,80,Exotic,264
 101274,Nugget of Kryptis Essence,Container,0,Exotic,0
 101275,Oneiros-Spun Heavy Coat,Armor,80,Exotic,396
