@@ -5185,6 +5185,7 @@ id,name,type,level,rarity,vendor_value
 5541,Student Gloves,Armor,0,Exotic,0
 5542,Student Circlet,Armor,0,Exotic,0
 5543,Student Leggings,Armor,0,Exotic,0
+5544,Student Mantle,Armor,0,Exotic,0
 5545,Dry Bones Shoes,Armor,0,Exotic,0
 5546,Dry Bones Garb,Armor,0,Exotic,0
 5547,Dry Bones Gloves,Armor,0,Exotic,0
@@ -22951,6 +22952,7 @@ id,name,type,level,rarity,vendor_value
 31191,Short Gearbow,Weapon,80,Exotic,396
 31192,Gear Bulwark,Weapon,80,Exotic,264
 31193,Gear Baton,Weapon,80,Exotic,264
+31194,Gizmo,Weapon,80,Exotic,264
 31195,Great Gearblade,Weapon,80,Exotic,396
 31197,Gearbow,Weapon,80,Exotic,396
 31198,Gear Cudgel,Weapon,80,Exotic,264
@@ -23181,6 +23183,7 @@ id,name,type,level,rarity,vendor_value
 31627,Krait Staff,Weapon,80,Exotic,396
 31628,Krait Sword,Weapon,80,Exotic,264
 31629,Krait Torch,Weapon,80,Exotic,264
+31630,Krait Trident,Weapon,80,Exotic,396
 31631,Krait Horn,Weapon,80,Exotic,264
 31632,Kodan Axe,Weapon,80,Exotic,264
 31633,Kodan Dagger,Weapon,80,Exotic,264
@@ -65041,6 +65044,7 @@ id,name,type,level,rarity,vendor_value
 99964,Pouch of Stardust,CraftingMaterial,0,Exotic,0
 99965,Relic of the Flock,Relic,60,Exotic,200
 99966,Astral Ribbons,Back,80,Exotic,264
+99967,Skyscale Weapon Box,Container,0,Ascended,320
 99968,Deluxe Gear Box,Container,0,Exotic,0
 99970,Recipe: Stormforged Scepter,Consumable,0,Exotic,128
 99971,Bird Loot Box,Container,0,Basic,0
@@ -65774,6 +65778,7 @@ id,name,type,level,rarity,vendor_value
 101121,,Consumable,0,Basic,0
 101122,Wrath of Ignaxious,Weapon,80,Ascended,330
 101123,Legendary Weapon Starter Kit—Set 2,Container,0,Legendary,640
+101126,Wurm's Karmic Blessing Enrichment,UpgradeComponent,0,Fine,8
 101127,Phantom Pollock,Container,0,Fine,64
 101128,Recipe: Consecrated Saryx Shield,Consumable,0,Exotic,128
 101129,Oneiros-Spun Light Helm,Armor,80,Exotic,330
@@ -65789,6 +65794,7 @@ id,name,type,level,rarity,vendor_value
 101143,Mini Uenno,MiniPet,0,Masterwork,50
 101144,Vial of Cosmic Energies,Container,0,Basic,0
 101145,Dark Sanctified Longbow Skin,Consumable,0,Rare,0
+101146,Jotun Infusion,UpgradeComponent,80,Exotic,10000
 101147,Arcane Delights Mount Adoption License,Consumable,0,Rare,999
 101148,Nugget of Kryptis Essence,Container,0,Exotic,0
 101149,Oneiros-Spun Light Coat,Armor,80,Exotic,396
@@ -65875,6 +65881,7 @@ id,name,type,level,rarity,vendor_value
 101258,Oneiros-Spun Light Gloves,Armor,80,Exotic,238
 101260,Deluxe Gear Box,Container,0,Exotic,0
 101261,Arcane Flow Infusion,UpgradeComponent,80,Exotic,10000
+101263,Arcane Flow Infusion,UpgradeComponent,80,Exotic,10000
 101265,Saryx Weapon Box,Container,0,Rare,0
 101266,Exposed Stabilized Kryptis Essence Coffer,Container,0,Masterwork,0
 101267,Dark Sanctified Pistol Skin,Consumable,0,Rare,0
@@ -65902,6 +65909,7 @@ id,name,type,level,rarity,vendor_value
 101293,Recipe: Consecrated Saryx Dagger,Consumable,0,Exotic,128
 101294,Grieving Consecrated Saryx Scepter,Weapon,80,Exotic,264
 101295,Kryptis Convergence Extraction,Container,0,Fine,29
+101296,Kryptis Stair,Consumable,0,Basic,0
 101297,Large Calcified Gasp,Consumable,0,Basic,0
 101298,Unstable Kryptis Motivation,Gizmo,0,Exotic,0
 101299,Abomination Weapon Box,Container,0,Exotic,0
