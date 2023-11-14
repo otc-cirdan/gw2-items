@@ -65778,6 +65778,7 @@ id,name,type,level,rarity,vendor_value
 101121,,Consumable,0,Basic,0
 101122,Wrath of Ignaxious,Weapon,80,Ascended,330
 101123,Legendary Weapon Starter Kit—Set 2,Container,0,Legendary,640
+101124,Jotun Infusion,UpgradeComponent,80,Exotic,10000
 101126,Wurm's Karmic Blessing Enrichment,UpgradeComponent,0,Fine,8
 101127,Phantom Pollock,Container,0,Fine,64
 101128,Recipe: Consecrated Saryx Shield,Consumable,0,Exotic,128
