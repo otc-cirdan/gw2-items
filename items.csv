@@ -65783,6 +65783,7 @@ id,name,type,level,rarity,vendor_value
 101127,Phantom Pollock,Container,0,Fine,64
 101128,Recipe: Consecrated Saryx Shield,Consumable,0,Exotic,128
 101129,Oneiros-Spun Light Helm,Armor,80,Exotic,330
+101130,Hero's Trusty Satchel,Bag,0,Basic,0
 101132,Kryptis Bush,Consumable,0,Basic,0
 101133,Kryptis Platform,Consumable,0,Basic,0
 101134,Grieving Consecrated Saryx Staff,Weapon,80,Exotic,396
@@ -65828,6 +65829,7 @@ id,name,type,level,rarity,vendor_value
 101187,Wurm's WXP Blessing Enrichment,UpgradeComponent,0,Fine,8
 101188,Dark Sanctified Torch Skin,Consumable,0,Rare,0
 101189,Oneiros-Spun Medium Boots,Armor,80,Exotic,264
+101190,Alchemic Power Skiff Skin,Consumable,0,Rare,0
 101191,Relic of Nourys,Relic,60,Exotic,200
 101192,Grieving Consecrated Saryx Short Bow,Weapon,80,Exotic,396
 101193,Wurm's WvW Reward Track Blessing Enrichment,UpgradeComponent,0,Fine,8
