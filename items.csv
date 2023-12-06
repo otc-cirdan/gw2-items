@@ -65660,6 +65660,7 @@ id,name,type,level,rarity,vendor_value
 100981,Dark Tyrant Axe Skin,Consumable,0,Rare,0
 100982,Vinelord Edgebloom Pistol Skin,Consumable,0,Rare,0
 100983,Week 2 Black Lion Stolen Goods,Consumable,0,Basic,0
+100985,Wanderer's Expedition Cape,Back,80,Exotic,264
 100986,Reconfigurable Construct Greatsword Skin,Consumable,0,Rare,0
 100987,Vinelord Edgebloom Scepter Skin,Consumable,0,Rare,0
 100989,Vinelord Edgebloom Short Bow Skin,Consumable,0,Rare,0
@@ -65791,6 +65792,7 @@ id,name,type,level,rarity,vendor_value
 101134,Grieving Consecrated Saryx Staff,Weapon,80,Exotic,396
 101135,Dark Sanctified Axe Skin,Consumable,0,Rare,0
 101136,Dark Sanctified Scepter Skin,Consumable,0,Rare,0
+101137,Cache of Tales of Dungeon Delving,Consumable,0,Rare,92
 101138,Grieving Consecrated Saryx Rifle,Weapon,80,Exotic,396
 101139,Relic of the Midnight King,Relic,60,Exotic,200
 101140,Mini Incarnation of Terror,MiniPet,0,Masterwork,50
@@ -65857,6 +65859,7 @@ id,name,type,level,rarity,vendor_value
 101216,Recipe: Consecrated Saryx Short Bow,Consumable,0,Exotic,128
 101217,Dark Sanctified Rifle Skin,Consumable,0,Rare,0
 101218,"Frode's Journal, Page 5",Gizmo,0,Basic,0
+101219,Trove of Tales of Dungeon Delving,Consumable,0,Rare,92
 101221,Recipe: Consecrated Saryx Hammer,Consumable,0,Exotic,128
 101222,Dark Sanctified Staff Skin,Consumable,0,Rare,0
 101223,Arcane Flow Infusion,UpgradeComponent,80,Exotic,10000
@@ -65918,6 +65921,7 @@ id,name,type,level,rarity,vendor_value
 101287,Dark Sanctified Shield Skin,Consumable,0,Rare,0
 101288,Nayos Hoard,Container,0,Rare,0
 101291,Recipe: Consecrated Saryx Focus,Consumable,0,Exotic,128
+101292,Single-Use Dungeon Portal Scroll,Consumable,2,Masterwork,64
 101293,Recipe: Consecrated Saryx Dagger,Consumable,0,Exotic,128
 101294,Grieving Consecrated Saryx Scepter,Weapon,80,Exotic,264
 101295,Kryptis Convergence Extraction,Container,0,Fine,29
