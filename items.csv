@@ -34881,6 +34881,7 @@ id,name,type,level,rarity,vendor_value
 48932,Bone Pick,Gathering,0,Rare,0
 48933,Molten Alliance Mining Pick,Gathering,0,Rare,0
 48934,Jack-in-the-Box Scythe,Gathering,0,Rare,0
+48936,Great Jungle Wurm 3 Pack,Container,0,Masterwork,0
 48937,Wurmslayer's Warfists,Armor,80,Ascended,240
 48939,Wurmslayer's Wristguards,Armor,80,Ascended,240
 48941,Wurmslayer's Grips,Armor,80,Ascended,240
@@ -41213,6 +41214,7 @@ id,name,type,level,rarity,vendor_value
 64185,Malicious Chest of Shoulders,Container,0,Ascended,320
 64186,Assaulter's Chest of Coats,Container,0,Ascended,320
 64187,Defender's Chest of Coats,Container,0,Ascended,320
+64192,Baby Minis Series 1 Pack,Container,0,Masterwork,0
 64195,Black Lion Salvage Kit,Tool,0,Exotic,0
 64198,Enameled Legacy Dye,Consumable,0,Rare,50
 64199,Enameled Sky Dye,Consumable,0,Rare,50
@@ -43695,6 +43697,7 @@ id,name,type,level,rarity,vendor_value
 70109,Pearl Crusher of Leeching,Weapon,80,Exotic,396
 70110,Pearl Bludgeoner of Force,Weapon,80,Exotic,264
 70111,Pearl Siren of Leeching,Weapon,80,Exotic,264
+70112,Mini Mushroom Stomper,MiniPet,0,Masterwork,50
 70113,Pearl Carver of Force,Weapon,80,Exotic,264
 70114,Pearl Brazier of Leeching,Weapon,80,Exotic,264
 70115,Pearl Blunderbuss of Force,Weapon,80,Exotic,396
@@ -65945,3 +65948,49 @@ id,name,type,level,rarity,vendor_value
 101321,Black Lion Material Bag: Secrets of the Obscure,Container,0,Masterwork,0
 101327,Relic Container: Astral Ward Advances Set 2,Container,0,Exotic,200
 101332,Exalted Mining Tool,Consumable,0,Rare,0
+101335,Giver's Winter Fur Shoulders,Armor,80,Exotic,291
+101336,Sacred Solstice Warhorn,Weapon,80,Exotic,264
+101337,Sacred Solstice Focus,Weapon,80,Exotic,264
+101338,Sacred Solstice Staff,Weapon,80,Exotic,396
+101339,Thundercrag Rifle Skin,Consumable,0,Rare,0
+101340,Thundercrag Sword Skin,Consumable,0,Rare,0
+101341,Thundercrag Focus Skin,Consumable,0,Rare,0
+101342,Sacred Solstice Greatsword,Weapon,80,Exotic,396
+101343,Scarred Ice Spike,Consumable,0,Basic,0
+101344,Wintersday Weapon Chest,Container,0,Exotic,0
+101345,Sacred Solstice Rifle,Weapon,80,Exotic,396
+101346,Sacred Solstice Shield,Weapon,80,Exotic,264
+101349,Thundercrag Hammer Skin,Consumable,0,Rare,0
+101351,Giver's Winter Fur Shoulders,Armor,80,Exotic,291
+101352,Sacred Solstice Axe,Weapon,80,Exotic,264
+101353,Thundercrag Staff Skin,Consumable,0,Rare,0
+101355,Sacred Solstice Sword,Weapon,80,Exotic,264
+101356,Mini Plush Cuckoo,MiniPet,0,Exotic,50
+101357,Sacred Solstice Hammer,Weapon,80,Exotic,396
+101358,Thundercrag Scepter Skin,Consumable,0,Rare,0
+101359,Springer Rental Post,Consumable,0,Basic,0
+101360,Giver's Winter Fur Shoulders,Armor,80,Exotic,291
+101361,Thundercrag Axe Skin,Consumable,0,Rare,0
+101362,Thundercrag Mace Skin,Consumable,0,Rare,0
+101363,Thundercrag Dagger Skin,Consumable,0,Rare,0
+101365,Thundercrag Greatsword Skin,Consumable,0,Rare,0
+101366,Thundercrag Shield Skin,Consumable,0,Rare,0
+101367,Sacred Solstice Short Bow,Weapon,80,Exotic,396
+101368,Plush Skyscale Skin,Consumable,0,Exotic,0
+101369,Sacred Solstice Torch,Weapon,80,Exotic,264
+101370,Ornamented Focus,Weapon,80,Exotic,264
+101372,Dove Lover's Bench Chair,Gizmo,0,Rare,0
+101373,Sacred Solstice Longbow,Weapon,80,Exotic,396
+101374,Thundercrag Warhorn Skin,Consumable,0,Rare,0
+101375,Sacred Solstice Dagger,Weapon,80,Exotic,264
+101376,Sacred Solstice Scepter,Weapon,80,Exotic,264
+101377,Winter Fur Shoulders Box,Container,0,Exotic,0
+101378,Thundercrag Torch Skin,Consumable,0,Rare,0
+101379,Ornamented Shield,Weapon,80,Exotic,264
+101380,Ornamented Staff,Weapon,80,Exotic,396
+101381,Thundercrag Pistol Skin,Consumable,0,Rare,0
+101382,Sacred Solstice Mace,Weapon,80,Exotic,264
+101383,Sacred Solstice Chest,Container,0,Exotic,256
+101385,Sacred Solstice Pistol,Weapon,80,Exotic,264
+101386,Thundercrag Short Bow Skin,Consumable,0,Rare,0
+101387,Thundercrag Longbow Skin,Consumable,0,Rare,0
