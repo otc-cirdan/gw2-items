@@ -5135,6 +5135,7 @@ id,name,type,level,rarity,vendor_value
 5476,Scale Helm,Armor,0,Exotic,0
 5477,Scale Legs,Armor,0,Exotic,0
 5478,Scale Pauldrons,Armor,0,Exotic,0
+5479,Pit Fighter Greaves,Armor,0,Exotic,0
 5480,Pit Fighter Chestguard,Armor,0,Exotic,0
 5481,Pit Fighter Wristguards,Armor,0,Exotic,0
 5482,Pit Fighter Helm,Armor,0,Exotic,0
@@ -5146,6 +5147,7 @@ id,name,type,level,rarity,vendor_value
 5490,Reinforced Scale Pauldrons,Armor,0,Exotic,0
 5491,Splint Greaves,Armor,0,Exotic,0
 5493,Splint Gauntlets,Armor,0,Exotic,0
+5495,Splint Legs,Armor,0,Exotic,0
 5496,Splint Pauldrons,Armor,0,Exotic,0
 5497,Banded Greaves,Armor,0,Exotic,0
 5498,Banded Coat,Armor,0,Exotic,0
@@ -5198,6 +5200,7 @@ id,name,type,level,rarity,vendor_value
 5554,Cabalist Hood,Armor,0,Exotic,0
 5555,Cabalist Legs,Armor,0,Exotic,0
 5556,Cabalist Shoulders,Armor,0,Exotic,0
+5559,Acolyte Gloves,Armor,0,Exotic,0
 5561,Acolyte Pants,Armor,0,Exotic,0
 5564,Conjurer Chest,Armor,0,Exotic,0
 5565,Conjurer Gloves,Armor,0,Exotic,0
@@ -22968,6 +22971,7 @@ id,name,type,level,rarity,vendor_value
 31228,Alpine Shield,Weapon,80,Exotic,264
 31229,Alpine Short Bow,Weapon,80,Exotic,396
 31230,Alpine Harpoonthrower,Weapon,80,Exotic,396
+31233,Alpine Beacon,Weapon,80,Exotic,264
 31234,Alpine Trident,Weapon,80,Exotic,396
 31235,Alpine Warhorn,Weapon,80,Exotic,264
 31236,Dwayna's Longbow,Weapon,80,Exotic,396
@@ -23307,6 +23311,7 @@ id,name,type,level,rarity,vendor_value
 31882,Flame Rifle,Weapon,80,Exotic,396
 31883,Flame Scepter,Weapon,80,Exotic,264
 31886,Flame Harpoon Gun,Weapon,80,Exotic,396
+31887,Flame Staff,Weapon,80,Exotic,396
 31888,Flame Blade,Weapon,80,Exotic,264
 31889,Flame Carrier,Weapon,80,Exotic,264
 31891,Flame Warhorn,Weapon,80,Exotic,264
@@ -23401,6 +23406,7 @@ id,name,type,level,rarity,vendor_value
 32037,Valley Harpoongun,Weapon,80,Exotic,396
 32038,Valley Staff,Weapon,80,Exotic,396
 32039,Valley Sword,Weapon,80,Exotic,264
+32040,Valley Torch,Weapon,80,Exotic,264
 32041,Valley Trident,Weapon,80,Exotic,396
 32043,Vigil Axe,Weapon,80,Exotic,264
 32044,Vigil Dagger,Weapon,80,Exotic,264
@@ -23429,6 +23435,7 @@ id,name,type,level,rarity,vendor_value
 32071,Forest Bow,Weapon,80,Exotic,396
 32072,Forest Mace,Weapon,80,Exotic,264
 32073,Forest Pistol,Weapon,80,Exotic,264
+32074,Forest Rifle,Weapon,80,Exotic,396
 32075,Forest Scepter,Weapon,80,Exotic,264
 32076,Forest Shield,Weapon,80,Exotic,264
 32077,Forest Short Bow,Weapon,80,Exotic,396
