@@ -1999,6 +1999,206 @@ id,name,type,level,rarity,vendor_value
 2064,Shaman's Reinforced Scale Legs of Scavenging,Armor,80,Masterwork,185
 2066,Jatoro's Gloves,Armor,80,Exotic,238
 2067,Cleric's Reinforced Scale Legs of the Eagle,Armor,66,Masterwork,157
+2068,Cleric's Reinforced Scale Legs of Mercy,Armor,72,Masterwork,168
+2069,Cleric's Reinforced Scale Legs of Infiltration,Armor,78,Masterwork,180
+2070,Berserker's Seer Gloves of Vampirism,Armor,76,Exotic,227
+2071,Cleric's Reinforced Scale Legs of the Flock,Armor,80,Masterwork,185
+2072,Khilbron's Gloves,Armor,80,Exotic,238
+2073,Mighty Country Gloves,Armor,6,Fine,10
+2074,Strong Reinforced Scale Legs of the Afflicted,Armor,39,Rare,156
+2075,Mighty Country Gloves,Armor,11,Fine,15
+2076,Strong Reinforced Scale Legs of Balthazar,Armor,46,Rare,177
+2077,Strong Reinforced Scale Legs of the Flock,Armor,53,Rare,198
+2078,Mighty Country Gloves,Armor,16,Fine,18
+2079,Ravaging Reinforced Scale Legs of Divinity,Armor,40,Rare,160
+2080,Ravaging Reinforced Scale Legs of the Citadel,Armor,47,Rare,177
+2081,Precise Country Gloves,Armor,7,Fine,11
+2082,Strong Banded Legs of Divinity,Armor,60,Rare,219
+2083,Precise Country Gloves,Armor,12,Fine,16
+2084,Precise Country Gloves,Armor,17,Fine,19
+2085,Berserker's Banded Legs of Hoelbrak,Armor,67,Rare,236
+2086,Vital Country Gloves,Armor,8,Fine,12
+2087,Berserker's Banded Legs of Hoelbrak,Armor,74,Rare,257
+2088,Berserker's Banded Legs of Lyssa,Armor,80,Rare,278
+2089,Ravaging Banded Legs of Infiltration,Armor,54,Rare,198
+2090,Carrion Banded Legs of Vampirism,Armor,61,Rare,219
+2091,Vital Country Gloves,Armor,13,Fine,17
+2092,Carrion Banded Legs of the Afflicted,Armor,68,Rare,240
+2093,Vital Country Gloves,Armor,18,Fine,20
+2094,Carrion Banded Legs of the Flame Legion,Armor,75,Rare,261
+2095,Malign Country Gloves,Armor,9,Fine,13
+2096,Carrion Banded Legs of Mercy,Armor,80,Rare,278
+2097,Malign Country Gloves,Armor,14,Fine,18
+2098,Honed Banded Legs of the Traveler,Armor,55,Rare,202
+2099,Rampager's Banded Legs of the Grove,Armor,62,Rare,223
+2100,Malign Country Gloves,Armor,19,Fine,21
+2101,Rampager's Banded Legs of the Eagle,Armor,69,Rare,244
+2102,Strong Country Gloves,Armor,21,Fine,22
+2103,Rampager's Banded Legs of the Afflicted,Armor,76,Rare,265
+2104,Rampager's Banded Legs of the Dolyak,Armor,80,Rare,278
+2105,Strong Country Gloves,Armor,26,Fine,26
+2106,Shaman's Banded Legs of the Traveler,Armor,70,Rare,248
+2107,Shaman's Banded Legs of Divinity,Armor,77,Rare,265
+2108,Strong Magician Gloves,Armor,31,Fine,28
+2109,Strong Magician Gloves,Armor,36,Fine,32
+2110,Shaman's Banded Legs of Strength,Armor,80,Rare,278
+2111,Cleric's Banded Legs of Hoelbrak,Armor,71,Rare,248
+2112,Ravaging Country Gloves,Armor,22,Fine,23
+2113,Cleric's Banded Legs of Mercy,Armor,78,Rare,269
+2114,Ravaging Country Gloves,Armor,27,Fine,26
+2115,Cleric's Banded Legs of Hoelbrak,Armor,80,Rare,278
+2116,Banded Legs of the Flock,Armor,72,Rare,252
+2117,Banded Legs of Balthazar,Armor,79,Rare,273
+2118,Ravaging Magician Gloves,Armor,32,Fine,29
+2119,Banded Legs of Grenth,Armor,80,Rare,278
+2120,Ravaging Magician Gloves,Armor,37,Fine,32
+2121,Honed Country Gloves,Armor,23,Fine,24
+2122,Honed Country Gloves,Armor,28,Fine,27
+2123,Honed Magician Gloves,Armor,33,Fine,30
+2124,Berserker's Scallywag Pauldrons of the Afflicted,Armor,62,Exotic,234
+2125,Honed Magician Gloves,Armor,38,Fine,33
+2126,Berserker's Scallywag Pauldrons of the Flock,Armor,70,Exotic,260
+2127,Berserker's Scallywag Pauldrons of Hoelbrak,Armor,78,Exotic,282
+2128,Devona's Pauldrons,Armor,80,Exotic,291
+2129,Ravaging Country Gloves,Armor,24,Fine,24
+2130,Ravaging Country Gloves,Armor,29,Fine,27
+2131,Carrion Scallywag Pauldrons of the Grove,Armor,63,Exotic,238
+2132,Ravaging Magician Gloves,Armor,34,Fine,30
+2133,Carrion Scallywag Pauldrons of the Citadel,Armor,71,Exotic,260
+2134,Carrion Scallywag Pauldrons of the Eagle,Armor,79,Exotic,286
+2135,Brutus' Pauldrons,Armor,80,Exotic,291
+2136,Ravaging Magician Gloves,Armor,39,Fine,34
+2137,Strong Magician Gloves,Armor,41,Fine,35
+2138,Rampager's Scallywag Pauldrons of Rage,Armor,64,Exotic,238
+2139,Rampager's Scallywag Pauldrons of Lyssa,Armor,72,Exotic,264
+2140,Strong Magician Gloves,Armor,46,Fine,38
+2141,Koss' Pauldrons,Armor,80,Exotic,291
+2142,Strong Magician Gloves,Armor,51,Fine,41
+2143,Shaman's Scallywag Pauldrons of Vampirism,Armor,65,Exotic,242
+2144,Shaman's Scallywag Pauldrons of Strength,Armor,73,Exotic,269
+2145,Strong Magician Gloves,Armor,56,Fine,45
+2146,Jalis' Pauldrons,Armor,80,Exotic,291
+2147,Ravaging Magician Gloves,Armor,42,Fine,36
+2148,Cleric's Scallywag Pauldrons of Rage,Armor,66,Exotic,247
+2149,Ravaging Magician Gloves,Armor,47,Fine,38
+2150,Cleric's Scallywag Pauldrons of the Pack,Armor,74,Exotic,269
+2151,Rurik's Pauldrons,Armor,80,Exotic,291
+2152,Ravaging Magician Gloves,Armor,52,Fine,42
+2154,Ravaging Magician Gloves,Armor,57,Fine,45
+2156,Berserker's Scallywag Pauldrons of the Traveler,Armor,76,Exotic,278
+2157,Honed Magician Gloves,Armor,43,Fine,36
+2158,Honed Magician Gloves,Armor,48,Fine,39
+2159,Galrath's Pauldrons,Armor,80,Exotic,291
+2160,Mighty Worn Chain Pauldrons,Armor,11,Fine,18
+2161,Honed Magician Gloves,Armor,53,Fine,43
+2162,Mighty Worn Chain Pauldrons,Armor,16,Fine,22
+2163,Honed Magician Gloves,Armor,58,Fine,45
+2164,Precise Worn Chain Pauldrons,Armor,12,Fine,19
+2165,Precise Worn Chain Pauldrons,Armor,17,Fine,24
+2166,Vital Worn Chain Pauldrons,Armor,13,Fine,20
+2167,Ravaging Magician Gloves,Armor,44,Fine,36
+2168,Ravaging Magician Gloves,Armor,49,Fine,40
+2169,Vital Worn Chain Pauldrons,Armor,18,Fine,25
+2170,Malign Worn Chain Pauldrons,Armor,14,Fine,21
+2171,Malign Worn Chain Pauldrons,Armor,19,Fine,26
+2172,Ravaging Magician Gloves,Armor,54,Fine,43
+2173,Strong Worn Chain Pauldrons,Armor,21,Fine,27
+2174,Strong Worn Chain Pauldrons,Armor,26,Fine,31
+2175,Ravaging Magician Gloves,Armor,59,Fine,46
+2176,Strong Worn Scale Pauldrons,Armor,31,Fine,35
+2177,Berserker's Cabalist Gloves,Armor,61,Fine,47
+2178,Berserker's Cabalist Gloves,Armor,66,Fine,51
+2179,Strong Worn Scale Pauldrons,Armor,36,Fine,39
+2180,Ravaging Worn Chain Pauldrons,Armor,22,Fine,28
+2181,Ravaging Worn Chain Pauldrons,Armor,27,Fine,31
+2182,Berserker's Cabalist Gloves,Armor,71,Fine,54
+2183,Ravaging Worn Scale Pauldrons,Armor,32,Fine,36
+2184,Berserker's Cabalist Gloves,Armor,76,Fine,57
+2185,Ravaging Worn Scale Pauldrons,Armor,37,Fine,39
+2186,Honed Worn Chain Pauldrons,Armor,23,Fine,29
+2187,Berserker's Cabalist Gloves,Armor,80,Fine,60
+2188,Carrion Cabalist Gloves,Armor,62,Fine,48
+2189,Honed Worn Chain Pauldrons,Armor,28,Fine,32
+2190,Honed Worn Scale Pauldrons,Armor,33,Fine,37
+2191,Carrion Cabalist Gloves,Armor,67,Fine,51
+2192,Honed Worn Scale Pauldrons,Armor,38,Fine,40
+2193,Carrion Cabalist Gloves,Armor,72,Fine,54
+2194,Ravaging Worn Chain Pauldrons,Armor,24,Fine,29
+2195,Ravaging Worn Chain Pauldrons,Armor,29,Fine,33
+2196,Carrion Cabalist Gloves,Armor,77,Fine,57
+2197,Ravaging Worn Scale Pauldrons,Armor,34,Fine,37
+2198,Carrion Cabalist Gloves,Armor,80,Fine,60
+2199,Ravaging Worn Scale Pauldrons,Armor,39,Fine,41
+2200,Rampager's Cabalist Gloves,Armor,63,Fine,49
+2201,Strong Worn Scale Pauldrons,Armor,41,Fine,42
+2202,Strong Worn Scale Pauldrons,Armor,46,Fine,47
+2203,Rampager's Cabalist Gloves,Armor,68,Fine,52
+2204,Strong Worn Scale Pauldrons,Armor,51,Fine,50
+2205,Strong Worn Scale Pauldrons,Armor,56,Fine,54
+2206,Rampager's Cabalist Gloves,Armor,73,Fine,55
+2207,Ravaging Worn Scale Pauldrons,Armor,42,Fine,43
+2208,Rampager's Cabalist Gloves,Armor,78,Fine,58
+2209,Rampager's Cabalist Gloves,Armor,80,Fine,60
+2210,Ravaging Worn Scale Pauldrons,Armor,47,Fine,47
+2211,Ravaging Worn Scale Pauldrons,Armor,52,Fine,51
+2212,Shaman's Cabalist Gloves,Armor,64,Fine,49
+2213,Shaman's Cabalist Gloves,Armor,69,Fine,53
+2214,Ravaging Worn Scale Pauldrons,Armor,57,Fine,54
+2215,Honed Worn Scale Pauldrons,Armor,43,Fine,44
+2216,Shaman's Cabalist Gloves,Armor,74,Fine,55
+2217,Honed Worn Scale Pauldrons,Armor,48,Fine,48
+2218,Shaman's Cabalist Gloves,Armor,79,Fine,59
+2219,Honed Worn Scale Pauldrons,Armor,53,Fine,52
+2220,Shaman's Cabalist Gloves,Armor,80,Fine,60
+2221,Honed Worn Scale Pauldrons,Armor,58,Fine,55
+2222,Ravaging Worn Scale Pauldrons,Armor,44,Fine,44
+2223,Ravaging Worn Scale Pauldrons,Armor,49,Fine,49
+2224,Ravaging Worn Scale Pauldrons,Armor,54,Fine,52
+2225,Ravaging Worn Scale Pauldrons,Armor,59,Fine,57
+2226,Berserker's Reinforced Scale Pauldrons,Armor,61,Fine,58
+2227,Berserker's Reinforced Scale Pauldrons,Armor,66,Fine,62
+2228,Berserker's Reinforced Scale Pauldrons,Armor,71,Fine,65
+2229,Berserker's Reinforced Scale Pauldrons,Armor,76,Fine,70
+2230,Berserker's Reinforced Scale Pauldrons,Armor,80,Fine,73
+2231,Carrion Reinforced Scale Pauldrons,Armor,62,Fine,59
+2232,Carrion Reinforced Scale Pauldrons,Armor,67,Fine,62
+2233,Carrion Reinforced Scale Pauldrons,Armor,72,Fine,66
+2234,Carrion Reinforced Scale Pauldrons,Armor,77,Fine,70
+2235,Carrion Reinforced Scale Pauldrons,Armor,80,Fine,73
+2236,Rampager's Reinforced Scale Pauldrons,Armor,63,Fine,60
+2237,Rampager's Reinforced Scale Pauldrons,Armor,68,Fine,63
+2238,Rampager's Reinforced Scale Pauldrons,Armor,73,Fine,68
+2239,Rampager's Reinforced Scale Pauldrons,Armor,78,Fine,71
+2240,Rampager's Reinforced Scale Pauldrons,Armor,80,Fine,73
+2241,Shaman's Reinforced Scale Pauldrons,Armor,64,Fine,60
+2242,Shaman's Reinforced Scale Pauldrons,Armor,69,Fine,64
+2243,Shaman's Reinforced Scale Pauldrons,Armor,74,Fine,68
+2244,Shaman's Reinforced Scale Pauldrons,Armor,79,Fine,72
+2245,Shaman's Reinforced Scale Pauldrons,Armor,80,Fine,73
+2246,Mighty Magician Gloves of Lyssa,Armor,14,Masterwork,35
+2247,Mighty Magician Gloves of Grenth,Armor,20,Masterwork,44
+2248,Strong Magician Gloves of the Flame Legion,Armor,26,Masterwork,51
+2249,Strong Magician Gloves of the Lich,Armor,32,Masterwork,58
+2250,Strong Magician Gloves of the Flock,Armor,38,Masterwork,65
+2251,Ravaging Magician Gloves of the Eagle,Armor,27,Masterwork,51
+2252,Ravaging Magician Gloves of the Pack,Armor,33,Masterwork,60
+2253,Strong Cabalist Gloves of Hoelbrak,Armor,44,Masterwork,72
+2254,Strong Cabalist Gloves of Scavenging,Armor,50,Masterwork,81
+2255,Strong Cabalist Gloves of Grenth,Armor,56,Masterwork,89
+2256,Ravaging Magician Gloves of Lyssa,Armor,39,Masterwork,67
+2257,Ravaging Cabalist Gloves of the Flock,Armor,45,Masterwork,74
+2258,Mighty Worn Scale Pauldrons of Lyssa,Armor,14,Masterwork,42
+2259,Mighty Worn Scale Pauldrons of Rata Sum,Armor,20,Masterwork,53
+2260,Ravaging Cabalist Gloves of the Centaur,Armor,51,Masterwork,81
+2261,Strong Worn Scale Pauldrons of Grenth,Armor,26,Masterwork,62
+2262,Ravaging Cabalist Gloves of the Flame Legion,Armor,57,Masterwork,89
+2263,Strong Worn Scale Pauldrons of Scavenging,Armor,32,Masterwork,71
+2264,Strong Worn Scale Pauldrons of the Lich,Armor,38,Masterwork,80
+2265,Ravaging Worn Scale Pauldrons of Lyssa,Armor,27,Masterwork,62
+2266,Honed Cabalist Gloves of the Flock,Armor,40,Masterwork,69
+2267,Ravaging Worn Scale Pauldrons of Infiltration,Armor,33,Masterwork,73
+2268,Honed Cabalist Gloves of Lyssa,Armor,46,Masterwork,76
+2269,Strong Reinforced Scale Pauldrons of the Eagle,Armor,44,Masterwork,88
 2270,Honed Cabalist Gloves of Rage,Armor,52,Masterwork,83
 2271,Strong Reinforced Scale Pauldrons of Strength,Armor,50,Masterwork,99
 2272,Strong Reinforced Scale Pauldrons of Grenth,Armor,56,Masterwork,108
