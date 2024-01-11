@@ -31231,9 +31231,9 @@ id,name,type,level,rarity,vendor_value
 44602,Copper-Fed Salvage-o-Matic,Tool,0,Basic,0
 44604,Royal Pass (2 weeks),Gizmo,0,Masterwork,0
 44605,Royal Pass (2 weeks),Gizmo,0,Masterwork,0
-44607,Mask of the Jubilee,Consumable,0,Masterwork,250
-44608,Mask of the Queen,Consumable,0,Masterwork,250
-44609,Mask of the Crown,Consumable,0,Masterwork,250
+44607,Mask of the Jubilee Skin,Consumable,0,Masterwork,250
+44608,Mask of the Queen Skin,Consumable,0,Masterwork,250
+44609,Mask of the Crown Skin,Consumable,0,Masterwork,250
 44632,Mask of the Crown,Armor,0,Exotic,0
 44637,Flames of Kryta,Gizmo,0,Rare,0
 44638,Hot Air Balloon Souvenir,Gizmo,0,Rare,0
@@ -41047,7 +41047,7 @@ id,name,type,level,rarity,vendor_value
 63875,Tormented Harpoon Gun Skin,Consumable,0,Rare,0
 63877,Tormented Trident Skin,Consumable,0,Rare,0
 63881,Tormented Spear Skin,Consumable,0,Rare,0
-63891,Glowing Crimson Mask,Consumable,0,Masterwork,0
+63891,Glowing Crimson Mask Skin,Consumable,0,Masterwork,0
 63893,Glowing Crimson Mask,Armor,0,Masterwork,0
 63896,Glowing Crimson Mask,Armor,0,Exotic,0
 63899,Strider's Medium Armor Skin,Container,0,Rare,0
@@ -41446,21 +41446,21 @@ id,name,type,level,rarity,vendor_value
 64740,Aviator Sunglasses Skin,Consumable,0,Fine,0
 64741,Witch's Hat,Consumable,0,Fine,0
 64742,Aviator Cap Skin,Consumable,0,Fine,0
-64743,Sport Sunglasses,Consumable,0,Fine,0
+64743,Sport Sunglasses Skin,Consumable,0,Fine,0
 64744,Fuzzy Panda Hat Skin,Consumable,0,Fine,0
-64745,Ringmaster's Hat,Consumable,0,Basic,0
+64745,Ringmaster's Hat Skin,Consumable,0,Basic,0
 64746,Fuzzy Leopard Hat Skin,Consumable,0,Fine,0
-64747,Inventor's Sunglasses,Consumable,0,Fine,0
-64748,Reading Glasses,Consumable,0,Fine,0
-64749,Sailor's Beanie,Consumable,0,Fine,0
-64750,Top Hat,Consumable,0,Fine,0
+64747,Inventor's Sunglasses Skin,Consumable,0,Fine,0
+64748,Reading Glasses Skin,Consumable,0,Fine,0
+64749,Sailor's Beanie Skin,Consumable,0,Fine,0
+64750,Top Hat Skin,Consumable,0,Fine,0
 64751,Fuzzy Quaggan Hat with Bow Skin,Consumable,0,Fine,0
 64752,Celebration Hat,Consumable,0,Fine,0
 64753,Wide-Rim Glasses Skin,Consumable,0,Fine,0
 64754,Pirate Captain's Outfit,Consumable,0,Rare,0
-64755,Fuzzy Bear Hat,Consumable,0,Fine,0
+64755,Fuzzy Bear Hat Skin,Consumable,0,Fine,0
 64756,Cook's Outfit,Consumable,0,Rare,0
-64757,Wizard's Hat,Consumable,0,Masterwork,0
+64757,Wizard's Hat Skin,Consumable,0,Masterwork,0
 64758,Fuzzy Cat Hat Skin,Consumable,0,Fine,0
 64759,Fuzzy Hylek Hat Skin,Consumable,0,Fine,0
 65164,Enameled Perseverance Dye,Consumable,0,Rare,50
@@ -41475,9 +41475,9 @@ id,name,type,level,rarity,vendor_value
 65197,Devil Horns Skin,Consumable,0,Fine,0
 65198,Fancy Winter Outfit,Consumable,0,Rare,0
 65199,Southsun Mask,Consumable,0,Rare,0
-65200,Wintersday Earmuffs,Consumable,0,Fine,0
+65200,Wintersday Earmuffs Skin,Consumable,0,Fine,0
 65201,Witch's Outfit,Consumable,0,Rare,0
-65202,Festive Hat,Consumable,0,Fine,0
+65202,Festive Hat Skin,Consumable,0,Fine,0
 65203,Phantom's Hood Skin,Consumable,0,Fine,0
 65222,Chalice of Glory,Consumable,0,Legendary,0
 65224,Rune of Resistance,UpgradeComponent,0,Exotic,0
@@ -41872,7 +41872,7 @@ id,name,type,level,rarity,vendor_value
 66268,Phoenix Focus Skin,Consumable,0,Rare,0
 66272,Phoenix Shield Skin,Consumable,0,Rare,0
 66279,Ancestral Outfit,Consumable,0,Rare,0
-66309,Wreath of Cooperation,Consumable,0,Rare,0
+66309,Wreath of Cooperation Skin,Consumable,0,Rare,0
 66323,Musical Lute,Gizmo,0,Rare,0
 66326,Flame Dye Kit,Container,0,Masterwork,0
 66327,Frost Dye Kit,Container,0,Masterwork,0
@@ -42378,8 +42378,8 @@ id,name,type,level,rarity,vendor_value
 67034,Chaos Axe Skin,Consumable,0,Rare,0
 67035,Tempest Hammer Skin,Consumable,0,Rare,0
 67036,Chaos Warhorn Skin,Consumable,0,Rare,0
-67037,Raiment of the Lich,Consumable,0,Rare,0
-67038,Glowing Green Mask,Consumable,0,Masterwork,0
+67037,Raiment of the Lich Outfit,Consumable,0,Rare,0
+67038,Glowing Green Mask Skin,Consumable,0,Masterwork,0
 67039,Chaos Torch Skin,Consumable,0,Rare,0
 67040,Ceremonial Plated Outfit,Consumable,0,Rare,0
 67041,Tempest Pistol Skin,Consumable,0,Rare,0
@@ -42892,7 +42892,7 @@ id,name,type,level,rarity,vendor_value
 67842,Basic Cloth Rack,Consumable,0,Rare,0
 67844,Wintersday Greatsword Skin,Consumable,0,Rare,0
 67856,Set of 3 Gather-r-Tron Tools,Container,0,Rare,0
-67857,Glint's Gaze Mask,Consumable,0,Masterwork,0
+67857,Glint's Gaze Mask Skin,Consumable,0,Masterwork,0
 67862,Permanent Chickenado Finisher,Consumable,0,Rare,0
 67863,Exalted Mail Courier,Consumable,0,Rare,75
 67868,Arctic Explorer Outfit,Consumable,0,Rare,0
@@ -42912,7 +42912,7 @@ id,name,type,level,rarity,vendor_value
 67883,Wintersday Warhorn Skin,Consumable,0,Rare,0
 67884,Wintersday Axe Skin,Consumable,0,Rare,0
 67885,Wintersday Dagger Skin,Consumable,0,Rare,0
-67887,Shoulder Scarf,Consumable,0,Masterwork,0
+67887,Shoulder Scarf Skin,Consumable,0,Masterwork,0
 67889,Immortal Weapon Choice,Container,0,Exotic,0
 67894,Caithe's Remorse,Trinket,80,Ascended,413
 67895,Quetzal Crest,Trinket,80,Ascended,413
@@ -47329,7 +47329,7 @@ id,name,type,level,rarity,vendor_value
 75124,Branded Devourer Ichor,Gizmo,0,Exotic,264
 75125,Radioactive Brightness,Trophy,0,Exotic,264
 75126,Slice of Allspice Cake,Consumable,80,Masterwork,15
-75129,Lyssa's Regalia,Consumable,0,Rare,0
+75129,Lyssa's Regalia Outfit,Consumable,0,Rare,0
 75134,Oiled Orichalcum Chestplate Padding,CraftingMaterial,0,Basic,8
 75135,Ossa's Impaler,Weapon,80,Ascended,10000
 75136,Recipe: Laranthir's Guise,Consumable,0,Ascended,160
@@ -50191,7 +50191,7 @@ id,name,type,level,rarity,vendor_value
 79010,Glide-r-Tron,Consumable,0,Masterwork,0
 79011,Attuned Defender's Besieger Ring (Infused),Trinket,80,Ascended,495
 79012,Stalwart Helm,Armor,80,Exotic,0
-79014,Xera's Mask,Consumable,0,Masterwork,0
+79014,Xera's Mask Skin,Consumable,0,Masterwork,0
 79015,Attuned Malicious Besieger Ring (Infused),Trinket,80,Ascended,495
 79016,White Mantle Glider,Consumable,0,Masterwork,0
 79017,Apostle Epaulets,Armor,80,Exotic,0
@@ -50328,11 +50328,11 @@ id,name,type,level,rarity,vendor_value
 79301,Maguuma Knapsack,Container,0,Basic,7
 79307,Embellished Warhorn Skin,Consumable,0,Rare,0
 79309,Bloodstone Indigo,Consumable,0,Rare,5
-79310,Storm Bow,Consumable,0,Rare,0
+79310,Storm Bow Skin,Consumable,0,Rare,0
 79311,Bloodstone Visage Skin,Consumable,0,Exotic,0
 79312,Levvi's Device,Gizmo,0,Exotic,0
 79315,Emissary's Staff Skin,Consumable,0,Rare,0
-79316,Shattered Bloodstone Circlet,Consumable,0,Masterwork,0
+79316,Shattered Bloodstone Circlet Skin,Consumable,0,Masterwork,0
 79317,Bloodstone Coral,Consumable,0,Rare,5
 79321,Winter Chimes Dye Kit,Container,0,Masterwork,128
 79327,Grove Hydria,Consumable,0,Exotic,0
@@ -50451,7 +50451,7 @@ id,name,type,level,rarity,vendor_value
 79527,Stone Dwarf Thumb,Trophy,0,Basic,0
 79528,Skritt Worker Contract,Consumable,0,Basic,0
 79530,Carnival Rifle,Weapon,80,Exotic,0
-79531,Mursaat Robes,Consumable,0,Rare,0
+79531,Mursaat Robes Outfit,Consumable,0,Rare,0
 79532,Destroyer Sample,Trophy,0,Basic,0
 79533,Recipe: Sweet Curried Mussels,Consumable,0,Fine,7
 79534,Bundle of Petrified Wood,Consumable,0,Exotic,128
@@ -50506,7 +50506,7 @@ id,name,type,level,rarity,vendor_value
 79614,Carnival Focus,Weapon,80,Exotic,0
 79615,Chest of the Ember Bay Hero,Container,0,Exotic,0
 79617,Carnival Pistol,Weapon,80,Exotic,0
-79619,Furrocious Cat Ears,Consumable,0,Masterwork,0
+79619,Furrocious Cat Ears Skin,Consumable,0,Masterwork,0
 79620,Broken Shadowstone,Trophy,0,Basic,0
 79621,Class I Rift Stabilizer,Gizmo,0,Rare,192
 79625,Mysterious Device,Gizmo,0,Rare,192
@@ -50776,7 +50776,7 @@ id,name,type,level,rarity,vendor_value
 80023,Chest of Central Tyrian Pistols,Container,0,Ascended,320
 80024,Ultimate Wintersday Gift,Container,0,Exotic,16
 80025,"Hidden Letter ""Heresy""",Gizmo,0,Basic,0
-80026,Ice Crown,Consumable,0,Masterwork,0
+80026,Ice Crown Skin,Consumable,0,Masterwork,0
 80028,Mist Talisman,Trinket,80,Ascended,413
 80030,Chest of Central Tyrian Torches,Container,0,Ascended,320
 80031,Chest of Central Tyrian Shields,Container,0,Ascended,320
@@ -51329,7 +51329,7 @@ id,name,type,level,rarity,vendor_value
 80854,Bloodstone Ascender,Gizmo,0,Masterwork,0
 80857,Grandmaster Tailor's Mark,Trophy,80,Ascended,330
 80860,Mini Krytan Floppy Fish,MiniPet,0,Masterwork,50
-80861,Shield of the Goddess,Consumable,0,Rare,0
+80861,Shield of the Goddess Skin,Consumable,0,Rare,0
 80862,Box of Super Adventure Box Goods,Container,0,Basic,0
 80864,Super Campfire,Consumable,0,Basic,0
 80866,Super Forest House,Consumable,0,Basic,0
@@ -51420,7 +51420,7 @@ id,name,type,level,rarity,vendor_value
 80977,Unbound Magic Mining Beam,Gathering,0,Rare,192
 80978,Bloody Red Dye,Consumable,0,Rare,5
 80979,Unbound Magic Logging Pulse,Gathering,0,Rare,192
-80981,Hourglass Staff,Consumable,0,Rare,0
+80981,Hourglass Staff Skin,Consumable,0,Rare,0
 80982,Sunfire Lava Dye,Consumable,0,Rare,5
 80983,Destroyer Orange Dye,Consumable,0,Rare,5
 80984,Vine-Touched Destroyer Wings,Consumable,0,Masterwork,0
@@ -51433,7 +51433,7 @@ id,name,type,level,rarity,vendor_value
 80997,Druid Runestone Fragment,Consumable,0,Basic,0
 80999,Element of Air,Gizmo,0,Rare,1000
 81000,Oakheart's Essence,Gizmo,0,Basic,0
-81001,Replica Mirror of Lyssa,Consumable,0,Rare,0
+81001,Replica Mirror of Lyssa Skin,Consumable,0,Rare,0
 81003,Bundle of Fire Orchid Blossoms,Consumable,0,Exotic,128
 81007,Druid Stone,Back,80,Exotic,1000
 81009,Mini Dragon's Watch Rox,MiniPet,0,Rare,50
@@ -53192,7 +53192,7 @@ id,name,type,level,rarity,vendor_value
 84011,Dwarven Shield Back,Consumable,0,Exotic,0
 84012,Warbeast Gossamer Helm Padding,CraftingMaterial,0,Basic,8
 84013,Royal Funerary Headgear Box,Container,0,Exotic,0
-84014,Swaggering Hat,Consumable,0,Masterwork,0
+84014,Swaggering Hat Skin,Consumable,0,Masterwork,0
 84016,Rampager's Ring of Coral,Trinket,80,Exotic,0
 84017,Cleric's Ring of Sapphire,Trinket,80,Exotic,0
 84018,Sigil of the Fool,Trinket,80,Ascended,495
@@ -54307,7 +54307,7 @@ id,name,type,level,rarity,vendor_value
 85525,Portrait of Joko's Ascension,Consumable,0,Masterwork,0
 85526,Recipe: Mournstone Earring,Consumable,0,Exotic,132
 85527,Rune of the Spellbreaker,UpgradeComponent,0,Exotic,0
-85528,Salvaged Forged Helm,Consumable,0,Masterwork,0
+85528,Salvaged Forged Helm Skin,Consumable,0,Masterwork,0
 85529,Lost Treasure of the Great Zehtuka,Container,0,Ascended,320
 85530,Country Lace Clothing Outfit,Consumable,0,Rare,0
 85531,Homespun Blindfold,Consumable,0,Rare,0
@@ -54393,7 +54393,7 @@ id,name,type,level,rarity,vendor_value
 85612,Shifting Sands Longbow,Consumable,0,Rare,0
 85613,Black Lion Arsenal—Hammer,Container,0,Basic,0
 85614,Book of Nadijeh's Weapon Recipes,Container,0,Ascended,320
-85615,Salvaged Forged Gloves,Consumable,0,Masterwork,0
+85615,Salvaged Forged Gloves Skin,Consumable,0,Masterwork,0
 85616,Ornate Clothing Outfit,Consumable,0,Rare,0
 85617,Rune of the Holosmith,UpgradeComponent,0,Exotic,0
 85618,Shifting Sands Sword,Consumable,0,Rare,0
@@ -55101,7 +55101,7 @@ id,name,type,level,rarity,vendor_value
 86513,Bringer's Draconic Coat,Armor,80,Exotic,240
 86514,Obsidian Staff,Weapon,80,Exotic,0
 86515,Bringer's Wrapped Focus of Generosity,Weapon,80,Exotic,264
-86516,Freezie Crown,Consumable,0,Masterwork,0
+86516,Freezie Crown Skin,Consumable,0,Masterwork,0
 86517,Giver's Pearl Brazier,Weapon,80,Exotic,264
 86518,Tixx's Wristguards,Armor,80,Ascended,240
 86519,Recipe: Tixx's Impaler,Consumable,0,Ascended,160
@@ -55298,7 +55298,7 @@ id,name,type,level,rarity,vendor_value
 86736,Garden Artichoke Seed,Consumable,0,Basic,0
 86737,500 Airship Parts,Consumable,0,Rare,92
 86738,1000 Volatile Magic,Consumable,0,Rare,92
-86739,Arcane Marksman Rifle,Consumable,0,Rare,0
+86739,Arcane Marksman Rifle Skin,Consumable,0,Rare,0
 86740,Mini Aqua Jackal Pup,MiniPet,0,Rare,50
 86741,Garden Potato Eye,Consumable,0,Basic,0
 86742,Mini Yellow Jackal Pup,MiniPet,0,Rare,50
@@ -55434,14 +55434,14 @@ id,name,type,level,rarity,vendor_value
 86894,Krytan Spiderwort Seed Pouch,Consumable,0,Basic,0
 86895,Sage Seed Pouch,Consumable,0,Basic,0
 86896,Grave Dye,Consumable,0,Rare,5
-86897,Jackal Rune Greaves,Consumable,0,Masterwork,0
+86897,Jackal Rune Greaves Skin,Consumable,0,Masterwork,0
 86898,Zhaitan Dye Kit,Container,0,Masterwork,0
 86899,Grand Lion Griffon Skin,Consumable,0,Exotic,0
 86900,Decay Dye,Consumable,0,Rare,5
 86901,Worn Bone Dye,Consumable,0,Rare,5
 86902,Darkness Dye,Consumable,0,Rare,5
 86903,Risen Dye,Consumable,0,Rare,5
-86904,Jackal Rune Gauntlets,Consumable,0,Masterwork,0
+86904,Jackal Rune Gauntlets Skin,Consumable,0,Masterwork,0
 86905,Abyssal Sea Dye,Consumable,0,Rare,5
 86906,Endless Friendship Tonic,Gizmo,0,Masterwork,0
 86907,Alchemist Sword Skin,Consumable,0,Rare,0
@@ -55690,7 +55690,7 @@ id,name,type,level,rarity,vendor_value
 87308,Mini Super Angry Cloud,MiniPet,0,Masterwork,50
 87309,Mini Super Turtle,MiniPet,0,Masterwork,50
 87310,Krytan Common Chair,Trophy,0,Masterwork,0
-87311,Winged Headpiece,Consumable,0,Masterwork,0
+87311,Winged Headpiece Skin,Consumable,0,Masterwork,0
 87312,Sand Shark Dye,Consumable,0,Rare,5
 87313,Iboga Dye,Consumable,0,Rare,5
 87314,Krytan Simple Bench,Trophy,0,Masterwork,0
@@ -56327,7 +56327,7 @@ id,name,type,level,rarity,vendor_value
 88104,Recipe: Plaguedoctor's Draconic Gauntlets,Consumable,0,Exotic,128
 88105,Nerashi's Visor,Armor,80,Ascended,240
 88106,Mini Corsair Sloop,MiniPet,0,Exotic,50
-88108,Storm Gloves,Consumable,0,Masterwork,0
+88108,Storm Gloves Skin,Consumable,0,Masterwork,0
 88109,Tournament Voucher,Consumable,0,Fine,0
 88111,Tremor Armadillo Roller Beetle Skin,Consumable,0,Exotic,0
 88114,Desert King Reliquary Backpiece,Consumable,0,Masterwork,0
@@ -57094,7 +57094,7 @@ id,name,type,level,rarity,vendor_value
 89101,Mistforged Glorious Hero's Leggings,Armor,80,Legendary,240
 89102,Recipe: Rune of the Afflicted,Consumable,0,Exotic,108
 89103,Charm of Brilliance,CraftingMaterial,0,Masterwork,32
-89104,Raven Helm,Consumable,0,Masterwork,0
+89104,Raven Helm Skin,Consumable,0,Masterwork,0
 89105,Mystic Aspect,CraftingMaterial,0,Rare,130
 89107,Recipe: Rune of the Dolyak,Consumable,0,Exotic,108
 89109,Recipe: Rune of Dwayna,Consumable,0,Exotic,108
@@ -57827,10 +57827,10 @@ id,name,type,level,rarity,vendor_value
 90166,Scaled Dragon Wings Backpack Glider Combo,Consumable,0,Masterwork,0
 90167,Bonus Box of Goods,Container,0,Rare,192
 90168,War Eternal Supply Drop: Week Three,Container,0,Rare,0
-90169,Etherbound Greaves,Consumable,0,Masterwork,0
+90169,Etherbound Greaves Skin,Consumable,0,Masterwork,0
 90170,Branded Pistol Skin,Consumable,0,Rare,0
 90172,Branded Staff Skin,Consumable,0,Rare,0
-90173,Etherbound Gauntlets,Consumable,0,Masterwork,0
+90173,Etherbound Gauntlets Skin,Consumable,0,Masterwork,0
 90174,Branded Hammer Skin,Consumable,0,Rare,0
 90175,Branded Weapon Select Box,Container,0,Rare,0
 90176,Branded Warhorn Skin,Consumable,0,Rare,0
@@ -59196,7 +59196,7 @@ id,name,type,level,rarity,vendor_value
 92097,Grothmar Warchest,Container,0,Basic,0
 92099,Charr Tank Token,Gizmo,0,Basic,0
 92100,Golden Talon Longbow,Consumable,0,Rare,0
-92101,Etherbound Pauldrons,Consumable,0,Masterwork,0
+92101,Etherbound Pauldrons Skin,Consumable,0,Masterwork,0
 92102,Legionnaire's Chair,Gizmo,0,Rare,0
 92103,Seven Reapers Pistol Skin,Consumable,0,Rare,0
 92104,Royal Flame Scepter,Weapon,80,Exotic,264
@@ -60278,7 +60278,7 @@ id,name,type,level,rarity,vendor_value
 93499,Blood Legion Special Mission Document,Consumable,0,Basic,500
 93500,Knight's Stormcaller Rifle,Weapon,80,Exotic,396
 93501,Ice Reaver Rifle Skin,Consumable,0,Rare,0
-93502,Dragon's Watch Regalia,Consumable,0,Rare,0
+93502,Dragon's Watch Regalia Outfit,Consumable,0,Rare,0
 93503,Salvage Pile Home Instance Node,Consumable,0,Rare,0
 93506,Reliquary of the Bear Ceremonial Gown,Container,0,Rare,192
 93507,"""/Playdead"" Emote Tome",Consumable,0,Exotic,0
@@ -60776,7 +60776,7 @@ id,name,type,level,rarity,vendor_value
 94156,Nightspeaker Wings Glider,Consumable,0,Masterwork,0
 94157,Nightspeaker Greatsword Skin,Consumable,0,Rare,0
 94159,Nightspeaker Outfit,Consumable,0,Rare,0
-94160,Ice Reaver Gauntlets,Consumable,0,Masterwork,0
+94160,Ice Reaver Gauntlets Skin,Consumable,0,Masterwork,0
 94162,,Consumable,0,Junk,10
 94163,Prismaticite Crystal,Trophy,0,Basic,0
 94164,Ebon Vanguard Supporter: Tier 1,Container,0,Fine,0
@@ -61365,7 +61365,7 @@ id,name,type,level,rarity,vendor_value
 94885,Etherbound Longbow Skin,Consumable,0,Rare,0
 94886,Etherbound Mace Skin,Consumable,0,Rare,0
 94887,Lost Era Mount Adoption License,Consumable,0,Rare,999
-94888,Aurene's Crystalline Claws,Consumable,0,Masterwork,0
+94888,Aurene's Crystalline Claws Skin,Consumable,0,Masterwork,0
 94889,Mystic Smoking Pipe Warhorn Skin,Consumable,0,Rare,0
 94890,Etherbound Staff Skin,Consumable,0,Rare,0
 94891,Exclusive Color Swatch: 2017–2021,Container,0,Masterwork,0
@@ -64135,7 +64135,7 @@ id,name,type,level,rarity,vendor_value
 98852,Water Dragon Helm Skin,Consumable,0,Masterwork,0
 98869,Kralkatorrik's Flight Skin,Consumable,0,Legendary,0
 98872,War Machine Shield Skin,Consumable,80,Exotic,132
-98873,Etherbound Chestplate,Consumable,0,Masterwork,0
+98873,Etherbound Chestplate Skin,Consumable,0,Masterwork,0
 98874,War Machine Rifle Skin,Consumable,80,Exotic,132
 98876,New Kaineng Focus Skin,Consumable,0,Rare,0
 98877,Volume Completion Award: Volume Two,Consumable,0,Basic,0
@@ -64147,7 +64147,7 @@ id,name,type,level,rarity,vendor_value
 98883,Volume Completion Award: Volume Three,Consumable,0,Basic,0
 98884,War Machine Longbow Skin,Consumable,80,Exotic,132
 98885,Meandering Tortoise Chair,Gizmo,0,Rare,0
-98886,Etherbound Helm,Consumable,0,Masterwork,0
+98886,Etherbound Helm Skin,Consumable,0,Masterwork,0
 98889,Guild Anniversary Banner,Consumable,0,Rare,0
 98890,War Machine Pistol Skin,Consumable,80,Exotic,132
 98892,Decade's End Skin,Consumable,0,Exotic,0
@@ -64192,7 +64192,7 @@ id,name,type,level,rarity,vendor_value
 98951,New Kaineng Scepter Skin,Consumable,0,Rare,0
 98952,New Kaineng Sword Skin,Consumable,0,Rare,0
 98953,War Machine Staff Skin,Consumable,80,Exotic,132
-98954,Etherbound Legguard,Consumable,0,Masterwork,0
+98954,Etherbound Legguard Skin,Consumable,0,Masterwork,0
 98955,Dried Toxic Spore,Trophy,0,Basic,0
 98956,Dried Thorn of Nightmare,Trinket,80,Exotic,330
 98957,Story Unlock: S1E4,Consumable,0,Fine,4
@@ -66008,3 +66008,7 @@ id,name,type,level,rarity,vendor_value
 101385,Sacred Solstice Pistol,Weapon,80,Exotic,264
 101386,Thundercrag Short Bow Skin,Consumable,0,Rare,0
 101387,Thundercrag Longbow Skin,Consumable,0,Rare,0
+101388,Arcane Sigil Backpack and Glider Combo,Consumable,0,Masterwork,0
+101391,Arcane Sigil Glider,Consumable,0,Masterwork,0
+101393,Regal Moth Skyscale Skin,Consumable,0,Exotic,0
+101396,Arcane Sigil Backpack Skin,Consumable,0,Masterwork,0
