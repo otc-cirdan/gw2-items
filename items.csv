@@ -27535,6 +27535,7 @@ id,name,type,level,rarity,vendor_value
 37105,Lost Seal of Usoku (Infused),Trinket,80,Ascended,495
 37107,Rurik's Royal Signet Ring (Infused),Trinket,80,Ascended,495
 37108,Marriner's Compass (Infused),Trinket,80,Ascended,495
+37109,Seal of the Khan-Ur (Infused),Trinket,80,Ascended,495
 37112,Yakkington's Ring (Infused),Trinket,80,Ascended,495
 37113,Snaff's Gyre (Infused),Trinket,80,Ascended,495
 37123,Healing +7 Agony Infusion,UpgradeComponent,0,Masterwork,16
@@ -65836,6 +65837,7 @@ id,name,type,level,rarity,vendor_value
 101165,Oneiros-Spun Light Leggings,Armor,80,Exotic,370
 101166,Relic of the Demon Queen,Relic,60,Exotic,200
 101170,Skyscale Weapon Box,Container,0,Ascended,0
+101171,Jotun Infusion,UpgradeComponent,80,Exotic,10000
 101172,Dagda's Magnificent Coffer,Container,0,Exotic,0
 101174,Grieving Consecrated Saryx Greatsword,Weapon,80,Exotic,396
 101175,Mini Judgment,MiniPet,0,Masterwork,50
