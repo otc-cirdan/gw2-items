@@ -65836,6 +65836,7 @@ id,name,type,level,rarity,vendor_value
 101164,Dark Sanctified Hammer Skin,Consumable,0,Rare,0
 101165,Oneiros-Spun Light Leggings,Armor,80,Exotic,370
 101166,Relic of the Demon Queen,Relic,60,Exotic,200
+101169,Jotun Infusion,UpgradeComponent,80,Exotic,10000
 101170,Skyscale Weapon Box,Container,0,Ascended,0
 101171,Jotun Infusion,UpgradeComponent,80,Exotic,10000
 101172,Dagda's Magnificent Coffer,Container,0,Exotic,0
@@ -66012,5 +66013,7 @@ id,name,type,level,rarity,vendor_value
 101387,Thundercrag Longbow Skin,Consumable,0,Rare,0
 101388,Arcane Sigil Backpack and Glider Combo,Consumable,0,Masterwork,0
 101391,Arcane Sigil Glider,Consumable,0,Masterwork,0
+101392,Heretical Scholar's Pauldrons,Consumable,0,Masterwork,0
 101393,Regal Moth Skyscale Skin,Consumable,0,Exotic,0
+101395,Heretical Scholar's Staff Skin,Consumable,0,Rare,0
 101396,Arcane Sigil Backpack Skin,Consumable,0,Masterwork,0
