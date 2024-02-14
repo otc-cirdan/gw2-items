@@ -66024,6 +66024,7 @@ id,name,type,level,rarity,vendor_value
 101398,Lucky Dragon Lantern,Back,65,Rare,888
 101399,Peaceful Shrine Chair,Gizmo,0,Rare,0
 101400,Dragon Descendant's Helm Box,Container,0,Exotic,256
+101401,Elegant Noble's Glider,Consumable,0,Masterwork,0
 101402,Fortunate Dagger,Weapon,80,Exotic,264
 101403,Fortunate Sword,Weapon,80,Exotic,264
 101404,Fortunate Chest,Container,0,Exotic,256
@@ -66043,6 +66044,7 @@ id,name,type,level,rarity,vendor_value
 101420,Fortunate Rifle,Weapon,80,Exotic,396
 101421,Fortunate Scepter,Weapon,80,Exotic,264
 101422,Fortunate Warhorn,Weapon,80,Exotic,264
+101425,Elegant Noble's Backpack,Consumable,0,Masterwork,0
 101426,Fortunate Pistol,Weapon,80,Exotic,264
 101427,Visage of the Great Dragon Fireworks,Consumable,0,Exotic,0
 101428,Lucky Dragon Hammer,Weapon,80,Exotic,396
