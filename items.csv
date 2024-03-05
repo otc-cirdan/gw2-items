@@ -5273,7 +5273,6 @@ id,name,type,level,rarity,vendor_value
 5668,Priory's Historical Shoulderpads,Armor,0,Exotic,0
 5670,Vigil's Honor Jerkin,Armor,0,Exotic,0
 5671,Vigil's Honor Gloves,Armor,0,Exotic,0
-5672,Vigil's Honor Headguard,Armor,0,Exotic,0
 5685,Whisper's Secret Leggings,Armor,0,Exotic,0
 5687,Rascal Boots,Armor,0,Exotic,0
 5688,Rascal Coat,Armor,0,Exotic,0
@@ -5569,8 +5568,10 @@ id,name,type,level,rarity,vendor_value
 6368,Commando's Helm,Armor,73,Fine,77
 6369,Outrider's Helm,Armor,73,Fine,77
 6372,Outrider's Mask,Armor,73,Fine,77
+6373,Trooper's Mask,Armor,73,Fine,77
 6377,Commando's Pauldrons,Armor,74,Fine,68
 6381,Outrider's Mantle,Armor,74,Fine,68
+6382,Trooper's Mantle,Armor,74,Fine,68
 6385,Trooper's Shoulderguards,Armor,74,Fine,68
 6386,Slayer's Gauntlets,Armor,70,Fine,54
 6388,Stalwart's Gauntlets,Armor,70,Fine,54
