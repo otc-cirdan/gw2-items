@@ -65092,6 +65092,7 @@ id,name,type,level,rarity,vendor_value
 100003,Sanctified Short Bow Skin,Consumable,0,Rare,0
 100006,Rabid Skyscale Scepter,Weapon,80,Ascended,330
 100007,Magi's Skyforged Hammer,Weapon,80,Rare,297
+100008,Possession Infusion,UpgradeComponent,80,Exotic,10000
 100010,Visage of Nourys,Container,0,Exotic,0
 100011,Rift Hunter Light Coat,Armor,80,Exotic,396
 100012,Recipe: Relic of the Brawler,Consumable,0,Exotic,128
@@ -66117,6 +66118,7 @@ id,name,type,level,rarity,vendor_value
 101536,Obsidian Light Gloves,Armor,80,Legendary,240
 101537,Solar Astrolabe Pistol Skin,Consumable,0,Rare,0
 101540,Mystic Facet,CraftingMaterial,0,Rare,130
+101542,Cerus's Magnificent Coffer,Container,0,Exotic,0
 101543,Solar Astrolabe Scepter Skin,Consumable,0,Rare,0
 101544,Obsidian Heavy Helmet,Armor,80,Legendary,240
 101547,Ancient Scroll,Gizmo,0,Basic,0
