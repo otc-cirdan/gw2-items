@@ -30202,6 +30202,7 @@ id,name,type,level,rarity,vendor_value
 42561,Settler's Iron Greatsword of Hobbling,Weapon,80,Rare,297
 42562,Settler's Iron Hammer of Serpent Slaying,Weapon,80,Rare,297
 42563,Settler's Iron Spear of Corruption,Weapon,80,Rare,297
+42564,Settler's Soft Wood Longbow of Perception,Weapon,80,Rare,297
 42565,Settler's Iron Mace of Battle,Weapon,80,Rare,198
 42566,Settler's Iron Pistol of Earth,Weapon,80,Rare,198
 42567,Settler's Iron Rifle of Water,Weapon,80,Rare,297
@@ -66093,6 +66094,7 @@ id,name,type,level,rarity,vendor_value
 101475,Skysage's Gloves Skin,Consumable,0,Masterwork,0
 101476,Necrotic Essence Rifle Skin,Consumable,0,Rare,0
 101477,Chest of the Obscure,Container,0,Exotic,0
+101480,Baggy Cargo Pants Skin,Consumable,0,Masterwork,0
 101481,Weaponmaster Training Document,Consumable,0,Basic,0
 101482,Inner Nayos: Hero's Chest,Container,0,Rare,0
 101483,Recipe: Legendary Obsidian Armor,Consumable,0,Masterwork,64
@@ -66101,6 +66103,7 @@ id,name,type,level,rarity,vendor_value
 101486,Solar Astrolabe Rifle Skin,Consumable,0,Rare,0
 101488,Fashionable Kilt Skin,Consumable,0,Masterwork,0
 101494,Banner of the Bastion of the Natural,Back,80,Exotic,264
+101495,Saryx Backpiece,Back,80,Ascended,330
 101499,Obsidian Light Regalia,Armor,80,Legendary,240
 101501,Obsidian Light Pants,Armor,80,Legendary,240
 101507,Necrotic Essence Shield Skin,Consumable,0,Rare,0
