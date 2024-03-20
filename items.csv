@@ -22230,9 +22230,9 @@ id,name,type,level,rarity,vendor_value
 30447,Sylvari Long Bow,Weapon,55,Masterwork,144
 30448,Sylvari Short Bow,Weapon,55,Fine,72
 30449,Ascalonian Warhorn,Weapon,29,Fine,30
-30450,Jeev's Dusty Staff,Weapon,29,Fine,45
-30451,Jeev's Dusty Scepter,Weapon,29,Fine,30
-30452,Jeev's Dusty Focus,Weapon,29,Fine,30
+30450,Vejj's Dusty Staff,Weapon,29,Fine,45
+30451,Vejj's Dusty Scepter,Weapon,29,Fine,30
+30452,Vejj's Dusty Focus,Weapon,29,Fine,30
 30453,Lionguard Rifle,Weapon,26,Fine,42
 30454,Ascalonian Short Bow,Weapon,29,Fine,45
 30455,Lionguard Torch,Weapon,26,Fine,28
@@ -22253,9 +22253,9 @@ id,name,type,level,rarity,vendor_value
 30470,Lionguard Torch,Weapon,26,Masterwork,56
 30471,Ascalonian Short Bow,Weapon,29,Masterwork,90
 30472,Ascalonian Warhorn,Weapon,29,Masterwork,60
-30473,Jeev's Glossy Staff,Weapon,29,Masterwork,90
-30474,Jeev's Glossy Scepter,Weapon,29,Masterwork,60
-30475,Jeev's Glossy Focus,Weapon,29,Masterwork,60
+30473,Vejj's Glossy Staff,Weapon,29,Masterwork,90
+30474,Vejj's Glossy Scepter,Weapon,29,Masterwork,60
+30475,Vejj's Glossy Focus,Weapon,29,Masterwork,60
 30476,Junction Haven Shield,Weapon,28,Masterwork,58
 30477,Junction Haven Sword,Weapon,28,Masterwork,58
 30478,Lionguard Steel Mace,Weapon,31,Masterwork,62
@@ -42632,7 +42632,7 @@ id,name,type,level,rarity,vendor_value
 67342,Superior Rune of Radiance,UpgradeComponent,60,Exotic,216
 67343,Superior Sigil of Incapacitation,UpgradeComponent,60,Exotic,216
 67344,Superior Rune of Evasion,UpgradeComponent,60,Exotic,216
-67348,Siege Disabler,Gizmo,0,Basic,22
+67348,Siege Disruptor,Gizmo,0,Basic,22
 67352,Foil-Wrapped Candy,Consumable,0,Fine,0
 67353,Shiny Foil Candy Wrapper,Gizmo,0,Basic,0
 67355,Ghostly Mail Courier,Consumable,0,Rare,0
@@ -66172,3 +66172,11 @@ id,name,type,level,rarity,vendor_value
 101641,Necrotic Essence Dagger Skin,Consumable,0,Rare,0
 101645,Obsidian Medium Shoulders,Armor,80,Legendary,240
 101646,Necrotic Essence Scepter Skin,Consumable,0,Rare,0
+101653,Candy Corn Gobbler's Blessing,Consumable,0,Basic,0
+101655,Shattered Stone Wings Backpack Skin,Consumable,0,Masterwork,0
+101658,Pillager's Pack,Bag,0,Exotic,216
+101661,Shattered Stone Wings Glider Skin,Consumable,0,Masterwork,0
+101662,Pillager's Pack,Bag,0,Ascended,270
+101667,Synergetics Energized Shield Skin,Consumable,0,Rare,0
+101668,Toymaker's Party Skiff Skin,Consumable,0,Exotic,0
+101669,Pillager's Pack,Bag,0,Exotic,216
