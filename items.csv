@@ -65411,6 +65411,7 @@ id,name,type,level,rarity,vendor_value
 100506,Astral Ward Door,Consumable,0,Basic,0
 100509,Arcanum of Astral Heartbeat,Trophy,0,Basic,0
 100512,Gift of Magical Prosperity,CraftingMaterial,0,Ascended,0
+100513,Possession Infusion,UpgradeComponent,80,Exotic,10000
 100514,Rift Hunter Medium Coat,Armor,80,Exotic,396
 100515,Recipe: Relic of Speed,Consumable,0,Exotic,128
 100516,Deluxe Gear Box,Container,0,Exotic,0
