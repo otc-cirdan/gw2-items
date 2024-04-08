@@ -65594,6 +65594,7 @@ id,name,type,level,rarity,vendor_value
 100802,Rift Hunter Headgear Box,Container,0,Exotic,0
 100804,Rift Hunter Heavy Shoulders,Armor,80,Exotic,291
 100805,Shaman's Stormforged Longbow,Weapon,80,Exotic,396
+100806,Possession Infusion,UpgradeComponent,80,Exotic,10000
 100809,Vermilion Mining Tool,Gathering,0,Rare,192
 100817,Valkyrie Eagle Eye Short Bow,Weapon,80,Rare,297
 100819,Wizard's Tower Trial: Bronze,Container,0,Fine,0
