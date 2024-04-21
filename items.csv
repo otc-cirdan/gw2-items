@@ -65281,6 +65281,7 @@ id,name,type,level,rarity,vendor_value
 100299,Relic of the Warrior,Relic,60,Exotic,65
 100300,Valkyrie Eagle Eye Warhorn,Weapon,80,Rare,198
 100301,VII: The Ballad,Consumable,0,Basic,0
+100302,Possession Infusion,UpgradeComponent,80,Exotic,10000
 100303,Magi's Skyforged Dagger,Weapon,80,Rare,198
 100306,Recipe: Relic of the Dragonhunter,Consumable,0,Exotic,128
 100307,Cosmic Harvesting Tool,Gathering,0,Rare,0
