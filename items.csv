@@ -65653,6 +65653,7 @@ id,name,type,level,rarity,vendor_value
 100904,Obscure Fish,Container,0,Ascended,320
 100909,Jade-Spun Silk Thread,Consumable,0,Exotic,5000
 100910,Mini Avatar of Despair,MiniPet,0,Masterwork,50
+100914,Possession Infusion,UpgradeComponent,80,Exotic,10000
 100915,Shaman's Stormforged Mace,Weapon,80,Exotic,264
 100916,Relic of the Thief,Relic,60,Exotic,200
 100918,Recipe: Stormforged Longbow,Consumable,0,Exotic,128
