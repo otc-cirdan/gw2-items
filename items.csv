@@ -65343,6 +65343,7 @@ id,name,type,level,rarity,vendor_value
 100400,Relic of the Sunless,Relic,60,Exotic,200
 100401,Sanctified Coat Skin,Consumable,0,Masterwork,0
 100405,Deluxe Gear Box,Container,0,Exotic,0
+100407,Possession Infusion,UpgradeComponent,80,Exotic,10000
 100409,Pacified Magical Storm,Consumable,0,Exotic,0
 100411,Relic of the Trooper,Relic,60,Exotic,200
 100412,Magi's Skyforged Rifle,Weapon,80,Rare,297
