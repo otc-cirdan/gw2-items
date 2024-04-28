@@ -2799,6 +2799,206 @@ id,name,type,level,rarity,vendor_value
 2873,Mighty Chainmail Gauntlets,Armor,8,Basic,6
 2874,Mighty Chainmail Gauntlets,Armor,12,Basic,8
 2875,Mighty Chainmail Gauntlets,Armor,16,Basic,9
+2876,Mighty Chainmail Gauntlets,Armor,20,Basic,11
+2877,Strong Chainmail Gauntlets,Armor,24,Basic,12
+2878,Strong Chainmail Gauntlets,Armor,28,Basic,14
+2879,Strong Chainmail Gauntlets,Armor,32,Basic,15
+2880,Strong Chainmail Gauntlets,Armor,36,Basic,16
+2881,Strong Chainmail Gauntlets,Armor,40,Basic,18
+2882,Strong Chainmail Gauntlets,Armor,44,Basic,18
+2883,Strong Chainmail Gauntlets,Armor,48,Basic,20
+2884,Strong Chainmail Gauntlets,Armor,52,Basic,21
+2885,Strong Chainmail Gauntlets,Armor,56,Basic,23
+2886,Strong Chainmail Gauntlets,Armor,60,Basic,24
+2887,Berserker's Chainmail Gauntlets,Armor,64,Basic,25
+2888,Mighty Chainmail Helm,Armor,12,Basic,11
+2889,Mighty Chainmail Helm,Armor,16,Basic,13
+2890,Mighty Chainmail Helm,Armor,20,Basic,15
+2891,Strong Chainmail Helm,Armor,24,Basic,17
+2892,Strong Chainmail Helm,Armor,28,Basic,19
+2893,Strong Chainmail Helm,Armor,32,Basic,20
+2894,Strong Chainmail Helm,Armor,36,Basic,22
+2895,Strong Chainmail Helm,Armor,40,Basic,24
+2896,Strong Chainmail Helm,Armor,44,Basic,25
+2897,Strong Chainmail Helm,Armor,48,Basic,27
+2898,Strong Chainmail Helm,Armor,52,Basic,29
+2899,Strong Chainmail Helm,Armor,56,Basic,31
+2900,Strong Chainmail Helm,Armor,60,Basic,33
+2901,Berserker's Chainmail Helm,Armor,64,Basic,34
+2902,Mighty Chainmail Leggings,Armor,4,Basic,7
+2903,Mighty Chainmail Leggings,Armor,8,Basic,10
+2904,Mighty Chainmail Leggings,Armor,12,Basic,12
+2905,Mighty Chainmail Leggings,Armor,16,Basic,14
+2906,Mighty Chainmail Leggings,Armor,20,Basic,17
+2907,Strong Chainmail Leggings,Armor,24,Basic,19
+2908,Strong Chainmail Leggings,Armor,28,Basic,21
+2909,Strong Chainmail Leggings,Armor,32,Basic,23
+2910,Strong Chainmail Leggings,Armor,36,Basic,25
+2911,Strong Chainmail Leggings,Armor,40,Basic,27
+2912,Strong Chainmail Leggings,Armor,44,Basic,28
+2913,Strong Chainmail Leggings,Armor,48,Basic,31
+2914,Strong Chainmail Leggings,Armor,52,Basic,33
+2915,Strong Chainmail Leggings,Armor,56,Basic,35
+2916,Strong Chainmail Leggings,Armor,60,Basic,37
+2917,Berserker's Chainmail Leggings,Armor,64,Basic,38
+2918,Mighty Chainmail Shoulders,Armor,16,Basic,11
+2919,Mighty Chainmail Shoulders,Armor,20,Basic,14
+2920,Strong Chainmail Shoulders,Armor,24,Basic,15
+2921,Strong Chainmail Shoulders,Armor,28,Basic,16
+2922,Strong Chainmail Shoulders,Armor,32,Basic,18
+2923,Strong Chainmail Shoulders,Armor,36,Basic,20
+2924,Strong Chainmail Shoulders,Armor,40,Basic,21
+2925,Strong Chainmail Shoulders,Armor,44,Basic,22
+2926,Strong Chainmail Shoulders,Armor,48,Basic,24
+2927,Strong Chainmail Shoulders,Armor,52,Basic,26
+2928,Strong Chainmail Shoulders,Armor,56,Basic,27
+2929,Strong Chainmail Shoulders,Armor,60,Basic,29
+2930,Berserker's Chainmail Shoulders,Armor,64,Basic,30
+2931,Mighty Apprentice Shoes,Armor,4,Basic,5
+2932,Mighty Apprentice Shoes,Armor,8,Basic,7
+2933,Mighty Apprentice Shoes,Armor,12,Basic,9
+2934,Mighty Apprentice Shoes,Armor,16,Basic,10
+2935,Mighty Apprentice Shoes,Armor,20,Basic,12
+2936,Strong Apprentice Shoes,Armor,24,Basic,13
+2937,Strong Apprentice Shoes,Armor,28,Basic,15
+2938,Strong Apprentice Shoes,Armor,32,Basic,16
+2939,Strong Apprentice Shoes,Armor,36,Basic,18
+2940,Strong Apprentice Shoes,Armor,40,Basic,19
+2941,Strong Apprentice Shoes,Armor,44,Basic,20
+2942,Strong Apprentice Shoes,Armor,48,Basic,22
+2943,Strong Apprentice Shoes,Armor,52,Basic,23
+2944,Strong Apprentice Shoes,Armor,56,Basic,25
+2945,Strong Apprentice Shoes,Armor,60,Basic,26
+2946,Berserker's Apprentice Shoes,Armor,64,Basic,27
+2947,Mighty Apprentice Coat,Armor,4,Basic,7
+2948,Mighty Apprentice Coat,Armor,8,Basic,10
+2949,Mighty Apprentice Coat,Armor,12,Basic,13
+2950,Mighty Apprentice Coat,Armor,16,Basic,15
+2951,Mighty Apprentice Coat,Armor,20,Basic,18
+2952,Strong Apprentice Coat,Armor,24,Basic,20
+2953,Strong Apprentice Coat,Armor,28,Basic,22
+2954,Strong Apprentice Coat,Armor,32,Basic,24
+2955,Strong Apprentice Coat,Armor,36,Basic,27
+2956,Strong Apprentice Coat,Armor,40,Basic,29
+2957,Strong Apprentice Coat,Armor,44,Basic,30
+2958,Strong Apprentice Coat,Armor,48,Basic,33
+2959,Strong Apprentice Coat,Armor,52,Basic,35
+2960,Strong Apprentice Coat,Armor,56,Basic,37
+2961,Strong Apprentice Coat,Armor,60,Basic,39
+2962,Berserker's Apprentice Coat,Armor,64,Basic,41
+2963,Mighty Apprentice Gloves,Armor,4,Basic,5
+2964,Mighty Apprentice Gloves,Armor,8,Basic,6
+2965,Mighty Apprentice Gloves,Armor,12,Basic,8
+2966,Mighty Apprentice Gloves,Armor,16,Basic,9
+2967,Mighty Apprentice Gloves,Armor,20,Basic,11
+2968,Strong Apprentice Gloves,Armor,24,Basic,12
+2969,Strong Apprentice Gloves,Armor,28,Basic,14
+2970,Strong Apprentice Gloves,Armor,32,Basic,15
+2971,Strong Apprentice Gloves,Armor,36,Basic,16
+2972,Strong Apprentice Gloves,Armor,40,Basic,18
+2973,Strong Apprentice Gloves,Armor,44,Basic,18
+2974,Strong Apprentice Gloves,Armor,48,Basic,20
+2975,Strong Apprentice Gloves,Armor,52,Basic,21
+2976,Strong Apprentice Gloves,Armor,46,Basic,19
+2977,Strong Apprentice Gloves,Armor,60,Basic,24
+2978,Berserker's Apprentice Gloves,Armor,64,Basic,25
+2979,Mighty Apprentice Band,Armor,12,Basic,11
+2980,Mighty Apprentice Band,Armor,16,Basic,13
+2981,Mighty Apprentice Band,Armor,20,Basic,15
+2982,Strong Apprentice Band,Armor,24,Basic,17
+2983,Strong Apprentice Band,Armor,28,Basic,19
+2984,Strong Apprentice Band,Armor,32,Basic,20
+2985,Strong Apprentice Band,Armor,36,Basic,22
+2986,Strong Apprentice Band,Armor,40,Basic,24
+2987,Strong Apprentice Band,Armor,44,Basic,25
+2988,Strong Apprentice Band,Armor,48,Basic,27
+2989,Strong Apprentice Band,Armor,52,Basic,29
+2990,Strong Apprentice Band,Armor,56,Basic,31
+2991,Strong Apprentice Band,Armor,60,Basic,33
+2992,Berserker's Apprentice Band,Armor,64,Basic,34
+2993,Mighty Apprentice Pants,Armor,4,Basic,7
+2994,Mighty Apprentice Pants,Armor,8,Basic,10
+2995,Mighty Apprentice Pants,Armor,12,Basic,12
+2996,Mighty Apprentice Pants,Armor,16,Basic,14
+2997,Mighty Apprentice Pants,Armor,20,Basic,17
+2998,Strong Apprentice Pants,Armor,24,Basic,19
+2999,Strong Apprentice Pants,Armor,28,Basic,21
+3000,Strong Apprentice Pants,Armor,32,Basic,23
+3001,Strong Apprentice Pants,Armor,36,Basic,25
+3002,Strong Apprentice Pants,Armor,40,Basic,27
+3003,Strong Apprentice Pants,Armor,44,Basic,28
+3004,Strong Apprentice Pants,Armor,48,Basic,31
+3005,Strong Apprentice Pants,Armor,52,Basic,33
+3006,Strong Apprentice Pants,Armor,56,Basic,35
+3007,Strong Apprentice Pants,Armor,60,Basic,37
+3008,Berserker's Apprentice Pants,Armor,64,Basic,38
+3009,Mighty Apprentice Shoulders,Armor,16,Basic,11
+3010,Mighty Apprentice Shoulders,Armor,20,Basic,14
+3011,Strong Apprentice Shoulders,Armor,24,Basic,15
+3012,Strong Apprentice Shoulders,Armor,28,Basic,16
+3013,Strong Apprentice Shoulders,Armor,32,Basic,18
+3014,Strong Apprentice Shoulders,Armor,36,Basic,20
+3015,Strong Apprentice Shoulders,Armor,40,Basic,21
+3016,Strong Apprentice Shoulders,Armor,44,Basic,22
+3017,Strong Apprentice Shoulders,Armor,48,Basic,24
+3018,Strong Apprentice Shoulders,Armor,52,Basic,26
+3019,Strong Apprentice Shoulders,Armor,56,Basic,27
+3020,Strong Apprentice Shoulders,Armor,60,Basic,29
+3021,Berserker's Apprentice Shoulders,Armor,64,Basic,30
+3022,Mighty Rawhide Boots,Armor,4,Basic,5
+3023,Mighty Rawhide Boots,Armor,8,Basic,7
+3024,Mighty Rawhide Boots,Armor,12,Basic,9
+3025,Mighty Rawhide Boots,Armor,16,Basic,10
+3026,Mighty Rawhide Boots,Armor,20,Basic,12
+3027,Strong Rawhide Boots,Armor,24,Basic,13
+3028,Strong Rawhide Boots,Armor,28,Basic,15
+3029,Strong Rawhide Boots,Armor,32,Basic,16
+3030,Strong Rawhide Boots,Armor,36,Basic,18
+3031,Strong Rawhide Boots,Armor,40,Basic,19
+3032,Strong Rawhide Boots,Armor,44,Basic,20
+3033,Strong Rawhide Boots,Armor,48,Basic,22
+3034,Strong Rawhide Boots,Armor,52,Basic,23
+3035,Strong Rawhide Boots,Armor,56,Basic,25
+3036,Strong Rawhide Boots,Armor,60,Basic,26
+3037,Berserker's Rawhide Boots,Armor,64,Basic,27
+3038,Mighty Rawhide Vest,Armor,4,Basic,7
+3039,Mighty Rawhide Vest,Armor,8,Basic,10
+3040,Mighty Rawhide Vest,Armor,12,Basic,13
+3041,Mighty Rawhide Vest,Armor,16,Basic,15
+3042,Mighty Rawhide Vest,Armor,20,Basic,18
+3043,Strong Rawhide Vest,Armor,24,Basic,20
+3044,Strong Rawhide Vest,Armor,28,Basic,22
+3045,Strong Rawhide Vest,Armor,32,Basic,24
+3046,Strong Rawhide Vest,Armor,36,Basic,27
+3047,Strong Rawhide Vest,Armor,40,Basic,29
+3048,Strong Rawhide Vest,Armor,44,Basic,30
+3049,Strong Rawhide Vest,Armor,48,Basic,33
+3050,Strong Rawhide Vest,Armor,52,Basic,35
+3051,Strong Rawhide Vest,Armor,56,Basic,37
+3052,Strong Rawhide Vest,Armor,60,Basic,39
+3053,Berserker's Rawhide Vest,Armor,64,Basic,41
+3054,Mighty Rawhide Bracers,Armor,4,Basic,5
+3055,Mighty Rawhide Bracers,Armor,8,Basic,6
+3056,Mighty Rawhide Bracers,Armor,12,Basic,8
+3057,Mighty Rawhide Bracers,Armor,16,Basic,9
+3058,Mighty Rawhide Bracers,Armor,20,Basic,11
+3059,Strong Rawhide Bracers,Armor,24,Basic,12
+3060,Strong Rawhide Bracers,Armor,28,Basic,14
+3061,Strong Rawhide Bracers,Armor,32,Basic,15
+3062,Strong Rawhide Bracers,Armor,36,Basic,16
+3063,Strong Rawhide Bracers,Armor,40,Basic,18
+3064,Strong Rawhide Bracers,Armor,44,Basic,18
+3065,Strong Rawhide Bracers,Armor,48,Basic,20
+3066,Strong Rawhide Bracers,Armor,52,Basic,21
+3067,Strong Rawhide Bracers,Armor,56,Basic,23
+3068,Strong Rawhide Bracers,Armor,60,Basic,24
+3069,Berserker's Rawhide Bracers,Armor,64,Basic,25
+3070,Mighty Rawhide Mask,Armor,12,Basic,11
+3071,Mighty Rawhide Mask,Armor,16,Basic,13
+3072,Mighty Rawhide Mask,Armor,20,Basic,15
+3073,Strong Rawhide Mask,Armor,24,Basic,17
+3074,Strong Rawhide Mask,Armor,28,Basic,19
+3075,Strong Rawhide Mask,Armor,32,Basic,20
 3076,Strong Rawhide Mask,Armor,36,Basic,22
 3077,Strong Rawhide Mask,Armor,40,Basic,24
 3078,Strong Rawhide Mask,Armor,44,Basic,25
@@ -9399,206 +9599,6 @@ id,name,type,level,rarity,vendor_value
 12008,Hearty Noble Pants,Armor,35,Rare,143
 12009,Ravaging Noble Pants,Armor,50,Rare,189
 12010,Rejuvenating Noble Pants,Armor,50,Rare,189
-12011,Honed Noble Pants,Armor,50,Rare,189
-12012,Noble Pants,Armor,50,Rare,189
-12013,Strong Noble Pants,Armor,50,Rare,189
-12014,Vigorous Noble Pants,Armor,50,Rare,189
-12015,Hearty Noble Pants,Armor,50,Rare,189
-12016,Carrion Noble Pants,Armor,65,Rare,231
-12017,Cleric's Noble Pants,Armor,65,Rare,231
-12019,Valkyrie Noble Pants,Armor,65,Rare,231
-12020,Berserker's Noble Pants,Armor,65,Rare,231
-12021,Rampager's Noble Pants,Armor,65,Rare,231
-12022,Knight's Noble Pants,Armor,65,Rare,231
-12023,Ravaging Noble Coat,Armor,35,Rare,153
-12024,Rejuvenating Noble Coat,Armor,35,Rare,153
-12025,Honed Noble Coat,Armor,35,Rare,153
-12026,Noble Coat,Armor,35,Rare,153
-12027,Strong Noble Coat,Armor,35,Rare,153
-12028,Vigorous Noble Coat,Armor,35,Rare,153
-12029,Hearty Noble Coat,Armor,35,Rare,153
-12030,Ravaging Noble Coat,Armor,50,Rare,203
-12031,Rejuvenating Noble Coat,Armor,50,Rare,203
-12032,Honed Noble Coat,Armor,50,Rare,203
-12033,Noble Coat,Armor,50,Rare,203
-12034,Strong Noble Coat,Armor,50,Rare,203
-12035,Vigorous Noble Coat,Armor,50,Rare,203
-12036,Hearty Noble Coat,Armor,50,Rare,203
-12037,Carrion Noble Coat,Armor,65,Rare,248
-12038,Cleric's Noble Coat,Armor,65,Rare,248
-12039,Noble Coat,Armor,65,Rare,248
-12040,Valkyrie Noble Coat,Armor,65,Rare,248
-12041,Berserker's Noble Coat,Armor,65,Rare,248
-12042,Rampager's Noble Coat,Armor,65,Rare,248
-12043,Knight's Noble Coat,Armor,65,Rare,248
-12044,Ravaging Noble Gloves,Armor,35,Rare,92
-12045,Rejuvenating Noble Gloves,Armor,35,Rare,92
-12046,Honed Noble Gloves,Armor,35,Rare,92
-12047,Noble Gloves,Armor,35,Rare,92
-12048,Strong Noble Gloves,Armor,35,Rare,92
-12049,Vigorous Noble Gloves,Armor,35,Rare,92
-12050,Hearty Noble Gloves,Armor,35,Rare,92
-12051,Ravaging Noble Gloves,Armor,50,Rare,122
-12052,Rejuvenating Noble Gloves,Armor,50,Rare,122
-12053,Honed Noble Gloves,Armor,50,Rare,122
-12055,Strong Noble Gloves,Armor,50,Rare,122
-12056,Vigorous Noble Gloves,Armor,50,Rare,122
-12057,Hearty Noble Gloves,Armor,50,Rare,122
-12058,Carrion Noble Gloves,Armor,65,Rare,149
-12059,Cleric's Noble Gloves,Armor,65,Rare,149
-12060,Noble Gloves,Armor,65,Rare,149
-12061,Valkyrie Noble Gloves,Armor,65,Rare,149
-12062,Berserker's Noble Gloves,Armor,65,Rare,149
-12063,Rampager's Noble Gloves,Armor,65,Rare,149
-12064,Knight's Noble Gloves,Armor,65,Rare,149
-12065,Ravaging Noble Boots,Armor,35,Rare,102
-12066,Rejuvenating Noble Boots,Armor,35,Rare,102
-12067,Honed Noble Boots,Armor,35,Rare,102
-12068,Noble Boots,Armor,35,Rare,102
-12069,Strong Noble Boots,Armor,35,Rare,102
-12070,Vigorous Noble Boots,Armor,35,Rare,102
-12071,Hearty Noble Boots,Armor,35,Rare,102
-12072,Ravaging Noble Boots,Armor,50,Rare,135
-12073,Rejuvenating Noble Boots,Armor,50,Rare,135
-12074,Honed Noble Boots,Armor,50,Rare,135
-12076,Strong Noble Boots,Armor,50,Rare,135
-12077,Vigorous Noble Boots,Armor,50,Rare,135
-12078,Hearty Noble Boots,Armor,50,Rare,135
-12079,Carrion Noble Boots,Armor,65,Rare,165
-12080,Cleric's Noble Boots,Armor,65,Rare,165
-12082,Valkyrie Noble Boots,Armor,65,Rare,165
-12083,Berserker's Noble Boots,Armor,65,Rare,165
-12084,Rampager's Noble Boots,Armor,65,Rare,165
-12085,Knight's Noble Boots,Armor,65,Rare,165
-12086,Ravaging Noble Shoulders,Armor,35,Rare,113
-12087,Rejuvenating Noble Shoulders,Armor,35,Rare,113
-12088,Honed Noble Shoulders,Armor,35,Rare,113
-12089,Noble Shoulders,Armor,35,Rare,113
-12090,Strong Noble Shoulders,Armor,35,Rare,113
-12091,Vigorous Noble Shoulders,Armor,35,Rare,113
-12092,Hearty Noble Shoulders,Armor,35,Rare,113
-12093,Ravaging Noble Shoulders,Armor,50,Rare,149
-12094,Rejuvenating Noble Shoulders,Armor,50,Rare,149
-12095,Honed Noble Shoulders,Armor,50,Rare,149
-12097,Strong Noble Shoulders,Armor,50,Rare,149
-12098,Vigorous Noble Shoulders,Armor,50,Rare,149
-12099,Hearty Noble Shoulders,Armor,50,Rare,149
-12100,Carrion Noble Shoulders,Armor,65,Rare,182
-12101,Cleric's Noble Shoulders,Armor,65,Rare,182
-12103,Valkyrie Noble Shoulders,Armor,65,Rare,182
-12104,Berserker's Noble Shoulders,Armor,65,Rare,182
-12105,Rampager's Noble Shoulders,Armor,65,Rare,182
-12106,Knight's Noble Shoulders,Armor,65,Rare,182
-12107,Ravaging Noble Mask,Armor,50,Rare,169
-12108,Rejuvenating Noble Mask,Armor,50,Rare,169
-12109,Honed Noble Mask,Armor,50,Rare,169
-12111,Strong Noble Mask,Armor,50,Rare,169
-12112,Vigorous Noble Mask,Armor,50,Rare,169
-12113,Hearty Noble Mask,Armor,50,Rare,169
-12114,Ravaging Noble Mask,Armor,35,Rare,128
-12115,Rejuvenating Noble Mask,Armor,35,Rare,128
-12116,Honed Noble Mask,Armor,35,Rare,128
-12117,Noble Mask,Armor,35,Rare,128
-12118,Strong Noble Mask,Armor,35,Rare,128
-12119,Vigorous Noble Mask,Armor,35,Rare,128
-12120,Hearty Noble Mask,Armor,35,Rare,128
-12121,Carrion Noble Mask,Armor,65,Rare,207
-12122,Cleric's Noble Mask,Armor,65,Rare,207
-12124,Valkyrie Noble Mask,Armor,65,Rare,207
-12125,Berserker's Noble Mask,Armor,65,Rare,207
-12126,Rampager's Noble Mask,Armor,65,Rare,207
-12127,Knight's Noble Mask,Armor,65,Rare,207
-12128,Omnomberry,CraftingMaterial,80,Basic,9
-12129,Spicy Meat Kabob,Consumable,10,Fine,10
-12130,Roasted Rutabaga,Consumable,45,Fine,23
-12131,Bowl of Watery Mushroom Soup,Consumable,10,Basic,4
-12132,Loaf of Bread,Consumable,0,Fine,5
-12133,Warden Ration,Consumable,10,Basic,4
-12134,Carrot,CraftingMaterial,0,Basic,1
-12135,Potato,CraftingMaterial,0,Basic,1
-12136,Bag of Flour,CraftingMaterial,0,Basic,1
-12137,Glass of Buttermilk,CraftingMaterial,0,Basic,2
-12138,Stick of Butter,CraftingMaterial,0,Basic,1
-12139,Bowl of Front Line Stew,Consumable,20,Basic,7
-12140,Bowl of Gelatinous Ooze Custard,Consumable,5,Basic,4
-12141,Tomato,CraftingMaterial,0,Basic,2
-12142,Onion,CraftingMaterial,0,Basic,1
-12143,Egg,CraftingMaterial,0,Basic,1
-12144,Snow Truffle,CraftingMaterial,80,Basic,9
-12145,Rice Ball,Consumable,0,Fine,4
-12146,Spinach Salad,Consumable,20,Fine,14
-12147,Mushroom,CraftingMaterial,0,Basic,1
-12148,Spicy Flank Steak,Consumable,10,Fine,10
-12149,Bowl of Ettin Stew,Consumable,13,Fine,11
-12150,Eda's Apple Pie,Consumable,5,Basic,3
-12151,Packet of Baking Powder,CraftingMaterial,0,Basic,1
-12152,Packet of Yeast,CraftingMaterial,0,Basic,2
-12153,Packet of Salt,CraftingMaterial,0,Basic,1
-12154,Bowl of Outrider Stew,Consumable,24,Basic,8
-12155,Bag of Sugar,CraftingMaterial,0,Basic,1
-12156,Jug of Water,CraftingMaterial,0,Basic,1
-12157,Jar of Vinegar,CraftingMaterial,0,Basic,1
-12158,Jar of Vegetable Oil,CraftingMaterial,0,Basic,1
-12159,Cheese Wedge,CraftingMaterial,0,Basic,2
-12160,Loaf of Walnut Sticky Bread,Consumable,17,Basic,7
-12161,Beet,CraftingMaterial,20,Basic,3
-12162,Turnip,CraftingMaterial,20,Basic,3
-12163,Head of Garlic,CraftingMaterial,20,Basic,3
-12165,Apple,CraftingMaterial,0,Basic,2
-12166,Ball of Dough,CraftingMaterial,0,Basic,1
-12167,Bowl of Staple Soup Vegetables,CraftingMaterial,10,Basic,2
-12168,Bowl of White Frosting,CraftingMaterial,40,Basic,5
-12169,Bowl of Baker's Dry Ingredients,CraftingMaterial,25,Basic,3
-12170,Bowl of Baker's Wet Ingredients,CraftingMaterial,25,Basic,4
-12171,Pasta Noodles,CraftingMaterial,10,Basic,2
-12172,Jar of Tomato Sauce,CraftingMaterial,25,Basic,3
-12173,Bowl of Sage Stuffing,CraftingMaterial,25,Basic,4
-12174,Bowl of Tangy Sautee Mix,CraftingMaterial,25,Basic,3
-12175,Bottle of Ascalonian Dressing,CraftingMaterial,25,Basic,4
-12176,Bottle of Simple Dressing,CraftingMaterial,10,Basic,2
-12177,Pile of Cinnamon and Sugar,CraftingMaterial,0,Basic,1
-12178,Pile of Salt and Pepper,CraftingMaterial,0,Basic,1
-12179,Pile of Simple Stew Herbs,CraftingMaterial,25,Basic,4
-12180,Pile of Ascalonian Herbs,CraftingMaterial,20,Basic,3
-12181,Pile of Tangy Seasoning,CraftingMaterial,20,Basic,3
-12182,Buttermilk Biscuit,Consumable,0,Basic,2
-12184,Cup of Potato Fries,Consumable,5,Basic,4
-12185,Handful of Bjarni's Rabbit Food,Consumable,0,Basic,2
-12186,Cheese Triangle,Consumable,10,Fine,10
-12187,Slice of Buttered Toast,Consumable,5,Basic,4
-12188,Bowl of Simple Salad,Consumable,5,Fine,8
-12190,Marinated Mushroom,Consumable,10,Fine,10
-12191,Mashed Potato,Consumable,10,Fine,10
-12192,Eggs Beetletun,Consumable,0,Fine,3
-12194,Slice of Garlic Bread,Consumable,15,Fine,12
-12195,Meatball,Consumable,20,Basic,7
-12196,Bowl of Ascalonian Salad,Consumable,25,Fine,16
-12198,Celebratory Steak,Consumable,10,Fine,10
-12199,Bowl of Red Meat Stock,Consumable,0,Basic,3
-12200,Bowl of Hearty Red Meat Stew,Consumable,25,Fine,16
-12201,Bowl of Simple Meat Stew,Consumable,10,Fine,10
-12202,Bowl of Poultry Stock,Consumable,0,Basic,3
-12203,Bowl of Dolyak Stew,Consumable,10,Basic,5
-12204,Bowl of Poultry Noodle Soup,Consumable,10,Fine,10
-12205,Bowl of Simple Poultry Soup,Consumable,10,Fine,10
-12206,Bowl of Vegetable Stock,Consumable,5,Basic,4
-12207,Bowl of Simple Vegetable Soup,Consumable,10,Fine,10
-12208,Deluxe Burger,Consumable,40,Fine,21
-12209,Grilled Poultry,Consumable,0,Fine,4
-12210,Hamburger,Consumable,0,Basic,3
-12211,Bowl of Cold Wurm Stew,Consumable,10,Basic,4
-12212,Roasted Meaty Sandwich,Consumable,15,Fine,10
-12213,Cheeseburger,Consumable,10,Fine,10
-12214,Poultry Piccata,Consumable,10,Fine,10
-12215,Stuffed Pepper,Consumable,20,Fine,14
-12216,Turnip Casserole,Consumable,25,Fine,16
-12217,Plate of Pasta with Tomato Sauce,Consumable,20,Fine,14
-12218,Cheese Pizza,Consumable,20,Fine,12
-12221,Meatball Dinner,Consumable,25,Fine,16
-12222,Chocolate Cake,Consumable,25,Fine,16
-12223,Apple Pie,Consumable,10,Fine,10
-12224,White Cake,Consumable,10,Fine,10
-12225,Cinnamon Apple,Consumable,0,Fine,5
 12226,Strawberries and Biscuits,Consumable,15,Basic,6
 12227,Sugar Cookie,Consumable,10,Fine,10
 12228,Cup of Banana Cream Pie Filling,CraftingMaterial,20,Basic,4
@@ -35999,206 +35999,6 @@ id,name,type,level,rarity,vendor_value
 51931,Apostate's Swordshame,Weapon,65,Exotic,228
 51932,Apostate's Speakerpride,Weapon,65,Exotic,342
 51933,Apostate's Warleek,Weapon,65,Exotic,228
-51934,Apostate's Hearthfriend,Weapon,65,Exotic,228
-51935,Apostate's Wayfinder,Weapon,65,Exotic,228
-51936,Forsaken Woundwolf,Weapon,65,Exotic,228
-51937,Forsaken Gunnarsong,Weapon,65,Exotic,342
-51938,Forsaken Ravengift,Weapon,65,Exotic,342
-51939,Forsaken Teardrawer,Weapon,65,Exotic,228
-51940,Forsaken Spiritcatcher,Weapon,65,Exotic,228
-51941,Forsaken Woundfire,Weapon,65,Exotic,342
-51942,Forsaken Barrowbuilder,Weapon,65,Exotic,342
-51943,Forsaken Dreadbell,Weapon,65,Exotic,228
-51944,Forsaken Barking Dog,Weapon,65,Exotic,228
-51945,Forsaken Barking Wolf,Weapon,65,Exotic,342
-51946,Forsaken Wiseclaw,Weapon,65,Exotic,228
-51947,Forsaken Swordshame,Weapon,65,Exotic,228
-51948,Forsaken Speakerpride,Weapon,65,Exotic,342
-51949,Forsaken Warleek,Weapon,65,Exotic,228
-51950,Forsaken Hearthfriend,Weapon,65,Exotic,228
-51951,Forsaken Wayfinder,Weapon,65,Exotic,228
-51952,Apostate's Woundwolf,Weapon,68,Exotic,236
-51953,Apostate's Gunnarsong,Weapon,68,Exotic,354
-51954,Apostate's Ravengift,Weapon,68,Exotic,354
-51955,Apostate's Teardrawer,Weapon,68,Exotic,236
-51956,Apostate's Spiritcatcher,Weapon,68,Exotic,236
-51957,Apostate's Woundfire,Weapon,68,Exotic,354
-51958,Apostate's Barrowbuilder,Weapon,68,Exotic,354
-51959,Apostate's Dreadbell,Weapon,68,Exotic,236
-51960,Apostate's Barking Dog,Weapon,68,Exotic,236
-51961,Apostate's Barking Wolf,Weapon,68,Exotic,354
-51962,Apostate's Wiseclaw,Weapon,68,Exotic,236
-51963,Apostate's Swordshame,Weapon,68,Exotic,236
-51964,Apostate's Speakerpride,Weapon,68,Exotic,354
-51965,Apostate's Warleek,Weapon,68,Exotic,236
-51966,Apostate's Hearthfriend,Weapon,68,Exotic,236
-51967,Apostate's Wayfinder,Weapon,68,Exotic,236
-51968,Forsaken Woundwolf,Weapon,68,Exotic,236
-51969,Forsaken Gunnarsong,Weapon,68,Exotic,354
-51970,Forsaken Ravengift,Weapon,68,Exotic,354
-51971,Forsaken Teardrawer,Weapon,68,Exotic,236
-51972,Forsaken Spiritcatcher,Weapon,68,Exotic,236
-51973,Forsaken Woundfire,Weapon,68,Exotic,354
-51974,Forsaken Barrowbuilder,Weapon,68,Exotic,354
-51975,Forsaken Dreadbell,Weapon,68,Exotic,236
-51976,Forsaken Barking Dog,Weapon,68,Exotic,236
-51977,Forsaken Barking Wolf,Weapon,68,Exotic,354
-51978,Forsaken Wiseclaw,Weapon,68,Exotic,236
-51979,Forsaken Swordshame,Weapon,68,Exotic,236
-51980,Forsaken Speakerpride,Weapon,68,Exotic,354
-51981,Forsaken Warleek,Weapon,68,Exotic,236
-51982,Forsaken Hearthfriend,Weapon,68,Exotic,236
-51983,Forsaken Wayfinder,Weapon,68,Exotic,236
-51984,Apostate's Woundwolf,Weapon,71,Exotic,244
-51985,Apostate's Gunnarsong,Weapon,71,Exotic,366
-51986,Apostate's Ravengift,Weapon,71,Exotic,366
-51987,Apostate's Teardrawer,Weapon,71,Exotic,244
-51988,Apostate's Spiritcatcher,Weapon,71,Exotic,244
-51989,Apostate's Woundfire,Weapon,71,Exotic,366
-51990,Apostate's Barrowbuilder,Weapon,71,Exotic,366
-51991,Apostate's Dreadbell,Weapon,71,Exotic,244
-51992,Apostate's Barking Dog,Weapon,71,Exotic,244
-51993,Apostate's Barking Wolf,Weapon,71,Exotic,366
-51994,Apostate's Wiseclaw,Weapon,71,Exotic,244
-51995,Apostate's Swordshame,Weapon,71,Exotic,244
-51996,Apostate's Speakerpride,Weapon,71,Exotic,366
-51997,Apostate's Warleek,Weapon,71,Exotic,244
-51998,Apostate's Hearthfriend,Weapon,71,Exotic,244
-51999,Apostate's Wayfinder,Weapon,71,Exotic,244
-52000,Forsaken Woundwolf,Weapon,71,Exotic,244
-52001,Forsaken Gunnarsong,Weapon,71,Exotic,366
-52002,Forsaken Ravengift,Weapon,71,Exotic,366
-52003,Forsaken Teardrawer,Weapon,71,Exotic,244
-52004,Forsaken Spiritcatcher,Weapon,71,Exotic,244
-52005,Forsaken Woundfire,Weapon,71,Exotic,366
-52006,Forsaken Barrowbuilder,Weapon,71,Exotic,366
-52007,Forsaken Dreadbell,Weapon,71,Exotic,244
-52008,Forsaken Barking Dog,Weapon,71,Exotic,244
-52009,Forsaken Barking Wolf,Weapon,71,Exotic,366
-52010,Forsaken Wiseclaw,Weapon,71,Exotic,244
-52011,Forsaken Swordshame,Weapon,71,Exotic,244
-52012,Forsaken Speakerpride,Weapon,71,Exotic,366
-52013,Forsaken Warleek,Weapon,71,Exotic,244
-52014,Forsaken Hearthfriend,Weapon,71,Exotic,244
-52015,Forsaken Wayfinder,Weapon,71,Exotic,244
-52016,Apostate's Dolorous Axe,Weapon,59,Exotic,212
-52017,Apostate's Ulix's Stoutbow,Weapon,59,Exotic,318
-52018,Apostate's Artem's Needler,Weapon,59,Exotic,318
-52019,Apostate's Cherub's Claw,Weapon,59,Exotic,212
-52020,Apostate's Steelcharm,Weapon,59,Exotic,212
-52021,Apostate's Centaur's Doom,Weapon,59,Exotic,318
-52022,Apostate's Shieldbreaker,Weapon,59,Exotic,318
-52023,Apostate's Balt's Pillar,Weapon,59,Exotic,212
-52024,Apostate's Dutiful Armament,Weapon,59,Exotic,212
-52025,Apostate's Duma's Musket,Weapon,59,Exotic,318
-52026,Apostate's Chorister's Virge,Weapon,59,Exotic,212
-52027,Apostate's Sacred Circle,Weapon,59,Exotic,212
-52028,Apostate's Croisier Guardant,Weapon,59,Exotic,318
-52029,Apostate's Ayala's Rinblade,Weapon,59,Exotic,212
-52030,Apostate's Lambent Sconce,Weapon,59,Exotic,212
-52031,Apostate's Orison of Salma,Weapon,59,Exotic,212
-52032,Apostate's Dolorous Axe,Weapon,62,Exotic,220
-52033,Apostate's Ulix's Stoutbow,Weapon,62,Exotic,330
-52034,Apostate's Artem's Needler,Weapon,62,Exotic,330
-52035,Apostate's Cherub's Claw,Weapon,62,Exotic,220
-52036,Apostate's Steelcharm,Weapon,62,Exotic,220
-52037,Apostate's Centaur's Doom,Weapon,62,Exotic,330
-52038,Apostate's Shieldbreaker,Weapon,62,Exotic,330
-52039,Apostate's Balt's Pillar,Weapon,62,Exotic,220
-52040,Apostate's Dutiful Armament,Weapon,62,Exotic,220
-52041,Apostate's Duma's Musket,Weapon,62,Exotic,330
-52042,Apostate's Chorister's Virge,Weapon,62,Exotic,220
-52043,Apostate's Sacred Circle,Weapon,62,Exotic,220
-52044,Apostate's Croisier Guardant,Weapon,62,Exotic,330
-52045,Apostate's Ayala's Rinblade,Weapon,62,Exotic,220
-52046,Apostate's Lambent Sconce,Weapon,62,Exotic,220
-52047,Apostate's Orison of Salma,Weapon,62,Exotic,220
-52048,Apostate's Dolorous Axe,Weapon,65,Exotic,228
-52049,Apostate's Ulix's Stoutbow,Weapon,65,Exotic,342
-52050,Apostate's Artem's Needler,Weapon,65,Exotic,342
-52051,Apostate's Cherub's Claw,Weapon,65,Exotic,228
-52052,Apostate's Steelcharm,Weapon,65,Exotic,228
-52053,Apostate's Centaur's Doom,Weapon,65,Exotic,342
-52054,Apostate's Shieldbreaker,Weapon,65,Exotic,342
-52055,Apostate's Balt's Pillar,Weapon,65,Exotic,228
-52056,Apostate's Dutiful Armament,Weapon,65,Exotic,228
-52057,Apostate's Duma's Musket,Weapon,65,Exotic,342
-52058,Apostate's Chorister's Virge,Weapon,65,Exotic,228
-52059,Apostate's Sacred Circle,Weapon,65,Exotic,228
-52060,Apostate's Croisier Guardant,Weapon,65,Exotic,342
-52061,Apostate's Ayala's Rinblade,Weapon,65,Exotic,228
-52062,Apostate's Lambent Sconce,Weapon,65,Exotic,228
-52063,Apostate's Dolorous Axe,Weapon,68,Exotic,236
-52064,Apostate's Ulix's Stoutbow,Weapon,68,Exotic,354
-52065,Apostate's Artem's Needler,Weapon,68,Exotic,354
-52066,Apostate's Cherub's Claw,Weapon,68,Exotic,236
-52067,Apostate's Steelcharm,Weapon,68,Exotic,236
-52068,Apostate's Centaur's Doom,Weapon,68,Exotic,354
-52069,Apostate's Shieldbreaker,Weapon,68,Exotic,354
-52070,Apostate's Balt's Pillar,Weapon,68,Exotic,236
-52071,Apostate's Dutiful Armament,Weapon,68,Exotic,236
-52072,Apostate's Duma's Musket,Weapon,68,Exotic,354
-52073,Apostate's Chorister's Virge,Weapon,68,Exotic,236
-52074,Apostate's Sacred Circle,Weapon,68,Exotic,236
-52075,Apostate's Croisier Guardant,Weapon,68,Exotic,354
-52076,Apostate's Ayala's Rinblade,Weapon,68,Exotic,236
-52077,Apostate's Lambent Sconce,Weapon,68,Exotic,236
-52078,Apostate's Orison of Salma,Weapon,68,Exotic,236
-52079,Apostate's Orison of Salma,Weapon,65,Exotic,228
-52080,Apostate's Dolorous Axe,Weapon,71,Exotic,244
-52081,Apostate's Ulix's Stoutbow,Weapon,71,Exotic,366
-52082,Apostate's Artem's Needler,Weapon,71,Exotic,366
-52083,Apostate's Cherub's Claw,Weapon,71,Exotic,244
-52084,Apostate's Steelcharm,Weapon,71,Exotic,244
-52085,Apostate's Centaur's Doom,Weapon,71,Exotic,366
-52086,Apostate's Shieldbreaker,Weapon,71,Exotic,366
-52087,Apostate's Balt's Pillar,Weapon,71,Exotic,244
-52088,Apostate's Dutiful Armament,Weapon,71,Exotic,244
-52089,Apostate's Duma's Musket,Weapon,71,Exotic,366
-52090,Apostate's Chorister's Virge,Weapon,71,Exotic,244
-52091,Apostate's Sacred Circle,Weapon,71,Exotic,244
-52092,Apostate's Croisier Guardant,Weapon,71,Exotic,366
-52093,Apostate's Ayala's Rinblade,Weapon,71,Exotic,244
-52094,Apostate's Lambent Sconce,Weapon,71,Exotic,244
-52095,Apostate's Orison of Salma,Weapon,71,Exotic,244
-52096,Apostate's Cauterizer,Weapon,59,Exotic,212
-52098,Apostate's Little Smirk,Weapon,59,Exotic,318
-52099,Apostate's Razor Shard,Weapon,59,Exotic,212
-52106,Apostate's Smodur's Charge,Weapon,59,Exotic,212
-52107,Apostate's Chiminea Ward,Weapon,59,Exotic,212
-52108,Apostate's Radiance,Weapon,59,Exotic,318
-52110,Apostate's Titan's Brand,Weapon,59,Exotic,212
-52111,Apostate's Bellower,Weapon,59,Exotic,212
-52112,Apostate's Cauterizer,Weapon,62,Exotic,220
-52114,Apostate's Little Smirk,Weapon,62,Exotic,330
-52115,Apostate's Razor Shard,Weapon,62,Exotic,220
-52116,Apostate's Hand Furnace,Weapon,62,Exotic,220
-52119,Apostate's Forge Gavel,Weapon,62,Exotic,220
-52120,Apostate's Glaukon's Greeting,Weapon,62,Exotic,220
-52123,Apostate's Chiminea Ward,Weapon,62,Exotic,220
-52125,Apostate's Distemper,Weapon,62,Exotic,220
-52126,Apostate's Titan's Brand,Weapon,62,Exotic,220
-52127,Apostate's Bellower,Weapon,62,Exotic,220
-52129,Apostate's Big Grin,Weapon,65,Exotic,342
-52131,Apostate's Razor Shard,Weapon,65,Exotic,228
-52133,Apostate's Fury Unleashed,Weapon,65,Exotic,342
-52135,Apostate's Forge Gavel,Weapon,65,Exotic,228
-52138,Apostate's Smodur's Charge,Weapon,65,Exotic,228
-52139,Apostate's Chiminea Ward,Weapon,65,Exotic,228
-52140,Apostate's Radiance,Weapon,65,Exotic,342
-52142,Apostate's Titan's Brand,Weapon,65,Exotic,228
-52144,Apostate's Big Grin,Weapon,68,Exotic,354
-52145,Apostate's Little Smirk,Weapon,68,Exotic,354
-52146,Apostate's Razor Shard,Weapon,68,Exotic,236
-52147,Apostate's Hand Furnace,Weapon,68,Exotic,236
-52151,Apostate's Glaukon's Greeting,Weapon,68,Exotic,236
-52155,Apostate's Radiance,Weapon,68,Exotic,354
-52156,Apostate's Distemper,Weapon,68,Exotic,236
-52158,Apostate's Bellower,Weapon,68,Exotic,236
-52162,Apostate's Little Smirk,Weapon,71,Exotic,366
-52163,Apostate's Razor Shard,Weapon,71,Exotic,244
-52165,Apostate's Fury Unleashed,Weapon,71,Exotic,366
-52168,Apostate's Glaukon's Greeting,Weapon,71,Exotic,244
 52169,Apostate's Gritted Bayonet,Weapon,71,Exotic,366
 52170,Apostate's Smodur's Charge,Weapon,71,Exotic,244
 52172,Apostate's Radiance,Weapon,71,Exotic,366
@@ -42599,206 +42399,6 @@ id,name,type,level,rarity,vendor_value
 67609,Recipe: Charged Ambrite Orichalcum Earring,Consumable,0,Exotic,132
 67610,Recipe: Charged Ambrite Orichalcum Ring,Consumable,0,Exotic,132
 67611,Recipe: Sinister Pearl Trident,Consumable,0,Exotic,132
-67612,Recipe: Sinister Pearl Conch,Consumable,0,Exotic,132
-67613,Sinister Draconic Helm,Armor,80,Exotic,240
-67614,Sinister Draconic Boots,Armor,80,Exotic,240
-67615,Sinister Draconic Coat,Armor,80,Exotic,240
-67616,Sinister Draconic Legs,Armor,80,Exotic,240
-67617,Sinister Draconic Pauldrons,Armor,80,Exotic,240
-67618,Sinister Draconic Gauntlets,Armor,80,Exotic,240
-67619,Sinister Exalted Pants,Armor,80,Exotic,240
-67620,Sinister Exalted Gloves,Armor,80,Exotic,240
-67621,Sinister Exalted Mantle,Armor,80,Exotic,240
-67622,Sinister Exalted Coat,Armor,80,Exotic,240
-67623,Sinister Exalted Boots,Armor,80,Exotic,240
-67624,Sinister Exalted Masque,Armor,80,Exotic,240
-67625,Sinister Emblazoned Helm,Armor,80,Exotic,240
-67626,Sinister Emblazoned Gloves,Armor,80,Exotic,240
-67627,Sinister Emblazoned Shoulders,Armor,80,Exotic,240
-67628,Sinister Emblazoned Pants,Armor,80,Exotic,240
-67629,Sinister Emblazoned Boots,Armor,80,Exotic,240
-67630,Sinister Emblazoned Coat,Armor,80,Exotic,240
-67631,Charged Ambrite Orichalcum Earring,Trinket,80,Exotic,330
-67632,Charged Ambrite Orichalcum Amulet,Trinket,80,Exotic,528
-67633,Charged Ambrite Orichalcum Ring,Trinket,80,Exotic,396
-67634,Sinister Pearl Quarterstaff,Weapon,80,Exotic,396
-67635,Sinister Pearl Conch,Weapon,80,Exotic,264
-67636,Sinister Pearl Trident,Weapon,80,Exotic,396
-67637,Sinister Pearl Rod,Weapon,80,Exotic,264
-67638,Sinister Pearl Siren,Weapon,80,Exotic,264
-67639,Sinister Pearl Handcannon,Weapon,80,Exotic,264
-67640,Sinister Pearl Brazier,Weapon,80,Exotic,264
-67641,Sinister Pearl Blunderbuss,Weapon,80,Exotic,396
-67642,Sinister Pearl Needler,Weapon,80,Exotic,396
-67643,Sinister Pearl Speargun,Weapon,80,Exotic,396
-67644,Sinister Pearl Stinger,Weapon,80,Exotic,396
-67645,Sinister Pearl Shell,Weapon,80,Exotic,264
-67646,Sinister Pearl Impaler,Weapon,80,Exotic,396
-67647,Sinister Pearl Sabre,Weapon,80,Exotic,264
-67648,Sinister Pearl Carver,Weapon,80,Exotic,264
-67649,Sinister Pearl Crusher,Weapon,80,Exotic,396
-67650,Sinister Pearl Reaver,Weapon,80,Exotic,264
-67651,Sinister Pearl Broadsword,Weapon,80,Exotic,396
-67652,Sinister Pearl Bludgeoner,Weapon,80,Exotic,264
-67772,Eternal Sands,Weapon,80,Exotic,264
-67773,Ascended Armor Chest,Container,0,Ascended,0
-67774,Bandit Coin Purse,Container,0,Exotic,0
-67775,Bandit Combat Journal,Consumable,0,Rare,99
-67776,"Story Unlock: ""Echoes of the Past""",Consumable,0,Fine,4
-67777,Bandit Skeleton Key,Consumable,0,Rare,0
-67778,Mini Mordrem Husk,MiniPet,0,Exotic,50
-67780,Tarnished Key,Trophy,0,Rare,0
-67783,Endless Arid Devourer Tonic,Container,0,Rare,0
-67784,Endless Dust Mite Tonic,Gizmo,0,Rare,0
-67786,Sinister Jewelry Recipe Book,Container,0,Rare,0
-67788,Bandit Cache,Container,0,Rare,0
-67789,Ogden's Gratitude,Container,0,Exotic,0
-67790,Ghostly Bag of Loot,Container,0,Basic,0
-67794,Luminescent Gloves Skin,Consumable,0,Rare,0
-67795,Luminescent Leggings Skin,Consumable,0,Rare,0
-67796,Luminescent Helm Skin,Consumable,0,Rare,0
-67797,Luminescent Coat Skin,Consumable,0,Rare,0
-67798,Luminescent Boots Skin,Consumable,0,Rare,0
-67799,Luminescent Shoulders Skin,Consumable,0,Rare,0
-67800,Carapace Boot Box,Container,0,Rare,0
-67801,Carapace Shoulder Box,Container,0,Rare,0
-67802,Sinister Weapon Recipe Book,Container,0,Rare,0
-67803,Sinister Armor Recipe Book,Container,0,Rare,0
-67805,Endless Arid Devourer Tonic,Gizmo,0,Rare,0
-67806,Imbued Beetle Shell,Trophy,0,Rare,192
-67807,Luminescent Laces,Trophy,0,Junk,2500
-67808,Luminescent Strap,Trophy,0,Junk,2500
-67809,Imbued Firefly Luminescence,Trophy,0,Rare,2500
-67811,Extracted Mordrem Troll Part,Container,0,Masterwork,0
-67812,Mordrem Toxin Gland,Gizmo,0,Rare,0
-67813,Extracted Mordrem Teragriff Part,Container,0,Masterwork,0
-67814,Mordrem Thrasher Tendon,Gizmo,0,Masterwork,0
-67815,Mordrem Teragriff Tendon,Gizmo,0,Masterwork,0
-67816,Mordrem Troll Tendon,Gizmo,0,Masterwork,0
-67817,Mordrem Husk Tendon,Gizmo,0,Masterwork,0
-67818,Experimental Mordrem Extraction Device,Consumable,0,Masterwork,0
-67819,Mordrem Troll Spleen,Gizmo,0,Masterwork,0
-67820,Mordrem Thrasher Spleen,Gizmo,0,Masterwork,0
-67821,Mordrem Teragriff Spleen,Gizmo,0,Masterwork,0
-67822,Mordrem Husk Spleen,Gizmo,0,Masterwork,0
-67823,Mordrem Heart,Gizmo,0,Exotic,0
-67824,Extracted Mordrem Thrasher Part,Container,0,Masterwork,0
-67825,Extracted Mordrem Husk Part,Container,0,Masterwork,0
-67826,Silverwastes Shovel,Consumable,0,Basic,0
-67829,Verata's Sinister Inscription,CraftingMaterial,80,Ascended,30
-67830,Sinister Orichalcum Imbued Inscription,CraftingMaterial,80,Exotic,66
-67831,Sinister Intricate Gossamer Insignia,CraftingMaterial,0,Exotic,64
-67832,Sheet of Charged Ambrite,CraftingMaterial,0,Rare,48
-67833,Verata's Sinister Insignia,CraftingMaterial,0,Ascended,30
-67835,Pact Airship Balloon,Gizmo,0,Masterwork,0
-67836,Celebration Booster,Consumable,0,Masterwork,0
-67837,Mini Belinda Delaqua,MiniPet,0,Exotic,50
-67838,Mini Sand Giant,MiniPet,0,Masterwork,50
-67839,Mini Pact Airship,MiniPet,0,Masterwork,50
-67840,Mini Drooburt's Ghost,MiniPet,0,Masterwork,50
-67841,Mini Avatar of the Tree,MiniPet,0,Masterwork,50
-67842,Basic Cloth Rack,Consumable,0,Rare,0
-67844,Wintersday Greatsword Skin,Consumable,0,Rare,0
-67856,Set of 3 Gather-r-Tron Tools,Container,0,Rare,0
-67857,Glint's Gaze Mask Skin,Consumable,0,Masterwork,0
-67862,Permanent Chickenado Finisher,Consumable,0,Rare,0
-67863,Exalted Mail Courier,Consumable,0,Rare,75
-67868,Arctic Explorer Outfit,Consumable,0,Rare,0
-67869,Wintersday Focus Skin,Consumable,0,Rare,0
-67871,Wintersday Scepter Skin,Consumable,0,Rare,0
-67872,Wintersday Shield Skin,Consumable,0,Rare,0
-67873,Wintersday Rifle Skin,Consumable,0,Rare,0
-67874,Wintersday Sword Skin,Consumable,0,Rare,0
-67875,Wintersday Staff Skin,Consumable,0,Rare,0
-67876,Wintersday Pistol Skin,Consumable,0,Rare,0
-67877,Wintersday Mace Skin,Consumable,0,Rare,0
-67878,Wintersday Torch Skin,Consumable,0,Rare,0
-67879,Wintersday Longbow Skin,Consumable,0,Rare,0
-67880,Wintersday Hammer Skin,Consumable,0,Rare,0
-67881,Aviator's Memory Box,Gizmo,0,Masterwork,0
-67882,Wintersday Short Bow Skin,Consumable,0,Rare,0
-67883,Wintersday Warhorn Skin,Consumable,0,Rare,0
-67884,Wintersday Axe Skin,Consumable,0,Rare,0
-67885,Wintersday Dagger Skin,Consumable,0,Rare,0
-67887,Shoulder Scarf Skin,Consumable,0,Masterwork,0
-67889,Immortal Weapon Choice,Container,0,Exotic,0
-67894,Caithe's Remorse,Trinket,80,Ascended,413
-67895,Quetzal Crest,Trinket,80,Ascended,413
-67896,Caithe's Blossom,Trinket,80,Ascended,413
-67897,Ventari's Chisel,Trinket,80,Ascended,413
-67898,Wynne's Locket,Trinket,80,Ascended,660
-67899,Ogden's Ankh,Trinket,80,Ascended,660
-67900,Jurah's Jewel,Trinket,80,Ascended,660
-67901,Aspect Amulet,Trinket,80,Ascended,660
-67902,Sandford Family Ring,Trinket,80,Ascended,495
-67903,Plague Signet (Infused),Trinket,80,Ascended,495
-67904,Verata's Seared Ring (Infused),Trinket,80,Ascended,495
-67905,Verata's Seared Ring,Trinket,80,Ascended,495
-67906,Plague Signet,Trinket,80,Ascended,495
-67907,Sandford Family Ring (Infused),Trinket,80,Ascended,495
-67908,Forgotten Band,Trinket,80,Ascended,495
-67909,Forgotten Band (Infused),Trinket,80,Ascended,495
-67910,Mysterious Elixir,Consumable,0,Basic,1
-67911,Fragrant Cactus Fruit,Consumable,0,Basic,1
-67912,Superior Rune of the Defender,UpgradeComponent,60,Exotic,216
-67913,Superior Sigil of Blight,UpgradeComponent,60,Exotic,216
-67914,Exquisite Charged Ambrite Jewel,UpgradeComponent,80,Exotic,264
-67915,Bandit Focus,Weapon,80,Rare,198
-67916,Bandit Slicer,Weapon,80,Rare,198
-67917,Bandit Spire,Weapon,80,Rare,297
-67918,Bandit Trident,Weapon,80,Rare,297
-67919,Bandit Longbow,Weapon,80,Rare,297
-67920,Bandit Revolver,Weapon,80,Rare,198
-67921,Bandit Musket,Weapon,80,Rare,297
-67922,Bandit Short Bow,Weapon,80,Rare,297
-67923,Bandit Ward,Weapon,80,Rare,198
-67924,Bandit Harpoon Gun,Weapon,80,Rare,297
-67925,Bandit Spear,Weapon,80,Rare,297
-67926,Bandit Cleaver,Weapon,80,Rare,198
-67927,Bandit Shiv,Weapon,80,Rare,198
-67928,Bandit Sunderer,Weapon,80,Rare,297
-67929,Bandit Mallet,Weapon,80,Rare,198
-67930,Bandit Demolisher,Weapon,80,Rare,297
-67931,Bandit Torch,Weapon,80,Rare,198
-67932,Bandit Bugle,Weapon,80,Rare,198
-67933,Bandit Baton,Weapon,80,Rare,198
-67934,Verata's Impaler,Weapon,80,Ascended,10000
-67935,Verata's Trident,Weapon,80,Ascended,10000
-67936,Verata's Herald,Weapon,80,Ascended,10000
-67937,Verata's Brazier,Weapon,80,Ascended,10000
-67938,Verata's Blade,Weapon,80,Ascended,10000
-67939,Verata's Spire,Weapon,80,Ascended,10000
-67940,Verata's Harpoon Gun,Weapon,80,Ascended,10000
-67941,Verata's Short Bow,Weapon,80,Ascended,10000
-67942,Verata's Bastion,Weapon,80,Ascended,10000
-67943,Verata's Wand,Weapon,80,Ascended,10000
-67944,Verata's Reaver,Weapon,80,Ascended,10000
-67945,Verata's Revolver,Weapon,80,Ascended,10000
-67946,Verata's Flanged Mace,Weapon,80,Ascended,10000
-67947,Verata's Greatbow,Weapon,80,Ascended,10000
-67948,Verata's Razor,Weapon,80,Ascended,10000
-67949,Verata's Warhammer,Weapon,80,Ascended,10000
-67950,Verata's Claymore,Weapon,80,Ascended,10000
-67951,Verata's Artifact,Weapon,80,Ascended,10000
-67952,Verata's Musket,Weapon,80,Ascended,10000
-67961,Recipe: Bountiful Tuning Crystal,Consumable,0,Masterwork,66
-67962,Recipe: Bountiful Sharpening Stone,Consumable,0,Masterwork,66
-67963,Recipe: Furious Tuning Crystal,Consumable,0,Masterwork,66
-67964,Recipe: Furious Maintenance Oil,Consumable,0,Masterwork,66
-67965,Recipe: Furious Sharpening Stone,Consumable,0,Masterwork,66
-67966,Recipe: Bountiful Maintenance Oil,Consumable,0,Masterwork,66
-67967,"Story Unlock: ""Tangled Paths""",Consumable,0,Fine,4
-67968,Luminescent Glove Lining,Trophy,0,Junk,2500
-67969,Mordrem Husk Fang,Gizmo,0,Masterwork,0
-67971,Carapace Glove Box,Container,0,Rare,0
-67972,Illuminated Truffle,Trophy,0,Rare,192
-67974,Mordrem Thrasher Fang,Gizmo,0,Masterwork,0
-67975,Mordrem Teragriff Fang,Gizmo,0,Masterwork,0
-67976,Mordrem Tendon Extraction Device,Consumable,0,Basic,0
-67977,Mordrem Spleen Extraction Device,Consumable,0,Basic,0
-67978,Mordrem Troll Fang,Gizmo,0,Masterwork,0
-67979,Key of Greater Nightmares,Trophy,0,Rare,0
-67980,The Master of Peace's Bequest,Container,0,Rare,0
 67981,Essence of Nightmares,Gizmo,0,Masterwork,0
 67989,Fresh Plant Material,Trophy,0,Basic,0
 67990,Jungle Explorer Outfit,Consumable,0,Rare,0
@@ -55199,206 +54799,6 @@ id,name,type,level,rarity,vendor_value
 86843,Shing Jea Orchid Petal,CraftingMaterial,35,Basic,5
 86844,500 Ley Line Crystals,Consumable,0,Rare,92
 86845,300 Manifestos of the Moletariate,Consumable,0,Rare,92
-86846,Butternut Squash Seed Pouch,Consumable,0,Basic,0
-86847,Pack of Home Recipes,Container,0,Masterwork,0
-86848,Lentil Seed Pouch,Consumable,0,Basic,0
-86849,Garden Leek Seed,Consumable,0,Basic,0
-86850,Tarragon Seed Pouch,Consumable,0,Basic,0
-86851,Clove Seed Pouch,Consumable,0,Basic,0
-86853,Turnip Seed Pouch,Consumable,0,Basic,0
-86854,Artichoke Seed Pouch,Consumable,0,Basic,0
-86855,Guaranteed Red-Brown Dye Unlock,Consumable,5,Rare,125
-86856,Mini Green Jackal Pup,MiniPet,0,Rare,50
-86857,5 Pristine Fractal Relics,Consumable,0,Rare,92
-86858,Recipe: Guaranteed Red-Brown Dye Unlock,Consumable,0,Masterwork,22
-86859,300 Deadly Blooms,Consumable,0,Rare,92
-86861,Garlic Seed Pouch,Consumable,0,Basic,0
-86862,Grape Seed Pouch,Consumable,0,Basic,0
-86863,Oregano Seed Pouch,Consumable,0,Basic,0
-86864,Garden Passion Fruit Seed,Consumable,0,Basic,0
-86865,300 Knowledge Crystals,Consumable,0,Rare,92
-86866,300 Flame Legion Charr Carvings,Consumable,0,Rare,92
-86867,Cassava Seed Pouch,Consumable,0,Basic,0
-86868,Mini Stardust Jackal Pup,MiniPet,0,Rare,50
-86869,300 Bandit Crests,Consumable,0,Rare,92
-86870,100 Fractal Relics,Consumable,0,Rare,92
-86872,Flask of Utility Primer,Consumable,0,Fine,25
-86874,Shing Jea Orchid Seed Pouch,Consumable,0,Basic,0
-86875,Portobello Mushroom Spore Pouch,Consumable,0,Basic,0
-86876,300 Seals of Beetletun,Consumable,0,Rare,92
-86877,Garden Strawberry Seed,Consumable,0,Basic,0
-86878,Strawberry Seed Pouch,Consumable,0,Basic,0
-86879,Carrot Seed Pouch,Consumable,0,Basic,0
-86881,Cauliflower Seed Pouch,Consumable,0,Basic,0
-86882,Rosemary Seed Pouch,Consumable,0,Basic,0
-86883,250 Trade Contracts,Consumable,0,Rare,92
-86884,Black Peppercorn Seed Pouch,Consumable,0,Basic,0
-86886,Garden Butternut Squash Seed,Consumable,0,Basic,0
-86888,Lettuce Seed Pouch,Consumable,0,Basic,0
-86890,Krytan Spiderwort Bloom,CraftingMaterial,35,Basic,5
-86891,Blackberry Seed Pouch,Consumable,0,Basic,0
-86892,Raspberry Seed Pouch,Consumable,0,Basic,0
-86893,Zucchini Seed Pouch,Consumable,0,Basic,0
-86894,Krytan Spiderwort Seed Pouch,Consumable,0,Basic,0
-86895,Sage Seed Pouch,Consumable,0,Basic,0
-86896,Grave Dye,Consumable,0,Rare,5
-86897,Jackal Rune Greaves Skin,Consumable,0,Masterwork,0
-86898,Zhaitan Dye Kit,Container,0,Masterwork,0
-86899,Grand Lion Griffon Skin,Consumable,0,Exotic,0
-86900,Decay Dye,Consumable,0,Rare,5
-86901,Worn Bone Dye,Consumable,0,Rare,5
-86902,Darkness Dye,Consumable,0,Rare,5
-86903,Risen Dye,Consumable,0,Rare,5
-86904,Jackal Rune Gauntlets Skin,Consumable,0,Masterwork,0
-86905,Abyssal Sea Dye,Consumable,0,Rare,5
-86906,Endless Friendship Tonic,Gizmo,0,Masterwork,0
-86907,Alchemist Sword Skin,Consumable,0,Rare,0
-86909,Firecracker Lighting: Bronze,Container,0,Fine,0
-86910,Alchemist Pistol Skin,Consumable,0,Rare,0
-86911,Red Knot,Trophy,0,Junk,10000
-86912,Alchemist Rifle Skin,Consumable,0,Rare,0
-86913,Firecracker Lighting: Silver,Container,0,Masterwork,0
-86914,Firecracker Lighting: Gold,Container,0,Rare,0
-86918,Champion's Dragon,Gizmo,0,Legendary,0
-86919,Alchemist Scepter Skin,Consumable,0,Rare,0
-86920,Alchemist Greatsword Skin,Consumable,0,Rare,0
-86921,Pile of Silky Sand,Container,0,Basic,0
-86923,Dog Statue,Consumable,0,Basic,0
-86924,Alchemist Staff Skin,Consumable,0,Rare,0
-86925,"Mini Lunar ""Horse""",MiniPet,0,Exotic,256
-86926,Lucky Great Dog Lantern,Back,80,Exotic,8888
-86927,Mini Grand Lion Griffon,Consumable,0,Masterwork,50
-86928,Fire-Breathing Longbow,Consumable,0,Rare,0
-86929,Lucky Dog Lantern,Back,65,Rare,888
-86932,Alchemist Focus Skin,Consumable,0,Rare,0
-86933,Alchemist Short Bow Skin,Consumable,0,Rare,0
-86934,Orange Tree,Trophy,0,Junk,5000
-86935,Alchemist Torch Skin,Consumable,0,Rare,0
-86936,Lucky Coin,Trophy,0,Junk,15000
-86937,Mini Lunar Shepherd,MiniPet,0,Exotic,256
-86939,Mini Summit Wildhorn Springer,Consumable,0,Masterwork,50
-86940,Alchemist Dagger Skin,Consumable,0,Rare,0
-86942,Golden Dumpling,Trophy,0,Junk,50000
-86943,Lucky Dog Harvesting Tool,Gathering,0,Rare,192
-86945,Paper Lantern,Trophy,0,Junk,20000
-86946,The Evon Gnashblade Lucky Envelope,Container,0,Rare,108
-86948,Mini Umbral Demon Skimmer,Consumable,0,Masterwork,50
-86949,Alchemist Axe Skin,Consumable,0,Rare,0
-86950,Mini Resplendent Avialan Raptor,Consumable,0,Masterwork,50
-86952,Alchemist Shield Skin,Consumable,0,Rare,0
-86954,Alchemist Mace Skin,Consumable,0,Rare,0
-86955,Alchemist Longbow Skin,Consumable,0,Rare,0
-86956,Mini Reforged Warhound Jackal,Consumable,0,Masterwork,50
-86958,Mini Lucky Lantern Puppy,Consumable,0,Masterwork,50
-86959,Golden Dog Figurine,Trophy,0,Junk,8888
-86960,Mini Lunar Gourdog,MiniPet,0,Exotic,256
-86961,Fire-Breathing Quiver,Consumable,0,Masterwork,0
-86962,Small Bag of Spirit Shards,Consumable,0,Masterwork,0
-86963,Alchemist Warhorn Skin,Consumable,0,Rare,0
-86964,Visage of the Great Dog Firework,Consumable,0,Exotic,0
-86965,Alchemist Hammer Skin,Consumable,0,Rare,0
-86966,Fire-Breathing Package,Consumable,0,Masterwork,0
-86967,Fury-Scorched Stone,Trophy,0,Exotic,256
-86968,Claw of Retribution,Weapon,80,Exotic,264
-86969,Golem Right Arm,Trophy,0,Rare,192
-86970,Hafez's Music Box (Tradable),Container,0,Exotic,5000
-86973,Vanquish Branded Recording,Trophy,0,Rare,192
-86974,Difluorite Band,Trinket,80,Ascended,495
-86975,Module KL-411,Trophy,0,Rare,192
-86977,Difluorite Crystal,Consumable,0,Exotic,128
-86978,Multifaceted Difluorite Earrings,Trinket,80,Ascended,413
-86979,Mark Y Golem,Back,80,Ascended,1000
-86981,Sandswept Isles Portal Scroll,Gizmo,80,Ascended,320
-86986,Concentration WvW Infusion,UpgradeComponent,0,Fine,8
-86987,Tinari's Music Box (Tradable),Container,0,Exotic,5000
-86990,Mark Y Golem (Infused),Back,80,Ascended,1000
-86991,Sack of Difluorite Crystals,Container,0,Exotic,52
-86992,"""The Storm That Consumes All""",Consumable,0,Rare,0
-86993,Pocketed Olmakhan Bandolier,Bag,0,Exotic,256
-86997,Plate of Beef Rendang,Consumable,80,Masterwork,66
-86998,Golem Left Arm,Trophy,0,Rare,192
-86999,"Story Unlock: ""A Bug in the System""",Consumable,0,Fine,4
-87002,Extortion Recording,Trophy,0,Rare,192
-87005,Feathers of the Zephyr,Consumable,0,Masterwork,50
-87008,Mini Inquest Assault Cube,MiniPet,0,Rare,50
-87009,Olmakhan Defense Recording,Trophy,0,Rare,192
-87010,Mini Frost Hydra Head,MiniPet,0,Rare,50
-87011,Box of Inquest Spoils,Container,0,Exotic,0
-87013,Burglar Recording,Trophy,0,Rare,192
-87014,Luminescent Seaweed,Consumable,0,Rare,0
-87021,Forged Wing Backpack,Consumable,0,Masterwork,0
-87022,Mastery Line Unlock,Consumable,0,Junk,10
-87026,Amnoon Refugee Recording,Trophy,0,Rare,192
-87029,Avocado Smoothie,Consumable,75,Masterwork,62
-87030,Attuned Difluorite Band (Infused),Trinket,80,Ascended,495
-87031,Shard of Resolution,CraftingMaterial,0,Ascended,83
-87032,Refugee Healing Recording,Trophy,0,Rare,192
-87037,Claw of Resolution,Weapon,80,Ascended,330
-87038,Simple Olmakhan Bandolier,Bag,0,Masterwork,128
-87039,Bundle of Difluorite Crystals,Consumable,0,Exotic,128
-87041,Branded Jackal Skin,Consumable,0,Rare,0
-87042,Amnoon Refugee Recording,Trophy,0,Rare,192
-87044,Recipe: Claw of Resolution,Consumable,0,Ascended,160
-87045,Crystal Corral: Gold,Container,0,Rare,0
-87048,Gilded Strongbox,Container,0,Basic,0
-87050,Storm-Charged Fulgurite,Trophy,0,Junk,10000
-87051,Module HR-874,Trophy,0,Rare,192
-87052,Lost Supply Recording,Trophy,0,Rare,192
-87053,Olmakhan Mantle,Armor,80,Exotic,25000
-87055,Toxic Rubberized Sea Foam,Trophy,0,Junk,2000
-87056,Module ZN-290,Trophy,0,Rare,192
-87059,Mini Boticca,MiniPet,0,Rare,50
-87061,Nightingale's Music Box (Tradable),Container,0,Exotic,5000
-87064,Inquest Manual on Choleric Elemental Energy,Consumable,0,Masterwork,0
-87066,Mini Lightning Hydra Head,MiniPet,0,Rare,50
-87067,Sandswept Isles Griffon Expert: Gold,Container,0,Rare,0
-87068,Vanquish Wyvern Recording,Trophy,0,Rare,192
-87069,Hostage Rescue Recording,Trophy,0,Rare,192
-87070,Forged Glider,Consumable,0,Masterwork,0
-87071,Inquest Apparatus,Back,80,Exotic,1000
-87076,Bowl of Poultry Satay,Consumable,80,Masterwork,66
-87077,Crystal Corral: Bronze,Container,0,Fine,0
-87078,Mini Elemental Hydra,MiniPet,0,Exotic,50
-87079,Module JT-609,Trophy,0,Rare,192
-87082,Extortion Recording,Trophy,0,Rare,192
-87083,Bundle of Difluorite Crystals,Consumable,0,Exotic,128
-87087,Medical Aid Recording,Trophy,0,Rare,192
-87088,Branded Raptor Skin,Consumable,0,Rare,0
-87092,Integrated Circuitry,Trophy,0,Rare,192
-87093,Claw of Execution,Weapon,80,Exotic,264
-87095,Sandswept Isles Griffon Expert: Silver,Container,0,Masterwork,0
-87096,Lost Supply Recording,Trophy,0,Rare,192
-87097,Deadhouse Rescue Recording,Trophy,0,Rare,192
-87098,Holographic Display Unit,Trophy,0,Rare,192
-87101,Olmakhan Mantle Box,Container,0,Exotic,0
-87102,Holographic Display Unit,Trophy,0,Rare,192
-87106,Difluorite Band (Infused),Trinket,80,Ascended,495
-87108,Zohaqan's Letter,Consumable,0,Exotic,0
-87109,Claw of the Khan-Ur,Weapon,80,Legendary,100000
-87110,Recipe: Claw of Retribution,Consumable,0,Exotic,128
-87111,Deadhouse Rescue Recording,Trophy,0,Rare,192
-87112,Golem Energy Core,Trophy,0,Basic,32
-87113,Inquest Mega-Spanner,Weapon,80,Exotic,396
-87114,Recording Device,Gizmo,0,Rare,192
-87115,Gift of the Four Legions,Trophy,0,Legendary,640
-87118,Cadet Rescue Recording,Trophy,0,Rare,192
-87119,Module XD-356,Trophy,0,Rare,192
-87120,Optical Sensor,Trophy,0,Rare,192
-87122,Module MV-337,Trophy,0,Rare,192
-87124,Zephyrite Rescue Recording,Trophy,0,Rare,192
-87125,Recipe: Bowl of Poultry Satay,Consumable,0,Masterwork,66
-87126,Unopened Endless Branded Tonic,Container,0,Exotic,0
-87127,"""Shadow and Sun""",Consumable,0,Exotic,0
-87129,Mini Inquest Exterminator Golem,MiniPet,0,Rare,50
-87130,Champion's Storm,Gizmo,0,Legendary,0
-87132,Difluorite Crystal Cluster Node,Consumable,0,Rare,0
-87133,Mini Branded Griffon,Consumable,0,Masterwork,50
-87134,Endless Olmakhan Tonic,Gizmo,0,Rare,0
-87135,Fisher Recording,Trophy,0,Rare,192
-87136,Wild Magic Backpack Glider Combo,Consumable,0,Masterwork,0
-87140,Bundle of Difluorite Crystals,Consumable,0,Exotic,128
-87141,Mini Branded Jackal,Consumable,0,Masterwork,50
-87142,Module KL-411,Trophy,0,Rare,192
 87143,Villager Defense Recording,Trophy,0,Rare,192
 87145,Recipe: Avocado Smoothie,Consumable,0,Masterwork,66
 87147,Refugee Healing Recording,Trophy,0,Rare,192
@@ -59199,206 +58599,6 @@ id,name,type,level,rarity,vendor_value
 92347,Rare Black Lion Dye Canister—Blue,Gizmo,0,Rare,0
 92348,Dragonrender Medium Helm,Armor,80,Exotic,25000
 92349,Recipe: Illuminated Boreal Torch,Consumable,0,Exotic,128
-92350,Deer Meat Chunk,Trophy,0,Basic,500
-92351,Recipe: Illuminated Boreal Focus,Consumable,0,Exotic,128
-92352,Ancient Boreal Staff Skin,Consumable,80,Exotic,0
-92354,Restored Boreal Longbow,Weapon,80,Exotic,396
-92355,"""Recovered"" Norn Weapons",Container,0,Rare,0
-92356,Scrap of Icebrood Saga Mastery,Consumable,0,Masterwork,0
-92357,Recipe: Restored Boreal Torch,Consumable,0,Exotic,128
-92358,Ancient Boreal Focus Skin,Consumable,80,Exotic,0
-92359,Restored Boreal Sword,Weapon,80,Exotic,264
-92360,Ancient Boreal Short Bow Skin,Consumable,80,Exotic,0
-92361,Eternal Ice Shard Home Instance Node,Consumable,0,Rare,0
-92362,Recipe: Illuminated Boreal Greatsword,Consumable,0,Exotic,128
-92363,Restored Boreal Greatsword,Weapon,80,Exotic,396
-92365,Recipe: Restored Boreal Staff,Consumable,0,Exotic,128
-92366,Recipe: Illuminated Boreal Dagger,Consumable,0,Exotic,128
-92367,Restored Boreal Focus,Weapon,80,Exotic,264
-92368,Raven's Eye,Weapon,80,Exotic,9000
-92369,Strike Mission: Lost Medium Chest of Resilience,Container,0,Masterwork,0
-92370,Ancient Boreal Axe Skin,Consumable,80,Exotic,0
-92371,Recipe: Illuminated Boreal Axe,Consumable,0,Exotic,128
-92372,Recipe: Restored Boreal Short Bow,Consumable,0,Exotic,128
-92373,Sons of Svanir Battle Plans,Trophy,0,Junk,4
-92376,Raven's Gift,Container,0,Exotic,0
-92377,Recipe: Restored Boreal Dagger,Consumable,0,Exotic,128
-92378,Recipe: Illuminated Boreal Staff,Consumable,0,Exotic,128
-92379,Recipe: Restored Boreal Pistol,Consumable,0,Exotic,128
-92380,Recipe: Illuminated Boreal Short Bow,Consumable,0,Exotic,128
-92382,Ancient Boreal Warhorn Skin,Consumable,80,Exotic,0
-92383,What's Happening?,Gizmo,0,Basic,0
-92386,Recipe: Illuminated Boreal Longbow,Consumable,0,Exotic,128
-92387,Gift of the Ancestors,Container,0,Exotic,0
-92388,Exotic Black Lion Dye Canister—Blue,Container,0,Exotic,0
-92389,Urgent Vigil Letter,Gizmo,0,Exotic,0
-92393,Raven Spirit Shadow,Consumable,0,Exotic,100
-92394,Sweet Campfire Treat,Consumable,0,Exotic,0
-92395,Restored Boreal Mace,Weapon,80,Exotic,264
-92396,Infernal Horror Springer Skin,Consumable,0,Exotic,0
-92397,Recipe: Illuminated Boreal Mace,Consumable,0,Exotic,128
-92398,Shiverpeaks Hunter Backpack,Consumable,0,Masterwork,0
-92399,Recipe: Illuminated Boreal Pistol,Consumable,0,Exotic,128
-92400,Ancient Boreal Torch Skin,Consumable,80,Exotic,0
-92401,Celestial Axe Skin,Consumable,0,Rare,0
-92402,Gift of the Ancestors,Container,0,Ascended,0
-92404,Recipe: Restored Boreal Shield,Consumable,0,Exotic,128
-92406,Ancient Boreal Pistol Skin,Consumable,80,Exotic,0
-92407,Delivered Imported Blood Orange,Consumable,0,Rare,0
-92408,Blue Lion Dye,Consumable,0,Exotic,0
-92410,Ancient Boreal Scepter Skin,Consumable,80,Exotic,0
-92411,Bjora Marches Portal Scroll,Gizmo,80,Ascended,0
-92413,Simple Boreal Canteen,Bag,0,Masterwork,128
-92415,Surplus Delivery Box,Container,0,Masterwork,0
-92416,Basic Guild Cape,Consumable,0,Masterwork,6250
-92418,Salsa Eggs Benedict,Gizmo,0,Basic,0
-92422,Plate of Beef Carpaccio with Mint Garnish,Gizmo,0,Basic,0
-92424,Spherified Peppercorn-Spiced Oyster Soup,Gizmo,0,Basic,0
-92425,Plate of Sesame Poultry Aspic,Gizmo,0,Basic,0
-92427,Black Lion Industry Contract,Consumable,15,Rare,0
-92428,Clove-Spiced Eggs Benedict,Gizmo,0,Basic,0
-92431,Sesame-Asparagus and Cured Meat Flatbread,Gizmo,0,Basic,0
-92432,Sesame Creme Brulee,Gizmo,0,Basic,0
-92433,Sesame Veggie Flatbread,Gizmo,0,Basic,0
-92435,Plate of Peppercorn-Spiced Coq Au Vin,Gizmo,0,Basic,0
-92436,Bowl of Fruit Salad with Orange-Clove Syrup,Gizmo,0,Basic,0
-92437,Spherified Clove-Spiced Oyster Soup,Gizmo,0,Basic,0
-92439,Clove and Veggie Flatbread,Gizmo,0,Basic,0
-92440,Bowl of Fruit Salad with Mint Garnish,Gizmo,0,Basic,0
-92442,Plate of Poultry Aspic with Mint Garnish,Gizmo,0,Basic,0
-92443,Bowl of Spiced Fruit Salad,Gizmo,0,Basic,0
-92445,Strawberry Cilantro Cheesecake,Gizmo,0,Basic,0
-92448,Plate of Peppercorn-Spiced Beef Carpaccio,Gizmo,0,Basic,0
-92451,Mushroom Clove Sous-Vide Steak,Gizmo,0,Basic,0
-92452,Plate of Beef Carpaccio with Salsa Garnish,Gizmo,0,Basic,0
-92456,Cilantro and Cured Meat Flatbread,Gizmo,0,Basic,0
-92457,Plate of Peppered Clear Truffle Ravioli,Gizmo,0,Basic,0
-92462,Mint Strawberry Cheesecake,Gizmo,0,Basic,0
-92467,Clove-Spiced Pear and Cured Meat Flatbread,Gizmo,0,Basic,0
-92468,Plate of Sesame-Ginger Beef Carpaccio,Gizmo,0,Basic,0
-92469,Mint-Pear Cured Meat Flatbread,Gizmo,0,Basic,0
-92471,Spherified Sesame Oyster Soup,Gizmo,0,Basic,0
-92472,Dreamwalker Dagger Skin,Consumable,0,Rare,0
-92476,Plate of Coq Au Vin with Mint Garnish,Gizmo,0,Basic,0
-92478,Salsa-Topped Veggie Flatbread,Gizmo,0,Basic,0
-92479,Peppercorn-Crusted Sous-Vide Steak,Gizmo,0,Basic,0
-92483,Mint Creme Brulee,Gizmo,0,Basic,0
-92486,Plate of Clove-Spiced Clear Truffle Ravioli,Gizmo,0,Basic,0
-92487,Spherified Cilantro Oyster Soup,Gizmo,0,Basic,0
-92488,Peppered Cured Meat Flatbread,Gizmo,0,Basic,0
-92489,Clove-Spiced Creme Brulee,Gizmo,0,Basic,0
-92490,Spiced Peppercorn Cheesecake,Gizmo,0,Basic,0
-92492,Peppercorn-Spiced Eggs Benedict,Gizmo,0,Basic,0
-92496,Plate of Clove-Spiced Poultry Aspic,Gizmo,0,Basic,0
-92500,Plate of Poultry Aspic with Salsa Garnish,Gizmo,0,Basic,0
-92503,Orange Clove Cheesecake,Gizmo,0,Basic,0
-92505,Mint and Veggie Flatbread,Gizmo,0,Basic,0
-92507,Spiced Pepper Creme Brulee,Gizmo,0,Basic,0
-92509,Eggs Benedict with Mint-Parsley Sauce,Gizmo,0,Basic,0
-92510,Plate of Coq Au Vin with Salsa,Gizmo,0,Basic,0
-92512,Bowl of Fruit Salad with Cilantro Garnish,Gizmo,0,Basic,0
-92514,Tournament Title Scroll: Tournament Test Subject,Consumable,0,Legendary,0
-92517,Peppercorn and Veggie Flatbread,Gizmo,0,Basic,0
-92519,Spherified Oyster Soup with Mint Garnish,Gizmo,0,Basic,0
-92520,Soy-Sesame Sous-Vide Steak,Gizmo,0,Basic,0
-92521,Mango Cilantro Creme Brulee,Gizmo,0,Basic,0
-92523,Plate of Sesame-Crusted Coq Au Vin,Gizmo,0,Basic,0
-92524,Bowl of Sesame Fruit Salad,Gizmo,0,Basic,0
-92526,Emblazoned Cape,Consumable,0,Masterwork,6250
-92527,Plate of Clear Truffle and Cilantro Ravioli,Gizmo,0,Basic,0
-92528,Plate of Clove-Spiced Coq Au Vin,Gizmo,0,Basic,0
-92529,Sous-Vide Steak with Mint-Parsley Sauce,Gizmo,0,Basic,0
-92530,Sesame Eggs Benedict,Gizmo,0,Basic,0
-92531,Plate of Clear Truffle and Sesame Ravioli,Gizmo,0,Basic,0
-92533,Plate of Clear Truffle and Mint Ravioli,Gizmo,0,Basic,0
-92537,Sesame Cheesecake,Gizmo,0,Basic,0
-92538,Plate of Peppercorn-Spiced Poultry Aspic,Gizmo,0,Basic,0
-92539,Plate of Clove-Spiced Beef Carpaccio,Gizmo,0,Basic,0
-92540,Cilantro Lime Sous-Vide Steak,Gizmo,0,Basic,0
-92541,Hide-and-Seek,Trophy,0,Basic,0
-92542,Winter Monarch Cape,Consumable,0,Masterwork,6250
-92543,Wintersday Adventure: Gold,Container,0,Rare,0
-92544,Mythic Dagger Skin,Consumable,0,Rare,0
-92545,Mythic Weapon Choice,Container,0,Rare,0
-92546,Play Dead,Trophy,0,Basic,0
-92547,Starlight Wings Backpack and Glider Combo,Consumable,0,Masterwork,0
-92548,Wintersday Adventure: Bronze,Container,0,Fine,0
-92549,Festive Sweater,Armor,80,Exotic,396
-92550,Mythic Torch Skin,Consumable,0,Rare,0
-92551,Mistborn Mount Adoption License,Consumable,0,Rare,999
-92552,Bringer's Rimed Verdant Shield of Ice,Weapon,80,Exotic,264
-92553,Snowflake Gobbler's Blessing,Consumable,0,Basic,0
-92554,Mini Joko Funko POP!,MiniPet,0,Rare,50
-92555,Pristine Wrapping,Trophy,0,Junk,50000
-92556,Mote of Candied Karma,Consumable,0,Rare,0
-92557,Mini Magical Reindeer,MiniPet,0,Exotic,256
-92558,Snowflake Gobbler Pack,Container,0,Masterwork,0
-92559,Fireball,Trophy,0,Basic,0
-92560,Festive Sweater,Armor,80,Exotic,396
-92561,Mistborn Mount Select License,Consumable,0,Rare,999
-92562,Bringer's Rimed Verdant Staff of Ice,Weapon,80,Exotic,396
-92563,Feed,Trophy,0,Basic,0
-92564,Starlight Wings Glider,Consumable,0,Masterwork,0
-92565,Bringer's Rimed Verdant Rifle of Ice,Weapon,80,Exotic,396
-92566,Mini Baby Aurene Funko POP!,MiniPet,0,Rare,50
-92567,Peppermint Platform,Consumable,0,Basic,0
-92568,Mythic Staff Skin,Consumable,0,Rare,0
-92569,Cracked Choir Bell,Trophy,0,Junk,15000
-92570,Mythic Rifle Skin,Consumable,0,Rare,0
-92571,Candy Cane Beam,Consumable,0,Basic,0
-92573,Mythic Pistol Skin,Consumable,0,Rare,0
-92574,Volleyball,Trophy,0,Basic,0
-92575,Black Lion Winter's Weapons Complete Collection,Container,0,Rare,0
-92576,Mythic Short Bow Skin,Consumable,0,Rare,0
-92577,Mini Rytlock Funko POP!,MiniPet,0,Rare,50
-92578,Mythic Hammer Skin,Consumable,0,Rare,0
-92579,Mythic Shield Skin,Consumable,0,Rare,0
-92581,Giant Candy Cane,Consumable,0,Basic,0
-92582,Pet Skyscale Whistle,Consumable,1,Rare,0
-92583,Scratch,Trophy,0,Basic,0
-92584,Bringer's Rimed Verdant Axe of Ice,Weapon,80,Exotic,264
-92585,Snowflake Gobbler,Gizmo,0,Rare,0
-92586,Rimed Verdant Wintersday Gift,Container,0,Basic,32
-92587,Bringer's Rimed Verdant Scepter of Ice,Weapon,80,Exotic,264
-92588,Mythic Longbow Skin,Consumable,0,Rare,0
-92589,Mini Mystical Snowflake,MiniPet,0,Exotic,256
-92590,Bringer's Rimed Verdant Pistol of Ice,Weapon,80,Exotic,264
-92591,Fireworks,Trophy,0,Basic,0
-92592,Mythic Warhorn Skin,Consumable,0,Rare,0
-92594,Bringer's Rimed Verdant Short Bow of Ice,Weapon,80,Exotic,396
-92595,Festive Sweater,Armor,80,Exotic,396
-92596,Bringer's Rimed Verdant Longbow of Ice,Weapon,80,Exotic,396
-92597,Roar,Trophy,0,Basic,0
-92599,Starlight Wings Backpack,Consumable,0,Masterwork,0
-92600,Bringer's Rimed Verdant Mace of Ice,Weapon,80,Exotic,264
-92601,Bringer's Rimed Verdant Dagger of Ice,Weapon,80,Exotic,264
-92602,Bringer's Rimed Verdant Warhorn of Ice,Weapon,80,Exotic,264
-92603,Bringer's Rimed Verdant Blade of Ice,Weapon,80,Exotic,264
-92604,Wintersday Adventure: Silver,Container,0,Masterwork,0
-92605,Frostfire Outfit,Consumable,0,Rare,0
-92606,Bringer's Rimed Verdant Torch of Ice,Weapon,80,Exotic,264
-92607,Sit,Trophy,0,Basic,0
-92608,Candy Cane Ramp,Consumable,0,Basic,0
-92609,Mythic Axe Skin,Consumable,0,Rare,0
-92610,Mythic Mace Skin,Consumable,0,Rare,0
-92611,Black Lion Wintersday Weapons Selection,Container,0,Rare,0
-92612,Mythic Greatsword Skin,Consumable,0,Rare,0
-92613,Frostfire Glider,Consumable,0,Masterwork,0
-92614,Festive Sweater,Container,0,Exotic,256
-92615,Peppermint Arrow,Consumable,0,Basic,0
-92616,Bringer's Rimed Verdant Hammer of Ice,Weapon,80,Exotic,396
-92617,Mythic Scepter Skin,Consumable,0,Rare,0
-92618,Black Lion Winter's Weapons Selection,Container,0,Rare,0
-92619,Mythic Focus Skin,Consumable,0,Rare,0
-92620,Bringer's Rimed Verdant Greatsword of Ice,Weapon,80,Exotic,396
-92621,Bringer's Rimed Verdant Focus of Ice,Weapon,80,Exotic,264
-92622,Mythic Sword Skin,Consumable,0,Rare,0
-92623,Mini Skyscale Pet,MiniPet,0,Rare,0
-92624,Diviner's Shining Aureate Targe of Luck,Weapon,80,Exotic,264
-92625,Draconic Warhorn Skin,Consumable,0,Rare,0
-92626,Draconic Hammer Skin,Consumable,0,Rare,0
-92627,Draconic Axe Skin,Consumable,0,Rare,0
-92628,Diviner's Shining Aureate Warhammer of Luck,Weapon,80,Exotic,396
 92629,Diviner's Shining Aureate Highlander Greatsword of Luck,Weapon,80,Exotic,396
 92631,Diviner's Shining Aureate Mace of Luck,Weapon,80,Exotic,264
 92632,Lucky Great Rat Lantern,Back,80,Exotic,8888
