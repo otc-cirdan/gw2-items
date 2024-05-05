@@ -24332,6 +24332,7 @@ id,name,type,level,rarity,vendor_value
 33094,Orrian Warhorn of Rage,Weapon,80,Exotic,264
 33096,Orrian Axe,Weapon,66,Fine,56
 33098,Orrian Axe,Weapon,76,Fine,63
+33099,Orrian Axe,Weapon,80,Fine,66
 33102,Orrian Dagger,Weapon,71,Fine,59
 33103,Orrian Dagger,Weapon,76,Fine,63
 33104,Orrian Dagger,Weapon,80,Fine,66
@@ -24390,6 +24391,7 @@ id,name,type,level,rarity,vendor_value
 33200,Orrian Focus of Bloodlust,Weapon,74,Masterwork,122
 33201,Orrian Focus of Earth,Weapon,80,Masterwork,132
 33203,Orrian Longsword of the Geomancer,Weapon,68,Masterwork,171
+33204,Orrian Longsword of Bloodlust,Weapon,74,Masterwork,183
 33205,Orrian Longsword of Earth,Weapon,80,Masterwork,198
 33208,Orrian Smasher of Bloodlust,Weapon,74,Masterwork,183
 33209,Orrian Smasher of Earth,Weapon,80,Masterwork,198
