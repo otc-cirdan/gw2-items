@@ -14199,6 +14199,206 @@ id,name,type,level,rarity,vendor_value
 18729,Forgeman Shoulders,Armor,80,Exotic,291
 18730,Forgeman Boots,Armor,80,Exotic,264
 18731,Forgeman Jacket,Armor,80,Exotic,396
+18732,Forgeman Gloves,Armor,80,Exotic,238
+18733,Forgeman Headguard,Armor,80,Exotic,330
+18734,Forgeman Breeches,Armor,80,Exotic,370
+18735,Forgeman Shoulders,Armor,80,Exotic,291
+18736,Forgeman Shoes,Armor,80,Exotic,264
+18737,Forgeman Raiment,Armor,80,Exotic,396
+18738,Forgeman Wristguards,Armor,80,Exotic,238
+18739,Forgeman Mask,Armor,80,Exotic,330
+18740,Forgeman Leggings,Armor,80,Exotic,370
+18742,Forgeman Shoes,Armor,80,Exotic,264
+18743,Forgeman Raiment,Armor,80,Exotic,396
+18744,Forgeman Wristguards,Armor,80,Exotic,238
+18745,Forgeman Mask,Armor,80,Exotic,330
+18746,Forgeman Leggings,Armor,80,Exotic,370
+18748,Forgeman Greaves,Armor,80,Exotic,264
+18749,Forgeman Breastplate,Armor,80,Exotic,396
+18750,Forgeman Gauntlets,Armor,80,Exotic,238
+18751,Forgeman Helmet,Armor,80,Exotic,330
+18752,Forgeman Tassets,Armor,80,Exotic,370
+18753,Forgeman Pauldrons,Armor,80,Exotic,291
+18754,Forgeman Greaves,Armor,80,Exotic,264
+18755,Forgeman Breastplate,Armor,80,Exotic,396
+18756,Forgeman Gauntlets,Armor,80,Exotic,238
+18757,Forgeman Helmet,Armor,80,Exotic,330
+18758,Forgeman Tassets,Armor,80,Exotic,370
+18759,Forgeman Pauldrons,Armor,80,Exotic,291
+18993,Fish Oil,Trophy,0,Basic,0
+18995,Bundle of Seeds,Trophy,0,Basic,0
+18996,Spring Water,Trophy,0,Basic,0
+19173,Energy Crystal,Trophy,0,Rare,0
+19179,Merchant Remains,Trophy,0,Basic,2
+19182,Dolyak Sinew,Trophy,0,Junk,2
+19186,Hylek Armor,Trophy,0,Basic,2
+19189,Caledon Lavender,Trophy,0,Basic,2
+19202,Chunk of Scourgejaw Iron,Trophy,0,Junk,15
+19216,Piece of Kelp,Trophy,0,Basic,2
+19217,Supplies,Trophy,0,Basic,2
+19228,Dredge Tank Blueprints,Trophy,0,Basic,0
+19229,Dwarven Key,Trophy,0,Basic,0
+19230,Containment Crystal,Trophy,0,Basic,0
+19271,Special Root,Trophy,0,Basic,11
+19337,Commissar's Manifesto,Trinket,80,Fine,83
+19338,Breath of Kralkatorrik,Trinket,80,Fine,83
+19339,Symbol of the Inquest,Trinket,80,Fine,83
+19340,Rotbeard's Treasure,Trinket,80,Fine,83
+19341,Pendant of Arah,Trinket,80,Fine,132
+19342,All Seeing,Trinket,80,Fine,132
+19343,Star of Dwayna,Trinket,80,Fine,132
+19344,Sentinel's Bane,Trinket,80,Fine,99
+19345,Circle of Arah,Trinket,80,Fine,99
+19346,Balthazar's Band,Trinket,80,Fine,99
+19347,Dwayna's Embrace,Trinket,80,Fine,99
+19348,Melandru's Bloom,Trinket,80,Fine,99
+19349,Signet of Grenth,Trinket,80,Fine,99
+19350,Eternal Ice,Trinket,80,Fine,83
+19351,Sam,Trinket,80,Fine,83
+19352,Ulgoth's Tail,Trinket,80,Fine,83
+19353,Rhendak's Signet,Trinket,80,Fine,99
+19354,Stinger,Weapon,80,Exotic,264
+19355,Wisteria,Weapon,80,Exotic,264
+19356,Foulbear Lucky Feathers,Weapon,80,Exotic,264
+19357,Old Reliable,Weapon,80,Exotic,264
+19358,Zhaitan's Reach,Weapon,80,Exotic,264
+19359,Wall of Thorns,Weapon,80,Exotic,264
+19360,Final Rest,Weapon,80,Exotic,396
+19361,Trusty Rusty,Weapon,80,Exotic,264
+19362,Rhendak's Trident,Weapon,80,Exotic,396
+19363,Shard of the Deep,Weapon,80,Exotic,264
+19364,Call of the Commissar,Weapon,80,Exotic,264
+19365,Cinderspire's Tactics,Weapon,80,Exotic,264
+19366,Pillar of Ulgoth,Weapon,80,Exotic,396
+19367,Cinderspire's Rage,Weapon,80,Exotic,396
+19389,Matrix Cube Key,Trophy,0,Basic,0
+19390,Matrix Cube Key,Trophy,0,Basic,0
+19391,Matrix Cube Key,Trophy,0,Basic,0
+19392,Matrix Cube Key,Trophy,0,Basic,0
+19393,Destroyed Matrix Cube Key,Trophy,0,Basic,0
+19394,Matrix Cube Key,Trophy,0,Basic,0
+19395,Matrix Cube Key,Trophy,0,Basic,0
+19396,Matrix Cube Key,Trophy,0,Basic,0
+19397,Matrix Cube Key,Trophy,0,Basic,0
+19398,Matrix Cube Key,Trophy,0,Basic,0
+19399,Matrix Cube Key,Trophy,0,Basic,0
+19400,Matrix Cube Key,Trophy,0,Basic,0
+19401,Matrix Cube Key,Trophy,0,Basic,0
+19402,Matrix Cube Key,Trophy,0,Basic,0
+19403,Matrix Cube Key,Trophy,0,Basic,0
+19404,Matrix Cube Key,Trophy,0,Basic,0
+19405,Matrix Cube Key,Trophy,0,Basic,0
+19418,Stolen Sack of Feed,Trophy,0,Basic,0
+19431,Letter of Thanks,Consumable,0,Fine,25
+19432,Eloquent Letter of Thanks,Consumable,0,Masterwork,250
+19433,Lengthy Letter of Thanks,Consumable,0,Rare,2500
+19440,Guild Shield,Consumable,0,Rare,250
+19443,Guild Assassin Backpack,Back,35,Masterwork,1250
+19445,Guild Heavy Armor,Consumable,0,Rare,1250
+19474,Guild Light Armor,Consumable,0,Rare,1250
+19475,Guild Medium Armor,Consumable,0,Rare,1250
+19478,Guild Pistol,Consumable,0,Rare,250
+19479,Guild Rifle,Consumable,0,Rare,375
+19480,Guild Staff,Consumable,0,Rare,375
+19481,Guild Longbow,Consumable,0,Rare,375
+19482,Guild Short Bow,Consumable,0,Rare,375
+19483,Guild Defender Backpack,Back,35,Masterwork,1250
+19484,Guild Assassin Backpack,Back,60,Masterwork,3750
+19485,Guild Caretaker Backpack,Back,60,Masterwork,3750
+19486,Guild Defender Backpack,Back,60,Masterwork,3750
+19487,Guild Assassin Backpack,Back,80,Rare,6250
+19488,Guild Caretaker Backpack,Back,80,Rare,6250
+19489,Guild Defender Backpack,Back,80,Rare,6250
+19503,Guild Axe,Consumable,0,Rare,250
+19511,Guild Speargun,Consumable,0,Rare,250
+19517,Letter of Commendation,Consumable,0,Rare,0
+19526,Broken Claw,Trophy,0,Junk,2
+19527,Dull Claw,Trophy,0,Junk,9
+19528,Dark Stained Claw,Trophy,0,Junk,16
+19529,Brittle Bone,Trophy,0,Junk,2
+19530,Crumbling Bone,Trophy,0,Junk,9
+19531,Porous Bone,Trophy,0,Junk,16
+19532,Clump of Spores,Trophy,0,Junk,2
+19533,Pile of Mold,Trophy,0,Junk,9
+19534,Wad of Slimy Fungus,Trophy,0,Junk,16
+19535,Clump of Tar,Trophy,0,Junk,2
+19536,Clump of Pitch,Trophy,0,Junk,9
+19537,Clump of Resin,Trophy,0,Junk,16
+19538,Broken Fang,Trophy,0,Junk,2
+19539,Dull Fang,Trophy,0,Junk,9
+19540,Chipped Fang,Trophy,0,Junk,16
+19541,Fin,Trophy,0,Junk,2
+19542,Tail Fin,Trophy,0,Junk,16
+19543,Buzzing Crystal,Trophy,0,Junk,2
+19544,Charged Crystal,Trophy,0,Junk,9
+19545,Shocking Crystal,Trophy,0,Junk,16
+19546,Warm Stone,Trophy,0,Junk,2
+19547,Hot Stone,Trophy,0,Junk,9
+19548,Fire Stone,Trophy,0,Junk,16
+19549,Cool Stone,Trophy,0,Junk,2
+19550,Cold Stone,Trophy,0,Junk,9
+19551,Ice Stone,Trophy,0,Junk,16
+19552,Glob of Globby Goo,Trophy,0,Junk,2
+19553,Glob of Globby Goop,Trophy,0,Junk,9
+19554,Glob of Globby Gloop,Trophy,0,Junk,16
+19557,Pile of Liquified Goo,Trophy,0,Junk,16
+19558,Spider Leg,Trophy,0,Junk,2
+19559,Hairy Spider Leg,Trophy,0,Junk,9
+19560,Prickly Spider Leg,Trophy,0,Junk,16
+19561,Patch of Fur,Trophy,0,Junk,2
+19562,Scrap of Fur,Trophy,0,Junk,9
+19563,Clump of Fur,Trophy,0,Junk,16
+19564,Seashell,Trophy,0,Junk,2
+19565,Shell,Trophy,0,Junk,9
+19566,Spiral Shell,Trophy,0,Junk,16
+19567,Hoof,Trophy,0,Junk,2
+19568,Hoof,Trophy,0,Junk,9
+19569,Hoof,Trophy,0,Junk,16
+19570,Pebble,Trophy,0,Junk,2
+19571,Gravel,Trophy,0,Junk,9
+19572,Stone,Trophy,0,Junk,16
+19573,Needle,Trophy,0,Junk,2
+19574,Barb,Trophy,0,Junk,9
+19575,Spike,Trophy,0,Junk,16
+19576,Mangled Talon,Trophy,0,Junk,2
+19577,Talon,Trophy,0,Junk,9
+19578,Sharp Talon,Trophy,0,Junk,16
+19579,Bottle of Rum,Trophy,0,Junk,2
+19584,Bottle of Whiskey,Trophy,0,Junk,9
+19591,Bottle of Scotch,Trophy,0,Junk,16
+19594,Bottle of Rum,Trophy,0,Junk,19
+19595,Bottle of Rum,Trophy,0,Junk,20
+19596,Shattered Lockpick,Trophy,0,Junk,2
+19597,Broken Lockpick,Trophy,0,Junk,4
+19599,Broken Lockpick,Trophy,0,Junk,6
+19601,Broken Lockpick,Trophy,0,Junk,9
+19608,Bent Lockpick,Trophy,0,Junk,16
+19612,Broken Lockpick,Trophy,0,Junk,20
+19613,Cog,Trophy,0,Junk,2
+19614,Gear,Trophy,0,Junk,9
+19615,Sprocket,Trophy,0,Junk,16
+19616,Dorsal Fin,Trophy,0,Junk,9
+19617,Ruined Ore Chunk,Trophy,0,Junk,2
+19618,Ruined Log,Trophy,0,Junk,2
+19619,Ruined Plant Fiber,Trophy,0,Junk,2
+19620,Dandelion Blossom,Trophy,0,Junk,2
+19621,Gift of Metal,Trophy,0,Legendary,640
+19622,Gift of Wood,Trophy,0,Legendary,640
+19623,Gift of Energy,Trophy,0,Legendary,640
+19624,Gift of Ice,Trophy,0,Legendary,640
+19625,Gift of Frostfang,Trophy,0,Legendary,640
+19626,Gift of Fortune,Trophy,0,Legendary,640
+19627,Gift of Nature,Trophy,0,Legendary,640
+19628,Unicorn Statue,Trophy,0,Legendary,640
+19629,Gift of History,Trophy,0,Legendary,640
+19630,Gift of Music,Trophy,0,Legendary,640
+19631,Gift of Darkness,Trophy,0,Legendary,640
+19632,Gift of Light,Trophy,0,Legendary,640
+19633,Vial of Quicksilver,Trophy,0,Legendary,640
+19634,Vial of Liquid Flame,Trophy,0,Legendary,640
+19635,Gift of Entertainment,Trophy,0,Legendary,640
+19636,Gift of Stealth,Trophy,0,Legendary,640
+19637,Gift of Weather,Trophy,0,Legendary,640
 19638,Gift of Color,Trophy,0,Legendary,640
 19639,Gift of Lightning,Trophy,0,Legendary,640
 19640,Wolf Statue,Trophy,0,Legendary,640
