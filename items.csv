@@ -9066,6 +9066,7 @@ id,name,type,level,rarity,vendor_value
 11471,Ravaging Masquerade Leggings,Armor,50,Rare,189
 11472,Rejuvenating Masquerade Leggings,Armor,50,Rare,189
 11473,Honed Masquerade Leggings,Armor,50,Rare,189
+11474,Masquerade Leggings,Armor,50,Rare,189
 11475,Strong Masquerade Leggings,Armor,50,Rare,189
 11476,Vigorous Masquerade Leggings,Armor,50,Rare,189
 11477,Hearty Masquerade Leggings,Armor,50,Rare,189
@@ -26598,206 +26599,6 @@ id,name,type,level,rarity,vendor_value
 35633,Shaman's Norn Greatsword,Weapon,60,Rare,5000
 35634,Shaman's Norn Warhammer,Weapon,60,Rare,5000
 35635,Shaman's Norn Spear,Weapon,60,Rare,5000
-35636,Shaman's Norn Bow,Weapon,60,Rare,5000
-35637,Shaman's Norn Mace,Weapon,60,Rare,5000
-35638,Shaman's Norn Pistol,Weapon,60,Rare,5000
-35639,Shaman's Norn Rifle,Weapon,60,Rare,5000
-35640,Shaman's Norn Scepter,Weapon,60,Rare,5000
-35641,Shaman's Norn Shield,Weapon,60,Rare,5000
-35642,Shaman's Norn Short Bow,Weapon,60,Rare,5000
-35643,Shaman's Norn Speargun,Weapon,60,Rare,5000
-35644,Shaman's Norn Staff,Weapon,60,Rare,5000
-35645,Shaman's Norn Blade,Weapon,60,Rare,5000
-35646,Shaman's Norn Torch,Weapon,60,Rare,5000
-35647,Shaman's Norn Trident,Weapon,60,Rare,5000
-35648,Shaman's Norn Warhorn,Weapon,60,Rare,5000
-35649,Penetrating Krytan Axe of Force,Weapon,40,Rare,1400
-35650,Penetrating Krytan Dagger of Force,Weapon,40,Rare,1400
-35651,Penetrating Krytan Focus of Force,Weapon,40,Rare,1400
-35652,Penetrating Krytan Greatsword of Force,Weapon,40,Rare,1400
-35653,Penetrating Krytan Warhammer of Force,Weapon,40,Rare,1400
-35654,Penetrating Krytan Spear of Force,Weapon,40,Rare,1400
-35655,Penetrating Krytan Bow of Force,Weapon,40,Rare,1400
-35656,Penetrating Krytan Mace of Force,Weapon,40,Rare,1400
-35657,Penetrating Krytan Pistol of Force,Weapon,40,Rare,1400
-35658,Penetrating Krytan Rifle of Force,Weapon,40,Rare,1400
-35659,Penetrating Krytan Scepter of Force,Weapon,40,Rare,1400
-35660,Penetrating Krytan Shield of Force,Weapon,40,Rare,1400
-35661,Penetrating Krytan Short Bow of Force,Weapon,40,Rare,1400
-35662,Penetrating Krytan Speargun of Force,Weapon,40,Rare,1400
-35663,Penetrating Krytan Staff of Force,Weapon,40,Rare,1400
-35664,Penetrating Krytan Sword of Force,Weapon,40,Rare,1400
-35665,Penetrating Krytan Torch of Force,Weapon,40,Rare,1400
-35666,Penetrating Krytan Trident of Force,Weapon,40,Rare,1400
-35667,Penetrating Krytan Warhorn of Force,Weapon,40,Rare,1400
-35678,Aureate Virge of Force,Weapon,60,Rare,5000
-35687,Carrion Verdant Axe,Weapon,60,Rare,5000
-35688,Carrion Verdant Dagger,Weapon,60,Rare,5000
-35689,Carrion Verdant Focus,Weapon,60,Rare,5000
-35690,Carrion Verdant Greatsword,Weapon,60,Rare,5000
-35691,Carrion Verdant Warhammer,Weapon,60,Rare,5000
-35692,Carrion Verdant Spear,Weapon,60,Rare,5000
-35693,Carrion Verdant Bow,Weapon,60,Rare,5000
-35694,Carrion Verdant Mace,Weapon,60,Rare,5000
-35695,Carrion Verdant Pistol,Weapon,60,Rare,5000
-35696,Carrion Verdant Rifle,Weapon,60,Rare,5000
-35697,Carrion Verdant Scepter,Weapon,60,Rare,5000
-35698,Carrion Verdant Shield,Weapon,60,Rare,5000
-35699,Carrion Verdant Short Bow,Weapon,60,Rare,5000
-35700,Carrion Verdant Speargun,Weapon,60,Rare,5000
-35701,Carrion Verdant Staff,Weapon,60,Rare,5000
-35702,Carrion Verdant Blade,Weapon,60,Rare,5000
-35703,Carrion Verdant Torch,Weapon,60,Rare,5000
-35704,Carrion Verdant Trident,Weapon,60,Rare,5000
-35705,Carrion Verdant Warhorn,Weapon,60,Rare,5000
-35706,Ravaging Glyphic Axe,Weapon,40,Rare,1400
-35707,Ravaging Glyphic Handblade,Weapon,40,Rare,1400
-35708,Ravaging Glyphic Icon,Weapon,40,Rare,1400
-35709,Ravaging Glyphic Longblade,Weapon,40,Rare,1400
-35710,Ravaging Glyphic Maul,Weapon,40,Rare,1400
-35711,Ravaging Glyphic Spear,Weapon,40,Rare,1400
-35712,Ravaging Glyphic Longbow,Weapon,40,Rare,1400
-35713,Ravaging Glyphic Mace,Weapon,40,Rare,1400
-35714,Ravaging Glyphic Pistol,Weapon,40,Rare,1400
-35715,Ravaging Glyphic Rifle,Weapon,40,Rare,1400
-35716,Ravaging Glyphic Scepter,Weapon,40,Rare,1400
-35717,Ravaging Glyphic Ward,Weapon,40,Rare,1400
-35718,Ravaging Glyphic Short Bow,Weapon,40,Rare,1400
-35719,Ravaging Glyphic Speargun,Weapon,40,Rare,1400
-35720,Ravaging Glyphic Staff,Weapon,40,Rare,1400
-35721,Ravaging Glyphic Edge,Weapon,40,Rare,1400
-35722,Ravaging Glyphic Brand,Weapon,40,Rare,1400
-35723,Ravaging Glyphic Trispear,Weapon,40,Rare,1400
-35724,Ravaging Glyphic Horn,Weapon,40,Rare,1400
-35725,The Fate of Menzies,Weapon,80,Exotic,264
-35728,Mystic Forge Conduit,Gizmo,0,Exotic,0
-35729,Mystic Forge Node,Consumable,0,Rare,0
-35730,Mystic Casing,Trophy,0,Fine,0
-35731,Mystic Core,Trophy,0,Fine,0
-35732,Mystic Tube,Trophy,0,Fine,0
-35733,Mystic Essence,Trophy,0,Fine,0
-35734,Mystic Nexus,Trophy,0,Rare,0
-35735,Mystic Frame,Trophy,0,Rare,0
-35736,Mystic Jewel Silver,Trophy,0,Junk,1000
-35737,Flawless Mystic Jewel,Trophy,0,Exotic,10000
-35738,Mystic Jewel Fragment,Trophy,0,Basic,2000
-35739,Perfect Mystic Jewel,Trophy,0,Legendary,20000
-35740,Mystic Jewel,Trophy,0,Fine,3000
-35741,Polished Mystic Jewel,Trophy,0,Masterwork,4000
-35742,Pristine Mystic Jewel,Trophy,0,Rare,6000
-35743,Warm Potion,Consumable,0,Rare,96
-35744,Cold Potion,Consumable,0,Rare,96
-35745,Hard Potion,Consumable,0,Rare,96
-35746,Charged Potion,Consumable,0,Rare,96
-35747,Cold Potion,Gizmo,0,Exotic,256
-35748,Hard Potion,Gizmo,0,Exotic,256
-35749,Charged Potion,Gizmo,0,Exotic,256
-35750,Warm Potion,Gizmo,0,Exotic,256
-35751,Mystic Chest,Container,0,Rare,192
-35754,Golden Wing Axe,Weapon,80,Exotic,264
-35755,Golden Wing Axe,Weapon,80,Exotic,264
-35756,Golden Wing Axe,Weapon,80,Exotic,264
-35757,Golden Wing Longbow,Weapon,80,Exotic,396
-35758,Golden Wing Longbow,Weapon,80,Exotic,396
-35759,Golden Wing Longbow,Weapon,80,Exotic,396
-35760,Golden Wing Short Bow,Weapon,80,Exotic,396
-35761,Golden Wing Short Bow,Weapon,80,Exotic,396
-35762,Golden Wing Short Bow,Weapon,80,Exotic,396
-35763,Golden Wing Dagger,Weapon,80,Exotic,264
-35764,Golden Wing Dagger,Weapon,80,Exotic,264
-35765,Golden Wing Dagger,Weapon,80,Exotic,264
-35766,Golden Wing Focus,Weapon,80,Exotic,264
-35767,Golden Wing Focus,Weapon,80,Exotic,264
-35768,Golden Wing Focus,Weapon,80,Exotic,264
-35769,Golden Wing Greatsword,Weapon,80,Exotic,396
-35770,Golden Wing Greatsword,Weapon,80,Exotic,396
-35771,Golden Wing Greatsword,Weapon,80,Exotic,396
-35772,Golden Wing Hammer,Weapon,80,Exotic,396
-35773,Golden Wing Hammer,Weapon,80,Exotic,396
-35774,Golden Wing Hammer,Weapon,80,Exotic,396
-35775,Golden Wing Harpoon,Weapon,80,Exotic,396
-35776,Golden Wing Harpoon,Weapon,80,Exotic,396
-35777,Golden Wing Harpoon,Weapon,80,Exotic,396
-35778,Golden Wing Mace,Weapon,80,Exotic,264
-35779,Golden Wing Mace,Weapon,80,Exotic,264
-35780,Golden Wing Mace,Weapon,80,Exotic,264
-35781,Golden Wing Pistol,Weapon,80,Exotic,264
-35782,Golden Wing Pistol,Weapon,80,Exotic,264
-35783,Golden Wing Pistol,Weapon,80,Exotic,264
-35784,Golden Wing Rifle,Weapon,80,Exotic,396
-35785,Golden Wing Rifle,Weapon,80,Exotic,396
-35786,Golden Wing Rifle,Weapon,80,Exotic,396
-35787,Golden Wing Scepter,Weapon,80,Exotic,264
-35788,Golden Wing Scepter,Weapon,80,Exotic,264
-35789,Golden Wing Scepter,Weapon,80,Exotic,264
-35790,Golden Wing Shield,Weapon,80,Exotic,264
-35791,Golden Wing Shield,Weapon,80,Exotic,264
-35792,Golden Wing Shield,Weapon,80,Exotic,264
-35793,Golden Wing Speargun,Weapon,80,Exotic,396
-35794,Golden Wing Speargun,Weapon,80,Exotic,396
-35795,Golden Wing Speargun,Weapon,80,Exotic,396
-35796,Golden Wing Staff,Weapon,80,Exotic,396
-35797,Golden Wing Staff,Weapon,80,Exotic,396
-35798,Golden Wing Staff,Weapon,80,Exotic,396
-35799,Golden Wing Sword,Weapon,80,Exotic,264
-35800,Golden Wing Sword,Weapon,80,Exotic,264
-35801,Golden Wing Sword,Weapon,80,Exotic,264
-35802,Golden Wing Torch,Weapon,80,Exotic,264
-35803,Golden Wing Torch,Weapon,80,Exotic,264
-35804,Golden Wing Torch,Weapon,80,Exotic,264
-35805,Golden Wing Trident,Weapon,80,Exotic,396
-35806,Golden Wing Trident,Weapon,80,Exotic,396
-35807,Golden Wing Trident,Weapon,80,Exotic,396
-35808,Golden Wing Warhorn,Weapon,80,Exotic,264
-35809,Golden Wing Warhorn,Weapon,80,Exotic,264
-35810,Golden Wing Warhorn,Weapon,80,Exotic,264
-35811,Council Watch Boots,Armor,80,Exotic,264
-35812,Council Watch Boots,Armor,80,Exotic,264
-35813,Council Watch Boots,Armor,80,Exotic,264
-35814,Council Watch Chestguard,Armor,80,Exotic,396
-35815,Council Watch Chestguard,Armor,80,Exotic,396
-35816,Council Watch Chestguard,Armor,80,Exotic,396
-35817,Council Watch Gloves,Armor,80,Exotic,238
-35818,Council Watch Gloves,Armor,80,Exotic,238
-35819,Council Watch Gloves,Armor,80,Exotic,238
-35820,Council Watch Faceguard,Armor,80,Exotic,330
-35821,Council Watch Faceguard,Armor,80,Exotic,330
-35822,Council Watch Faceguard,Armor,80,Exotic,330
-35823,Council Watch Leggings,Armor,80,Exotic,370
-35824,Council Watch Leggings,Armor,80,Exotic,370
-35825,Council Watch Leggings,Armor,80,Exotic,370
-35826,Council Watch Shoulderguards,Armor,80,Exotic,291
-35827,Council Watch Shoulderguards,Armor,80,Exotic,291
-35828,Council Watch Shoulderguards,Armor,80,Exotic,291
-35829,Council Ministry Shoes,Armor,80,Exotic,264
-35830,Council Ministry Shoes,Armor,80,Exotic,264
-35831,Council Ministry Shoes,Armor,80,Exotic,264
-35832,Council Ministry Vestments,Armor,80,Exotic,396
-35833,Council Ministry Vestments,Armor,80,Exotic,396
-35834,Council Ministry Vestments,Armor,80,Exotic,396
-35835,Council Ministry Gloves,Armor,80,Exotic,238
-35836,Council Ministry Gloves,Armor,80,Exotic,238
-35837,Council Ministry Gloves,Armor,80,Exotic,238
-35838,Council Ministry Circlet,Armor,80,Exotic,330
-35839,Council Ministry Circlet,Armor,80,Exotic,330
-35840,Council Ministry Circlet,Armor,80,Exotic,330
-35841,Council Ministry Hose,Armor,80,Exotic,370
-35842,Council Ministry Hose,Armor,80,Exotic,370
-35843,Council Ministry Hose,Armor,80,Exotic,370
-35844,Council Ministry Mantle,Armor,80,Exotic,291
-35845,Council Ministry Mantle,Armor,80,Exotic,291
-35846,Council Ministry Mantle,Armor,80,Exotic,291
-35847,Council Guard Greaves,Armor,80,Exotic,264
-35848,Council Guard Greaves,Armor,80,Exotic,264
-35849,Council Guard Greaves,Armor,80,Exotic,264
-35850,Council Guard Breastplate,Armor,80,Exotic,396
-35851,Council Guard Breastplate,Armor,80,Exotic,396
-35852,Council Guard Breastplate,Armor,80,Exotic,396
-35853,Council Guard Gauntlets,Armor,80,Exotic,238
-35854,Council Guard Gauntlets,Armor,80,Exotic,238
-35855,Council Guard Gauntlets,Armor,80,Exotic,238
-35856,Council Guard Helm,Armor,80,Exotic,330
-35857,Council Guard Helm,Armor,80,Exotic,330
 35858,Council Guard Helm,Armor,80,Exotic,330
 35859,Council Guard Legguards,Armor,80,Exotic,370
 35860,Council Guard Legguards,Armor,80,Exotic,370
@@ -31442,6 +31243,7 @@ id,name,type,level,rarity,vendor_value
 45055,WXP Booster,Consumable,0,Rare,0
 45056,WXP Booster,Consumable,0,Masterwork,0
 45057,WXP Booster,Consumable,0,Rare,0
+45060,WXP Mini-Booster,Consumable,0,Masterwork,0
 45061,Candy Corn Gold Amulet,Trinket,50,Rare,270
 45062,Candy Corn Silver Pendant,Trinket,35,Masterwork,136
 45064,Dire Scallywag Greaves of Divinity,Armor,75,Exotic,248
@@ -66138,6 +65940,7 @@ id,name,type,level,rarity,vendor_value
 101547,Ancient Scroll,Gizmo,0,Basic,0
 101550,Necrotic Essence Mace Skin,Consumable,0,Rare,0
 101551,Obsidian Heavy Pauldrons,Armor,80,Legendary,240
+101552,Skysage's Leggings Skin,Consumable,0,Masterwork,0
 101553,Solar Astrolabe Greatsword Skin,Consumable,0,Rare,0
 101556,Obsidian Medium Jacket,Armor,80,Legendary,240
 101558,Nugget of Kryptis Essence,Container,0,Exotic,0
@@ -66173,6 +65976,7 @@ id,name,type,level,rarity,vendor_value
 101617,Leaf Glider,Consumable,0,Masterwork,0
 101622,Buried Angst,Container,0,Masterwork,128
 101623,Legendary Weapon Starter Kit—Set 3,Container,0,Legendary,640
+101626,Skysage's Coat Skin,Consumable,0,Masterwork,0
 101628,Necrotic Essence Focus Skin,Consumable,0,Rare,0
 101629,Ancient Tome,Gizmo,0,Basic,0
 101631,Solar Astrolabe Axe Skin,Consumable,0,Rare,0
