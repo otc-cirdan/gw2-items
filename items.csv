@@ -13199,6 +13199,206 @@ id,name,type,level,rarity,vendor_value
 16998,Berserker's Privateer Coat,Armor,80,Rare,297
 16999,Penetrating Privateer Coat,Armor,45,Rare,185
 17000,Berserker's Reinforced Scale Legs,Armor,80,Rare,278
+17001,Rabid Reinforced Scale Gauntlets,Armor,80,Rare,179
+17002,Berserker's Privateer Gloves,Armor,80,Rare,179
+17004,Berserker's Reinforced Scale Pauldrons,Armor,80,Rare,218
+17005,Berserker's Privateer Gloves,Armor,70,Rare,160
+17006,Penetrating Privateer Gloves,Armor,45,Rare,111
+17007,Rabid Reinforced Scale Gauntlets,Armor,55,Rare,130
+17008,Berserker's Cabalist Boots,Armor,80,Rare,198
+17009,Penetrating Privateer Hat,Armor,45,Rare,154
+17011,Berserker's Privateer Hat,Armor,78,Rare,240
+17012,Rabid Reinforced Scale Helm,Armor,80,Rare,248
+17013,Berserker's Privateer Hat,Armor,70,Rare,222
+17014,Rabid Reinforced Scale Helm,Armor,55,Rare,180
+17015,Berserker's Privateer Pants,Armor,80,Rare,278
+17016,Penetrating Privateer Pants,Armor,45,Rare,173
+17017,Rabid Reinforced Scale Legs,Armor,55,Rare,202
+17019,Berserker's Cabalist Coat,Armor,80,Rare,297
+17020,Berserker's Privateer Pants,Armor,70,Rare,248
+17021,Rabid Reinforced Scale Legs,Armor,80,Rare,278
+17022,Penetrating Privateer Shoulders,Armor,45,Rare,136
+17023,Berserker's Cabalist Gloves,Armor,80,Rare,179
+17024,Rabid Reinforced Scale Pauldrons,Armor,80,Rare,218
+17025,Berserker's Privateer Shoulders,Armor,80,Rare,218
+17026,Rabid Reinforced Scale Pauldrons,Armor,55,Rare,159
+17027,Carrion Privateer Boots,Armor,65,Rare,165
+17028,Berserker's Privateer Shoulders,Armor,70,Rare,195
+17030,Rabid Privateer Boots,Armor,55,Rare,144
+17031,Penetrating Reinforced Scale Boots,Armor,45,Rare,123
+17032,Berserker's Reinforced Scale Boots,Armor,70,Rare,177
+17033,Carrion Privateer Coat,Armor,65,Rare,248
+17034,Berserker's Reinforced Scale Boots,Armor,80,Rare,198
+17036,Rabid Privateer Boots,Armor,80,Rare,198
+17037,Berserker's Cabalist Hood,Armor,80,Rare,248
+17038,Rabid Privateer Coat,Armor,80,Rare,297
+17039,Rabid Privateer Coat,Armor,55,Rare,216
+17040,Berserker's Reinforced Scale Coat,Armor,70,Rare,266
+17041,Berserker's Reinforced Scale Coat,Armor,80,Rare,297
+17042,Carrion Privateer Gloves,Armor,65,Rare,149
+17044,Penetrating Reinforced Scale Coat,Armor,45,Rare,185
+17045,Berserker's Cabalist Legs,Armor,80,Rare,278
+17046,Berserker's Cabalist Shoulders,Armor,80,Rare,218
+17047,Berserker's Reinforced Scale Gauntlets,Armor,80,Rare,179
+17048,Carrion Privateer Hat,Armor,65,Rare,207
+17049,Rabid Privateer Gloves,Armor,55,Rare,130
+17050,Rabid Privateer Gloves,Armor,80,Rare,179
+17051,Penetrating Reinforced Scale Gauntlets,Armor,45,Rare,111
+17052,Berserker's Reinforced Scale Gauntlets,Armor,70,Rare,160
+17054,Rabid Privateer Hat,Armor,80,Rare,248
+17055,Berserker's Privateer Boots,Armor,80,Rare,198
+17056,Berserker's Reinforced Scale Helm,Armor,70,Rare,222
+17057,Penetrating Reinforced Scale Helm,Armor,45,Rare,154
+17058,Rabid Privateer Hat,Armor,55,Rare,180
+17060,Carrion Privateer Pants,Armor,65,Rare,231
+17061,Berserker's Reinforced Scale Helm,Armor,78,Rare,240
+17062,Rabid Privateer Pants,Armor,55,Rare,202
+17063,Berserker's Privateer Coat,Armor,80,Rare,297
+17064,Berserker's Reinforced Scale Legs,Armor,70,Rare,248
+17065,Penetrating Reinforced Scale Legs,Armor,45,Rare,173
+17066,Berserker's Reinforced Scale Legs,Armor,80,Rare,278
+17068,Carrion Privateer Shoulders,Armor,65,Rare,182
+17069,Rabid Privateer Pants,Armor,80,Rare,278
+17070,Berserker's Reinforced Scale Pauldrons,Armor,80,Rare,218
+17071,Carrion Reinforced Scale Boots,Armor,65,Rare,165
+17073,Penetrating Reinforced Scale Pauldrons,Armor,45,Rare,136
+17074,Berserker's Reinforced Scale Pauldrons,Armor,70,Rare,195
+17075,Rabid Privateer Shoulders,Armor,80,Rare,218
+17076,Rabid Privateer Shoulders,Armor,55,Rare,159
+17077,Berserker's Privateer Gloves,Armor,80,Rare,179
+17078,Carrion Reinforced Scale Coat,Armor,65,Rare,248
+17079,Berserker's Privateer Hat,Armor,80,Rare,248
+17080,Penetrating Cabalist Boots,Armor,45,Rare,123
+17081,Rabid Cabalist Boots,Armor,80,Rare,198
+17083,Berserker's Cabalist Boots,Armor,70,Rare,177
+17084,Rabid Cabalist Boots,Armor,55,Rare,144
+17085,Berserker's Cabalist Boots,Armor,80,Rare,198
+17086,Berserker's Privateer Pants,Armor,80,Rare,278
+17087,Berserker's Cabalist Coat,Armor,70,Rare,266
+17088,Rabid Cabalist Coat,Armor,80,Rare,297
+17089,Berserker's Cabalist Coat,Armor,80,Rare,297
+17091,Rabid Cabalist Coat,Armor,55,Rare,216
+17092,Carrion Reinforced Scale Gauntlets,Armor,65,Rare,149
+17093,Penetrating Cabalist Coat,Armor,45,Rare,185
+17094,Berserker's Privateer Shoulders,Armor,80,Rare,218
+17095,Berserker's Cabalist Gloves,Armor,70,Rare,160
+17097,Rabid Cabalist Gloves,Armor,80,Rare,179
+17098,Berserker's Cabalist Gloves,Armor,80,Rare,179
+17099,Carrion Reinforced Scale Helm,Armor,65,Rare,207
+17100,Rabid Cabalist Gloves,Armor,55,Rare,130
+17101,Penetrating Cabalist Gloves,Armor,45,Rare,111
+17102,Rabid Cabalist Hood,Armor,55,Rare,180
+17104,Carrion Reinforced Scale Legs,Armor,65,Rare,231
+17105,Berserker's Cabalist Hood,Armor,78,Rare,240
+17106,Rabid Cabalist Hood,Armor,80,Rare,248
+17107,Penetrating Cabalist Hood,Armor,45,Rare,154
+17108,Berserker's Cabalist Hood,Armor,70,Rare,222
+17109,Berserker's Cabalist Legs,Armor,80,Rare,278
+17110,Rabid Cabalist Legs,Armor,55,Rare,202
+17111,Berserker's Cabalist Legs,Armor,70,Rare,248
+17112,Rabid Cabalist Legs,Armor,80,Rare,278
+17113,Carrion Reinforced Scale Pauldrons,Armor,65,Rare,182
+17115,Penetrating Cabalist Legs,Armor,45,Rare,173
+17117,Rabid Cabalist Shoulders,Armor,80,Rare,218
+17118,Berserker's Cabalist Shoulders,Armor,80,Rare,218
+17119,Rabid Cabalist Shoulders,Armor,55,Rare,159
+17120,Penetrating Cabalist Shoulders,Armor,45,Rare,136
+17121,Berserker's Cabalist Shoulders,Armor,70,Rare,195
+17132,Rejuvenating Privateer Shoulders,Armor,35,Rare,113
+17134,Rejuvenating Privateer Boots,Armor,35,Rare,102
+17145,Rejuvenating Privateer Coat,Armor,35,Rare,153
+17157,Rejuvenating Privateer Gloves,Armor,35,Rare,92
+17164,Rejuvenating Privateer Hat,Armor,30,Rare,117
+17174,Rejuvenating Privateer Pants,Armor,35,Rare,143
+17181,Rejuvenating Cabalist Shoulders,Armor,35,Rare,113
+17195,Rejuvenating Cabalist Boots,Armor,35,Rare,102
+17205,Rejuvenating Cabalist Coat,Armor,35,Rare,153
+17210,Rejuvenating Cabalist Gloves,Armor,35,Rare,92
+17223,Rejuvenating Cabalist Hood,Armor,30,Rare,117
+17230,Rejuvenating Cabalist Legs,Armor,35,Rare,143
+17241,Rejuvenating Reinforced Scale Pauldrons,Armor,35,Rare,113
+17244,Rejuvenating Reinforced Scale Boots,Armor,35,Rare,102
+17254,Rejuvenating Reinforced Scale Coat,Armor,35,Rare,153
+17262,Rejuvenating Reinforced Scale Gauntlets,Armor,35,Rare,92
+17270,Manifesto of the Moletariate,Consumable,0,Rare,60
+17271,Rejuvenating Reinforced Scale Helm,Armor,30,Rare,117
+17272,Shard of Zhaitan,Consumable,0,Rare,96
+17273,Deadly Bloom,Consumable,0,Rare,60
+17274,Seal of Beetletun,Consumable,0,Rare,60
+17275,Flame Legion Charr Carving,Consumable,0,Rare,99
+17276,Knowledge Crystal,Consumable,0,Rare,99
+17278,Rejuvenating Reinforced Scale Legs,Armor,35,Rare,143
+17316,Molten Axe,Weapon,80,Exotic,264
+17317,Molten Longbow,Weapon,80,Exotic,396
+17318,Molten Short Bow,Weapon,80,Exotic,396
+17319,Molten Dagger,Weapon,80,Exotic,264
+17320,Molten Focus,Weapon,80,Exotic,264
+17321,Molten Greatsword,Weapon,80,Exotic,396
+17322,Molten Hammer,Weapon,80,Exotic,396
+17323,Molten Harpoon,Weapon,80,Exotic,396
+17324,Molten Mace,Weapon,80,Exotic,264
+17325,Molten Pistol,Weapon,80,Exotic,264
+17326,Molten Rifle,Weapon,80,Exotic,396
+17327,Molten Scepter,Weapon,80,Exotic,264
+17328,Molten Shield,Weapon,80,Exotic,264
+17329,Molten Speargun,Weapon,80,Exotic,396
+17330,Molten Staff,Weapon,80,Exotic,396
+17331,Molten Sword,Weapon,80,Exotic,264
+17332,Molten Torch,Weapon,80,Exotic,264
+17333,Molten Trident,Weapon,80,Exotic,396
+17334,Molten Warhorn,Weapon,80,Exotic,264
+17335,Flame Legion Boots,Armor,80,Exotic,264
+17336,Flame Legion Coat,Armor,80,Exotic,396
+17337,Flame Legion Gloves,Armor,80,Exotic,238
+17338,Flame Legion Helm,Armor,80,Exotic,330
+17339,Flame Legion Leggings,Armor,80,Exotic,370
+17340,Flame Legion Shoulders,Armor,80,Exotic,291
+17341,Flame Legion Shoes,Armor,80,Exotic,264
+17342,Flame Legion Vestments,Armor,80,Exotic,396
+17343,Flame Legion Wraps,Armor,80,Exotic,238
+17344,Flame Legion Mask,Armor,80,Exotic,330
+17345,Flame Legion Pants,Armor,80,Exotic,370
+17346,Flame Legion Epaulets,Armor,80,Exotic,291
+17347,Flame Legion Greaves,Armor,80,Exotic,264
+17348,Flame Legion Breastplate,Armor,80,Exotic,396
+17349,Flame Legion Gauntlets,Armor,80,Exotic,238
+17350,Flame Legion Helm,Armor,80,Exotic,330
+17351,Flame Legion Legguards,Armor,80,Exotic,370
+17352,Flame Legion Pauldrons,Armor,80,Exotic,291
+17353,Nightmare Axe,Weapon,80,Exotic,264
+17354,Nightmare Longbow,Weapon,80,Exotic,396
+17355,Nightmare Short Bow,Weapon,80,Exotic,396
+17356,Nightmare Dagger,Weapon,80,Exotic,264
+17357,Nightmare Focus,Weapon,80,Exotic,264
+17358,Nightmare Greatsword,Weapon,80,Exotic,396
+17359,Nightmare Hammer,Weapon,80,Exotic,396
+17360,Nightmare Harpoon,Weapon,80,Exotic,396
+17361,Nightmare Mace,Weapon,80,Exotic,264
+17362,Nightmare Pistol,Weapon,80,Exotic,264
+17363,Nightmare Rifle,Weapon,80,Exotic,396
+17364,Nightmare Scepter,Weapon,80,Exotic,264
+17365,Nightmare Shield,Weapon,80,Exotic,264
+17366,Nightmare Speargun,Weapon,80,Exotic,396
+17367,Nightmare Staff,Weapon,80,Exotic,396
+17368,Nightmare Sword,Weapon,80,Exotic,264
+17369,Nightmare Torch,Weapon,80,Exotic,264
+17370,Nightmare Trident,Weapon,80,Exotic,396
+17371,Nightmare Warhorn,Weapon,80,Exotic,264
+17372,Nightmare Court Boots,Armor,80,Exotic,264
+17373,Nightmare Court Guise,Armor,80,Exotic,396
+17374,Nightmare Court Armguards,Armor,80,Exotic,238
+17375,Nightmare Court Faceguard,Armor,80,Exotic,330
+17376,Nightmare Court Leggings,Armor,80,Exotic,370
+17377,Nightmare Court Collar,Armor,80,Exotic,291
+17378,Nightmare Court Footwraps,Armor,80,Exotic,264
+17379,Nightmare Court Robes,Armor,80,Exotic,396
+17380,Nightmare Court Gloves,Armor,80,Exotic,238
+17381,Nightmare Court Regalia,Armor,80,Exotic,330
+17382,Nightmare Court Sarong,Armor,80,Exotic,370
+17383,Nightmare Court Mantle,Armor,80,Exotic,291
+17384,Nightmare Court Greaves,Armor,80,Exotic,264
+17385,Nightmare Court Breastplate,Armor,80,Exotic,396
+17386,Nightmare Court Gauntlets,Armor,80,Exotic,238
 17387,Nightmare Court Helmet,Armor,80,Exotic,330
 17388,Nightmare Court Legguards,Armor,80,Exotic,370
 17389,Nightmare Court Pauldrons,Armor,80,Exotic,291
@@ -66077,6 +66277,7 @@ id,name,type,level,rarity,vendor_value
 101752,Lunar Astrolabe Focus Skin,Consumable,0,Rare,0
 101755,Northern Shiverpeaks Veteran,Consumable,0,Legendary,0
 101756,Skyscale Pistol Skin,Consumable,0,Rare,0
+101758,Skyscale Shield Skin,Consumable,0,Rare,0
 101760,Baruch Bay Veteran,Consumable,0,Legendary,0
 101762,Fort Aspenwood Veteran,Consumable,0,Legendary,0
 101763,Suffused Obsidian Heavy Gauntlets Skin,Consumable,0,Legendary,0
@@ -66094,6 +66295,7 @@ id,name,type,level,rarity,vendor_value
 101780,Piken Square Veteran,Consumable,0,Legendary,0
 101781,Shadow Chevalier Sword Skin,Consumable,0,Rare,0
 101782,Eparch's Hoard,Container,0,Rare,0
+101783,Suffused Obsidian Medium Gloves Skin,Consumable,0,Legendary,0
 101784,Free Kryptis Essence: Bronze,Container,0,Fine,0
 101785,Eredon Terrace Veteran,Consumable,0,Legendary,0
 101787,Mini Zakiros Wyvern,MiniPet,0,Exotic,50
@@ -66117,6 +66319,8 @@ id,name,type,level,rarity,vendor_value
 101812,Tincture of Distilled Lantern Power,Consumable,0,Basic,0
 101813,Free Kryptis Essence: Gold,Container,0,Rare,0
 101814,Ehmry Bay Veteran,Consumable,0,Legendary,0
+101815,Suffused Obsidian Medium Boots Skin,Consumable,0,Legendary,0
+101817,Visage of Nourys,Container,0,Exotic,0
 101819,Darkhaven Veteran,Consumable,0,Legendary,0
 101822,Lunar Astrolabe Rifle Skin,Consumable,0,Rare,0
 101823,Tarnished Coast Veteran,Consumable,0,Legendary,0
@@ -66172,13 +66376,16 @@ id,name,type,level,rarity,vendor_value
 101884,Suffused Obsidian Heavy Pauldrons Skin,Consumable,0,Legendary,0
 101885,Shadow Chevalier Greatsword Skin,Consumable,0,Rare,0
 101886,Sea of Sorrows Veteran,Consumable,0,Legendary,0
+101887,Suffused Obsidian Light Crown Skin,Consumable,0,Legendary,0
 101888,Far Shiverpeaks Veteran,Consumable,0,Legendary,0
 101889,Desolation Veteran,Consumable,0,Legendary,0
 101891,Mini Kryptis,MiniPet,0,Masterwork,50
+101892,Suffused Obsidian Light Shoes Skin,Consumable,0,Legendary,0
 101893,Shadow Chevalier Pistol Skin,Consumable,0,Rare,0
 101894,World Veteran Title Box,Container,0,Legendary,0
 101895,Shadow Chevalier Warhorn Skin,Consumable,0,Rare,0
 101896,Maguuma Veteran,Consumable,0,Legendary,0
+101897,Tincture of Distilled Amnytas Events,Consumable,0,Basic,0
 101899,Suffused Obsidian Medium Jacket Skin,Consumable,0,Legendary,0
 101901,Crystal Desert Veteran,Consumable,0,Legendary,0
 101902,Amnytas Supply Run: Bronze,Container,0,Fine,0
@@ -66205,6 +66412,7 @@ id,name,type,level,rarity,vendor_value
 101931,Mastery Point,Consumable,0,Basic,0
 101932,Gandara Veteran,Consumable,0,Legendary,0
 101933,Lunar Astrolabe Selection Box,Container,0,Rare,0
+101934,Storm Lord's Throne,Gizmo,0,Fine,0
 101935,Vabbi Veteran,Consumable,0,Legendary,0
 101936,Lunar Astrolabe Hammer Skin,Consumable,0,Rare,0
 101937,Shadow Chevalier Hammer Skin,Consumable,0,Rare,0
