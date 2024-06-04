@@ -27826,7 +27826,6 @@ id,name,type,level,rarity,vendor_value
 37604,Rabid Banded Greaves,Armor,80,Rare,198
 37606,Soldier's Steam Speargun,Weapon,80,Masterwork,198
 37607,Rabid Banded Coat,Armor,80,Rare,297
-37608,Soldier's Steam Speargun,Weapon,80,Rare,297
 37609,Rabid Banded Gauntlets,Armor,80,Rare,179
 37610,Rabid Banded Helm,Armor,80,Rare,248
 37612,Soldier's Steam Speargun,Weapon,80,Masterwork,198
@@ -45625,7 +45624,7 @@ id,name,type,level,rarity,vendor_value
 72794,Aetherblade Airship Steering Wheel,Trophy,0,Basic,1000
 72795,Gold Nib,CraftingMaterial,0,Fine,4
 72796,Beta Alchemical Precipitate,Trophy,0,Junk,5000
-72797,Schematic: Chilling Fog,Trophy,0,Basic,0
+72797,Schematic: Healing Mist,Trophy,0,Basic,0
 72798,Blizzard's Chill,Trophy,0,Exotic,264
 72799,Ice Wurm Tooth,Trophy,0,Exotic,264
 72800,Cleric's Auric Sword,Weapon,80,Exotic,264
