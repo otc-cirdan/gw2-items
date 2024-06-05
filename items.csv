@@ -61578,6 +61578,7 @@ id,name,type,level,rarity,vendor_value
 95100,The Juggernaut,Container,0,Legendary,0
 95101,Astralaria,Container,0,Legendary,0
 95102,Devil-Rending Axe Skin,Consumable,0,Rare,0
+95103,Frenzy,Container,0,Legendary,0
 95105,Legendary Coffer,Container,0,Legendary,0
 95106,Archdemon Wings Backpack and Glider Combo,Consumable,0,Masterwork,0
 95107,The Predator,Container,0,Legendary,0
@@ -66308,6 +66309,7 @@ id,name,type,level,rarity,vendor_value
 101792,Abaddon's Mouth Veteran,Consumable,0,Legendary,0
 101793,Fluffy Clouds Glider,Consumable,0,Masterwork,0
 101794,Sanctum of Rall Veteran,Consumable,0,Legendary,0
+101795,Empowered Eparch's Sword,Weapon,80,Exotic,264
 101796,Nayos Recon Run: Silver,Container,0,Masterwork,0
 101797,Extra-Large Static Charge,Consumable,0,Basic,0
 101799,Shadow Chevalier Scepter Skin,Consumable,0,Rare,0
@@ -66441,3 +66443,82 @@ id,name,type,level,rarity,vendor_value
 101958,Reuniting Lost Kryptis: Silver,Container,0,Masterwork,0
 101959,,Consumable,0,Basic,0
 101960,Skyscale Longbow Skin,Consumable,0,Rare,0
+101961,Wayfinder's Versatile Table,Gizmo,0,Exotic,0
+101964,Bonfire Axe,Weapon,80,Exotic,264
+101966,Serpent's Wrath Focus Skin,Consumable,0,Exotic,0
+101969,Sacred Crystal Warhorn,Weapon,80,Exotic,264
+101970,Chromatic Assassin Short Bow Skin,Consumable,0,Rare,0
+101971,Sacred Crystal Torch,Weapon,80,Exotic,264
+101972,Chromatic Assassin Greatsword Skin,Consumable,0,Rare,0
+101974,Sacred Crystal Sword,Weapon,80,Exotic,264
+101975,Unbound Magic Harvesting Blast,Gathering,0,Rare,192
+101977,Sacred Crystal Short Bow,Weapon,80,Exotic,396
+101978,Serpent's Wrath Hammer Skin,Consumable,0,Exotic,0
+101979,Chromatic Assassin Rifle Skin,Consumable,0,Rare,0
+101980,Chromatic Assassin Pistol Skin,Consumable,0,Rare,0
+101982,Sacred Crystal Spear,Weapon,80,Exotic,396
+101984,Chromatic Assassin Hammer Skin,Consumable,0,Rare,0
+101985,Serpent's Wrath Spear Skin,Consumable,0,Exotic,0
+101986,Chromatic Assassin Mace Skin,Consumable,0,Rare,0
+101987,Eldritch Horror Logging Tool,Gathering,0,Rare,192
+101988,Serpent's Wrath Rifle Skin,Consumable,0,Exotic,0
+101991,Sacred Crystal Rifle,Weapon,80,Exotic,396
+101993,Commander's Holographic Dragon Cuisses,Armor,80,Exotic,370
+101998,Chromatic Assassin Warhorn Skin,Consumable,0,Rare,0
+101999,Serpent's Wrath Sword Skin,Consumable,0,Exotic,0
+102000,Eldritch Horror Harvesting Tool,Gathering,0,Rare,192
+102001,Striated Caprine Warclaw Skin,Consumable,0,Rare,0
+102002,Trader's Dragonrender Chest,Container,0,Exotic,256
+102005,Charged Caprine Warclaw Skin,Consumable,0,Rare,0
+102009,Commander's Holographic Dragon Cuisses,Armor,80,Exotic,370
+102010,Serpent's Wrath Pistol Skin,Consumable,0,Exotic,0
+102012,Sacred Crystal Scepter,Weapon,80,Exotic,264
+102013,Chromatic Assassin Spear Skin,Consumable,0,Rare,0
+102015,Serpent's Wrath Weapon Skin Choice Box,Container,0,Rare,0
+102016,Dragon Bash Weapon Chest,Container,0,Exotic,0
+102017,Chromatic Assassin Longbow Skin,Consumable,0,Rare,0
+102018,Unbound Magic Mining Beam,Gathering,0,Rare,192
+102019,Serpent's Wrath Longbow Skin,Consumable,0,Exotic,0
+102020,Serpent's Wrath Scepter Skin,Consumable,0,Exotic,0
+102021,Serpent's Wrath Axe Skin,Consumable,0,Exotic,0
+102022,Sacred Crystal Pistol,Weapon,80,Exotic,264
+102025,Holographic Dragon Cuisses,Container,0,Exotic,0
+102026,Chromatic Assassin Focus Skin,Consumable,0,Rare,0
+102027,Flowing Scaled Cape,Consumable,0,Masterwork,6250
+102028,Chromatic Assassin Sword Skin,Consumable,0,Rare,0
+102030,Serpent's Wrath Staff Skin,Consumable,0,Exotic,0
+102031,Eldritch Horror Mining Tool,Gathering,0,Rare,192
+102033,Wrought Iron Dragon Statue,Consumable,0,Basic,0
+102034,Chromatic Assassin Torch Skin,Consumable,0,Rare,0
+102035,Wrought Iron Dragon Tail,Consumable,0,Basic,0
+102036,Sacred Crystal Chest,Container,0,Exotic,256
+102037,Bonfire Longbow,Weapon,80,Exotic,396
+102038,Serpent's Wrath Dagger Skin,Consumable,0,Exotic,0
+102040,Wrought Iron Dragon Body,Consumable,0,Basic,0
+102041,Chromatic Assassin Dagger Skin,Consumable,0,Rare,0
+102042,Serpent's Wrath Shield Skin,Consumable,0,Exotic,0
+102043,Sacred Crystal Hammer,Weapon,80,Exotic,396
+102044,Serpent's Wrath Mace Skin,Consumable,0,Exotic,0
+102045,Commander's Holographic Dragon Cuisses,Armor,80,Exotic,370
+102047,Mini Mystical Blue Orb,MiniPet,0,Exotic,50
+102048,Sacred Crystal Shield,Weapon,80,Exotic,264
+102051,Serpent's Wrath Warhorn Skin,Consumable,0,Exotic,0
+102052,Sacred Crystal Greatsword,Weapon,80,Exotic,396
+102053,Serpent's Wrath Greatsword Skin,Consumable,0,Exotic,0
+102054,Highland Caprine Warclaw Skin,Consumable,0,Rare,0
+102055,Chromatic Assassin Staff Skin,Consumable,0,Rare,0
+102056,Chromatic Assassin Shield Skin,Consumable,0,Rare,0
+102057,Sacred Crystal Focus,Weapon,80,Exotic,264
+102058,Sacred Crystal Longbow,Weapon,80,Exotic,396
+102059,Bonfire Torch,Weapon,80,Exotic,264
+102060,Serpent's Wrath Short Bow Skin,Consumable,0,Exotic,0
+102061,Chromatic Assassin Axe Skin,Consumable,0,Rare,0
+102062,Serpent's Wrath Torch Skin,Consumable,0,Exotic,0
+102063,Sacred Crystal Dagger,Weapon,80,Exotic,264
+102064,Skyscale Rental Post,Consumable,0,Basic,0
+102065,Unbound Magic Logging Pulse,Gathering,0,Rare,192
+102066,Chromatic Assassin Scepter Skin,Consumable,0,Rare,0
+102067,Sacred Crystal Axe,Weapon,80,Exotic,264
+102068,Sacred Crystal Mace,Weapon,80,Exotic,264
+102069,Sacred Crystal Staff,Weapon,80,Exotic,396
+102070,Whispering Serpents Pauldrons Skin,Consumable,0,Masterwork,0
