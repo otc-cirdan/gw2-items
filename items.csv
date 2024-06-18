@@ -51484,6 +51484,7 @@ id,name,type,level,rarity,vendor_value
 81062,Arboreal Runestone,Trophy,0,Exotic,1000
 81064,Oakheart's Runestone,Trophy,0,Exotic,1000
 81066,Desecrator Runestone,Trophy,0,Exotic,1000
+81069,Wurm Rest,Trophy,0,Exotic,1000
 81071,Recipe: Magnanimous Sharpening Stone,Consumable,0,Masterwork,0
 81076,Draconis Mons Empowerment,Consumable,0,Exotic,0
 81077,Mini G.O.X. 2.1.23,MiniPet,0,Rare,50
@@ -51492,6 +51493,7 @@ id,name,type,level,rarity,vendor_value
 81082,Ancient Asuran Power Source,Consumable,0,Fine,0
 81083,Element of Arcanum,Gizmo,0,Rare,1000
 81086,Charged Runestone,Trophy,0,Exotic,1000
+81088,Imperial Rest,Trophy,0,Exotic,1000
 81089,Living Druid Stone,Back,80,Exotic,1000
 81091,Superior Rune of Nature's Bounty,UpgradeComponent,60,Exotic,216
 81093,((791398)),Consumable,0,Junk,10
@@ -51515,8 +51517,11 @@ id,name,type,level,rarity,vendor_value
 81124,Oakheart's Essence,Trophy,0,Basic,0
 81126,Draconis Mons Cache,Container,0,Basic,0
 81127,Fire Orchid Blossom,Consumable,0,Exotic,128
+81131,Webby Rest,Trophy,0,Exotic,1000
+81134,Saurian Rest,Trophy,0,Exotic,1000
 81135,Druid Runestone Fragment,Consumable,0,Basic,0
 81136,White Mantle Scroll (Infused),Back,80,Ascended,330
+81137,Arcanum Rest,Trophy,0,Exotic,1000
 81139,Bundle of Fire Orchid Blossoms,Consumable,0,Exotic,128
 81140,Druid Runestone,Trophy,0,Rare,1000
 81143,Blooming Druid Stone,Back,80,Exotic,1000
