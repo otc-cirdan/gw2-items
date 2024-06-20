@@ -3599,6 +3599,206 @@ id,name,type,level,rarity,vendor_value
 3673,Rabid Oaken Boots,Armor,80,Rare,15000
 3674,Rabid Oaken Coat,Armor,80,Rare,37500
 3675,Rabid Oaken Gloves,Armor,80,Rare,15000
+3676,Rabid Oaken Helm,Armor,80,Rare,25000
+3677,Rabid Oaken Leggings,Armor,80,Rare,31250
+3678,Rabid Oaken Shoulderguards,Armor,80,Rare,25000
+3679,Carrion Genius Epaulets,Armor,60,Rare,1250
+3680,Lingering Adept Epaulets,Armor,35,Rare,500
+3681,Carrion Savant Epaulets,Armor,80,Rare,25000
+3682,Ravaging Snapdragon Epaulets,Armor,35,Rare,500
+3683,Rabid Orchid Epaulets,Armor,60,Rare,1250
+3684,Rabid Dryad Epaulets,Armor,80,Rare,25000
+3685,Rampager's Falconer's Boots,Armor,60,Rare,1000
+3686,Rampager's Falconer's Coat,Armor,60,Rare,2500
+3687,Rampager's Falconer's Gloves,Armor,60,Rare,1000
+3688,Rampager's Falconer's Mask,Armor,60,Rare,1250
+3689,Rampager's Falconer's Leggings,Armor,60,Rare,1875
+3690,Rampager's Falconer's Shoulderpads,Armor,60,Rare,1250
+3691,Rampager's Avenger's Footgear,Armor,60,Rare,1000
+3692,Rampager's Avenger's Armor,Armor,60,Rare,2500
+3693,Rampager's Avenger's Gauntlets,Armor,60,Rare,1000
+3694,Rampager's Avenger's Helm,Armor,60,Rare,1250
+3695,Rampager's Avenger's Chausses,Armor,60,Rare,1875
+3696,Rampager's Avenger's Shoulderplates,Armor,60,Rare,1250
+3697,Strong Researcher's Shoes,Armor,35,Rare,425
+3698,Strong Researcher's Coat,Armor,35,Rare,1000
+3699,Strong Researcher's Livery,Armor,35,Rare,425
+3700,Strong Researcher's Masque,Armor,35,Rare,500
+3701,Strong Researcher's Pants,Armor,35,Rare,750
+3702,Strong Researcher's Epaulets,Armor,35,Rare,500
+3703,Rampager's Aristocrat's Shoes,Armor,60,Rare,1000
+3704,Rampager's Aristocrat's Coat,Armor,60,Rare,2500
+3705,Rampager's Aristocrat's Livery,Armor,60,Rare,1000
+3706,Rampager's Aristocrat's Masque,Armor,60,Rare,1250
+3707,Rampager's Aristocrat's Pants,Armor,60,Rare,1875
+3708,Rampager's Aristocrat's Epaulets,Armor,60,Rare,1250
+3709,Rampager's Sorcerer's Shoes,Armor,80,Rare,15000
+3710,Rampager's Sorcerer's Coat,Armor,80,Rare,37500
+3711,Rampager's Sorcerer's Livery,Armor,80,Rare,15000
+3712,Rampager's Sorcerer's Masque,Armor,80,Rare,25000
+3713,Rampager's Sorcerer's Pants,Armor,80,Rare,31250
+3714,Rampager's Sorcerer's Epaulets,Armor,80,Rare,25000
+3715,Honed Drover Boots,Armor,35,Rare,425
+3716,Honed Drover Coat,Armor,35,Rare,1000
+3717,Honed Drover Gloves,Armor,35,Rare,425
+3718,Honed Drover Helm,Armor,35,Rare,500
+3719,Honed Drover Leggings,Armor,35,Rare,750
+3720,Honed Drover Shoulders,Armor,35,Rare,500
+3721,Honed Invoker's Boots,Armor,35,Rare,425
+3722,Honed Invoker's Coat,Armor,35,Rare,1000
+3723,Honed Invoker's Gloves,Armor,35,Rare,425
+3724,Honed Invoker's Helm,Armor,35,Rare,500
+3725,Honed Invoker's Leggings,Armor,35,Rare,750
+3726,Honed Invoker's Shoulders,Armor,35,Rare,500
+3727,Berserker's Wrangler Boots,Armor,60,Rare,1000
+3728,Berserker's Wrangler Coat,Armor,60,Rare,2500
+3729,Berserker's Wrangler Gloves,Armor,60,Rare,1000
+3730,Berserker's Wrangler Helm,Armor,60,Rare,1250
+3731,Berserker's Wrangler Leggings,Armor,60,Rare,1875
+3732,Berserker's Wrangler Shoulders,Armor,60,Rare,1250
+3733,Berserker's Archon Shoulders,Armor,60,Rare,1250
+3734,Berserker's Legion Boots,Armor,60,Rare,1000
+3735,Berserker's Legion Hauberk,Armor,60,Rare,2500
+3736,Berserker's Legion Fists,Armor,60,Rare,1000
+3737,Berserker's Legion Visor,Armor,60,Rare,1250
+3738,Berserker's Legion Tassets,Armor,60,Rare,1875
+3739,Berserker's Legion Spaulders,Armor,60,Rare,1250
+3740,Berserker's Trapper Boots,Armor,80,Rare,15000
+3741,Berserker's Trapper Coat,Armor,80,Rare,37500
+3742,Berserker's Trapper Gloves,Armor,80,Rare,15000
+3743,Berserker's Trapper Helm,Armor,80,Rare,25000
+3744,Berserker's Trapper Leggings,Armor,80,Rare,31250
+3745,Berserker's Trapper Shoulders,Armor,80,Rare,25000
+3746,Berserker's Dreadnought Visor,Armor,80,Rare,25000
+3747,Strong Scout's Boots,Armor,35,Rare,425
+3748,Strong Scout's Coat,Armor,35,Rare,1000
+3749,Strong Scout's Gloves,Armor,35,Rare,425
+3750,Strong Scout's Mask,Armor,35,Rare,500
+3751,Strong Scout's Leggings,Armor,35,Rare,750
+3752,Strong Scout's Shoulderpads,Armor,35,Rare,500
+3753,Rampager's Assassin's Boots,Armor,80,Rare,15000
+3754,Rampager's Assassin's Coat,Armor,80,Rare,37500
+3755,Rampager's Assassin's Gloves,Armor,80,Rare,15000
+3756,Rampager's Assassin's Mask,Armor,80,Rare,25000
+3757,Rampager's Assassin's Leggings,Armor,80,Rare,31250
+3758,Rampager's Assassin's Shoulderpads,Armor,80,Rare,25000
+3759,Vigorous Wolfborn Mask,Armor,35,Rare,500
+3760,Vigorous Sheepskin Shoes,Armor,35,Rare,425
+3761,Vigorous Sheepskin Doublet,Armor,35,Rare,1000
+3762,Vigorous Sheepskin Gloves,Armor,35,Rare,425
+3763,Vigorous Sheepskin Circlet,Armor,35,Rare,500
+3764,Vigorous Sheepskin Leggings,Armor,35,Rare,750
+3765,Vigorous Sheepskin Mantle,Armor,35,Rare,500
+3766,Vigorous Dolyak Greaves,Armor,35,Rare,425
+3767,Vigorous Dolyak Mail,Armor,35,Rare,1000
+3768,Vigorous Dolyak Gauntlets,Armor,35,Rare,425
+3769,Vigorous Dolyak Hounskull,Armor,35,Rare,500
+3770,Vigorous Dolyak Chausses,Armor,35,Rare,750
+3771,Vigorous Dolyak Spaulders,Armor,35,Rare,500
+3772,Soldier's Havroun Shoes,Armor,60,Rare,1000
+3773,Soldier's Havroun Doublet,Armor,60,Rare,2500
+3774,Soldier's Havroun Gloves,Armor,60,Rare,1000
+3775,Soldier's Havroun Circlet,Armor,60,Rare,1250
+3776,Soldier's Havroun Leggings,Armor,60,Rare,1875
+3777,Soldier's Havroun Mantle,Armor,60,Rare,1250
+3778,Soldier's Predatory Boots,Armor,60,Rare,1000
+3779,Soldier's Predatory Vest,Armor,60,Rare,2500
+3780,Soldier's Predatory Bracers,Armor,60,Rare,1000
+3781,Soldier's Predatory Mask,Armor,60,Rare,1250
+3782,Soldier's Predatory Leggings,Armor,60,Rare,1875
+3783,Soldier's Predatory Shoulderpad,Armor,60,Rare,1250
+3784,Soldier's Wolf Mask,Armor,80,Rare,25000
+3785,Soldier's Lupine Shoes,Armor,80,Rare,15000
+3786,Soldier's Lupine Doublet,Armor,80,Rare,37500
+3787,Soldier's Lupine Gloves,Armor,80,Rare,15000
+3788,Soldier's Lupine Circlet,Armor,80,Rare,25000
+3789,Soldier's Lupine Leggings,Armor,80,Rare,31250
+3790,Soldier's Lupine Mantle,Armor,80,Rare,25000
+3791,Soldier's Stag Greaves,Armor,80,Rare,15000
+3792,Soldier's Stag Mail,Armor,80,Rare,37500
+3793,Soldier's Stag Gauntlets,Armor,80,Rare,15000
+3794,Soldier's Stag Hounskull,Armor,80,Rare,25000
+3795,Soldier's Stag Chausses,Armor,80,Rare,31250
+3796,Soldier's Stag Spaulders,Armor,80,Rare,25000
+3817,Superior Duelist's Gauntlets,Armor,8,Masterwork,24
+3818,Superior Duelist's Helm,Armor,8,Masterwork,33
+3821,Devout Shoes,Armor,8,Masterwork,26
+3822,Devout Garb,Armor,8,Masterwork,39
+3823,Devout Gloves,Armor,8,Masterwork,24
+3824,Devout Helm,Armor,8,Masterwork,33
+3825,Devout Leggings,Armor,8,Masterwork,37
+3826,Devout Mantle,Armor,8,Masterwork,29
+3830,Supple Leather Mask,Armor,8,Masterwork,33
+3831,Supple Leather Leggings,Armor,8,Masterwork,37
+3832,Supple Leather Shoulderpads,Armor,8,Masterwork,29
+3839,Duelist's Chain Gauntlets,Armor,0,Fine,8
+3906,Hunter Boots,Armor,21,Masterwork,48
+3907,Leika's Breastplate,Armor,23,Masterwork,78
+3908,Lionguard Gauntlets,Armor,18,Masterwork,40
+3909,Haven Heavy Helm,Armor,16,Masterwork,50
+3910,Northen Heavy Leggings,Armor,17,Masterwork,59
+3911,Seraph Shoulders,Armor,24,Masterwork,58
+3912,Hunter Shoes,Armor,21,Masterwork,48
+3913,Leika's Garb,Armor,23,Masterwork,78
+3914,Lionguard Gloves,Armor,18,Masterwork,40
+3915,Haven Cloth Helm,Armor,16,Masterwork,50
+3916,Northen Cloth Leggings,Armor,17,Masterwork,59
+3917,Seraph Mantle,Armor,24,Masterwork,58
+3918,Hunter Boots,Armor,21,Masterwork,48
+3919,Leika's Coat,Armor,23,Masterwork,78
+3920,Lionguard Gloves,Armor,18,Masterwork,40
+3921,Haven Leather Mask,Armor,16,Masterwork,50
+3922,Northen Leather Leggings,Armor,17,Masterwork,59
+3923,Seraph Shoulderpads,Armor,24,Masterwork,58
+3924,Haven Heavy Helm,Armor,16,Fine,25
+3925,Haven Cloth Helm,Armor,16,Fine,25
+3926,Haven Leather Mask,Armor,16,Fine,25
+3927,Northen Heavy Leggings,Armor,17,Fine,30
+3928,Northen Cloth Leggings,Armor,17,Fine,30
+3929,Northen Leather Leggings,Armor,17,Fine,30
+3930,Lionguard Gauntlets,Armor,18,Fine,20
+3931,Lionguard Gloves,Armor,18,Fine,20
+3932,Lionguard Gloves,Armor,18,Fine,20
+3933,Hunter Boots,Armor,21,Fine,24
+3934,Hunter Shoes,Armor,21,Fine,24
+3935,Hunter Boots,Armor,21,Fine,24
+3936,Leika's Breastplate,Armor,23,Fine,39
+3937,Leika's Garb,Armor,23,Fine,39
+3938,Leika's Coat,Armor,23,Fine,39
+3939,Seraph Shoulders,Armor,24,Fine,29
+3940,Seraph Mantle,Armor,24,Fine,29
+3941,Seraph Shoulderpads,Armor,24,Fine,29
+3942,Metal Aquabreather,Armor,20,Fine,30
+3943,Cloth Aquabreather,Armor,20,Fine,30
+3944,Leather Aquabreather,Armor,20,Fine,30
+3945,Metal Aquabreather,Armor,20,Masterwork,60
+3946,Cloth Aquabreather,Armor,20,Masterwork,60
+3947,Leather Aquabreather,Armor,20,Masterwork,60
+3948,Shadow Leggings,Armor,25,Masterwork,76
+3949,Shadow Gloves,Armor,25,Masterwork,49
+3950,Shadow Shoes,Armor,25,Masterwork,54
+3951,Shadow Garb,Armor,25,Masterwork,81
+3952,Shadow Mantle,Armor,25,Masterwork,60
+3953,Shadow Helm,Armor,25,Masterwork,68
+3954,Fur-Lined Helm,Armor,20,Fine,30
+3955,Fur-Lined Helmet,Armor,20,Masterwork,60
+3956,Fur-Lined Mask,Armor,20,Fine,30
+3957,Heavy Molesmasher Gloves,Armor,5,Fine,9
+3958,Cloth Molesmasher Gloves,Armor,5,Fine,9
+3959,Leather Molesmasher Gloves,Armor,5,Fine,9
+3960,Surplus Lionguard Boots,Armor,13,Fine,18
+3961,Surplus Lionguard Shoes,Armor,13,Fine,18
+3962,Surplus Lionguard Leather Boots,Armor,13,Fine,18
+3963,Surplus Heavy Leggings,Armor,15,Fine,28
+3964,Surplus Cloth Leggings,Armor,15,Fine,28
+3965,Surplus Leather Leggings,Armor,15,Fine,28
+3966,Tor's Chain Coat,Armor,10,Fine,23
+3967,Tor's Cloth Coat,Armor,10,Fine,23
+3968,Tor's Leather Coat,Armor,10,Fine,23
+3969,"""Acquired"" Boots",Armor,52,Fine,46
+3970,Crusader's Heavy Helm,Armor,54,Fine,59
+3971,Dark Leggings,Armor,51,Fine,63
+3972,Mountainous Pauldrons,Armor,57,Fine,54
 3973,"""Acquired"" Shoes",Armor,52,Fine,46
 3974,Crusader's Light Helm,Armor,54,Fine,59
 3975,Shadow Leggings,Armor,51,Fine,63
