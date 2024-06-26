@@ -55890,7 +55890,7 @@ id,name,type,level,rarity,vendor_value
 87514,Prospector's Harvesting Sickle,Gathering,60,Fine,50
 87515,Glyph of the Prospector (Unused),Container,0,Rare,0
 87516,Swim-Speed Infusion +18,UpgradeComponent,0,Ascended,40
-87517,Ornate Rusted Key,Trophy,0,Exotic,0
+87517,Ornate Rusted Key,Gizmo,0,Exotic,0
 87518,Swim-Speed Infusion +11,UpgradeComponent,0,Ascended,40
 87519,Diver's Breather Box,Container,80,Ascended,330
 87521,Recipe: Mistcleaver,Consumable,0,Ascended,165
@@ -66257,7 +66257,7 @@ id,name,type,level,rarity,vendor_value
 101713,Pointy Tooth,Trophy,0,Fine,0
 101714,Jade Sea Veteran,Consumable,0,Legendary,0
 101715,Lunar Astrolabe Shield Skin,Consumable,0,Rare,0
-101716,Suffused Obsidian Heavy Helmet Skin,Consumable,0,Legendary,0
+101716,Suffused Obsidian Heavy Helmet Skin,Consumable,0,Exotic,0
 101720,Stormbluff Isle Veteran,Consumable,0,Legendary,0
 101721,Blacktide Veteran,Consumable,0,Legendary,0
 101723,Tincture of Distilled Rift Energy,Consumable,0,Basic,0
@@ -66267,7 +66267,7 @@ id,name,type,level,rarity,vendor_value
 101728,Tincture of Distilled World Bosses,Consumable,0,Basic,0
 101729,Lunar Astrolabe Longbow Skin,Consumable,0,Rare,0
 101730,Lunar Astrolabe Scepter Skin,Consumable,0,Rare,0
-101733,Suffused Obsidian Light Gloves Skin,Consumable,0,Legendary,0
+101733,Suffused Obsidian Light Gloves Skin,Consumable,0,Exotic,0
 101734,Lunar Astrolabe Short Bow Skin,Consumable,0,Rare,0
 101735,Blackgate Veteran,Consumable,0,Legendary,0
 101736,Eparch's Empowered Greatsword,Weapon,80,Exotic,396
@@ -66275,10 +66275,10 @@ id,name,type,level,rarity,vendor_value
 101739,Eparch's Sword,Weapon,80,Exotic,264
 101740,Lunar Astrolabe Axe Skin,Consumable,0,Rare,0
 101741,Mini Astral Ward Livia,MiniPet,0,Masterwork,50
-101744,Suffused Obsidian Medium Shoulders Skin,Consumable,0,Legendary,0
-101745,Suffused Obsidian Light Regalia Skin,Consumable,0,Legendary,0
+101744,Suffused Obsidian Medium Shoulders Skin,Consumable,0,Exotic,0
+101745,Suffused Obsidian Light Regalia Skin,Consumable,0,Exotic,0
 101746,Dragonbrand Veteran,Consumable,0,Legendary,0
-101747,Suffused Obsidian Light Pants Skin,Consumable,0,Legendary,0
+101747,Suffused Obsidian Light Pants Skin,Consumable,0,Exotic,0
 101748,Citadel of Zakiros: Hero's Choice Chest,Container,0,Exotic,0
 101749,Shadow Chevalier Shield Skin,Consumable,0,Rare,0
 101750,Eparch's Greatsword,Weapon,80,Exotic,396
@@ -66290,7 +66290,7 @@ id,name,type,level,rarity,vendor_value
 101759,Raven Leggings Skin,Consumable,0,Masterwork,0
 101760,Baruch Bay Veteran,Consumable,0,Legendary,0
 101762,Fort Aspenwood Veteran,Consumable,0,Legendary,0
-101763,Suffused Obsidian Heavy Gauntlets Skin,Consumable,0,Legendary,0
+101763,Suffused Obsidian Heavy Gauntlets Skin,Consumable,0,Exotic,0
 101764,Drakkar Lake Veteran,Consumable,0,Legendary,0
 101766,Raven Vest Skin,Consumable,0,Masterwork,0
 101767,Relic of the Twin Generals,Relic,60,Exotic,200
@@ -66306,7 +66306,7 @@ id,name,type,level,rarity,vendor_value
 101780,Piken Square Veteran,Consumable,0,Legendary,0
 101781,Shadow Chevalier Sword Skin,Consumable,0,Rare,0
 101782,Eparch's Hoard,Container,0,Rare,0
-101783,Suffused Obsidian Medium Gloves Skin,Consumable,0,Legendary,0
+101783,Suffused Obsidian Medium Gloves Skin,Consumable,0,Exotic,0
 101784,Free Kryptis Essence: Bronze,Container,0,Fine,0
 101785,Eredon Terrace Veteran,Consumable,0,Legendary,0
 101787,Mini Zakiros Wyvern,MiniPet,0,Exotic,50
@@ -66327,23 +66327,23 @@ id,name,type,level,rarity,vendor_value
 101806,Sorrow's Furnace Veteran,Consumable,0,Legendary,0
 101807,Shadow Chevalier Dagger Skin,Consumable,0,Rare,0
 101808,Stuffed Quaggan?,Trophy,0,Fine,0
-101809,Suffused Obsidian Heavy Breastplate Skin,Consumable,0,Legendary,0
+101809,Suffused Obsidian Heavy Breastplate Skin,Consumable,0,Exotic,0
 101810,Skyscale Axe Skin,Consumable,0,Rare,0
 101812,Tincture of Distilled Lantern Power,Consumable,0,Basic,0
 101813,Free Kryptis Essence: Gold,Container,0,Rare,0
 101814,Ehmry Bay Veteran,Consumable,0,Legendary,0
-101815,Suffused Obsidian Medium Boots Skin,Consumable,0,Legendary,0
+101815,Suffused Obsidian Medium Boots Skin,Consumable,0,Exotic,0
 101817,Visage of Nourys,Container,0,Exotic,0
 101819,Darkhaven Veteran,Consumable,0,Legendary,0
 101822,Lunar Astrolabe Rifle Skin,Consumable,0,Rare,0
 101823,Tarnished Coast Veteran,Consumable,0,Legendary,0
 101824,Shadow Chevalier Staff Skin,Consumable,0,Rare,0
-101825,Suffused Obsidian Heavy Cuisses Skin,Consumable,0,Legendary,0
+101825,Suffused Obsidian Heavy Cuisses Skin,Consumable,0,Exotic,0
 101826,Skyscale Short Bow Skin,Consumable,0,Rare,0
 101827,Skyscale Scepter Skin,Consumable,0,Rare,0
 101828,Enchanted Skimmer Skin,Consumable,0,Rare,0
 101830,Skyscale Sword Skin,Consumable,0,Rare,0
-101831,Suffused Obsidian Heavy Greaves Skin,Consumable,0,Legendary,0
+101831,Suffused Obsidian Heavy Greaves Skin,Consumable,0,Exotic,0
 101832,Henge of Denravi Veteran,Consumable,0,Legendary,0
 101834,Devona's Rest Veteran,Consumable,0,Legendary,0
 101836,Kodash Veteran,Consumable,0,Legendary,0
@@ -66381,25 +66381,25 @@ id,name,type,level,rarity,vendor_value
 101875,Skyscale Torch Skin,Consumable,0,Rare,0
 101876,Anvil Rock Veteran,Consumable,0,Legendary,0
 101878,Council of Commentators Chair,Gizmo,0,Rare,0
-101879,Suffused Obsidian Medium Mask Skin,Consumable,0,Legendary,0
+101879,Suffused Obsidian Medium Mask Skin,Consumable,0,Exotic,0
 101880,Ferguson's Crossing Veteran,Consumable,0,Legendary,0
 101881,Aromatic Flower,Trophy,0,Fine,0
 101882,Runestone of Suffusion,Gizmo,0,Legendary,0
 101883,Lunar Astrolabe Sword Skin,Consumable,0,Rare,0
-101884,Suffused Obsidian Heavy Pauldrons Skin,Consumable,0,Legendary,0
+101884,Suffused Obsidian Heavy Pauldrons Skin,Consumable,0,Exotic,0
 101885,Shadow Chevalier Greatsword Skin,Consumable,0,Rare,0
 101886,Sea of Sorrows Veteran,Consumable,0,Legendary,0
-101887,Suffused Obsidian Light Crown Skin,Consumable,0,Legendary,0
+101887,Suffused Obsidian Light Crown Skin,Consumable,0,Exotic,0
 101888,Far Shiverpeaks Veteran,Consumable,0,Legendary,0
 101889,Desolation Veteran,Consumable,0,Legendary,0
 101891,Mini Kryptis,MiniPet,0,Masterwork,50
-101892,Suffused Obsidian Light Shoes Skin,Consumable,0,Legendary,0
+101892,Suffused Obsidian Light Shoes Skin,Consumable,0,Exotic,0
 101893,Shadow Chevalier Pistol Skin,Consumable,0,Rare,0
 101894,World Veteran Title Box,Container,0,Legendary,0
 101895,Shadow Chevalier Warhorn Skin,Consumable,0,Rare,0
 101896,Maguuma Veteran,Consumable,0,Legendary,0
 101897,Tincture of Distilled Amnytas Events,Consumable,0,Basic,0
-101899,Suffused Obsidian Medium Jacket Skin,Consumable,0,Legendary,0
+101899,Suffused Obsidian Medium Jacket Skin,Consumable,0,Exotic,0
 101901,Crystal Desert Veteran,Consumable,0,Legendary,0
 101902,Amnytas Supply Run: Bronze,Container,0,Fine,0
 101904,Lunar Astrolabe Greatsword Skin,Consumable,0,Rare,0
@@ -66411,7 +66411,7 @@ id,name,type,level,rarity,vendor_value
 101912,Underworld Veteran,Consumable,0,Legendary,0
 101913,Riverside Veteran,Consumable,0,Legendary,0
 101916,Miller's Sound Veteran,Consumable,0,Legendary,0
-101918,Suffused Obsidian Medium Leggings Skin,Consumable,0,Legendary,0
+101918,Suffused Obsidian Medium Leggings Skin,Consumable,0,Exotic,0
 101919,Lunar Astrolabe Dagger Skin,Consumable,0,Rare,0
 101920,Skysage's Cape Skin,Consumable,0,Masterwork,0
 101922,Convergence Challenge Mode: Bronze,Container,0,Fine,0
@@ -66420,7 +66420,7 @@ id,name,type,level,rarity,vendor_value
 101925,Fort Ranik Veteran,Consumable,0,Legendary,0
 101927,Lunar Astrolabe Staff Skin,Consumable,0,Rare,0
 101928,Dzagonur Veteran,Consumable,0,Legendary,0
-101929,Suffused Obsidian Light Mantle Skin,Consumable,0,Legendary,0
+101929,Suffused Obsidian Light Mantle Skin,Consumable,0,Exotic,0
 101930,One-Handed Skyscale Weapon Box,Container,0,Ascended,320
 101931,Mastery Point,Consumable,0,Basic,0
 101932,Gandara Veteran,Consumable,0,Legendary,0
@@ -66464,7 +66464,6 @@ id,name,type,level,rarity,vendor_value
 101979,Chromatic Assassin Rifle Skin,Consumable,0,Rare,0
 101980,Chromatic Assassin Pistol Skin,Consumable,0,Rare,0
 101982,Sacred Crystal Spear,Weapon,80,Exotic,396
-101983,Luxury Speeder Skiff Skin,Consumable,0,Rare,0
 101984,Chromatic Assassin Hammer Skin,Consumable,0,Rare,0
 101985,Serpent's Wrath Spear Skin,Consumable,0,Exotic,0
 101986,Chromatic Assassin Mace Skin,Consumable,0,Rare,0
@@ -66530,3 +66529,20 @@ id,name,type,level,rarity,vendor_value
 102068,Sacred Crystal Mace,Weapon,80,Exotic,264
 102069,Sacred Crystal Staff,Weapon,80,Exotic,396
 102070,Whispering Serpents Pauldrons Skin,Consumable,0,Masterwork,0
+102073,Infusible Leather Aquabreather,Armor,80,Exotic,330
+102074,Breezy Swim Pack,Container,0,Rare,0
+102075,Beach Sandals Skin,Consumable,0,Masterwork,0
+102077,Account Swim-Speed Boost +25,Consumable,0,Rare,0
+102079,Infusible Metal Aquabreather,Armor,80,Exotic,330
+102080,Tropical Chest Skin,Consumable,0,Masterwork,0
+102081,Account Swim-Speed Boost +20,Consumable,0,Rare,0
+102083,Beach Hat Skin,Consumable,0,Masterwork,0
+102084,Account Swim-Speed Infusion,UpgradeComponent,0,Ascended,40
+102085,Neon Demon Mask Skin,Consumable,0,Masterwork,0
+102086,Breezy Swim Bottoms Skin,Consumable,0,Masterwork,0
+102087,Vacation Lounge Chair,Gizmo,0,Rare,0
+102088,Infusible Cloth Aquabreather,Armor,80,Exotic,330
+102089,Tropical Legwear Skin,Consumable,0,Masterwork,0
+102091,Tropical Beach Pack,Container,0,Rare,0
+102093,Breezy Swim Top Skin,Consumable,0,Masterwork,0
+102095,Beach Bracelet Skin,Consumable,0,Masterwork,0
