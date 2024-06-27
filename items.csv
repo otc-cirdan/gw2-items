@@ -36397,6 +36397,7 @@ id,name,type,level,rarity,vendor_value
 52145,Apostate's Little Smirk,Weapon,68,Exotic,354
 52146,Apostate's Razor Shard,Weapon,68,Exotic,236
 52147,Apostate's Hand Furnace,Weapon,68,Exotic,236
+52149,Apostate's Thermaul,Weapon,68,Exotic,354
 52151,Apostate's Glaukon's Greeting,Weapon,68,Exotic,236
 52155,Apostate's Radiance,Weapon,68,Exotic,354
 52156,Apostate's Distemper,Weapon,68,Exotic,236
@@ -39241,6 +39242,7 @@ id,name,type,level,rarity,vendor_value
 61088,Razor Shard,Container,0,Exotic,0
 61089,Hand Furnace,Container,0,Exotic,0
 61090,Fury Unleashed,Container,0,Exotic,0
+61091,Thermaul,Container,0,Exotic,0
 61093,Glaukon's Greeting,Container,0,Exotic,0
 61096,Chiminea Ward,Container,0,Exotic,0
 61097,Radiance,Container,0,Exotic,0
