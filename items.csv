@@ -66534,6 +66534,7 @@ id,name,type,level,rarity,vendor_value
 102068,Sacred Crystal Mace,Weapon,80,Exotic,264
 102069,Sacred Crystal Staff,Weapon,80,Exotic,396
 102070,Whispering Serpents Pauldrons Skin,Consumable,0,Masterwork,0
+102071,Worn Voltaic Spear,Weapon,80,Exotic,396
 102073,Infusible Leather Aquabreather,Armor,80,Exotic,330
 102074,Breezy Swim Pack,Container,0,Rare,0
 102075,Beach Sandals Skin,Consumable,0,Masterwork,0
@@ -66550,4 +66551,6 @@ id,name,type,level,rarity,vendor_value
 102089,Tropical Legwear Skin,Consumable,0,Masterwork,0
 102091,Tropical Beach Pack,Container,0,Rare,0
 102093,Breezy Swim Top Skin,Consumable,0,Masterwork,0
+102094,Infusible Aquabreather Box,Container,0,Exotic,0
 102095,Beach Bracelet Skin,Consumable,0,Masterwork,0
+102097,Disguised Fan Shield Skin,Consumable,0,Rare,0
