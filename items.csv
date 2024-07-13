@@ -24763,6 +24763,7 @@ id,name,type,level,rarity,vendor_value
 33717,Krytan Scepter,Weapon,66,Fine,56
 33720,Krytan Scepter,Weapon,80,Fine,66
 33721,Krytan Shield,Weapon,61,Fine,52
+33722,Krytan Shield,Weapon,66,Fine,56
 33723,Krytan Shield,Weapon,71,Fine,59
 33724,Krytan Shield,Weapon,76,Fine,63
 33725,Krytan Shield,Weapon,80,Fine,66
@@ -30125,7 +30126,10 @@ id,name,type,level,rarity,vendor_value
 42465,Settler's Soft Wood Warhorn of the Geomancer,Weapon,80,Exotic,264
 42466,Settler's Reinforced Scale Boots,Armor,80,Fine,66
 42467,Settler's Reinforced Scale Coat,Armor,80,Fine,99
+42468,Settler's Reinforced Scale Gauntlets,Armor,80,Fine,60
 42469,Settler's Reinforced Scale Helm,Armor,80,Fine,83
+42470,Settler's Reinforced Scale Legs,Armor,80,Fine,93
+42471,Settler's Reinforced Scale Pauldrons,Armor,80,Fine,73
 42472,Settler's Cabalist Boots,Armor,80,Fine,66
 42473,Settler's Cabalist Coat,Armor,80,Fine,99
 42474,Settler's Cabalist Gloves,Armor,80,Fine,60
