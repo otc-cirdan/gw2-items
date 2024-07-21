@@ -24490,6 +24490,7 @@ id,name,type,level,rarity,vendor_value
 33365,Ceremonial Winged Axe of Rage,Weapon,80,Exotic,264
 33368,Ceremonial Dagger of Accuracy,Weapon,78,Exotic,256
 33377,Ceremonial Scimitar of Rage,Weapon,80,Exotic,396
+33389,Ceremonial Longbow of Rage,Weapon,80,Exotic,396
 33396,Ceremonial Pistol of Accuracy,Weapon,78,Exotic,256
 33397,Ceremonial Pistol of Rage,Weapon,80,Exotic,264
 33399,Ceremonial Rifle of Vision,Weapon,70,Exotic,354
@@ -66082,6 +66083,7 @@ id,name,type,level,rarity,vendor_value
 101404,Fortunate Chest,Container,0,Exotic,256
 101405,Lucky Dragon Speargun,Weapon,80,Exotic,396
 101406,Fortunate Focus,Weapon,80,Exotic,264
+101407,Elegant Noble's Backpack and Glider Combo,Consumable,0,Masterwork,0
 101408,Dragon Descendant's Helm,Armor,80,Exotic,330
 101409,Fortunate Torch,Weapon,80,Exotic,264
 101410,Fortunate Mace,Weapon,80,Exotic,264
