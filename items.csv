@@ -66580,11 +66580,14 @@ id,name,type,level,rarity,vendor_value
 102112,Corrupted Hero Hammer,Weapon,80,Ascended,495
 102113,Drop of Instant World Experience,Consumable,0,Masterwork,0
 102117,Thunderous Longbow,Weapon,80,Exotic,396
+102121,Silver Proof of Glory,Consumable,0,Basic,0
 102122,Thunderous Warhorn,Weapon,80,Exotic,264
 102123,Corrupted Hero Warhorn,Weapon,80,Ascended,330
+102124,Gold PvP Tournament Currency Reward Box,Container,0,Basic,0
 102125,Corrupted Hero Short Bow,Weapon,80,Ascended,495
 102126,Lightning Wings Backpack and Glider Combo,Consumable,0,Masterwork,0
 102128,Krytan Garden Column,Consumable,0,Basic,0
+102130,Bronze PvP Tournament Currency Reward Box,Container,0,Basic,0
 102131,Corrupted Hero Longbow,Weapon,80,Ascended,495
 102132,Divine Radiance Sword Skin,Consumable,0,Rare,0
 102133,Corrupted Hero Hammer,Weapon,80,Exotic,396
@@ -66593,6 +66596,7 @@ id,name,type,level,rarity,vendor_value
 102137,Corrupted Hero Sword,Weapon,80,Ascended,330
 102138,Corrupted Hero Axe,Weapon,80,Ascended,330
 102139,Corrupted Hero Greatsword,Weapon,80,Exotic,396
+102140,Gold Proof of Glory,Consumable,0,Basic,0
 102141,Corrupted Hero Focus,Weapon,80,Ascended,330
 102144,Corrupted Hero Spear,Weapon,80,Exotic,396
 102146,Corrupted Hero Rifle,Weapon,80,Ascended,495
@@ -66607,6 +66611,7 @@ id,name,type,level,rarity,vendor_value
 102156,Corrupted Hero Focus,Weapon,80,Exotic,264
 102157,Giant Folding Fan Backpack and Glider Combo,Consumable,0,Masterwork,0
 102159,Corrupted Hero Dagger,Weapon,80,Exotic,264
+102160,Silver PvP Tournament Currency Reward Box,Container,0,Basic,0
 102161,Ocean's Heart Fishing Rod Skin,Consumable,0,Rare,0
 102162,Corrupted Hero Shield,Weapon,80,Exotic,264
 102163,Corrupted Hero Dagger,Weapon,80,Ascended,330
@@ -66620,6 +66625,7 @@ id,name,type,level,rarity,vendor_value
 102177,Corrupted Hero Sword,Weapon,80,Exotic,264
 102178,Corrupted Hero Spear,Weapon,80,Ascended,495
 102180,Phialslinger Manticore Skyscale Skin,Consumable,0,Rare,0
+102181,Bronze Proof of Glory,Consumable,0,Basic,0
 102182,Elonian Bazaar Shade,Consumable,0,Basic,0
 102184,Corrupted Hero Pistol,Weapon,80,Exotic,264
 102185,Corrupted Hero Weapon Locker,Container,0,Exotic,0
