@@ -3399,6 +3399,206 @@ id,name,type,level,rarity,vendor_value
 3473,Mighty Rawhide Mask,Armor,10,Basic,10
 3474,Mighty Rawhide Mask,Armor,14,Basic,12
 3475,Mighty Rawhide Mask,Armor,18,Basic,14
+3476,Strong Rawhide Mask,Armor,22,Basic,16
+3477,Strong Rawhide Mask,Armor,26,Basic,18
+3478,Strong Rawhide Mask,Armor,30,Basic,20
+3479,Strong Rawhide Mask,Armor,34,Basic,21
+3480,Strong Rawhide Mask,Armor,38,Basic,23
+3481,Strong Rawhide Mask,Armor,42,Basic,25
+3482,Strong Rawhide Mask,Armor,46,Basic,27
+3483,Strong Rawhide Mask,Armor,50,Basic,29
+3484,Strong Rawhide Mask,Armor,54,Basic,30
+3485,Strong Rawhide Mask,Armor,58,Basic,32
+3486,Berserker's Rawhide Mask,Armor,62,Basic,34
+3487,Berserker's Rawhide Mask,Armor,66,Basic,35
+3488,Berserker's Rawhide Mask,Armor,70,Basic,37
+3489,Berserker's Rawhide Mask,Armor,74,Basic,39
+3490,Berserker's Rawhide Mask,Armor,78,Basic,40
+3491,Mighty Rawhide Leggings,Armor,2,Basic,5
+3492,Mighty Rawhide Leggings,Armor,6,Basic,8
+3493,Mighty Rawhide Leggings,Armor,10,Basic,11
+3494,Mighty Rawhide Leggings,Armor,14,Basic,14
+3495,Mighty Rawhide Leggings,Armor,18,Basic,16
+3496,Strong Rawhide Leggings,Armor,22,Basic,18
+3497,Strong Rawhide Leggings,Armor,26,Basic,20
+3498,Strong Rawhide Leggings,Armor,30,Basic,22
+3499,Strong Rawhide Leggings,Armor,34,Basic,24
+3500,Strong Rawhide Leggings,Armor,38,Basic,26
+3501,Strong Rawhide Leggings,Armor,42,Basic,28
+3502,Strong Rawhide Leggings,Armor,46,Basic,30
+3503,Strong Rawhide Leggings,Armor,50,Basic,32
+3504,Strong Rawhide Leggings,Armor,54,Basic,33
+3505,Strong Rawhide Leggings,Armor,58,Basic,35
+3506,Berserker's Rawhide Leggings,Armor,62,Basic,38
+3507,Berserker's Rawhide Leggings,Armor,66,Basic,40
+3508,Berserker's Rawhide Leggings,Armor,70,Basic,42
+3509,Berserker's Rawhide Leggings,Armor,74,Basic,43
+3510,Berserker's Rawhide Leggings,Armor,78,Basic,45
+3511,Mighty Rawhide Shoulders,Armor,18,Basic,13
+3512,Strong Rawhide Shoulders,Armor,22,Basic,14
+3513,Strong Rawhide Shoulders,Armor,26,Basic,16
+3514,Strong Rawhide Shoulders,Armor,30,Basic,18
+3515,Strong Rawhide Shoulders,Armor,34,Basic,19
+3516,Strong Rawhide Shoulders,Armor,38,Basic,20
+3517,Strong Rawhide Shoulders,Armor,42,Basic,22
+3518,Strong Rawhide Shoulders,Armor,46,Basic,24
+3519,Strong Rawhide Shoulders,Armor,50,Basic,25
+3520,Strong Rawhide Shoulders,Armor,54,Basic,26
+3521,Strong Rawhide Shoulders,Armor,58,Basic,28
+3522,Berserker's Rawhide Shoulders,Armor,62,Basic,30
+3523,Berserker's Rawhide Shoulders,Armor,66,Basic,31
+3524,Berserker's Rawhide Shoulders,Armor,70,Basic,33
+3525,Berserker's Rawhide Shoulders,Armor,74,Basic,34
+3526,Berserker's Rawhide Shoulders,Armor,78,Basic,36
+3527,Carrion Savant Boots,Armor,80,Rare,15000
+3528,Carrion Savant Coat,Armor,80,Rare,37500
+3529,Carrion Savant Gloves,Armor,80,Rare,15000
+3530,Carrion Savant Helm,Armor,80,Rare,25000
+3531,Carrion Savant Leggings,Armor,80,Rare,31250
+3532,Honed Warband Boots,Armor,35,Rare,425
+3533,Honed Warband Hauberk,Armor,35,Rare,1000
+3534,Honed Warband Fists,Armor,35,Rare,425
+3535,Honed Warband Visor,Armor,35,Rare,500
+3536,Honed Warband Tassets,Armor,35,Rare,750
+3537,Honed Warband Spaulders,Armor,35,Rare,500
+3538,Berserker's Archon Boots,Armor,60,Rare,1000
+3539,Berserker's Archon Coat,Armor,60,Rare,2500
+3540,Berserker's Archon Gloves,Armor,60,Rare,1000
+3541,Berserker's Archon Helm,Armor,60,Rare,1250
+3542,Berserker's Archon Leggings,Armor,60,Rare,1875
+3543,Berserker's Dreadnought Warboots,Armor,80,Rare,15000
+3544,Berserker's Dreadnought Hauberk,Armor,80,Rare,37500
+3545,Berserker's Dreadnought Fists,Armor,80,Rare,15000
+3546,Berserker's Dreadnought Tassets,Armor,80,Rare,31250
+3547,Berserker's Dreadnought Spaulders,Armor,80,Rare,25000
+3548,Strong Commander's Footgear,Armor,35,Rare,425
+3549,Strong Commander's Armor,Armor,35,Rare,1000
+3550,Strong Commander's Gauntlets,Armor,35,Rare,425
+3551,Strong Commander's Helm,Armor,35,Rare,500
+3552,Strong Commander's Chausses,Armor,35,Rare,750
+3553,Strong Commander's Shoulderplates,Armor,35,Rare,500
+3554,Rampager's Protector's Footgear,Armor,80,Rare,15000
+3555,Rampager's Protector's Armor,Armor,80,Rare,37500
+3556,Rampager's Protector's Gauntlets,Armor,80,Rare,15000
+3557,Rampager's Protector's Helm,Armor,80,Rare,25000
+3558,Rampager's Protector's Chausses,Armor,80,Rare,31250
+3559,Rampager's Protector's Shoulderplates,Armor,80,Rare,25000
+3560,Berserker's Magus Boots,Armor,80,Rare,15000
+3561,Berserker's Magus Coat,Armor,80,Rare,37500
+3562,Berserker's Magus Gloves,Armor,80,Rare,15000
+3563,Berserker's Magus Shroud,Armor,80,Rare,25000
+3564,Berserker's Magus Leggings,Armor,80,Rare,31250
+3565,Berserker's Magus Shoulders,Armor,80,Rare,25000
+3566,Vigorous Wolfborn Boots,Armor,35,Rare,425
+3567,Vigorous Wolfborn Vest,Armor,35,Rare,1000
+3568,Vigorous Wolfborn Bracers,Armor,35,Rare,425
+3569,Vigorous Wolfborn Leggings,Armor,35,Rare,750
+3570,Vigorous Wolfborn Shoulderpad,Armor,35,Rare,500
+3571,Soldier's Eagle Greaves,Armor,60,Rare,1000
+3572,Soldier's Eagle Mail,Armor,60,Rare,2500
+3573,Soldier's Eagle Gauntlets,Armor,60,Rare,1000
+3574,Soldier's Eagle Hounskull,Armor,60,Rare,1250
+3575,Soldier's Eagle Chausses,Armor,60,Rare,1875
+3576,Soldier's Eagle Spaulders,Armor,60,Rare,1250
+3577,Soldier's Wolf Boots,Armor,80,Rare,15000
+3578,Soldier's Wolf Vest,Armor,80,Rare,37500
+3579,Soldier's Wolf Bracers,Armor,80,Rare,15000
+3580,Soldier's Wolf Leggings,Armor,80,Rare,31250
+3581,Soldier's Wolf Shoulderpad,Armor,80,Rare,25000
+3582,Carrion Genius Coat,Armor,60,Rare,2500
+3583,Carrion Genius Gloves,Armor,60,Rare,1000
+3584,Carrion Genius Helm,Armor,60,Rare,1250
+3585,Carrion Genius Leggings,Armor,60,Rare,1875
+3586,Lingering Adept Leggings,Armor,35,Rare,750
+3587,Lingering Adept Boots,Armor,35,Rare,425
+3588,Lingering Adept Coat,Armor,35,Rare,1000
+3589,Lingering Adept Gloves,Armor,35,Rare,425
+3590,Lingering Adept Helm,Armor,35,Rare,500
+3591,Lingering Protean Boots,Armor,35,Rare,425
+3592,Lingering Protean Coat,Armor,35,Rare,1000
+3593,Lingering Protean Gloves,Armor,35,Rare,425
+3594,Lingering Protean Helm,Armor,35,Rare,500
+3595,Lingering Protean Leggings,Armor,35,Rare,750
+3596,Lingering Galvanic Boots,Armor,35,Rare,425
+3597,Lingering Galvanic Coat,Armor,35,Rare,1000
+3598,Lingering Galvanic Gloves,Armor,35,Rare,425
+3599,Lingering Galvanic Helm,Armor,35,Rare,500
+3600,Lingering Galvanic Leggings,Armor,35,Rare,750
+3601,Lingering Galvanic Epaulets,Armor,35,Rare,500
+3602,Lingering Protean Epaulets,Armor,35,Rare,500
+3603,Carrion Auxiliary Powered Coat,Armor,60,Rare,2500
+3604,Carrion Auxiliary Powered Gloves,Armor,60,Rare,1000
+3605,Carrion Auxiliary Powered Helm,Armor,60,Rare,1250
+3606,Carrion Auxiliary Powered Leggings,Armor,60,Rare,1875
+3607,Carrion Auxiliary Powered Boots,Armor,60,Rare,1000
+3608,Carrion Auxiliary Powered Epaulets,Armor,60,Rare,1250
+3609,Carrion Electroplated Boots,Armor,60,Rare,1000
+3610,Carrion Electroplated Coat,Armor,60,Rare,2500
+3611,Carrion Electroplated Gloves,Armor,60,Rare,1000
+3612,Carrion Electroplated Helm,Armor,60,Rare,1250
+3613,Carrion Electroplated Leggings,Armor,60,Rare,1875
+3614,Carrion Electroplated Epaulets,Armor,60,Rare,1250
+3615,Carrion Genius Boots,Armor,60,Rare,1000
+3616,Carrion Prototype Boots,Armor,80,Rare,15000
+3617,Carrion Prototype Coat,Armor,80,Rare,37500
+3618,Carrion Prototype Gloves,Armor,80,Rare,15000
+3619,Carrion Prototype Helm,Armor,80,Rare,25000
+3620,Carrion Prototype Leggings,Armor,80,Rare,31250
+3621,Carrion Prototype Epaulets,Armor,80,Rare,25000
+3622,Carrion Electromagnetic Boots,Armor,80,Rare,15000
+3623,Carrion Electromagnetic Coat,Armor,80,Rare,37500
+3624,Carrion Electromagnetic Gloves,Armor,80,Rare,15000
+3625,Carrion Electromagnetic Helm,Armor,80,Rare,25000
+3626,Carrion Electromagnetic Leggings,Armor,80,Rare,31250
+3627,Carrion Electromagnetic Epaulets,Armor,80,Rare,25000
+3628,Ravaging Snapdragon Boots,Armor,35,Rare,425
+3629,Ravaging Snapdragon Coat,Armor,35,Rare,1000
+3630,Ravaging Snapdragon Gloves,Armor,35,Rare,425
+3631,Ravaging Snapdragon Helm,Armor,35,Rare,500
+3632,Ravaging Snapdragon Leggings,Armor,35,Rare,750
+3633,Ravaging Evergreen Boots,Armor,35,Rare,425
+3634,Ravaging Evergreen Coat,Armor,35,Rare,1000
+3635,Ravaging Evergreen Gloves,Armor,35,Rare,425
+3636,Ravaging Evergreen Helm,Armor,35,Rare,500
+3637,Ravaging Evergreen Leggings,Armor,35,Rare,750
+3638,Ravaging Arborist Boots,Armor,35,Rare,425
+3639,Ravaging Arborist Coat,Armor,35,Rare,1000
+3640,Ravaging Arborist Gloves,Armor,35,Rare,425
+3641,Ravaging Arborist Helm,Armor,35,Rare,500
+3642,Ravaging Arborist Leggings,Armor,35,Rare,750
+3643,Ravaging Arborist Shoulderguards,Armor,35,Rare,500
+3644,Ravaging Evergreen Shoulderguards,Armor,35,Rare,500
+3645,Rabid Orchid Coat,Armor,60,Rare,2500
+3646,Rabid Orchid Gloves,Armor,60,Rare,1000
+3647,Rabid Orchid Helm,Armor,60,Rare,1250
+3648,Rabid Orchid Leggings,Armor,60,Rare,1875
+3649,Rabid Nightshade Coat,Armor,60,Rare,2500
+3650,Rabid Nightshade Gloves,Armor,60,Rare,1000
+3651,Rabid Nightshade Helm,Armor,60,Rare,1250
+3652,Rabid Nightshade Leggings,Armor,60,Rare,1875
+3653,Rabid Nightshade Boots,Armor,60,Rare,1000
+3654,Rabid Nightshade Shoulderguards,Armor,60,Rare,1250
+3655,Rabid Warden Boots,Armor,60,Rare,1000
+3656,Rabid Warden Coat,Armor,60,Rare,2500
+3657,Rabid Warden Gloves,Armor,60,Rare,1000
+3658,Rabid Warden Helm,Armor,60,Rare,1250
+3659,Rabid Warden Leggings,Armor,60,Rare,1875
+3660,Rabid Warden Shoulderguards,Armor,60,Rare,1250
+3661,Rabid Orchid Boots,Armor,60,Rare,1000
+3662,Rabid Dryad Boots,Armor,80,Rare,15000
+3663,Rabid Dryad Coat,Armor,80,Rare,37500
+3664,Rabid Dryad Gloves,Armor,80,Rare,15000
+3665,Rabid Dryad Helm,Armor,80,Rare,25000
+3666,Rabid Dryad Leggings,Armor,80,Rare,31250
+3667,Rabid Firstborn Boots,Armor,80,Rare,15000
+3668,Rabid Firstborn Coat,Armor,80,Rare,37500
+3669,Rabid Firstborn Gloves,Armor,80,Rare,15000
+3670,Rabid Firstborn Helm,Armor,80,Rare,25000
+3671,Rabid Firstborn Leggings,Armor,80,Rare,31250
+3672,Rabid Firstborn Shoulderguards,Armor,80,Rare,25000
+3673,Rabid Oaken Boots,Armor,80,Rare,15000
+3674,Rabid Oaken Coat,Armor,80,Rare,37500
+3675,Rabid Oaken Gloves,Armor,80,Rare,15000
 3676,Rabid Oaken Helm,Armor,80,Rare,25000
 3677,Rabid Oaken Leggings,Armor,80,Rare,31250
 3678,Rabid Oaken Shoulderguards,Armor,80,Rare,25000
@@ -22599,6 +22799,206 @@ id,name,type,level,rarity,vendor_value
 31028,Berserker's Trident,Weapon,70,Basic,45
 31029,Berserker's Trident,Weapon,75,Basic,47
 31030,Berserker's Trident,Weapon,80,Basic,50
+31031,Mighty Steam Speargun,Weapon,6,Fine,17
+31032,Mighty Black Earth Trident,Weapon,6,Fine,17
+31033,Mighty Iron Polearm,Weapon,6,Fine,17
+31034,Reaver of the Mists,Weapon,80,Exotic,264
+31035,Phoenix Talon,Weapon,80,Exotic,264
+31036,Kryta's Salvation,Weapon,80,Exotic,264
+31037,Dreadwing,Weapon,80,Exotic,264
+31038,Ambrosia,Weapon,80,Exotic,264
+31039,Seasatchel,Weapon,80,Exotic,264
+31040,Cooguloosh,Weapon,80,Exotic,264
+31041,Godswalk Enchiridion,Weapon,80,Exotic,264
+31042,Courage,Weapon,80,Exotic,264
+31043,Gaze,Weapon,80,Exotic,264
+31044,Malice,Weapon,80,Exotic,264
+31045,The Anomaly,Weapon,80,Exotic,264
+31046,Accursed Chains,Weapon,80,Exotic,264
+31047,Glint's Scale,Weapon,80,Exotic,264
+31048,Squeedily Spooch,Weapon,80,Exotic,264
+31049,Goblet of Kings,Weapon,80,Exotic,264
+31050,Song of the Numberless Pack,Weapon,80,Exotic,264
+31051,Spirit Links,Weapon,80,Exotic,264
+31052,Vision of the Mists,Weapon,80,Exotic,396
+31053,Volcanus,Weapon,80,Exotic,396
+31054,Illusion,Weapon,80,Exotic,396
+31055,Titans' Vengeance,Weapon,80,Exotic,264
+31056,Eye of Rodgort,Weapon,80,Exotic,264
+31057,Immobulus,Weapon,80,Exotic,264
+31058,Abyssal Scepter,Weapon,80,Exotic,264
+31059,Cragstone,Weapon,80,Exotic,264
+31060,Wall of the Mists,Weapon,80,Exotic,264
+31061,Melandru's Gaze,Weapon,80,Exotic,396
+31062,Eidolon,Weapon,80,Exotic,264
+31063,Stygian Blade,Weapon,80,Exotic,264
+31064,Firebringer,Weapon,80,Exotic,264
+31065,Icy Dragon Sword,Weapon,80,Exotic,264
+31066,Rusttooth,Weapon,80,Exotic,264
+31067,Unspoken Curse,Weapon,80,Exotic,264
+31068,Infinite Light,Weapon,80,Exotic,264
+31069,Whisperblade,Weapon,80,Exotic,264
+31070,Wings of Dwayna,Weapon,80,Exotic,396
+31071,Azureflame,Weapon,80,Exotic,396
+31072,Wintersbite,Weapon,80,Exotic,396
+31073,Feathers of Dwayna,Weapon,80,Exotic,396
+31074,Aether,Weapon,80,Exotic,396
+31075,Wintersbark,Weapon,80,Exotic,396
+31076,Ilya,Weapon,80,Exotic,264
+31077,Foefire's Essence,Weapon,80,Exotic,396
+31078,Foefire's Power,Weapon,80,Exotic,396
+31079,Mjölnir,Weapon,80,Exotic,396
+31080,Lyss,Weapon,80,Exotic,264
+31081,Lidless Eye,Weapon,80,Exotic,264
+31082,Flux Matrix,Weapon,80,Exotic,264
+31083,Mystic Artifact,Weapon,80,Exotic,264
+31084,Heart of Mellaggan,Weapon,80,Exotic,264
+31085,Mystic Battleaxe,Weapon,80,Exotic,264
+31086,Mystic Claymore,Weapon,80,Exotic,396
+31087,Naegling,Weapon,80,Exotic,396
+31088,Ignus Fatuus,Weapon,80,Exotic,396
+31089,Mystic Spear,Weapon,80,Exotic,396
+31090,Mystic Wand,Weapon,80,Exotic,264
+31091,Mystic Barricade,Weapon,80,Exotic,264
+31092,Mystic Staff,Weapon,80,Exotic,396
+31093,Mystic Crescent,Weapon,80,Exotic,396
+31094,Mystic Hornbow,Weapon,80,Exotic,396
+31095,Mystic Sword,Weapon,80,Exotic,264
+31096,Mystic Pistol,Weapon,80,Exotic,264
+31097,Mystic Battlehammer,Weapon,80,Exotic,396
+31098,Mystic Rifle,Weapon,80,Exotic,396
+31099,Mystic Torch,Weapon,80,Exotic,264
+31100,Mystic Caller,Weapon,80,Exotic,264
+31101,Mystic Speargun,Weapon,80,Exotic,396
+31102,Mystic Trident,Weapon,80,Exotic,396
+31103,Mirage,Weapon,80,Exotic,396
+31104,Mystic Cudgel,Weapon,80,Exotic,264
+31105,Jormag's Needle,Weapon,80,Exotic,264
+31106,Tear of Grenth,Weapon,80,Exotic,264
+31107,Reaper of Souls,Weapon,80,Exotic,264
+31108,Mystic Spike,Weapon,80,Exotic,264
+31109,Priory's Historical Axe,Weapon,80,Rare,4500
+31110,Priory's Historical Longbow,Weapon,80,Rare,6900
+31111,Priory's Historical Short Bow,Weapon,80,Rare,6900
+31112,Priory's Historical Dagger,Weapon,80,Rare,4500
+31113,Priory's Historical Focus,Weapon,80,Rare,4500
+31114,Priory's Historical Greatsword,Weapon,80,Rare,6900
+31115,Priory's Historical Hammer,Weapon,80,Rare,6900
+31116,Priory's Historical Mace,Weapon,80,Rare,4500
+31117,Priory's Historical Pistol,Weapon,80,Rare,4500
+31118,Priory's Historical Rifle,Weapon,80,Rare,6900
+31119,Priory's Historical Scepter,Weapon,80,Rare,4500
+31120,Priory's Historical Shield,Weapon,80,Rare,4500
+31121,Priory's Historical Staff,Weapon,80,Rare,6900
+31122,Priory's Historical Sword,Weapon,80,Rare,4500
+31123,Priory's Historical Torch,Weapon,80,Rare,4500
+31124,Priory's Historical Warhorn,Weapon,80,Rare,4500
+31125,Priory's Historical Speargun,Weapon,80,Rare,4500
+31126,Priory's Historical Harpoon,Weapon,80,Rare,4500
+31127,Priory's Historical Trident,Weapon,80,Rare,4500
+31128,Whisper's Secret Axe,Weapon,80,Rare,4500
+31129,Whisper's Secret Longbow,Weapon,80,Rare,6900
+31130,Whisper's Secret Short Bow,Weapon,80,Rare,6900
+31131,Whisper's Secret Dagger,Weapon,80,Rare,4500
+31132,Whisper's Secret Focus,Weapon,80,Rare,4500
+31133,Whisper's Secret Greatsword,Weapon,80,Rare,6900
+31134,Whisper's Secret Hammer,Weapon,80,Rare,6900
+31135,Whisper's Secret Mace,Weapon,80,Rare,4500
+31136,Whisper's Secret Pistol,Weapon,80,Rare,4500
+31137,Whisper's Secret Rifle,Weapon,80,Rare,6900
+31138,Whisper's Secret Scepter,Weapon,80,Rare,4500
+31139,Whisper's Secret Shield,Weapon,80,Rare,4500
+31140,Whisper's Secret Staff,Weapon,80,Rare,6900
+31141,Whisper's Secret Sword,Weapon,80,Rare,4500
+31142,Whisper's Secret Torch,Weapon,80,Rare,4500
+31143,Whisper's Secret Warhorn,Weapon,80,Rare,4500
+31144,Whisper's Secret Speargun,Weapon,80,Rare,4500
+31145,Whisper's Secret Harpoon,Weapon,80,Rare,4500
+31146,Whisper's Secret Trident,Weapon,80,Rare,4500
+31147,Pact Battleaxe,Weapon,80,Rare,198
+31148,Pact Hornbow,Weapon,80,Rare,297
+31149,Pact Needler,Weapon,80,Rare,297
+31150,Pact Dirk,Weapon,80,Rare,198
+31151,Pact Focus,Weapon,80,Rare,198
+31152,Pact Avenger,Weapon,80,Rare,297
+31153,Pact Crusher,Weapon,80,Rare,297
+31154,Pact Harpoon Gun,Weapon,80,Rare,297
+31155,Pact Morning Star,Weapon,80,Rare,198
+31156,Pact Handgun,Weapon,80,Rare,198
+31157,Pact Shotgun,Weapon,80,Rare,297
+31158,Pact Scepter,Weapon,80,Rare,198
+31159,Pact Tower Shield,Weapon,80,Rare,198
+31160,Pact Spear,Weapon,80,Rare,297
+31161,Pact Quarterstaff,Weapon,80,Rare,297
+31162,Pact Gladius,Weapon,80,Rare,198
+31163,Pact Brazier,Weapon,80,Rare,198
+31164,Pact Trident,Weapon,80,Rare,297
+31165,Pact Herald,Weapon,80,Rare,198
+31166,Vigil's Honor Longbow,Weapon,80,Rare,6900
+31167,Vigil's Honor Short Bow,Weapon,80,Rare,6900
+31168,Vigil's Honor Dagger,Weapon,80,Rare,4500
+31169,Vigil's Honor Focus,Weapon,80,Rare,4500
+31170,Vigil's Honor Greatsword,Weapon,80,Rare,6900
+31171,Vigil's Honor Hammer,Weapon,80,Rare,6900
+31172,Vigil's Honor Mace,Weapon,80,Rare,4500
+31173,Vigil's Honor Pistol,Weapon,80,Rare,4500
+31174,Vigil's Honor Rifle,Weapon,80,Rare,6900
+31175,Vigil's Honor Scepter,Weapon,80,Rare,4500
+31176,Vigil's Honor Shield,Weapon,80,Rare,4500
+31177,Vigil's Honor Staff,Weapon,80,Rare,6900
+31178,Vigil's Honor Sword of Force,Weapon,80,Rare,4500
+31179,Vigil's Honor Torch of Force,Weapon,80,Rare,4500
+31180,Vigil's Honor Warhorn of Force,Weapon,80,Rare,4500
+31181,Vigil's Honor Axe,Weapon,80,Rare,4500
+31182,Vigil's Honor Harpoon,Weapon,80,Rare,4500
+31183,Vigil's Honor Speargun,Weapon,80,Rare,4500
+31184,Vigil's Honor Trident of Force,Weapon,80,Rare,4500
+31185,Resonator,Weapon,80,Exotic,264
+31186,Gear Axe,Weapon,80,Exotic,264
+31187,Incinerator,Weapon,80,Exotic,264
+31189,Gear Staff,Weapon,80,Exotic,396
+31190,Bayonet,Weapon,80,Exotic,264
+31191,Short Gearbow,Weapon,80,Exotic,396
+31192,Gear Bulwark,Weapon,80,Exotic,264
+31193,Gear Baton,Weapon,80,Exotic,264
+31194,Gizmo,Weapon,80,Exotic,264
+31195,Great Gearblade,Weapon,80,Exotic,396
+31197,Gearbow,Weapon,80,Exotic,396
+31198,Gear Cudgel,Weapon,80,Exotic,264
+31199,Gatling Pistol,Weapon,80,Exotic,264
+31218,Alpine Dirk,Weapon,80,Exotic,264
+31219,Alpine Talisman,Weapon,80,Exotic,264
+31221,Alpine Maul,Weapon,80,Exotic,396
+31224,Alpine Club,Weapon,80,Exotic,264
+31225,Alpine Handcannon,Weapon,80,Exotic,264
+31227,Alpine Wand,Weapon,80,Exotic,264
+31228,Alpine Shield,Weapon,80,Exotic,264
+31229,Alpine Short Bow,Weapon,80,Exotic,396
+31230,Alpine Harpoonthrower,Weapon,80,Exotic,396
+31233,Alpine Beacon,Weapon,80,Exotic,264
+31234,Alpine Trident,Weapon,80,Exotic,396
+31235,Alpine Warhorn,Weapon,80,Exotic,264
+31236,Dwayna's Longbow,Weapon,80,Exotic,396
+31237,Dwayna's Short Bow,Weapon,80,Exotic,396
+31239,Glyphic Handblade,Weapon,80,Exotic,264
+31240,Glyphic Icon,Weapon,80,Exotic,264
+31241,Glyphic Longblade,Weapon,80,Exotic,396
+31242,Glyphic Maul,Weapon,80,Exotic,396
+31243,Glyphic Scythe,Weapon,80,Exotic,396
+31245,Glyphic Mace,Weapon,80,Exotic,264
+31246,Glyphic Pistol,Weapon,80,Exotic,264
+31248,Glyphic Mace,Weapon,80,Exotic,264
+31249,Glyphic Ward,Weapon,80,Exotic,264
+31252,Glyphic Staff,Weapon,80,Exotic,396
+31253,Glyphic Edge,Weapon,80,Exotic,264
+31254,Glyphic Brand,Weapon,80,Exotic,264
+31256,Glyphic Horn,Weapon,80,Exotic,264
+31258,Makeshift Hatchet,Weapon,80,Exotic,264
+31259,Makeshift Dagger,Weapon,80,Exotic,264
+31260,Makeshift Talisman,Weapon,80,Exotic,264
+31261,Makeshift Greatsword,Weapon,80,Exotic,396
+31262,Makeshift Hammer,Weapon,80,Exotic,396
+31263,Makeshift Spear,Weapon,80,Exotic,396
 31264,Makeshift Bow,Weapon,80,Exotic,396
 31265,Makeshift Club,Weapon,80,Exotic,264
 31266,Makeshift Pistol,Weapon,80,Exotic,264
@@ -23799,6 +24199,206 @@ id,name,type,level,rarity,vendor_value
 32916,Ravaging Flame Scepter of Battle,Weapon,39,Rare,111
 32917,Ravaging Flame Scepter of Ogre Slaying,Weapon,46,Rare,126
 32918,Ravaging Flame Scepter of Earth,Weapon,53,Rare,141
+32919,Ravaging Flame Guard of Battle,Weapon,39,Rare,111
+32920,Ravaging Flame Guard of Ogre Slaying,Weapon,46,Rare,126
+32921,Ravaging Flame Guard of Earth,Weapon,53,Rare,141
+32922,Ravaging Flame Short Bow of Battle,Weapon,39,Rare,167
+32923,Ravaging Flame Short Bow of Ogre Slaying,Weapon,46,Rare,189
+32924,Ravaging Flame Short Bow of Earth,Weapon,53,Rare,212
+32925,Ravaging Flame Speargun of Battle,Weapon,39,Rare,167
+32926,Ravaging Flame Speargun of Ogre Slaying,Weapon,46,Rare,189
+32927,Ravaging Flame Speargun of Earth,Weapon,53,Rare,212
+32928,Ravaging Flame Staff of Battle,Weapon,39,Rare,167
+32929,Ravaging Flame Staff of Ogre Slaying,Weapon,46,Rare,189
+32930,Ravaging Flame Staff of Earth,Weapon,53,Rare,212
+32931,Ravaging Flame Blade of Battle,Weapon,39,Rare,111
+32932,Ravaging Flame Blade of Ogre Slaying,Weapon,46,Rare,126
+32933,Ravaging Flame Blade of Earth,Weapon,53,Rare,141
+32934,Ravaging Flame Carrier of Battle,Weapon,39,Rare,111
+32935,Ravaging Flame Carrier of Ogre Slaying,Weapon,46,Rare,126
+32936,Ravaging Flame Carrier of Earth,Weapon,53,Rare,141
+32937,Ravaging Flame Trident of Battle,Weapon,39,Rare,167
+32938,Ravaging Flame Trident of Ogre Slaying,Weapon,46,Rare,189
+32939,Ravaging Flame Trident of Earth,Weapon,53,Rare,212
+32940,Ravaging Flame Warhorn of Battle,Weapon,39,Rare,111
+32941,Ravaging Flame Warhorn of Ogre Slaying,Weapon,46,Rare,126
+32942,Ravaging Flame Warhorn of Earth,Weapon,53,Rare,141
+32943,Carrion Flame Cleaver of Water,Weapon,60,Rare,156
+32944,Carrion Flame Cleaver of Corruption,Weapon,67,Rare,168
+32945,Carrion Flame Cleaver of Energy,Weapon,74,Rare,183
+32946,Carrion Flame Cleaver of Air,Weapon,80,Rare,198
+32947,Carrion Flame Dagger of Water,Weapon,60,Rare,156
+32948,Carrion Flame Dagger of Corruption,Weapon,67,Rare,168
+32949,Carrion Flame Dagger of Energy,Weapon,74,Rare,183
+32950,Carrion Flame Dagger of Air,Weapon,80,Rare,198
+32951,Carrion Flame Focus of Water,Weapon,60,Rare,156
+32952,Carrion Flame Focus of Corruption,Weapon,67,Rare,168
+32953,Carrion Flame Focus of Energy,Weapon,74,Rare,183
+32954,Carrion Flame Focus of Air,Weapon,80,Rare,198
+32955,Carrion Flame Greatsword of Water,Weapon,60,Rare,234
+32956,Carrion Flame Greatsword of Corruption,Weapon,67,Rare,252
+32957,Carrion Flame Greatsword of Energy,Weapon,74,Rare,275
+32958,Carrion Flame Greatsword of Air,Weapon,80,Rare,297
+32959,Carrion Flame Crusher of Water,Weapon,60,Rare,234
+32960,Carrion Flame Crusher of Corruption,Weapon,67,Rare,252
+32961,Carrion Flame Crusher of Energy,Weapon,74,Rare,275
+32962,Carrion Flame Crusher of Air,Weapon,80,Rare,297
+32963,Carrion Flame Spear of Water,Weapon,60,Rare,234
+32964,Carrion Flame Spear of Corruption,Weapon,67,Rare,252
+32965,Carrion Flame Spear of Energy,Weapon,74,Rare,275
+32966,Carrion Flame Spear of Air,Weapon,80,Rare,297
+32967,Carrion Flame Bow of Water,Weapon,60,Rare,234
+32968,Carrion Flame Bow of Corruption,Weapon,67,Rare,252
+32969,Carrion Flame Bow of Energy,Weapon,74,Rare,275
+32970,Carrion Flame Bow of Air,Weapon,80,Rare,297
+32971,Carrion Flame Mace of Water,Weapon,60,Rare,156
+32972,Carrion Flame Mace of Corruption,Weapon,67,Rare,168
+32973,Carrion Flame Mace of Energy,Weapon,74,Rare,183
+32974,Carrion Flame Mace of Air,Weapon,80,Rare,198
+32975,Carrion Flame Pistol of Water,Weapon,60,Rare,156
+32976,Carrion Flame Pistol of Corruption,Weapon,67,Rare,168
+32977,Carrion Flame Pistol of Energy,Weapon,74,Rare,183
+32978,Carrion Flame Pistol of Air,Weapon,80,Rare,198
+32979,Carrion Flame Rifle of Water,Weapon,60,Rare,234
+32980,Carrion Flame Rifle of Corruption,Weapon,67,Rare,252
+32981,Carrion Flame Rifle of Energy,Weapon,74,Rare,275
+32982,Carrion Flame Rifle of Air,Weapon,80,Rare,297
+32983,Carrion Flame Scepter of Water,Weapon,60,Rare,156
+32984,Carrion Flame Scepter of Corruption,Weapon,67,Rare,168
+32985,Carrion Flame Scepter of Energy,Weapon,74,Rare,183
+32986,Carrion Flame Scepter of Air,Weapon,80,Rare,198
+32987,Carrion Flame Guard of Water,Weapon,60,Rare,156
+32988,Carrion Flame Guard of Corruption,Weapon,67,Rare,168
+32989,Carrion Flame Guard of Energy,Weapon,74,Rare,183
+32990,Carrion Flame Guard of Air,Weapon,80,Rare,198
+32991,Carrion Flame Short Bow of Water,Weapon,60,Rare,234
+32992,Carrion Flame Short Bow of Corruption,Weapon,67,Rare,252
+32993,Carrion Flame Short Bow of Energy,Weapon,74,Rare,275
+32994,Carrion Flame Short Bow of Air,Weapon,80,Rare,297
+32995,Carrion Flame Speargun of Water,Weapon,60,Rare,234
+32996,Carrion Flame Speargun of Corruption,Weapon,67,Rare,252
+32997,Carrion Flame Speargun of Energy,Weapon,74,Rare,275
+32998,Carrion Flame Speargun of Air,Weapon,80,Rare,297
+32999,Carrion Flame Staff of Water,Weapon,60,Rare,234
+33000,Carrion Flame Staff of Corruption,Weapon,67,Rare,252
+33001,Carrion Flame Staff of Energy,Weapon,74,Rare,275
+33002,Carrion Flame Staff of Air,Weapon,80,Rare,297
+33003,Carrion Flame Blade of Water,Weapon,60,Rare,156
+33004,Carrion Flame Blade of Corruption,Weapon,67,Rare,168
+33005,Carrion Flame Blade of Energy,Weapon,74,Rare,183
+33006,Carrion Flame Blade of Air,Weapon,80,Rare,198
+33007,Carrion Flame Carrier of Water,Weapon,60,Rare,156
+33008,Carrion Flame Carrier of Corruption,Weapon,67,Rare,168
+33009,Carrion Flame Carrier of Energy,Weapon,74,Rare,183
+33010,Carrion Flame Carrier of Air,Weapon,80,Rare,198
+33011,Carrion Flame Trident of Water,Weapon,60,Rare,234
+33012,Carrion Flame Trident of Corruption,Weapon,67,Rare,252
+33013,Carrion Flame Trident of Energy,Weapon,74,Rare,275
+33014,Carrion Flame Trident of Air,Weapon,80,Rare,297
+33015,Carrion Flame Warhorn of Water,Weapon,60,Rare,156
+33016,Carrion Flame Warhorn of Corruption,Weapon,67,Rare,168
+33017,Carrion Flame Warhorn of Energy,Weapon,74,Rare,183
+33018,Carrion Flame Warhorn of Air,Weapon,80,Rare,198
+33020,Orrian Axe of Vision,Weapon,70,Exotic,236
+33021,Orrian Axe of Accuracy,Weapon,78,Exotic,256
+33026,Orrian Dagger of Rage,Weapon,80,Exotic,264
+33028,Orrian Focus of Vision,Weapon,70,Exotic,236
+33029,Orrian Focus of Accuracy,Weapon,78,Exotic,256
+33032,Orrian Longsword of Vision,Weapon,70,Exotic,354
+33034,Orrian Longsword of Rage,Weapon,80,Exotic,396
+33036,Orrian Smasher of Vision,Weapon,70,Exotic,354
+33040,Orrian Spear of Vision,Weapon,70,Exotic,354
+33044,Orrian Bow of Vision,Weapon,70,Exotic,354
+33045,Orrian Bow of Accuracy,Weapon,78,Exotic,384
+33050,Orrian Mace of Rage,Weapon,80,Exotic,264
+33052,Orrian Pistol of Vision,Weapon,70,Exotic,236
+33053,Orrian Pistol of Accuracy,Weapon,78,Exotic,256
+33054,Orrian Pistol of Rage,Weapon,80,Exotic,264
+33056,Orrian Rifle of Vision,Weapon,70,Exotic,354
+33057,Orrian Rifle of Accuracy,Weapon,78,Exotic,384
+33062,Orrian Scepter of Rage,Weapon,80,Exotic,264
+33063,Orrian Shield of Blood,Weapon,62,Exotic,212
+33068,Orrian Short Bow of Vision,Weapon,70,Exotic,354
+33069,Orrian Short Bow of Accuracy,Weapon,78,Exotic,384
+33070,Orrian Short Bow of Rage,Weapon,80,Exotic,396
+33072,Orrian Speargun of Vision,Weapon,70,Exotic,354
+33074,Orrian Speargun of Rage,Weapon,80,Exotic,396
+33077,Orrian Staff of Accuracy,Weapon,78,Exotic,384
+33078,Orrian Staff of Rage,Weapon,80,Exotic,396
+33081,Orrian Sabre of Accuracy,Weapon,78,Exotic,256
+33082,Orrian Sabre of Rage,Weapon,80,Exotic,264
+33084,Orrian Torch of Vision,Weapon,70,Exotic,236
+33085,Orrian Torch of Accuracy,Weapon,78,Exotic,256
+33086,Orrian Torch of Rage,Weapon,80,Exotic,264
+33094,Orrian Warhorn of Rage,Weapon,80,Exotic,264
+33096,Orrian Axe,Weapon,66,Fine,56
+33098,Orrian Axe,Weapon,76,Fine,63
+33099,Orrian Axe,Weapon,80,Fine,66
+33102,Orrian Dagger,Weapon,71,Fine,59
+33103,Orrian Dagger,Weapon,76,Fine,63
+33104,Orrian Dagger,Weapon,80,Fine,66
+33108,Orrian Focus,Weapon,76,Fine,63
+33110,Orrian Longsword,Weapon,61,Fine,78
+33112,Orrian Longsword,Weapon,71,Fine,89
+33113,Orrian Longsword,Weapon,76,Fine,95
+33114,Orrian Longsword,Weapon,80,Fine,99
+33118,Orrian Smasher,Weapon,76,Fine,95
+33119,Orrian Smasher,Weapon,80,Fine,99
+33121,Orrian Spear,Weapon,66,Fine,84
+33122,Orrian Spear,Weapon,71,Fine,89
+33123,Orrian Spear,Weapon,76,Fine,95
+33124,Orrian Spear,Weapon,80,Fine,99
+33126,Orrian Bow,Weapon,66,Fine,84
+33127,Orrian Bow,Weapon,71,Fine,89
+33128,Orrian Bow,Weapon,76,Fine,95
+33129,Orrian Bow,Weapon,80,Fine,99
+33132,Orrian Mace,Weapon,71,Fine,59
+33133,Orrian Mace,Weapon,76,Fine,63
+33136,Orrian Pistol,Weapon,66,Fine,56
+33137,Orrian Pistol,Weapon,71,Fine,59
+33138,Orrian Pistol,Weapon,76,Fine,63
+33139,Orrian Pistol,Weapon,80,Fine,66
+33142,Orrian Rifle,Weapon,71,Fine,89
+33143,Orrian Rifle,Weapon,76,Fine,95
+33144,Orrian Rifle,Weapon,80,Fine,99
+33145,Orrian Scepter,Weapon,61,Fine,52
+33147,Orrian Scepter,Weapon,71,Fine,59
+33148,Orrian Scepter,Weapon,76,Fine,63
+33149,Orrian Scepter,Weapon,80,Fine,66
+33151,Orrian Shield,Weapon,66,Fine,56
+33153,Orrian Shield,Weapon,76,Fine,63
+33154,Orrian Shield,Weapon,80,Fine,66
+33158,Orrian Short Bow,Weapon,76,Fine,95
+33159,Orrian Short Bow,Weapon,80,Fine,99
+33162,Orrian Speargun,Weapon,71,Fine,89
+33163,Orrian Speargun,Weapon,76,Fine,95
+33164,Orrian Speargun,Weapon,80,Fine,99
+33166,Orrian Staff,Weapon,66,Fine,84
+33167,Orrian Staff,Weapon,71,Fine,89
+33168,Orrian Staff,Weapon,76,Fine,95
+33169,Orrian Staff,Weapon,80,Fine,99
+33171,Orrian Sabre,Weapon,66,Fine,56
+33172,Orrian Sabre,Weapon,71,Fine,59
+33173,Orrian Sabre,Weapon,76,Fine,63
+33174,Orrian Sabre,Weapon,80,Fine,66
+33178,Orrian Torch,Weapon,76,Fine,63
+33179,Orrian Torch,Weapon,80,Fine,66
+33184,Orrian Trident,Weapon,80,Fine,99
+33188,Orrian Warhorn,Weapon,76,Fine,63
+33189,Orrian Warhorn,Weapon,80,Fine,66
+33193,Orrian Axe of Earth,Weapon,80,Masterwork,132
+33196,Orrian Dagger of Bloodlust,Weapon,74,Masterwork,122
+33197,Orrian Dagger of Earth,Weapon,80,Masterwork,132
+33200,Orrian Focus of Bloodlust,Weapon,74,Masterwork,122
+33201,Orrian Focus of Earth,Weapon,80,Masterwork,132
+33203,Orrian Longsword of the Geomancer,Weapon,68,Masterwork,171
+33204,Orrian Longsword of Bloodlust,Weapon,74,Masterwork,183
+33205,Orrian Longsword of Earth,Weapon,80,Masterwork,198
+33208,Orrian Smasher of Bloodlust,Weapon,74,Masterwork,183
+33209,Orrian Smasher of Earth,Weapon,80,Masterwork,198
+33212,Orrian Spear of Bloodlust,Weapon,74,Masterwork,183
+33213,Orrian Spear of Earth,Weapon,80,Masterwork,198
+33215,Orrian Bow of the Geomancer,Weapon,68,Masterwork,171
 33216,Orrian Bow of Bloodlust,Weapon,74,Masterwork,183
 33217,Orrian Bow of Earth,Weapon,80,Masterwork,198
 33219,Orrian Mace of the Geomancer,Weapon,68,Masterwork,114
@@ -24999,6 +25599,206 @@ id,name,type,level,rarity,vendor_value
 34607,Ravaging Glyphic Icon of Debility,Weapon,50,Masterwork,90
 34608,Ravaging Glyphic Icon of the Hydromancer,Weapon,56,Masterwork,98
 34609,Ravaging Glyphic Longblade of Serpent Slaying,Weapon,38,Masterwork,108
+34610,Ravaging Glyphic Longblade of Smoldering,Weapon,44,Masterwork,120
+34611,Ravaging Glyphic Longblade of Debility,Weapon,50,Masterwork,135
+34612,Ravaging Glyphic Longblade of the Hydromancer,Weapon,56,Masterwork,147
+34613,Ravaging Glyphic Maul of Serpent Slaying,Weapon,38,Masterwork,108
+34614,Ravaging Glyphic Maul of Smoldering,Weapon,44,Masterwork,120
+34615,Ravaging Glyphic Maul of Debility,Weapon,50,Masterwork,135
+34616,Ravaging Glyphic Maul of the Hydromancer,Weapon,56,Masterwork,147
+34617,Ravaging Glyphic Spear of Serpent Slaying,Weapon,38,Masterwork,108
+34618,Ravaging Glyphic Spear of Smoldering,Weapon,44,Masterwork,120
+34619,Ravaging Glyphic Spear of Debility,Weapon,50,Masterwork,135
+34620,Ravaging Glyphic Spear of the Hydromancer,Weapon,56,Masterwork,147
+34621,Ravaging Glyphic Longbow of Serpent Slaying,Weapon,38,Masterwork,108
+34622,Ravaging Glyphic Longbow of Smoldering,Weapon,44,Masterwork,120
+34623,Ravaging Glyphic Longbow of Debility,Weapon,50,Masterwork,135
+34624,Ravaging Glyphic Longbow of the Hydromancer,Weapon,56,Masterwork,147
+34625,Ravaging Glyphic Mace of Serpent Slaying,Weapon,38,Masterwork,72
+34626,Ravaging Glyphic Mace of Smoldering,Weapon,44,Masterwork,80
+34627,Ravaging Glyphic Mace of Debility,Weapon,50,Masterwork,90
+34628,Ravaging Glyphic Mace of the Hydromancer,Weapon,56,Masterwork,98
+34629,Ravaging Glyphic Pistol of Serpent Slaying,Weapon,38,Masterwork,72
+34630,Ravaging Glyphic Pistol of Smoldering,Weapon,44,Masterwork,80
+34631,Ravaging Glyphic Pistol of Debility,Weapon,50,Masterwork,90
+34632,Ravaging Glyphic Pistol of the Hydromancer,Weapon,56,Masterwork,98
+34633,Ravaging Glyphic Rifle of Serpent Slaying,Weapon,38,Masterwork,108
+34634,Ravaging Glyphic Rifle of Smoldering,Weapon,44,Masterwork,120
+34635,Ravaging Glyphic Rifle of Debility,Weapon,50,Masterwork,135
+34636,Ravaging Glyphic Rifle of the Hydromancer,Weapon,56,Masterwork,147
+34637,Ravaging Glyphic Scepter of Serpent Slaying,Weapon,38,Masterwork,72
+34638,Ravaging Glyphic Scepter of Smoldering,Weapon,44,Masterwork,80
+34639,Ravaging Glyphic Scepter of Debility,Weapon,50,Masterwork,90
+34640,Ravaging Glyphic Scepter of the Hydromancer,Weapon,56,Masterwork,98
+34641,Ravaging Glyphic Ward of Serpent Slaying,Weapon,38,Masterwork,72
+34642,Ravaging Glyphic Ward of Smoldering,Weapon,44,Masterwork,80
+34643,Ravaging Glyphic Ward of Debility,Weapon,50,Masterwork,90
+34644,Ravaging Glyphic Ward of the Hydromancer,Weapon,56,Masterwork,98
+34645,Ravaging Glyphic Short Bow of Serpent Slaying,Weapon,38,Masterwork,108
+34646,Ravaging Glyphic Short Bow of Smoldering,Weapon,44,Masterwork,120
+34647,Ravaging Glyphic Short Bow of Debility,Weapon,50,Masterwork,135
+34648,Ravaging Glyphic Short Bow of the Hydromancer,Weapon,56,Masterwork,147
+34649,Ravaging Glyphic Speargun of Serpent Slaying,Weapon,38,Masterwork,108
+34650,Ravaging Glyphic Speargun of Smoldering,Weapon,44,Masterwork,120
+34651,Ravaging Glyphic Speargun of Debility,Weapon,50,Masterwork,135
+34652,Ravaging Glyphic Speargun of the Hydromancer,Weapon,56,Masterwork,147
+34653,Ravaging Glyphic Staff of Serpent Slaying,Weapon,38,Masterwork,108
+34654,Ravaging Glyphic Staff of Smoldering,Weapon,44,Masterwork,120
+34655,Ravaging Glyphic Staff of Debility,Weapon,50,Masterwork,135
+34656,Ravaging Glyphic Staff of the Hydromancer,Weapon,56,Masterwork,147
+34657,Ravaging Glyphic Edge of Serpent Slaying,Weapon,38,Masterwork,72
+34658,Ravaging Glyphic Edge of Smoldering,Weapon,44,Masterwork,80
+34659,Ravaging Glyphic Edge of Debility,Weapon,50,Masterwork,90
+34660,Ravaging Glyphic Edge of the Hydromancer,Weapon,56,Masterwork,98
+34661,Ravaging Glyphic Brand of Serpent Slaying,Weapon,38,Masterwork,72
+34662,Ravaging Glyphic Brand of Smoldering,Weapon,44,Masterwork,80
+34663,Ravaging Glyphic Brand of Debility,Weapon,50,Masterwork,90
+34664,Ravaging Glyphic Brand of the Hydromancer,Weapon,56,Masterwork,98
+34665,Ravaging Glyphic Trispear of Serpent Slaying,Weapon,38,Masterwork,108
+34666,Ravaging Glyphic Trispear of Smoldering,Weapon,44,Masterwork,120
+34667,Ravaging Glyphic Trispear of Debility,Weapon,50,Masterwork,135
+34668,Ravaging Glyphic Trispear of the Hydromancer,Weapon,56,Masterwork,147
+34669,Ravaging Glyphic Horn of Serpent Slaying,Weapon,38,Masterwork,72
+34670,Ravaging Glyphic Horn of Smoldering,Weapon,44,Masterwork,80
+34671,Ravaging Glyphic Horn of Debility,Weapon,50,Masterwork,90
+34672,Ravaging Glyphic Horn of the Hydromancer,Weapon,56,Masterwork,98
+34673,Carrion Glyphic Axe of Agony,Weapon,62,Masterwork,106
+34674,Carrion Glyphic Axe of Air,Weapon,68,Masterwork,114
+34675,Carrion Glyphic Axe of Bloodlust,Weapon,74,Masterwork,122
+34676,Carrion Glyphic Axe of Earth,Weapon,80,Masterwork,132
+34677,Carrion Glyphic Handblade of Agony,Weapon,62,Masterwork,106
+34678,Carrion Glyphic Handblade of the Geomancer,Weapon,68,Masterwork,114
+34679,Carrion Glyphic Handblade of Bloodlust,Weapon,74,Masterwork,122
+34680,Carrion Glyphic Handblade of Earth,Weapon,80,Masterwork,132
+34681,Carrion Glyphic Icon of Agony,Weapon,62,Masterwork,106
+34682,Carrion Glyphic Icon of the Geomancer,Weapon,68,Masterwork,114
+34683,Carrion Glyphic Icon of Bloodlust,Weapon,74,Masterwork,122
+34684,Carrion Glyphic Icon of Earth,Weapon,80,Masterwork,132
+34685,Carrion Glyphic Longblade of Agony,Weapon,62,Masterwork,159
+34686,Carrion Glyphic Longblade of the Geomancer,Weapon,68,Masterwork,171
+34687,Carrion Glyphic Longblade of Bloodlust,Weapon,74,Masterwork,183
+34688,Carrion Glyphic Longblade of Earth,Weapon,80,Masterwork,198
+34689,Carrion Glyphic Maul of Agony,Weapon,62,Masterwork,159
+34690,Carrion Glyphic Maul of the Geomancer,Weapon,68,Masterwork,171
+34691,Carrion Glyphic Maul of Bloodlust,Weapon,74,Masterwork,183
+34692,Carrion Glyphic Maul of Earth,Weapon,80,Masterwork,198
+34693,Carrion Glyphic Spear of Agony,Weapon,62,Masterwork,159
+34694,Carrion Glyphic Spear of the Geomancer,Weapon,68,Masterwork,171
+34695,Carrion Glyphic Spear of Bloodlust,Weapon,74,Masterwork,183
+34696,Carrion Glyphic Spear of Earth,Weapon,80,Masterwork,198
+34697,Carrion Glyphic Longbow of Agony,Weapon,62,Masterwork,159
+34698,Carrion Glyphic Longbow of the Geomancer,Weapon,68,Masterwork,171
+34699,Carrion Glyphic Longbow of Bloodlust,Weapon,74,Masterwork,183
+34700,Carrion Glyphic Longbow of Earth,Weapon,80,Masterwork,198
+34701,Carrion Glyphic Mace of Agony,Weapon,62,Masterwork,106
+34702,Carrion Glyphic Mace of the Geomancer,Weapon,68,Masterwork,114
+34703,Carrion Glyphic Mace of Bloodlust,Weapon,74,Masterwork,122
+34704,Carrion Glyphic Mace of Earth,Weapon,80,Masterwork,132
+34705,Carrion Glyphic Pistol of Agony,Weapon,62,Masterwork,106
+34706,Carrion Glyphic Pistol of the Geomancer,Weapon,68,Masterwork,114
+34707,Carrion Glyphic Pistol of Bloodlust,Weapon,74,Masterwork,122
+34708,Carrion Glyphic Pistol of Earth,Weapon,80,Masterwork,132
+34709,Carrion Glyphic Rifle of Agony,Weapon,62,Masterwork,159
+34710,Carrion Glyphic Rifle of the Geomancer,Weapon,68,Masterwork,171
+34711,Carrion Glyphic Rifle of Bloodlust,Weapon,74,Masterwork,183
+34712,Carrion Glyphic Rifle of Earth,Weapon,80,Masterwork,198
+34713,Carrion Glyphic Scepter of Agony,Weapon,62,Masterwork,106
+34714,Carrion Glyphic Scepter of the Geomancer,Weapon,68,Masterwork,114
+34715,Carrion Glyphic Scepter of Bloodlust,Weapon,74,Masterwork,122
+34716,Carrion Glyphic Scepter of Earth,Weapon,80,Masterwork,132
+34717,Carrion Glyphic Ward of Agony,Weapon,62,Masterwork,106
+34718,Carrion Glyphic Ward of the Geomancer,Weapon,68,Masterwork,114
+34719,Carrion Glyphic Ward of Bloodlust,Weapon,74,Masterwork,122
+34720,Carrion Glyphic Ward of Earth,Weapon,80,Masterwork,132
+34721,Carrion Glyphic Short Bow of Agony,Weapon,62,Masterwork,159
+34722,Carrion Glyphic Short Bow of the Geomancer,Weapon,68,Masterwork,171
+34723,Carrion Glyphic Short Bow of Bloodlust,Weapon,74,Masterwork,183
+34724,Carrion Glyphic Short Bow of Earth,Weapon,80,Masterwork,198
+34725,Carrion Glyphic Speargun of Agony,Weapon,62,Masterwork,159
+34726,Carrion Glyphic Speargun of the Geomancer,Weapon,68,Masterwork,171
+34727,Carrion Glyphic Speargun of Bloodlust,Weapon,74,Masterwork,183
+34728,Carrion Glyphic Speargun of Earth,Weapon,80,Masterwork,198
+34729,Carrion Glyphic Staff of Agony,Weapon,62,Masterwork,159
+34730,Carrion Glyphic Staff of the Geomancer,Weapon,68,Masterwork,171
+34731,Carrion Glyphic Staff of Bloodlust,Weapon,74,Masterwork,183
+34732,Carrion Glyphic Staff of Earth,Weapon,80,Masterwork,198
+34733,Carrion Glyphic Edge of Agony,Weapon,62,Masterwork,106
+34734,Carrion Glyphic Edge of the Geomancer,Weapon,68,Masterwork,114
+34735,Carrion Glyphic Edge of Bloodlust,Weapon,74,Masterwork,122
+34736,Carrion Glyphic Edge of Earth,Weapon,80,Masterwork,132
+34737,Carrion Glyphic Brand of Agony,Weapon,62,Masterwork,106
+34738,Carrion Glyphic Brand of the Geomancer,Weapon,68,Masterwork,114
+34739,Carrion Glyphic Brand of Bloodlust,Weapon,74,Masterwork,122
+34740,Carrion Glyphic Brand of Earth,Weapon,80,Masterwork,132
+34741,Carrion Glyphic Trispear of Agony,Weapon,62,Masterwork,159
+34742,Carrion Glyphic Trispear of the Geomancer,Weapon,68,Masterwork,171
+34743,Carrion Glyphic Trispear of Bloodlust,Weapon,74,Masterwork,183
+34744,Carrion Glyphic Trispear of Earth,Weapon,80,Masterwork,198
+34745,Carrion Glyphic Horn of Agony,Weapon,62,Masterwork,106
+34746,Carrion Glyphic Horn of the Geomancer,Weapon,68,Masterwork,114
+34747,Carrion Glyphic Horn of Bloodlust,Weapon,74,Masterwork,122
+34748,Carrion Glyphic Horn of Earth,Weapon,80,Masterwork,132
+34749,Ravaging Verdant Axe of Battle,Weapon,39,Rare,111
+34750,Ravaging Verdant Axe of Ogre Slaying,Weapon,46,Rare,126
+34751,Ravaging Verdant Axe of Earth,Weapon,53,Rare,141
+34752,Ravaging Verdant Dagger of Battle,Weapon,39,Rare,111
+34753,Ravaging Verdant Dagger of Ogre Slaying,Weapon,46,Rare,126
+34754,Ravaging Verdant Dagger of Earth,Weapon,53,Rare,141
+34755,Ravaging Verdant Focus of Battle,Weapon,39,Rare,111
+34756,Ravaging Verdant Focus of Ogre Slaying,Weapon,46,Rare,126
+34757,Ravaging Verdant Focus of Earth,Weapon,53,Rare,141
+34758,Ravaging Verdant Greatsword of Battle,Weapon,39,Rare,167
+34759,Ravaging Verdant Greatsword of Ogre Slaying,Weapon,46,Rare,189
+34760,Ravaging Verdant Greatsword of Earth,Weapon,53,Rare,212
+34761,Ravaging Verdant Warhammer of Battle,Weapon,39,Rare,167
+34762,Ravaging Verdant Warhammer of Ogre Slaying,Weapon,46,Rare,189
+34763,Ravaging Verdant Warhammer of Earth,Weapon,53,Rare,212
+34764,Ravaging Verdant Spear of Battle,Weapon,39,Rare,167
+34765,Ravaging Verdant Spear of Ogre Slaying,Weapon,46,Rare,189
+34766,Ravaging Verdant Spear of Earth,Weapon,53,Rare,212
+34767,Ravaging Verdant Bow of Battle,Weapon,39,Rare,167
+34768,Ravaging Verdant Bow of Ogre Slaying,Weapon,46,Rare,189
+34769,Ravaging Verdant Bow of Earth,Weapon,53,Rare,212
+34770,Ravaging Verdant Mace of Battle,Weapon,39,Rare,111
+34771,Ravaging Verdant Mace of Ogre Slaying,Weapon,46,Rare,126
+34772,Ravaging Verdant Mace of Earth,Weapon,53,Rare,141
+34773,Ravaging Verdant Pistol of Battle,Weapon,39,Rare,111
+34774,Ravaging Verdant Pistol of Ogre Slaying,Weapon,46,Rare,126
+34775,Ravaging Verdant Pistol of Earth,Weapon,53,Rare,141
+34776,Ravaging Verdant Rifle of Battle,Weapon,39,Rare,167
+34777,Ravaging Verdant Rifle of Ogre Slaying,Weapon,46,Rare,189
+34778,Ravaging Verdant Rifle of Earth,Weapon,53,Rare,212
+34779,Ravaging Verdant Scepter of Battle,Weapon,39,Rare,111
+34780,Ravaging Verdant Scepter of Ogre Slaying,Weapon,46,Rare,126
+34781,Ravaging Verdant Scepter of Earth,Weapon,53,Rare,141
+34782,Ravaging Verdant Shield of Battle,Weapon,39,Rare,111
+34783,Ravaging Verdant Shield of Ogre Slaying,Weapon,46,Rare,126
+34784,Ravaging Verdant Shield of Earth,Weapon,53,Rare,141
+34785,Ravaging Verdant Short Bow of Battle,Weapon,39,Rare,167
+34786,Ravaging Verdant Short Bow of Ogre Slaying,Weapon,46,Rare,189
+34787,Ravaging Verdant Short Bow of Earth,Weapon,53,Rare,212
+34788,Ravaging Verdant Speargun of Battle,Weapon,39,Rare,167
+34789,Ravaging Verdant Speargun of Ogre Slaying,Weapon,46,Rare,189
+34790,Ravaging Verdant Speargun of Earth,Weapon,53,Rare,212
+34791,Ravaging Verdant Staff of Battle,Weapon,39,Rare,167
+34792,Ravaging Verdant Staff of Ogre Slaying,Weapon,46,Rare,189
+34793,Ravaging Verdant Staff of Earth,Weapon,53,Rare,212
+34794,Ravaging Verdant Blade of Battle,Weapon,39,Rare,111
+34795,Ravaging Verdant Blade of Ogre Slaying,Weapon,46,Rare,126
+34796,Ravaging Verdant Blade of Earth,Weapon,53,Rare,141
+34797,Ravaging Verdant Torch of Battle,Weapon,39,Rare,111
+34798,Ravaging Verdant Torch of Ogre Slaying,Weapon,46,Rare,126
+34799,Ravaging Verdant Torch of Earth,Weapon,53,Rare,141
+34800,Ravaging Verdant Trident of Battle,Weapon,39,Rare,167
+34801,Ravaging Verdant Trident of Ogre Slaying,Weapon,46,Rare,189
+34802,Ravaging Verdant Trident of Earth,Weapon,53,Rare,212
+34803,Ravaging Verdant Warhorn of Battle,Weapon,39,Rare,111
+34804,Ravaging Verdant Warhorn of Ogre Slaying,Weapon,46,Rare,126
+34805,Ravaging Verdant Warhorn of Earth,Weapon,53,Rare,141
+34806,Carrion Verdant Axe of Water,Weapon,60,Rare,156
+34807,Carrion Verdant Axe of Corruption,Weapon,67,Rare,168
+34808,Carrion Verdant Axe of Energy,Weapon,74,Rare,183
+34809,Carrion Verdant Axe of Air,Weapon,80,Rare,198
 34810,Carrion Verdant Dagger of Water,Weapon,60,Rare,156
 34811,Carrion Verdant Dagger of Corruption,Weapon,67,Rare,168
 34812,Carrion Verdant Dagger of Energy,Weapon,74,Rare,183
@@ -34199,6 +34999,206 @@ id,name,type,level,rarity,vendor_value
 49294,Mini Dolyak Calf,MiniPet,0,Exotic,50
 49295,Recipe: Endless Toy Ventari Tonic,Consumable,0,Rare,81
 49296,Recipe: Endless Toy Soldier Tonic,Consumable,0,Rare,81
+49297,Recipe: Endless Princess Doll Tonic,Consumable,0,Rare,81
+49298,Recipe: Endless Plush Griffon Tonic,Consumable,0,Rare,81
+49299,Recipe: Endless Toy Golem Tonic,Consumable,0,Rare,81
+49308,Thresher-Sickle 5000,Gathering,0,Rare,0
+49312,Tormented Axe,Weapon,0,Rare,0
+49314,Tormented Axe Skin,Consumable,0,Rare,0
+49317,Tormented Dagger Skin,Consumable,0,Rare,0
+49320,Tormented Focus Skin,Consumable,0,Rare,0
+49323,Tormented Greatsword Skin,Consumable,0,Rare,0
+49326,Tormented Hammer Skin,Consumable,0,Rare,0
+49329,Tormented Longbow Skin,Consumable,0,Rare,0
+49332,Tormented Mace Skin,Consumable,0,Rare,0
+49335,Tormented Pistol Skin,Consumable,0,Rare,0
+49338,Tormented Rifle Skin,Consumable,0,Rare,0
+49341,Tormented Scepter Skin,Consumable,0,Rare,0
+49344,Tormented Shield Skin,Consumable,0,Rare,0
+49347,Tormented Short Bow Skin,Consumable,0,Rare,0
+49350,Tormented Staff Skin,Consumable,0,Rare,0
+49353,Tormented Sword Skin,Consumable,0,Rare,0
+49356,Tormented Torch Skin,Consumable,0,Rare,0
+49359,Tormented Warhorn Skin,Consumable,0,Rare,0
+49361,Black Lion Trading Satchel,Bag,0,Rare,60
+49362,Koss on Koss (Infused),Back,80,Ascended,330
+49363,Bowyer's Delight (Infused),Back,80,Ascended,330
+49364,There with Yakkington: A Traveler's Tale (Infused),Back,80,Ascended,330
+49365,Quiver of a Thousand Arrows (Infused),Back,80,Ascended,330
+49366,Symon's History of Ascalon (Infused),Back,80,Ascended,330
+49367,Sights Be True (Infused),Back,80,Ascended,330
+49368,Tome of the Rubicon (Infused),Back,80,Ascended,330
+49369,Endless Quiver (Infused),Back,80,Ascended,330
+49370,Book of Secrets (Infused),Back,80,Ascended,330
+49371,Quiver of Swift Flight (Infused),Back,80,Ascended,330
+49372,Beta Fractal Capacitor (Infused),Back,80,Ascended,330
+49373,Beta Fractal Capacitor (Infused),Back,80,Ascended,330
+49374,Beta Fractal Capacitor (Infused),Back,80,Ascended,330
+49375,Beta Fractal Capacitor (Infused),Back,80,Ascended,330
+49376,Beta Fractal Capacitor (Infused),Back,80,Ascended,330
+49377,Beta Fractal Capacitor (Infused),Back,80,Ascended,330
+49378,Beta Fractal Capacitor (Infused),Back,80,Ascended,330
+49379,Beta Fractal Capacitor (Infused),Back,80,Ascended,330
+49380,Beta Fractal Capacitor (Infused),Back,80,Ascended,330
+49381,Beta Fractal Capacitor (Infused),Back,80,Ascended,330
+49382,Fractal Capacitor (Infused),Back,80,Ascended,330
+49383,Fractal Capacitor (Infused),Back,80,Ascended,330
+49384,Fractal Capacitor (Infused),Back,80,Ascended,330
+49385,Fractal Capacitor (Infused),Back,80,Ascended,330
+49386,Fractal Capacitor (Infused),Back,80,Ascended,330
+49387,Fractal Capacitor (Infused),Back,80,Ascended,330
+49388,Fractal Capacitor (Infused),Back,80,Ascended,330
+49389,Fractal Capacitor (Infused),Back,80,Ascended,330
+49390,Fractal Capacitor (Infused),Back,80,Ascended,330
+49391,Fractal Capacitor (Infused),Back,80,Ascended,330
+49392,Ascended Jewelry Box,Container,0,Ascended,320
+49394,Royal Signet of Doric (Infused),Trinket,80,Ascended,495
+49395,Lost Seal of Usoku (Infused),Trinket,80,Ascended,495
+49396,Marriner's Compass (Infused),Trinket,80,Ascended,495
+49397,Circle of Light (Infused),Trinket,80,Ascended,495
+49398,Rurik's Royal Signet Ring (Infused),Trinket,80,Ascended,495
+49399,Adelbern's Royal Signet Ring (Infused),Trinket,80,Ascended,495
+49400,Ouroboros Loop (Infused),Trinket,80,Ascended,495
+49401,Khilbron's Phylactery (Infused),Trinket,80,Ascended,495
+49402,Crystalline Band (Infused),Trinket,80,Ascended,495
+49403,Ring of Red Death (Infused),Trinket,80,Ascended,495
+49404,Vassar's Band (Infused),Trinket,80,Ascended,495
+49405,Ralena's Band (Infused),Trinket,80,Ascended,495
+49406,Vine of the Pale Tree (Infused),Trinket,80,Ascended,495
+49407,Bagh Nakh (Infused),Trinket,80,Ascended,495
+49408,Mellaggan's Whorl (Infused),Trinket,80,Ascended,495
+49409,Seal of the Khan-Ur (Infused),Trinket,80,Ascended,495
+49410,Yakkington's Ring (Infused),Trinket,80,Ascended,495
+49411,Snaff's Gyre (Infused),Trinket,80,Ascended,495
+49412,"Lunaria, Circle of the Moon (Infused)",Trinket,80,Ascended,495
+49413,"Solaria, Circle of the Sun (Infused)",Trinket,80,Ascended,495
+49414,Druid's Circle (Infused),Trinket,80,Ascended,495
+49415,Healing Signet (Infused),Trinket,80,Ascended,495
+49416,Ettinband (Infused),Trinket,80,Ascended,495
+49417,Ossa Family Signet Ring (Infused),Trinket,80,Ascended,495
+49418,Barbed Signet (Infused),Trinket,80,Ascended,495
+49419,Palawa Joko's Finger Cuff (Infused),Trinket,80,Ascended,495
+49420,Lucce Seal (Infused),Trinket,80,Ascended,495
+49421,Purge Signet (Infused),Trinket,80,Ascended,495
+49422,Band of the Brotherhood (Infused),Trinket,80,Ascended,495
+49423,Cirque of Arah (Infused),Trinket,80,Ascended,495
+49424,+1 Agony Infusion,UpgradeComponent,0,Ascended,330
+49425,+2 Agony Infusion,UpgradeComponent,0,Ascended,330
+49426,+3 Agony Infusion,UpgradeComponent,0,Ascended,330
+49427,+4 Agony Infusion,UpgradeComponent,0,Ascended,330
+49428,+5 Agony Infusion,UpgradeComponent,0,Ascended,330
+49429,+6 Agony Infusion,UpgradeComponent,0,Ascended,330
+49430,+7 Agony Infusion,UpgradeComponent,0,Ascended,330
+49431,+8 Agony Infusion,UpgradeComponent,0,Ascended,330
+49432,+9 Agony Infusion,UpgradeComponent,0,Ascended,330
+49433,+10 Agony Infusion,UpgradeComponent,0,Ascended,330
+49434,+11 Agony Infusion,UpgradeComponent,0,Ascended,330
+49435,+12 Agony Infusion,UpgradeComponent,0,Ascended,330
+49436,+13 Agony Infusion,UpgradeComponent,0,Ascended,330
+49437,+14 Agony Infusion,UpgradeComponent,0,Ascended,330
+49438,+15 Agony Infusion,UpgradeComponent,0,Ascended,330
+49439,+16 Agony Infusion,UpgradeComponent,0,Ascended,330
+49440,+17 Agony Infusion,UpgradeComponent,0,Ascended,330
+49441,+18 Agony Infusion,UpgradeComponent,0,Ascended,330
+49442,+19 Agony Infusion,UpgradeComponent,0,Ascended,330
+49443,+20 Agony Infusion,UpgradeComponent,0,Ascended,330
+49444,+21 Agony Infusion,UpgradeComponent,0,Ascended,330
+49445,+22 Agony Infusion,UpgradeComponent,0,Ascended,330
+49446,+23 Agony Infusion,UpgradeComponent,0,Ascended,330
+49447,+24 Agony Infusion,UpgradeComponent,0,Ascended,330
+49454,Letter of Influence,Consumable,0,Legendary,0
+49457,Superior Sigil of Momentum,UpgradeComponent,60,Exotic,216
+49460,Superior Rune of Resistance,UpgradeComponent,60,Exotic,65
+49464,Limited-Use Bronze Dolyak,Consumable,0,Rare,0
+49465,Limited-Use Golden Dolyak,Consumable,0,Rare,0
+49466,Limited-Use Silver Dolyak,Consumable,0,Rare,0
+49475,Chest,Container,0,Fine,0
+49476,Splendid Chest,Container,0,Fine,0
+49477,Fires of Balthazar Skin,Consumable,0,Exotic,0
+49478,Light of Dwayna,Back,80,Ascended,330
+49479,Shadow of Grenth,Back,80,Ascended,330
+49480,Recipe: Light of Dwayna,Consumable,0,Ascended,45
+49481,Recipe: Shadow of Grenth,Consumable,0,Ascended,45
+49482,Recipe: Ascended Insignia,Container,0,Ascended,110
+49483,Recipe: Ascended Heavy Boots,Container,0,Ascended,110
+49484,Recipe: Ascended Heavy Coat,Container,0,Ascended,110
+49485,Recipe: Ascended Heavy Gloves,Container,0,Ascended,110
+49486,Recipe: Ascended Heavy Helm,Container,0,Ascended,110
+49487,Recipe: Ascended Heavy Leggings,Container,0,Ascended,110
+49488,Recipe: Ascended Heavy Shoulders,Container,0,Ascended,110
+49489,Recipe: Ascended Medium Boots,Container,0,Ascended,110
+49490,Recipe: Ascended Medium Coat,Container,0,Ascended,110
+49491,Recipe: Ascended Medium Gloves,Container,0,Ascended,110
+49492,Recipe: Ascended Medium Helm,Container,0,Ascended,110
+49493,Recipe: Ascended Medium Leggings,Container,0,Ascended,110
+49494,Recipe: Ascended Medium Shoulders,Container,0,Ascended,110
+49495,Recipe: Ascended Light Boots,Container,0,Ascended,110
+49496,Recipe: Ascended Light Coat,Container,0,Ascended,110
+49497,Recipe: Ascended Light Gloves,Container,0,Ascended,110
+49498,Recipe: Ascended Light Helm,Container,0,Ascended,110
+49499,Recipe: Ascended Light Leggings,Container,0,Ascended,110
+49500,Recipe: Ascended Light Shoulders,Container,0,Ascended,110
+49501,Tarrktun Personal Delivery Portal,Gizmo,0,Legendary,640
+49503,Massive Glob of Ectoplasm,Container,0,Ascended,320
+49509,Recipe: Settler's Intricate Gossamer Insignia,Consumable,0,Exotic,128
+49521,Antitoxin Injector Skin,Consumable,0,Rare,250
+49522,Dire Intricate Gossamer Insignia,CraftingMaterial,80,Exotic,66
+49523,Lesser Vision Crystal,Trophy,0,Ascended,40
+49524,Mini Ho-Ho-Tron,MiniPet,0,Exotic,50
+49525,Amenity Dye,Consumable,0,Rare,5
+49526,Fling Dye,Consumable,0,Rare,5
+49527,Onset Dye,Consumable,0,Rare,5
+49528,Perseverance Dye,Consumable,0,Rare,5
+49529,Prosperity Dye,Consumable,0,Rare,5
+49530,Recall Dye,Consumable,0,Rare,5
+49531,Gathering Tool 3 Pack,Container,0,Rare,12
+49588,Norn Tier 2 Heavy Armor Box,Container,0,Basic,0
+49611,Keeper's Warfists,Armor,80,Ascended,240
+49612,Keeper's Shoulderguard,Armor,80,Ascended,240
+49613,Keeper's Leggings,Armor,80,Ascended,240
+49614,Keeper's Visage,Armor,80,Ascended,240
+49615,Keeper's Grips,Armor,80,Ascended,240
+49616,Keeper's Guise,Armor,80,Ascended,240
+49617,Keeper's Striders,Armor,80,Ascended,240
+49618,Keeper's Epaulets,Armor,80,Ascended,240
+49619,Keeper's Breeches,Armor,80,Ascended,240
+49620,Keeper's Masque,Armor,80,Ascended,240
+49621,Keeper's Wristguards,Armor,80,Ascended,240
+49622,Keeper's Doublet,Armor,80,Ascended,240
+49623,Keeper's Footwear,Armor,80,Ascended,240
+49624,Keeper's Pauldrons,Armor,80,Ascended,240
+49625,Keeper's Tassets,Armor,80,Ascended,240
+49626,Keeper's Visor,Armor,80,Ascended,240
+49627,Keeper's Breastplate,Armor,80,Ascended,240
+49628,Keeper's Greaves,Armor,80,Ascended,240
+49651,Keeper's Weapon Chest,Container,0,Ascended,0
+49652,Keeper's Armor Chest,Container,0,Ascended,0
+49654,Hoard of the Marionette Warden IV,Container,0,Rare,0
+49655,Hoard of the Marionette Warden III,Container,0,Masterwork,0
+49656,Hoard of the Marionette Warden II,Container,0,Fine,0
+49657,Hoard of the Marionette Warden I,Container,0,Basic,0
+49658,Hoard of the Marionette Warden V,Container,0,Exotic,0
+49662,Scarlet's Spare Keys,Container,0,Rare,0
+49664,The Wurm's Golden Chest,Container,0,Exotic,0
+49666,The Wurm's Bronze Chest,Container,0,Exotic,0
+49667,The Wurm's Silver Chest,Container,0,Exotic,0
+49670,Pile of Regurgitated Armor,Container,0,Ascended,0
+49672,Recipe: Keeper's Harpoon Gun,Consumable,0,Ascended,160
+49673,Recipe: Keeper's Brazier,Consumable,0,Ascended,160
+49674,Recipe: Keeper's Wristguards,Consumable,0,Ascended,160
+49675,Recipe: Keeper's Tassets,Consumable,0,Ascended,160
+49676,Recipe: Keeper's Breeches,Consumable,0,Ascended,160
+49677,Recipe: Keeper's Zealot Inscription,Consumable,0,Ascended,160
+49678,Recipe: Keeper's Masque,Consumable,0,Ascended,160
+49679,Recipe: Keeper's Guise,Consumable,0,Ascended,160
+49680,Recipe: Keeper's Visor,Consumable,0,Ascended,160
+49681,Recipe: Keeper's Blade,Consumable,0,Ascended,160
+49682,Recipe: Keeper's Warfists,Consumable,0,Ascended,160
+49683,Recipe: Keeper's Bastion,Consumable,0,Ascended,160
+49684,Recipe: Keeper's Breastplate,Consumable,0,Ascended,160
+49685,Recipe: Keeper's Epaulets,Consumable,0,Ascended,160
+49686,Recipe: Keeper's Pauldrons,Consumable,0,Ascended,160
+49687,Recipe: Keeper's Footwear,Consumable,0,Ascended,160
 49688,Recipe: Keeper's Flanged Mace,Consumable,0,Ascended,160
 49689,Recipe: Keeper's Impaler,Consumable,0,Ascended,160
 49690,Recipe: Keeper's Short Bow,Consumable,0,Ascended,160
@@ -49399,6 +50399,206 @@ id,name,type,level,rarity,vendor_value
 79389,Bloodstone Greatsword Skin,Consumable,0,Rare,0
 79391,Pirate Hook Skin,Consumable,0,Masterwork,0
 79392,Orange Commander's Compendium,Consumable,0,Basic,0
+79393,Bloodstone Torch Skin,Consumable,0,Rare,0
+79395,Bloodstone Short Bow Skin,Consumable,0,Rare,0
+79399,Bloodstone Warhorn Skin,Consumable,0,Rare,0
+79401,Destroyer Weapon Crate,Container,0,Exotic,0
+79403,Bloodstone Shield Skin,Consumable,0,Rare,0
+79404,Bloodstone Dagger Skin,Consumable,0,Rare,0
+79406,Pulsating Destroyer Heart,Trophy,0,Exotic,0
+79407,Bloodstone Rifle Skin,Consumable,0,Rare,0
+79409,Bloodstone Longbow Skin,Consumable,0,Rare,0
+79410,Mystic Curio,CraftingMaterial,0,Ascended,83
+79411,Mini Rolling Devil,MiniPet,0,Rare,50
+79416,Carnival Longbow,Weapon,80,Exotic,0
+79418,Mystic Runestone,Trophy,0,Legendary,660
+79419,Gift of Eureka,Trophy,0,Legendary,640
+79423,Reclaimed Wood Chunk,Trophy,0,Basic,25
+79424,Pocket Jade Armor,Consumable,0,Basic,13
+79428,Soot-Covered Ring,Trophy,0,Basic,0
+79429,Draconic Headdress Box,Container,0,Basic,0
+79430,Chunk of the Solid Ocean,Consumable,0,Basic,0
+79431,Chest of Legendary Shards,Container,0,Exotic,264
+79432,Salvaged Debris,Container,0,Rare,0
+79433,Mini Pirate Captain Huuhes,MiniPet,0,Rare,50
+79438,Petrified Karka Egg,Trinket,80,Rare,248
+79439,Mini Vine-Touched Destroyer Crab,MiniPet,0,Rare,50
+79441,Chest of Fractal Relics,Consumable,0,Fine,25
+79444,Sparking Petrified Wood,Trinket,80,Ascended,413
+79445,Shard of Endeavor,CraftingMaterial,0,Ascended,83
+79446,Rurik's Engagement Ring,Trinket,80,Ascended,495
+79453,Tribute to Endeavor,Trophy,0,Exotic,264
+79455,Light Dragonscale Epaulets,Armor,80,Exotic,25000
+79456,Ember Bay Portal Scroll,Gizmo,80,Ascended,320
+79457,Light Dragonscale Headdress,Armor,80,Exotic,25000
+79460,Rurik's Engagement Ring,Trinket,80,Ascended,495
+79461,Carnival Scepter,Weapon,80,Exotic,0
+79462,Bundle of Petrified Wood,Consumable,0,Exotic,128
+79463,Lava Skull Backpack,Back,80,Ascended,330
+79465,Unbound Logging Axe,Gathering,60,Fine,50
+79468,Heavy Dragonscale Epaulets,Armor,80,Exotic,25000
+79469,Petrified Wood,Consumable,0,Exotic,128
+79471,Medium Dragonscale Headdress,Armor,80,Exotic,25000
+79472,Cosmic Logging Tool,Gathering,0,Rare,0
+79474,Carnival Dagger,Weapon,80,Exotic,0
+79476,Circus Voucher,Trophy,0,Basic,0
+79477,Rurik's Engagement Ring,Trinket,80,Ascended,495
+79479,Sack of Petrified Wood,Container,0,Basic,7
+79480,Carnival Greatsword,Weapon,80,Exotic,0
+79481,Medium Dragonscale Epaulets,Armor,80,Exotic,25000
+79482,Carnival Warhorn,Weapon,80,Exotic,0
+79484,Dragonscale Epaulettes Box,Container,0,Basic,0
+79487,Carnival Torch,Weapon,80,Exotic,0
+79488,Plate of Sweet Curried Mussels,Consumable,80,Masterwork,66
+79489,Fragments of the Solid Ocean,Gizmo,0,Basic,0
+79490,Mini Captain Grumby,MiniPet,0,Rare,50
+79491,Spire of the Solid Ocean,Consumable,0,Basic,0
+79493,Mini Lava Elemental,MiniPet,0,Rare,50
+79494,Infinite Mist Mobility Potion,Gizmo,80,Exotic,1
+79495,Aqueous Amulet,Trinket,80,Rare,396
+79498,Lava Lounge Pass (2 Weeks),Gizmo,0,Masterwork,0
+79500,Lava Lounge Pass,Gizmo,0,Rare,0
+79505,Bundle of Petrified Wood,Consumable,0,Exotic,128
+79507,Bowl of Island Fruit Paste,CraftingMaterial,80,Basic,9
+79508,Heavy Dragonscale Headdress,Armor,80,Exotic,25000
+79511,Carnival Sword,Weapon,80,Exotic,0
+79514,Karmic Retribution,Consumable,0,Exotic,0
+79515,Infinite Mist Defensive Potion,Gizmo,80,Exotic,1
+79517,Carnival Shield,Weapon,80,Exotic,0
+79518,Contract of Patronage,Trophy,0,Exotic,0
+79519,Valuable Pearl,Trophy,0,Basic,2
+79520,Carnival Hammer,Weapon,80,Exotic,0
+79521,Large Wave of the Solid Ocean,Consumable,0,Basic,0
+79522,Captain Grumby's Ship Call Bell,Consumable,0,Rare,0
+79523,Mursaat Wings Backpack,Consumable,0,Masterwork,0
+79524,Block of the Solid Ocean,Consumable,0,Basic,0
+79526,Delicate Egg,Trophy,0,Basic,2
+79527,Stone Dwarf Thumb,Trophy,0,Basic,0
+79528,Skritt Worker Contract,Consumable,0,Basic,0
+79530,Carnival Rifle,Weapon,80,Exotic,0
+79531,Mursaat Robes Outfit,Consumable,0,Rare,0
+79532,Destroyer Sample,Trophy,0,Basic,0
+79533,Recipe: Sweet Curried Mussels,Consumable,0,Fine,7
+79534,Bundle of Petrified Wood,Consumable,0,Exotic,128
+79535,Male Norn Holo-Dancer,Consumable,0,Basic,0
+79537,For Science,Weapon,80,Exotic,264
+79538,Large Block of the Solid Ocean,Consumable,0,Basic,0
+79539,Carnival Staff,Weapon,80,Exotic,0
+79540,Indomitable Legend,Consumable,0,Legendary,0
+79541,Plate of Island Pudding,Consumable,80,Masterwork,66
+79543,Crystal Block of the Solid Ocean,Consumable,0,Basic,0
+79545,Large Delicate Egg,Trophy,0,Basic,3
+79546,Wave of the Solid Ocean,Consumable,0,Basic,0
+79547,Large Crystal Block of the Solid Ocean,Consumable,0,Basic,0
+79548,Encrusted Ring,Trophy,0,Basic,0
+79550,"Story Unlock: ""Out of the Shadows""",Consumable,0,Fine,4
+79557,Large Female Norn Holo-Dancer,Consumable,0,Basic,0
+79558,Sentient Aberration,Gizmo,0,Ascended,0
+79559,Petrified Karka Egg,Trinket,80,Exotic,330
+79562,Eureka,Weapon,80,Legendary,100000
+79563,Carnival Short Bow,Weapon,80,Exotic,0
+79566,Lava Skull Backpack (Infused),Back,80,Ascended,330
+79569,Recipe: For Science,Consumable,0,Exotic,128
+79570,Endeavor,Weapon,80,Ascended,330
+79571,Female Norn Holo-Dancer,Consumable,0,Basic,0
+79574,Huge Valuable Pearl,Trophy,0,Basic,3
+79575,Large Male Norn Holo-Dancer,Consumable,0,Basic,0
+79581,Unbound Mining Pick,Gathering,60,Fine,50
+79582,Recipe: Island Pudding,Consumable,0,Fine,7
+79583,Endless Jade Construct Tonic,Gizmo,0,Rare,0
+79584,"Story Unlock: ""Rising Flames""",Consumable,0,Fine,4
+79585,Mini Holographic Taimi,MiniPet,0,Rare,50
+79587,Rurik's Engagement Ring,Trinket,80,Ascended,495
+79588,Hypothesis,Weapon,80,Exotic,264
+79589,Piece of Damaged Ship,Trophy,0,Basic,0
+79590,Strange Rock,Trophy,0,Basic,0
+79591,Unbound Harvesting Sickle,Gathering,60,Fine,50
+79593,Aqueous Amulet,Trinket,80,Exotic,528
+79594,Slab of the Solid Ocean,Consumable,0,Basic,0
+79595,Mursaat Wings Glider,Consumable,0,Masterwork,0
+79596,Bundle of Petrified Wood,Consumable,0,Exotic,128
+79597,Bundle of Petrified Wood,Consumable,0,Exotic,128
+79598,Bag of Fractal Relics,Consumable,0,Fine,25
+79603,Carnival Axe,Weapon,80,Exotic,0
+79604,Ancient Mursaat Relic,Consumable,0,Basic,0
+79606,Round Lump,Trophy,0,Basic,0
+79607,Ember Bay Cache,Container,0,Basic,0
+79608,Infinite Mist Offensive Potion,Gizmo,80,Exotic,1
+79609,Recipe: Endeavor,Consumable,0,Ascended,160
+79610,Carnival Mace,Weapon,80,Exotic,0
+79611,Recipe: Hypothesis,Consumable,0,Exotic,128
+79612,Lava Lounge Pass (2 weeks),Gizmo,0,Masterwork,0
+79614,Carnival Focus,Weapon,80,Exotic,0
+79615,Chest of the Ember Bay Hero,Container,0,Exotic,0
+79617,Carnival Pistol,Weapon,80,Exotic,0
+79619,Furrocious Cat Ears Skin,Consumable,0,Masterwork,0
+79620,Broken Shadowstone,Trophy,0,Basic,0
+79621,Class I Rift Stabilizer,Gizmo,0,Rare,192
+79625,Mysterious Device,Gizmo,0,Rare,192
+79626,Class II Rift Stabilizer,Gizmo,0,Rare,192
+79627,Bottle of Highly Concentrated Krait Oil,Consumable,0,Ascended,125
+79629,Broken Rift Stabilizer,Gizmo,0,Rare,192
+79631,Spectral Glider,Consumable,0,Masterwork,0
+79633,Reforged Shadowstone,Trophy,0,Ascended,0
+79634,Beta Cannon Blueprint,Trophy,0,Junk,600
+79635,Endless Halloween Enchantment,Trophy,0,Exotic,0
+79636,Gargoyle Rifle Skin,Consumable,0,Rare,0
+79637,Grim Pact,Weapon,80,Exotic,264
+79638,Jailbroken,Weapon,80,Exotic,264
+79639,Phospholuminescent Infusion,UpgradeComponent,80,Exotic,10000
+79641,Demon Statue,Consumable,0,Rare,0
+79642,Eternal Flame,Consumable,0,Rare,0
+79643,Siege Grandmaster's Guide,Trophy,0,Basic,6
+79644,Gargoyle Sword Skin,Consumable,0,Rare,0
+79645,Mad Moon,Consumable,0,Rare,0
+79646,Greater Gift of Candy Corn,Consumable,0,Rare,0
+79647,Polyluminescent Undulating Refractor (Teal),UpgradeComponent,80,Exotic,10000
+79648,Gargoyle Short Bow Skin,Consumable,0,Rare,0
+79649,Gargoyle Torch Skin,Consumable,0,Rare,0
+79650,Endless Gargoyle Tonic,Gizmo,0,Rare,0
+79651,Mini Feline Familiar,MiniPet,0,Masterwork,100
+79652,Gargoyle Longbow Skin,Consumable,0,Rare,0
+79653,Phospholuminescent Infusion,UpgradeComponent,80,Exotic,10000
+79654,Mini Oxidecimus the Shadow Raven,MiniPet,0,Exotic,0
+79655,Gargoyle Greatsword Skin,Consumable,0,Rare,0
+79656,Hanging Tree,Consumable,0,Rare,0
+79657,Endless Shadow Raven Tonic,Gizmo,0,Rare,0
+79658,Gargoyle Warhorn Skin,Consumable,0,Rare,0
+79659,Gargoyle Hammer Skin,Consumable,0,Rare,0
+79660,Grasping Phantom Glider,Consumable,0,Masterwork,0
+79661,Phospholuminescent Infusion,UpgradeComponent,80,Exotic,10000
+79662,Gargoyle Staff Skin,Consumable,0,Rare,0
+79663,Bloodstone Glider,Consumable,0,Masterwork,0
+79664,Endless Ignited Wraith Tonic,Gizmo,0,Exotic,0
+79665,Phospholuminescent Infusion,UpgradeComponent,80,Exotic,10000
+79666,Hovering Mad Mirror,Gizmo,0,Masterwork,0
+79668,Endless Hellfire Skeleton Tonic,Gizmo,0,Rare,0
+79669,Phospholuminescent Infusion,UpgradeComponent,80,Exotic,10000
+79670,Gargoyle Mace Skin,Consumable,0,Rare,0
+79671,Ghostly Outfit,Consumable,0,Rare,0
+79672,Mini Thailog the Gargoyle,MiniPet,0,Exotic,0
+79673,Gargoyle Tonic,Consumable,0,Masterwork,0
+79674,Phospholuminescent Infusion,UpgradeComponent,80,Exotic,10000
+79675,Oontz's Necklace of the Spectre,Trinket,80,Exotic,528
+79677,Shadow Raven Tonic,Consumable,0,Masterwork,0
+79679,Hellfire Skeleton Tonic,Consumable,0,Masterwork,0
+79680,Candelabra Staff,Consumable,0,Rare,0
+79681,Gargoyle Shield Skin,Consumable,0,Rare,0
+79682,Gargoyle Scepter Skin,Consumable,0,Rare,0
+79683,Siege Master's Guide,Trophy,0,Basic,6
+79684,Mini Charles the Hellfire Skeleton,MiniPet,0,Exotic,0
+79685,Gargoyle Dagger Skin,Consumable,0,Rare,0
+79686,Gargoyle Axe Skin,Consumable,0,Rare,0
+79687,Gargoyle Focus Skin,Consumable,0,Rare,0
+79688,Mausoleum,Consumable,0,Rare,0
+79689,Gargoyle Pistol Skin,Consumable,0,Rare,0
+79690,Onus,Weapon,80,Exotic,396
+79691,Mad King Chest,Container,0,Exotic,256
+79692,Blue Orchid Dye,Consumable,0,Rare,5
+79693,Mini Bloodstone Rock,MiniPet,0,Masterwork,100
+79694,Slime Green Dye,Consumable,0,Rare,5
+79695,Vibrant Dye Kit,Container,0,Masterwork,0
+79696,Guaranteed Wardrobe Unlock,Consumable,5,Rare,125
 79697,Aqua Satin Dye,Consumable,0,Rare,5
 79698,Customer Appreciation Package,Container,0,Fine,0
 79699,Ruby Red Dye,Consumable,0,Rare,5
@@ -53399,6 +54599,206 @@ id,name,type,level,rarity,vendor_value
 85835,Malicious Brazier,Weapon,80,Ascended,10000
 85837,Assaulter's Visage,Armor,80,Ascended,240
 85839,Recipe: Stellar Avenger,Consumable,0,Exotic,10
+85840,Assaulter's Shako of Dhuum,Armor,80,Ascended,240
+85843,Healer's Leggings,Armor,80,Ascended,240
+85844,Recipe: Corsair Sharpening Stone,Consumable,0,Masterwork,0
+85846,Malicious Final Death,Weapon,80,Ascended,10000
+85847,Defender's Gloves of Dhuum,Armor,80,Ascended,240
+85849,Recipe: Astral Razor,Consumable,0,Exotic,10
+85851,Powdered Gemstone Research,Trophy,0,Rare,192
+85852,Transcendental Binding,Trophy,0,Exotic,264
+85853,Assaulter's Gloves of Dhuum,Armor,80,Ascended,240
+85855,Transcendental Parchment,Trophy,0,Exotic,264
+85857,Marshal's Astral Short Bow,Weapon,80,Exotic,0
+85858,Malicious Razor,Weapon,80,Ascended,10000
+85859,Assaulter's Breeches,Armor,80,Ascended,240
+85860,Astral Water,Consumable,0,Basic,0
+85861,Assaulter's Wristguards,Armor,80,Ascended,240
+85862,Marshal's Stellar Knobkerrie,Weapon,80,Ascended,0
+85863,Phospholuminescent Infusion,UpgradeComponent,80,Exotic,10000
+85864,Molten Light,Trophy,0,Rare,192
+85865,Silver River of Souls Trophy,Consumable,0,Basic,0
+85866,Recipe: Corsair Maintenance Oil,Consumable,0,Masterwork,0
+85867,Defender's Doublet,Armor,80,Ascended,240
+85868,Corrupted Mirror,Trophy,0,Rare,192
+85869,Meditation Log: Completed Log,Trophy,0,Exotic,264
+85870,Randa's Eviscerator,Weapon,80,Exotic,264
+85871,Healer's Slippers of Dhuum,Armor,80,Ascended,240
+85873,Cloth Shipment,Container,0,Basic,32
+85876,Assaulter's Helm of Dhuum,Armor,80,Ascended,240
+85878,Fractal Empowerment 4,Consumable,0,Exotic,0
+85879,Healer's Gloves of Dhuum,Armor,80,Ascended,240
+85881,Mystical +7 Agony Infusion,UpgradeComponent,0,Masterwork,16
+85882,Heavy Corsair Turban,Armor,80,Exotic,25000
+85883,Assaulter's Brazier,Weapon,80,Ascended,10000
+85884,Istan Portal Scroll,Gizmo,80,Ascended,320
+85885,Phospholuminescent Infusion,UpgradeComponent,80,Exotic,10000
+85888,Defender's Bastion,Weapon,80,Ascended,10000
+85889,Defender's Pauldrons of Dhuum,Armor,80,Ascended,240
+85891,Defender's Handguards of Dhuum,Armor,80,Ascended,240
+85892,Assaulter's Pauldrons of Dhuum,Armor,80,Ascended,240
+85894,Darkspear,Weapon,80,Exotic,396
+85895,Charged Mirror,Trophy,0,Rare,192
+85898,Glacial Light,Trophy,0,Rare,192
+85899,Healer's Flesh and Sinew,Weapon,80,Ascended,10000
+85900,Festive Confetti Infusion,UpgradeComponent,80,Exotic,10000
+85901,101 Things the Mordant Crescent Doesn't Want You to Know!,Gizmo,0,Basic,0
+85902,Recipe: Superior Sigil of the Stars,Consumable,0,Exotic,0
+85903,Malicious Breastplate,Armor,80,Ascended,240
+85904,Healer's Oblivion,Weapon,80,Ascended,10000
+85906,Gold Statue of Grenth Trophy,Consumable,0,Basic,0
+85907,Machete,Consumable,0,Rare,0
+85910,Crystal Light,Trophy,0,Rare,192
+85911,Trader's Key,Consumable,0,Rare,0
+85912,Silver Statue of Grenth Trophy,Consumable,0,Basic,0
+85914,Healer's Handguards of Dhuum,Armor,80,Ascended,240
+85916,Malicious Flanged Mace,Weapon,80,Ascended,10000
+85917,Mini Koss,MiniPet,0,Rare,50
+85919,Marshal's Astral Longbow,Weapon,80,Exotic,0
+85923,Reconfigure Multitool,Consumable,0,Basic,0
+85925,Chest of Raider's Headgear,Container,0,Ascended,320
+85926,Marshal's Stellar Spire,Weapon,80,Ascended,0
+85928,Powderkeg Shrapnel,Consumable,0,Basic,0
+85929,Recipe: Astral Spire,Consumable,0,Exotic,10
+85930,Recipe: Stellar Revolver,Consumable,0,Exotic,10
+85931,Malicious Impaler,Weapon,80,Ascended,10000
+85932,Healer's Short Bow,Weapon,80,Ascended,10000
+85934,Mini Tar Elemental,MiniPet,0,Rare,50
+85935,Assaulter's Touch of Dhuum,Weapon,80,Ascended,10000
+85936,Recipe: Stellar Longbow,Consumable,0,Exotic,10
+85937,Meditation Log: Elon Riverlands,Trophy,0,Exotic,264
+85938,Malicious Tassets,Armor,80,Ascended,240
+85940,Malicious Musket,Weapon,80,Ascended,10000
+85941,Healer's Harpoon Gun,Weapon,80,Ascended,10000
+85943,Exalted Key,Consumable,0,Rare,0
+85944,Healer's Pauldrons,Armor,80,Ascended,240
+85945,Ghostly Infusion,UpgradeComponent,0,Exotic,32
+85946,Marshal's Stellar Cannon,Weapon,80,Ascended,0
+85947,Irradiated Vision Crystal,CraftingMaterial,0,Ascended,80
+85948,Makeshift Lever,Trophy,0,Basic,0
+85949,Assaulter's Warfists,Armor,80,Ascended,240
+85951,Malicious Visor,Armor,80,Ascended,240
+85952,Defender's Impaler,Weapon,80,Ascended,10000
+85953,Meditation Log: Domain of Vabbi,Trophy,0,Exotic,264
+85954,Healer's Trident,Weapon,80,Ascended,10000
+85955,Agony Impedance 2,Consumable,0,Exotic,0
+85956,Defender's Visor,Armor,80,Ascended,240
+85957,Healer's Tassets,Armor,80,Ascended,240
+85958,Endless Awakened Archer Tonic,Gizmo,0,Rare,0
+85959,Recipe: The True Name,Consumable,0,Exotic,128
+85960,Makeshift Lockpick,Trophy,0,Basic,0
+85961,Gift of the Oasis,Trophy,0,Legendary,640
+85962,Malicious Ender of All,Weapon,80,Ascended,10000
+85963,Healer's Helm of Dhuum,Armor,80,Ascended,240
+85964,Bundle of Kralkatite,Consumable,0,Exotic,128
+85965,Istan Griffon Master: Silver,Container,0,Masterwork,0
+85966,Healer's Impaler,Weapon,80,Ascended,10000
+85967,Barud's Blunderbuss,Weapon,80,Exotic,396
+85968,Recipe: Astral Khopesh,Consumable,0,Exotic,10
+85969,Assaulter's Wand,Weapon,80,Ascended,10000
+85970,Damaged Jokanur Diggings Shovel,Trophy,0,Basic,0
+85971,Spiteful +5 Agony Infusion,UpgradeComponent,0,Fine,8
+85972,Malicious Herald,Weapon,80,Ascended,10000
+85973,Blazing Kralkatite,Trophy,0,Rare,192
+85974,Polyluminescent Undulating Infusion (Black),UpgradeComponent,80,Exotic,10000
+85975,"The Great Joko, Hero of Tyria",Gizmo,0,Basic,0
+85976,Assaulter's Impaler,Weapon,80,Ascended,10000
+85980,Malicious Guise,Armor,80,Ascended,240
+85982,Healer's Wand,Weapon,80,Ascended,10000
+85984,Defender's Tassets,Armor,80,Ascended,240
+85985,Recipe: Astral Disk,Consumable,0,Exotic,10
+85986,Assaulter's Harpoon Gun,Weapon,80,Ascended,10000
+85987,Particle Collector (Filled),Trophy,0,Rare,192
+85988,Malicious Touch of Dhuum,Weapon,80,Ascended,10000
+85989,Celestial Infusion (Blue),UpgradeComponent,0,Exotic,32
+85990,Metal Shipment,Container,0,Basic,32
+85992,Healer's Claymore,Weapon,80,Ascended,10000
+85993,Desmina's Token,Gizmo,0,Basic,0
+85994,Handful of Fractal Relics,Consumable,0,Fine,25
+85996,Festive Confetti Infusion,UpgradeComponent,80,Exotic,10000
+85997,Statue of Joko the Powerful,Gizmo,0,Basic,0
+85998,Mini Dhuum,MiniPet,0,Exotic,50
+86000,Healer's Blade,Weapon,80,Ascended,10000
+86001,Recipe: Astral Short Bow,Consumable,0,Exotic,10
+86004,Malicious Pauldrons of Dhuum,Armor,80,Ascended,240
+86005,Healer's Musket,Weapon,80,Ascended,10000
+86007,Marshal's Stellar Beacon,Weapon,80,Ascended,0
+86008,Medium Corsair Turban,Armor,80,Exotic,25000
+86010,Gift of the Desolation,Trophy,0,Legendary,640
+86011,Malicious Leggings,Armor,80,Ascended,240
+86012,Marshal's Astral Spire,Weapon,80,Exotic,0
+86013,Healer's Masque,Armor,80,Ascended,240
+86014,Tar Flakes,Trophy,0,Basic,0
+86015,Branded Residue,Trophy,0,Rare,192
+86016,Corsair Maintenance Oil,Consumable,80,Masterwork,66
+86017,Malicious Greaves,Armor,80,Ascended,240
+86018,Gift of the Highlands,Trophy,0,Legendary,640
+86021,Assaulter's Flesh and Sinew,Weapon,80,Ascended,10000
+86022,Mesa Dye,Consumable,0,Rare,5
+86023,Istan Griffon Expert: Gold,Container,0,Rare,0
+86024,Assaulter's Striders,Armor,80,Ascended,240
+86026,Marshal's Stellar Disk,Weapon,80,Ascended,0
+86029,Defender's Warhammer,Weapon,80,Ascended,10000
+86031,Statue of Joko the Majestic,Gizmo,0,Basic,0
+86032,Defender's Harpoon Gun,Weapon,80,Ascended,10000
+86033,Fractal Empowerment 3,Consumable,0,Exotic,0
+86035,Malicious Mantle of Dhuum,Armor,80,Ascended,240
+86036,Gift of Desert Mastery,Trophy,0,Legendary,640
+86037,Assaulter's Slippers of Dhuum,Armor,80,Ascended,240
+86038,Malicious Helm of Dhuum,Armor,80,Ascended,240
+86041,Wise Words of Joko,Consumable,0,Fine,0
+86042,Healer's Visage,Armor,80,Ascended,240
+86044,Assaulter's Handguards of Dhuum,Armor,80,Ascended,240
+86045,Defender's Shoulderguard,Armor,80,Ascended,240
+86046,Ancient Weapons: Bronze,Container,0,Fine,0
+86049,Defender's Oblivion,Weapon,80,Ascended,10000
+86051,Karmic Retribution 4,Consumable,0,Exotic,0
+86052,Defender's Warfists,Armor,80,Ascended,240
+86053,Wood Shipment,Container,0,Basic,32
+86054,Highland Dye,Consumable,0,Rare,5
+86055,Queen Bee Infusion,UpgradeComponent,80,Exotic,10000
+86056,Defender's Brazier,Weapon,80,Ascended,10000
+86057,Chest of Dhuum's Gloves,Container,0,Ascended,320
+86059,Onyx Mirror,Trophy,0,Rare,192
+86060,Recipe: Stellar Short Bow,Consumable,0,Exotic,10
+86062,Gilded Strongbox,Container,0,Exotic,256
+86064,Mark of the Unnamed,Weapon,80,Exotic,264
+86066,Marshal's Astral Khopesh,Weapon,80,Exotic,0
+86068,Polyluminescent Undulating Infusion (Teal),UpgradeComponent,80,Exotic,10000
+86069,Kralkatite Ore,Consumable,0,Exotic,128
+86070,Mini Sayida,MiniPet,0,Rare,50
+86072,Recipe: Stellar Harbinger,Consumable,0,Exotic,10
+86073,Assaulter's Reaver,Weapon,80,Ascended,10000
+86074,Marshal's Stellar Short Bow,Weapon,80,Ascended,0
+86076,Mini Desmina,MiniPet,0,Exotic,50
+86077,Mist Attunement 2,Consumable,0,Exotic,0
+86078,Mirror Calibration Readings,Trophy,0,Rare,192
+86079,Assaulter's Tassets,Armor,80,Ascended,240
+86080,Defender's Herald,Weapon,80,Ascended,10000
+86083,Statue of Joko the Fearsome,Gizmo,0,Basic,0
+86084,Assaulter's Shoulderguard,Armor,80,Ascended,240
+86085,Marshal's Stellar Razor,Weapon,80,Ascended,0
+86087,Volatile Mining Pick,Gathering,60,Fine,50
+86089,Ruin Dye,Consumable,0,Rare,5
+86090,Healer's Wristguards,Armor,80,Ascended,240
+86091,Cracked Fang Necklace,Trophy,0,Basic,0
+86092,Marshal's Astral Harbinger,Weapon,80,Exotic,0
+86093,Funerary Incense,CraftingMaterial,0,Exotic,66
+86094,Gaeting Crystal,Consumable,0,Rare,92
+86095,Recipe: Astral Scepter,Consumable,0,Exotic,10
+86096,Dried Wheat,Consumable,0,Basic,0
+86097,Ars Goetia,Weapon,80,Ascended,330
+86098,The Binding of Ipos,Weapon,80,Legendary,100000
+86099,Zephyrite Lockpick,Consumable,0,Rare,0
+86100,Malicious Striders,Armor,80,Ascended,240
+86102,Malicious Artifact,Weapon,80,Ascended,10000
+86103,Healer's Reaver,Weapon,80,Ascended,10000
+86104,Hateful Sworl,Trinket,80,Ascended,0
+86105,Marshal's Astral Orrery,Weapon,80,Exotic,0
+86106,Gold Dhuum Trophy,Consumable,0,Basic,0
+86107,Recipe: Astral Orrery,Consumable,0,Exotic,10
+86108,Chest of Raider's Leggings,Container,0,Ascended,320
+86110,Defender's Breastplate,Armor,80,Ascended,240
 86112,Malicious Revolver,Weapon,80,Ascended,10000
 86113,Spiteful +9 Agony Infusion,UpgradeComponent,0,Rare,24
 86114,Karmic Retribution 2,Consumable,0,Exotic,0
@@ -54999,6 +56399,206 @@ id,name,type,level,rarity,vendor_value
 88168,Evon Gnashblade Campaign Poster,Trophy,0,Junk,5000
 88169,Labyrinthine Cliffs Griffon Master: Bronze,Container,0,Fine,0
 88170,Wind Aspect Eye,Consumable,0,Masterwork,0
+88171,Storm Dagger Skin,Consumable,0,Rare,0
+88172,Aspect-Blessed Glove Box,Container,0,Exotic,0
+88175,Grand Wind Catcher,Back,80,Exotic,264
+88176,Sun-Touched Zephyrite Gloves,Armor,80,Rare,179
+88177,Depleted Aspect Crystal,Trophy,0,Junk,15000
+88178,Favor of the Bazaar,Consumable,0,Rare,0
+88179,Divine Sovereign Warhammer,Weapon,80,Exotic,396
+88182,Pair of Queen Jennah's Shoes,Trophy,0,Junk,50000
+88183,Divine Sovereign Pillar,Weapon,80,Exotic,396
+88186,Phoenix Lantern,Consumable,0,Basic,0
+88187,Zephyrite Sword,Weapon,80,Exotic,264
+88188,Zephyrite Shield,Weapon,80,Exotic,264
+88189,Crystal Collection: Gold,Container,0,Rare,0
+88190,Lightning Aspect Eye,Consumable,0,Masterwork,0
+88191,Zephyr Lantern,Gizmo,0,Basic,0
+88193,Bundle of Loot,Consumable,0,Rare,0
+88196,Divine Sovereign Arquebus,Weapon,80,Exotic,396
+88197,Lightning-Touched Zephyrite Gloves,Armor,80,Rare,179
+88200,Desert Racer Mount Adoption License,Consumable,0,Rare,999
+88201,Sun-Touched Zephyrite Gloves,Armor,80,Rare,179
+88202,Wind-Blessed Zephyrite Gloves,Armor,80,Exotic,238
+88203,Crystal Collection: Bronze,Container,0,Fine,0
+88205,Labyrinthine Cliffs Griffon Expert: Bronze,Container,0,Fine,0
+88207,Lightning-Touched Zephyrite Gloves,Armor,80,Rare,179
+88208,Lightning-Blessed Zephyrite Gloves,Armor,80,Exotic,238
+88209,Grand Lightning Catcher,Back,80,Exotic,264
+88214,Watchknight Action Figure,Trophy,0,Junk,20000
+88215,Labyrinthine Cliffs Griffon Master: Silver,Container,0,Masterwork,0
+88216,Ornamental Kite,Gizmo,0,Masterwork,0
+88217,Zephyrite Dagger,Weapon,80,Exotic,264
+88218,Zephyrite Curio Box,Container,0,Rare,0
+88219,Sun-Blessed Zephyrite Gloves,Armor,80,Exotic,238
+88220,Divine Sovereign Firearm,Weapon,80,Exotic,264
+88221,Favor of the Pavilion,Consumable,0,Rare,0
+88222,Zephyr Window Pane,Consumable,0,Basic,0
+88223,Sun-Touched Zephyrite Gloves,Armor,80,Rare,179
+88225,Labyrinthine Cliffs Griffon Expert: Gold,Container,0,Rare,0
+88226,Dragon Horns,Consumable,0,Masterwork,0
+88227,Luminous Medium Helmet Skin,Consumable,0,Rare,0
+88228,Gold Lion Focus Skin,Consumable,0,Rare,0
+88229,Golden Feather Wings Glider Combo,Consumable,0,Masterwork,0
+88230,Onyx Lion Staff Skin,Consumable,0,Rare,0
+88231,Luminous Medium Jerkin Skin,Consumable,0,Rare,0
+88232,Black Wings Glider Combo,Consumable,0,Masterwork,0
+88233,Onyx Lion Short Bow Skin,Consumable,0,Rare,0
+88234,Awakened Dye Kit,Container,0,Masterwork,128
+88235,Devoted Anniversary Achievement Box,Container,0,Rare,192
+88236,Arid Dye,Consumable,0,Rare,5
+88237,Luminous Light Goggles Skin,Consumable,0,Rare,0
+88238,Luminous Light Armor Skin,Container,0,Rare,0
+88239,Luminous Heavy Pauldrons Skin,Consumable,0,Rare,0
+88240,Onyx Lion Scepter Skin,Consumable,0,Rare,0
+88241,Glyph of the Herbalist,UpgradeComponent,0,Rare,0
+88242,Gold Lion Dagger Skin,Consumable,0,Rare,0
+88243,Gold Lion Mace Skin,Consumable,0,Rare,0
+88244,Dragon's Eye Circlet,Consumable,0,Masterwork,0
+88245,Hawk Wings Glider Combo,Consumable,0,Masterwork,0
+88246,Largos Fin Backpack Glider Combo,Consumable,0,Masterwork,0
+88247,Luminous Heavy Warplate Skin,Consumable,0,Rare,0
+88248,A Soul Resewn,Trophy,0,Exotic,0
+88249,Scattered Self,Trophy,0,Exotic,0
+88250,Onyx and Gold Lion Weapon Choice,Container,0,Rare,0
+88251,Ectoplasm-Infused Vision Crystal,Trophy,0,Exotic,0
+88252,Blame Game,Trophy,0,Exotic,0
+88253,Superior Ingredients Pouch,Container,0,Exotic,52
+88254,Forged Backpack and Glider Combo,Consumable,0,Masterwork,0
+88255,Exceptional Ingredients Pouch,Container,0,Rare,39
+88256,Memory Lane,Trophy,0,Exotic,0
+88257,Onyx Lion Focus Skin,Consumable,0,Rare,0
+88258,Mordremoth Dye Kit,Container,0,Masterwork,0
+88259,Dynamics Exo-Suit Glider Backpack Combo,Consumable,0,Masterwork,0
+88260,Black Lion Weapons Voucher,Container,0,Rare,0
+88261,Luminous Heavy Warhelm Skin,Consumable,0,Rare,0
+88262,Luminous Light Vest Skin,Consumable,0,Rare,0
+88263,Gold Lion Staff Skin,Consumable,0,Rare,0
+88264,Gold Lion Sword Skin,Consumable,0,Rare,0
+88265,Onyx Lion Pistol Skin,Consumable,0,Rare,0
+88266,Onyx Lion Mace Skin,Consumable,0,Rare,0
+88267,Larger than Legend,Trophy,0,Exotic,0
+88268,Gold Lion Short Bow Skin,Consumable,0,Rare,0
+88269,Macaw Wings Glider Combo,Consumable,0,Masterwork,0
+88270,Gold Lion Axe Skin,Consumable,0,Rare,0
+88271,A Shade's Blindspot,Trophy,0,Exotic,0
+88272,Gold Lion Scepter Skin,Consumable,0,Rare,0
+88273,Herbalist's Logging Axe,Gathering,60,Fine,50
+88274,Imbued Oiled Orichalcum Sword Blade,Trophy,0,Exotic,0
+88275,Zhaitan Dye Kit,Container,0,Masterwork,128
+88276,Abyssal Forest Dye,Consumable,0,Rare,5
+88277,Luminous Heavy Gauntlets Skin,Consumable,0,Rare,0
+88278,Ectoplasm-Infused Vision Crystal Notes,Trophy,0,Basic,32
+88279,Luminous Medium Leggings Skin,Consumable,0,Rare,0
+88280,Mursaat Backpack Glider Combo,Consumable,0,Masterwork,0
+88281,Gold Lion Longbow Skin,Consumable,0,Rare,0
+88282,Common Ingredients Pouch,Container,0,Basic,7
+88283,Ectoplasm-Infused Vision Crystal,Trophy,0,Exotic,0
+88284,Imbued Oiled Orichalcum Torch Head,Trophy,0,Exotic,0
+88285,Warming Up,Trophy,0,Exotic,0
+88286,Advanced Ingredients Pouch,Container,0,Masterwork,26
+88287,Onyx Lion Axe Skin,Consumable,0,Rare,0
+88288,Gold Lion Warhorn Skin,Consumable,0,Rare,0
+88289,Auric Dye,Consumable,0,Rare,5
+88290,Super Holo-Copter Glider Combo,Consumable,0,Masterwork,0
+88291,Gold Lion Torch Skin,Consumable,0,Rare,0
+88292,Branded Wing Backpack and Glider Combo,Consumable,0,Masterwork,0
+88293,Jormag Dye Kit,Container,0,Masterwork,128
+88294,Uncommon Ingredients Pouch,Container,0,Fine,13
+88295,Luminous Light Gloves Skin,Consumable,0,Rare,0
+88296,Eclipse,Weapon,80,Exotic,0
+88297,Low Spirit,Trophy,0,Exotic,0
+88298,Glyph of the Herbalist (Unused),Container,0,Rare,0
+88299,Moth Wings Glider Combo,Consumable,0,Masterwork,0
+88300,A Balanced View,Trophy,0,Exotic,0
+88301,White Wings Glider Combo,Consumable,0,Masterwork,0
+88302,Luminous Light Shoes Skin,Consumable,0,Rare,0
+88303,Onyx Lion Torch Skin,Consumable,0,Rare,0
+88305,Black Lion Outfit Voucher,Container,0,Rare,0
+88306,Onyx Lion Shield Skin,Consumable,0,Rare,0
+88307,Triumphant Dye Kit,Container,0,Rare,192
+88308,Black Lion Glider Voucher,Container,0,Rare,0
+88309,Ectoplasm-Infused Vision Crystal,Trophy,0,Exotic,0
+88310,Luminous Medium Armor Skin,Container,0,Rare,0
+88311,Onyx Lion Hammer Skin,Consumable,0,Rare,0
+88312,Anniversary Armor Pack,Container,0,Rare,192
+88313,Transformations,Trophy,0,Exotic,0
+88314,Gold Lion Rifle Skin,Consumable,0,Rare,0
+88315,Favor of the Colossus,Weapon,80,Exotic,0
+88316,Onyx Lion Greatsword Skin,Consumable,0,Rare,0
+88317,Bat Wings Glider Combo,Consumable,0,Masterwork,0
+88318,Gold Lion Pistol Skin,Consumable,0,Rare,0
+88319,Gold Lion Greatsword Skin,Consumable,0,Rare,0
+88320,Mini Baby Mount Container,Container,0,Masterwork,0
+88321,Timekeeper Outfit,Consumable,0,Rare,0
+88322,Regalia Medium Shoulderpads Skin,Consumable,0,Rare,0
+88323,Luminous Light Mantle Skin,Consumable,0,Rare,0
+88324,Imbued Oiled Orichalcum Greatsword Blade,Trophy,0,Exotic,0
+88325,Onyx Lion Sword Skin,Consumable,0,Rare,0
+88326,Shining Blade Backpack Glider Combo,Consumable,0,Masterwork,0
+88327,Herbalist's Harvesting Sickle,Gathering,60,Fine,50
+88328,Onyx Lion Warhorn Skin,Consumable,0,Rare,0
+88329,Updraft of a Dream,Trophy,0,Exotic,0
+88330,Ectoplasm-Infused Vision Crystal,Consumable,0,Exotic,0
+88331,Bloom Dye,Consumable,0,Rare,5
+88332,Duty's Shards,Trophy,0,Exotic,0
+88333,Enchanted Dragon Crown,Consumable,0,Masterwork,0
+88334,Crystalline Dragon Wings Backpack Glider Combo,Consumable,0,Masterwork,0
+88335,Luminous Medium Armguards Skin,Consumable,0,Rare,0
+88336,Exquisite Ingredients Pouch,Container,0,Exotic,52
+88337,Herbalist's Mining Pick,Gathering,60,Fine,50
+88338,Vine-Touched Destroyer Glider Combo,Consumable,0,Masterwork,0
+88339,Black Lion Backpack and Glider Voucher,Container,0,Rare,0
+88340,Timekeeper Glider,Consumable,0,Masterwork,0
+88341,Scion's Claw,Weapon,80,Exotic,0
+88342,Onyx Lion Rifle Skin,Consumable,0,Rare,0
+88343,Jungle Dye,Consumable,0,Rare,5
+88344,Luminous Heavy Warboots Skin,Consumable,0,Rare,0
+88346,Nightmare Dye,Consumable,0,Rare,5
+88347,Luminous Light Pants Skin,Consumable,0,Rare,0
+88348,Luminous Heavy Armor Skin,Container,0,Rare,0
+88349,Luminous Heavy Legplates Skin,Consumable,0,Rare,0
+88350,Gold Lion Hammer Skin,Consumable,0,Rare,0
+88352,Gold Lion Shield Skin,Consumable,0,Rare,0
+88353,Luminous Medium Boots Skin,Consumable,0,Rare,0
+88354,A Breath of Life,Trophy,0,Exotic,0
+88355,Choya Mining Tool,Gathering,0,Rare,192
+88356,Elonian Beasts Dye Kit,Container,0,Masterwork,128
+88357,Ghost Growth,Trophy,0,Exotic,0
+88358,Onyx Lion Dagger Skin,Consumable,0,Rare,0
+88359,Start to Stop,Trophy,0,Exotic,0
+88360,Elonian Landscape Dye Kit,Container,0,Masterwork,128
+88361,Onyx Lion Longbow Skin,Consumable,0,Rare,0
+88362,Recipe: Thackeray's Cloth Breather,Consumable,0,Ascended,160
+88364,Springer Kit Backpack,Consumable,0,Masterwork,0
+88367,Mini Brown Springer Kit,Container,0,Rare,0
+88368,Mini Black Springer Kit,MiniPet,0,Rare,50
+88369,Recipe: Laranthir's Leather Breather,Consumable,0,Ascended,160
+88370,Svaard's Leather Breather,Armor,80,Ascended,240
+88371,Tizlak's Cloth Breather,Armor,80,Ascended,240
+88372,Obsidian Short Bow,Weapon,80,Exotic,0
+88373,Ossa's Cloth Breather,Armor,80,Ascended,240
+88374,Mini Brown Springer Kit,MiniPet,0,Rare,50
+88375,Recipe: Maklain's Cloth Breather,Consumable,0,Ascended,160
+88376,Yassith's Metal Breather,Armor,80,Ascended,240
+88377,Recipe: Thackeray's Leather Breather,Consumable,0,Ascended,160
+88378,Mini Green Springer Kit,MiniPet,0,Rare,50
+88379,Recipe: Yassith's Leather Breather,Consumable,0,Ascended,160
+88380,Pahua's Metal Breather,Armor,80,Ascended,240
+88381,Mini Thunder Springer Kit,MiniPet,0,Rare,50
+88382,Equinox Hammer Skin,Consumable,0,Rare,0
+88383,Recipe: Tizlak's Cloth Breather,Consumable,0,Ascended,160
+88384,Obsidian Warhorn,Weapon,80,Exotic,0
+88385,Unbreakable Choir Bell,Gizmo,0,Exotic,0
+88386,Mistforged Obsidian Rifle,Weapon,80,Ascended,0
+88387,Equinox Scepter Skin,Consumable,0,Rare,0
+88389,Mini Exo-Suit Griffon,Consumable,0,Masterwork,50
+88390,Recipe: Laranthir's Cloth Breather,Consumable,0,Ascended,160
+88391,Mini Pink Springer Kit,MiniPet,0,Rare,50
+88392,Svaard's Cloth Breather,Armor,80,Ascended,240
+88393,Recipe: Yassith's Metal Breather,Consumable,0,Ascended,160
+88394,World Boss Portal Device,Gizmo,0,Rare,192
+88395,Recipe: Yassith's Cloth Breather,Consumable,0,Ascended,160
 88397,Equinox Short Bow Skin,Consumable,0,Rare,0
 88398,Recipe: Ruka's Metal Breather,Consumable,0,Ascended,160
 88399,Mini Red Springer Kit,MiniPet,0,Rare,50
@@ -59022,6 +60622,7 @@ id,name,type,level,rarity,vendor_value
 93931,Sun-Blessed Vision,Container,0,Exotic,0
 93932,Mystic Lotus Chair,Gizmo,0,Rare,0
 93933,Title: God of WvW,Consumable,0,Legendary,0
+93934,Sun-Blessed Zephyrite Short Bow,Weapon,80,Exotic,396
 93935,Sun-Blessed Zephyrite Pistol,Weapon,80,Exotic,264
 93936,Sun-Blessed Vision,Armor,80,Exotic,330
 93937,Dedicated Anniversary Achievement Box,Container,0,Rare,192
@@ -59046,7 +60647,9 @@ id,name,type,level,rarity,vendor_value
 93957,Shiverpeaks Hunter Backpack Glider Combo,Consumable,0,Masterwork,0
 93958,Festival Token,Consumable,0,Basic,0
 93959,Citadel Assault Backpack and Glider Combo,Consumable,0,Masterwork,0
+93960,Sun-Blessed Zephyrite Torch,Weapon,80,Exotic,264
 93961,Norn Dye Kit,Container,0,Masterwork,128
+93962,Sun-Blessed Zephyrite Warhorn,Weapon,80,Exotic,264
 93963,Sun-Blessed Vision,Armor,80,Exotic,330
 93964,Sun-Blessed Vision,Armor,80,Exotic,330
 93965,Alchemist Backpack and Glider Combo,Consumable,0,Masterwork,0
@@ -64085,6 +65688,7 @@ id,name,type,level,rarity,vendor_value
 100904,Obscure Fish,Container,0,Ascended,320
 100909,Jade-Spun Silk Thread,Consumable,0,Exotic,5000
 100910,Mini Avatar of Despair,MiniPet,0,Masterwork,50
+100913,Possession Infusion,UpgradeComponent,80,Exotic,10000
 100914,Possession Infusion,UpgradeComponent,80,Exotic,10000
 100915,Shaman's Stormforged Mace,Weapon,80,Exotic,264
 100916,Relic of the Thief,Relic,60,Exotic,200
@@ -64968,29 +66572,42 @@ id,name,type,level,rarity,vendor_value
 102094,Infusible Aquabreather Box,Container,0,Exotic,0
 102095,Beach Bracelet Skin,Consumable,0,Masterwork,0
 102097,Disguised Fan Shield Skin,Consumable,0,Rare,0
+102098,Sandswept Sword,Weapon,80,Exotic,264
 102099,Corrupted Hero Torch,Weapon,80,Exotic,264
 102100,Magical Cape,Consumable,0,Masterwork,6250
 102101,Corrupted Hero Scepter,Weapon,80,Exotic,264
+102102,Sandswept Greatsword,Weapon,80,Exotic,396
 102103,Corrupted Hero Scepter,Weapon,80,Ascended,330
 102104,Corrupted Hero Mace,Weapon,80,Ascended,330
+102105,Wanderer's Beach Trunks,Armor,80,Exotic,370
 102107,Corrupted Hero Rifle,Weapon,80,Exotic,396
 102108,Thunderous Greatsword,Weapon,80,Exotic,396
 102109,Skimmer Rental Post,Consumable,0,Basic,0
+102110,Sandswept Scepter,Weapon,80,Exotic,264
 102111,Corrupted Hero Mace,Weapon,80,Exotic,264
 102112,Corrupted Hero Hammer,Weapon,80,Ascended,495
 102113,Drop of Instant World Experience,Consumable,0,Masterwork,0
+102114,Sandswept Warhorn,Weapon,80,Exotic,264
+102115,Sandswept Shield,Weapon,80,Exotic,264
+102116,Sandswept Torch,Weapon,80,Exotic,264
 102117,Thunderous Longbow,Weapon,80,Exotic,396
+102118,Wanderer's Beach Trunks,Armor,80,Exotic,370
+102119,Sandswept Hammer,Weapon,80,Exotic,396
+102120,Sandswept Staff,Weapon,80,Exotic,396
 102121,Silver Proof of Glory,Consumable,0,Basic,0
 102122,Thunderous Warhorn,Weapon,80,Exotic,264
 102123,Corrupted Hero Warhorn,Weapon,80,Ascended,330
 102124,Gold PvP Tournament Currency Reward Box,Container,0,Basic,0
 102125,Corrupted Hero Short Bow,Weapon,80,Ascended,495
 102126,Lightning Wings Backpack and Glider Combo,Consumable,0,Masterwork,0
+102127,Sandswept Focus,Weapon,80,Exotic,264
 102128,Krytan Garden Column,Consumable,0,Basic,0
+102129,Mini Sea Turtle,MiniPet,0,Exotic,50
 102130,Bronze PvP Tournament Currency Reward Box,Container,0,Basic,0
 102131,Corrupted Hero Longbow,Weapon,80,Ascended,495
 102132,Divine Radiance Sword Skin,Consumable,0,Rare,0
 102133,Corrupted Hero Hammer,Weapon,80,Exotic,396
+102134,Sandswept Dagger,Weapon,80,Exotic,264
 102135,Mist-Infused Master Tuning Crystal,Consumable,80,Fine,33
 102136,Corrupted Hero Shield,Weapon,80,Ascended,330
 102137,Corrupted Hero Sword,Weapon,80,Ascended,330
@@ -64998,10 +66615,14 @@ id,name,type,level,rarity,vendor_value
 102139,Corrupted Hero Greatsword,Weapon,80,Exotic,396
 102140,Gold Proof of Glory,Consumable,0,Basic,0
 102141,Corrupted Hero Focus,Weapon,80,Ascended,330
+102142,Sandswept Chest,Container,0,Exotic,256
+102143,Wanderer's Beach Trunks,Armor,80,Exotic,370
 102144,Corrupted Hero Spear,Weapon,80,Exotic,396
+102145,Sandswept Short Bow,Weapon,80,Exotic,396
 102146,Corrupted Hero Rifle,Weapon,80,Ascended,495
 102147,Corrupted Hero Axe,Weapon,80,Exotic,264
 102148,Corrupted Hero Torch,Weapon,80,Ascended,330
+102149,Sandswept Longbow,Weapon,80,Exotic,396
 102150,Shattered Stone Backpack and Glider Combo,Consumable,0,Masterwork,0
 102151,Corrupted Hero Longbow,Weapon,80,Exotic,396
 102152,Infernal Envoy Backpack and Glider Combo,Consumable,0,Masterwork,0
@@ -65010,6 +66631,7 @@ id,name,type,level,rarity,vendor_value
 102155,Corrupted Hero Short Bow,Weapon,80,Exotic,396
 102156,Corrupted Hero Focus,Weapon,80,Exotic,264
 102157,Giant Folding Fan Backpack and Glider Combo,Consumable,0,Masterwork,0
+102158,Sandswept Axe,Weapon,80,Exotic,264
 102159,Corrupted Hero Dagger,Weapon,80,Exotic,264
 102160,Silver PvP Tournament Currency Reward Box,Container,0,Basic,0
 102161,Ocean's Heart Fishing Rod Skin,Consumable,0,Rare,0
@@ -65017,16 +66639,23 @@ id,name,type,level,rarity,vendor_value
 102163,Corrupted Hero Dagger,Weapon,80,Ascended,330
 102164,Mist-Infused Jade Catalyst,Trophy,0,Ascended,0
 102166,Corrupted Hero Warhorn,Weapon,80,Exotic,264
+102167,Sandswept Mace,Weapon,80,Exotic,264
+102168,Sandswept Rifle,Weapon,80,Exotic,396
 102169,Corrupted Hero Staff,Weapon,80,Ascended,495
 102170,Bazaar-Traded Weapon Chest,Container,0,Exotic,0
 102171,Corrupted Hero Pistol,Weapon,80,Ascended,330
+102172,"""/PetalThrow"" Emote Tome",Consumable,0,Exotic,0
 102173,Canthan Phoenix Backpack and Glider Combo,Consumable,0,Masterwork,0
+102174,Beach Trunks,Container,0,Exotic,0
+102175,Trader's Sun-Grown Chest,Container,0,Exotic,256
 102176,Corrupted Hero Greatsword,Weapon,80,Ascended,495
 102177,Corrupted Hero Sword,Weapon,80,Exotic,264
 102178,Corrupted Hero Spear,Weapon,80,Ascended,495
+102179,Sandswept Spear,Weapon,80,Exotic,396
 102180,Phialslinger Manticore Skyscale Skin,Consumable,0,Rare,0
 102181,Bronze Proof of Glory,Consumable,0,Basic,0
 102182,Elonian Bazaar Shade,Consumable,0,Basic,0
+102183,Sandswept Pistol,Weapon,80,Exotic,264
 102184,Corrupted Hero Pistol,Weapon,80,Exotic,264
 102185,Corrupted Hero Weapon Locker,Container,0,Exotic,0
 102186,Beach House Spiral Stairs,Consumable,0,Basic,0
