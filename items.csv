@@ -36408,6 +36408,7 @@ id,name,type,level,rarity,vendor_value
 52151,Apostate's Glaukon's Greeting,Weapon,68,Exotic,236
 52155,Apostate's Radiance,Weapon,68,Exotic,354
 52156,Apostate's Distemper,Weapon,68,Exotic,236
+52157,Apostate's Titan's Brand,Weapon,68,Exotic,236
 52158,Apostate's Bellower,Weapon,68,Exotic,236
 52162,Apostate's Little Smirk,Weapon,71,Exotic,366
 52163,Apostate's Razor Shard,Weapon,71,Exotic,244
@@ -39255,6 +39256,7 @@ id,name,type,level,rarity,vendor_value
 61096,Chiminea Ward,Container,0,Exotic,0
 61097,Radiance,Container,0,Exotic,0
 61098,Distemper,Container,0,Exotic,0
+61099,Titan's Brand,Container,0,Exotic,0
 61100,Bellower,Container,0,Exotic,0
 61101,Cauterizer,Container,0,Exotic,0
 61102,Big Grin,Container,0,Exotic,0
