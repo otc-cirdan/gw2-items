@@ -36384,6 +36384,7 @@ id,name,type,level,rarity,vendor_value
 52096,Apostate's Cauterizer,Weapon,59,Exotic,212
 52098,Apostate's Little Smirk,Weapon,59,Exotic,318
 52099,Apostate's Razor Shard,Weapon,59,Exotic,212
+52104,Apostate's Glaukon's Greeting,Weapon,59,Exotic,212
 52106,Apostate's Smodur's Charge,Weapon,59,Exotic,212
 52107,Apostate's Chiminea Ward,Weapon,59,Exotic,212
 52108,Apostate's Radiance,Weapon,59,Exotic,318
@@ -66743,6 +66744,7 @@ id,name,type,level,rarity,vendor_value
 102323,Recipe: Bronze White Mantle Abomination Trophy,Consumable,0,Basic,50
 102327,Glyph of Volatility,Consumable,0,Basic,0
 102333,Recipe: Bronze Ether Djinn Trophy,Consumable,0,Basic,50
+102334,Janthiri Renown Chest,Gizmo,0,Exotic,0
 102336,Onyx Spider's Scepter Skin,Consumable,0,Rare,0
 102340,Titanplate Medium Gloves,Armor,80,Exotic,238
 102346,Precious Lowland Shore Gear Box,Container,0,Exotic,116
@@ -67016,6 +67018,7 @@ id,name,type,level,rarity,vendor_value
 103117,Janthir Fishing Reward,Container,0,Legendary,640
 103121,Recipe: Bronze Dhuum Trophy,Consumable,0,Basic,50
 103126,Onyx Spider's Focus Skin,Consumable,0,Rare,0
+103130,Mini Ruinshard Mauler,MiniPet,0,Masterwork,50
 103133,Recipe: Titanplate Medium Boots,Consumable,0,Exotic,6000
 103137,Raptor Treat,Consumable,0,Rare,0
 103141,Janthir Wilds Mursaat Loot Box,Container,0,Basic,0
@@ -67068,6 +67071,7 @@ id,name,type,level,rarity,vendor_value
 103351,Mursaat Runestone,Trophy,0,Legendary,640
 103354,Glyph of the Scavenger,Consumable,0,Basic,0
 103359,Recipe: Bronze Cardinal Adina Trophy,Consumable,0,Basic,50
+103361,Mini Lucid Boulder,MiniPet,0,Masterwork,50
 103364,Homestead Recipe Book: Basic Decorations,Consumable,0,Exotic,0
 103365,Woad Medium Shoulders,Armor,80,Exotic,291
 103366,Glyph of Volatility,Consumable,0,Basic,0
