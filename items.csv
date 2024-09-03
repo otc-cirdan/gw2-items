@@ -67024,6 +67024,7 @@ id,name,type,level,rarity,vendor_value
 103141,Janthir Wilds Mursaat Loot Box,Container,0,Basic,0
 103144,Recipe: Titanplate Light Pants,Consumable,0,Exotic,6000
 103146,Homestead Upgrade: Ore Trade Capacity,Consumable,0,Masterwork,0
+103150,Void Corrupted Weapon Choice,Container,0,Rare,0
 103167,Titanplate Medium Shoulders,Armor,80,Exotic,291
 103182,Janthir Wilds Elemental Loot Box,Container,0,Basic,0
 103184,Janthir Wilds Expedition Contract,Consumable,15,Rare,0
@@ -67111,6 +67112,7 @@ id,name,type,level,rarity,vendor_value
 103460,Pale Branch Spear,Weapon,80,Exotic,396
 103462,Homestead Upgrade: Wood Trade Efficiency,Consumable,0,Rare,0
 103463,Polychromatic Medium Jacket,Armor,80,Exotic,396
+103465,Janthir Wilds Launch Supply Drop: Week Three,Container,0,Rare,0
 103466,Void Corrupted Short Bow Skin,Consumable,0,Rare,0
 103470,Void Corrupted Shield Skin,Consumable,0,Rare,0
 103471,Magi's Ursan Ornamented Staff,Weapon,80,Rare,297
