@@ -51795,7 +51795,7 @@ id,name,type,level,rarity,vendor_value
 81587,Mini Gold Llama,MiniPet,0,Exotic,0
 81589,Black Lion Arsenal—Dagger,Container,0,Basic,0
 81590,Frozen Scales Dye,Consumable,0,Rare,5
-81594,Black Lion Hunters Contract,Consumable,15,Rare,0
+81594,Black Lion Hunters Contract,Consumable,0,Rare,0
 81595,Black Lion Delivery Box,Container,0,Rare,0
 81596,Black Lion Delivery Box,Container,0,Rare,0
 81597,Black Lion Delivery Box,Container,0,Rare,0
@@ -55441,7 +55441,7 @@ id,name,type,level,rarity,vendor_value
 86854,Artichoke Seed Pouch,Consumable,0,Basic,0
 86855,Guaranteed Red-Brown Dye Unlock,Consumable,5,Rare,125
 86856,Mini Green Jackal Pup,MiniPet,0,Rare,50
-86857,5 Pristine Fractal Relics,Consumable,0,Rare,92
+86857,Bundle of Pristine Fractal Relics,Consumable,0,Rare,92
 86858,Recipe: Guaranteed Red-Brown Dye Unlock,Consumable,0,Masterwork,22
 86859,300 Deadly Blooms,Consumable,0,Rare,92
 86861,Garlic Seed Pouch,Consumable,0,Basic,0
@@ -57019,7 +57019,7 @@ id,name,type,level,rarity,vendor_value
 88975,Alembic Apparatus,Gizmo,0,Exotic,264
 88977,Input Mist-Entangled Item,Consumable,0,Exotic,132
 88978,Qadim's Cache,Container,0,Ascended,320
-88979,Season 3 Expedition Contract,Consumable,15,Rare,0
+88979,Season 3 Expedition Contract,Consumable,0,Rare,0
 88980,Black Lion Delivery Box,Container,0,Rare,0
 88981,Black Lion Delivery Box,Container,0,Rare,0
 88982,[[913817]],Consumable,0,Basic,0
@@ -58393,7 +58393,7 @@ id,name,type,level,rarity,vendor_value
 91057,Assaulter's Mist-Touched Breastplate,Armor,80,Ascended,240
 91058,Malicious Mist-Touched Visor,Armor,80,Ascended,240
 91059,Defender's Mist-Touched Breastplate,Armor,80,Ascended,240
-91060,Season 4 Expedition Contract,Consumable,15,Rare,0
+91060,Season 4 Expedition Contract,Consumable,0,Rare,0
 91061,Healer's Mist-Touched Greaves,Armor,80,Ascended,240
 91062,Malicious Mist-Touched Breeches,Armor,80,Ascended,240
 91064,Vision of Dragons: Aurene,Trophy,0,Exotic,1000
@@ -59492,7 +59492,7 @@ id,name,type,level,rarity,vendor_value
 92422,Plate of Beef Carpaccio with Mint Garnish,Gizmo,0,Basic,0
 92424,Spherified Peppercorn-Spiced Oyster Soup,Gizmo,0,Basic,0
 92425,Plate of Sesame Poultry Aspic,Gizmo,0,Basic,0
-92427,Black Lion Industry Contract,Consumable,15,Rare,0
+92427,Black Lion Industry Contract,Consumable,0,Rare,0
 92428,Clove-Spiced Eggs Benedict,Gizmo,0,Basic,0
 92431,Sesame-Asparagus and Cured Meat Flatbread,Gizmo,0,Basic,0
 92432,Sesame Creme Brulee,Gizmo,0,Basic,0
@@ -63032,7 +63032,7 @@ id,name,type,level,rarity,vendor_value
 96947,Scouting Report,Trophy,0,Basic,2
 96948,Recipe: Shadow Serpent Longbow,Consumable,0,Exotic,128
 96951,Poem on Foci,Trophy,0,Legendary,640
-96952,End of Dragons Expedition Contract,Consumable,15,Rare,0
+96952,End of Dragons Expedition Contract,Consumable,0,Rare,0
 96953,Deluxe Gear Box,Container,0,Exotic,256
 96954,Snowflake Eel,Container,0,Ascended,320
 96955,Saltspray Greatsword,Weapon,80,Exotic,396
@@ -65177,6 +65177,7 @@ id,name,type,level,rarity,vendor_value
 100058,Astral Ward Pillar,Consumable,0,Basic,0
 100060,Fine Rift Motivation,Gizmo,0,Fine,0
 100064,Flight Training Mastery,Consumable,0,Exotic,0
+100065,Possession Infusion,UpgradeComponent,80,Exotic,10000
 100068,Dagda's Coffer,Container,0,Exotic,0
 100069,Deldrimor Rivets,Consumable,0,Exotic,5000
 100070,Gluttony's Platter,Weapon,80,Ascended,330
@@ -66726,7 +66727,7 @@ id,name,type,level,rarity,vendor_value
 102255,Rotted Titan Amber,CraftingMaterial,0,Basic,8
 102256,Endless Janthiri Floppy Fish Tonic,Gizmo,0,Exotic,104
 102259,Glyph of the Watchknight,Consumable,0,Basic,0
-102265,Janthir Wilds: Hero's Choice Chest,Container,0,Exotic,0
+102265,Janthir Syntri: Hero's Choice Chest,Container,0,Exotic,0
 102269,Onyx Spider's Selection Box,Container,0,Rare,0
 102273,Lowland Shore Adventure: Silver,Container,0,Masterwork,0
 102276,Magi's Full Moon Greatsword,Weapon,80,Rare,297
@@ -66884,7 +66885,7 @@ id,name,type,level,rarity,vendor_value
 102721,Magi's Ursan Ornamented Axe,Weapon,80,Rare,198
 102722,Polychromatic Light Gloves,Armor,80,Exotic,238
 102725,Glyph of the Unbound,Consumable,0,Basic,0
-102726,Mini Fuzzy Bee,MiniPet,0,Masterwork,50
+102726,Mini Janthiri Bee,MiniPet,0,Masterwork,50
 102728,Homestead Upgrade: Fiber Trade Efficiency,Consumable,0,Rare,0
 102736,Homestead Recipe Book: Lights,Consumable,0,Exotic,0
 102741,Recipe: Bronze Statue of Grenth Trophy,Consumable,0,Basic,50
@@ -66971,7 +66972,7 @@ id,name,type,level,rarity,vendor_value
 102967,Woad Medium Boots,Armor,80,Exotic,264
 102969,Tiny Wings,Trophy,0,Basic,0
 102972,Glyph of Alchemy,Consumable,0,Basic,0
-102973,Stash of Ursus Obliges,Consumable,0,Rare,0
+102973,Stash of Carved Lowland Pine Coins,Consumable,0,Rare,0
 102974,"Homestead Recipe Book: Plants, Volume 1",Consumable,0,Exotic,0
 102986,Recipe: Bronze Twin Largos Trophy,Consumable,0,Basic,50
 102989,Homestead Upgrade: Fiber Trade Capacity,Consumable,0,Exotic,0
@@ -67029,10 +67030,10 @@ id,name,type,level,rarity,vendor_value
 103150,Void Corrupted Weapon Choice,Container,0,Rare,0
 103167,Titanplate Medium Shoulders,Armor,80,Exotic,291
 103182,Janthir Wilds Elemental Loot Box,Container,0,Basic,0
-103184,Janthir Wilds Expedition Contract,Consumable,15,Rare,0
+103184,Janthir Wilds Expedition Contract,Consumable,0,Rare,0
 103188,Glyph of the Prospector,Consumable,0,Basic,0
 103189,Woad Shoulders Box,Container,0,Exotic,0
-103193,Large Stash of Ursus Obliges,Consumable,0,Rare,0
+103193,Large Stash of Carved Lowland Pine Coins,Consumable,0,Rare,0
 103195,Recipe: Titanplate Heavy Greaves,Consumable,0,Exotic,6000
 103196,Local Writ of Renown,Consumable,0,Rare,0
 103208,Homestead Recipe Book: Pillars,Consumable,0,Exotic,0
@@ -67105,7 +67106,7 @@ id,name,type,level,rarity,vendor_value
 103428,Magi's Ursan Ornamented Focus,Weapon,80,Rare,198
 103432,Homestead Upgrade: Fiber Trade Capacity,Consumable,0,Masterwork,0
 103436,Onyx Spider's Hammer Skin,Consumable,0,Rare,0
-103437,Falling Star Quest License,Container,0,Legendary,640
+103437,Falling Star Quest License,Container,0,Ascended,320
 103441,Edible Mushroom,Trophy,0,Basic,0
 103444,Warclaw-Fur Liner,Consumable,0,Ascended,160
 103447,Homestead Upgrade: Fiber Trade Capacity,Consumable,0,Rare,0
@@ -67151,3 +67152,15 @@ id,name,type,level,rarity,vendor_value
 103578,Standing Stones Timepiece,Back,80,Exotic,264
 103588,Void Corrupted Rifle Skin,Consumable,0,Rare,0
 103591,Bag of Loot,Container,0,Fine,66
+103594,Black Lion Plush Bear Head Pal Recipe,Consumable,0,Basic,0
+103596,Set of Wayfinder's Versatile Table Recipe,Consumable,0,Exotic,0
+103597,Luminous Partisan,Consumable,0,Exotic,0
+103602,Black Lion Plush Choya Pal Recipe,Consumable,0,Basic,0
+103603,Tofu Container,Container,0,Basic,0
+103608,Dragon Decade Spear Skin,Consumable,0,Exotic,0
+103610,Desert-Spiced Coffee Container,Container,0,Basic,0
+103612,Flax Fiber Container,Container,0,Basic,0
+103613,Title: Push Beta Tester,Consumable,0,Legendary,0
+103615,Black Lion Plush Bird Pal Recipe,Consumable,0,Basic,0
+103616,Acclaimed Militia Chestpiece Skin,Consumable,0,Masterwork,0
+103619,Black Lion Plush Quaggan Pal Recipe,Consumable,0,Basic,0
