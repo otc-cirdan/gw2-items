@@ -67157,6 +67157,7 @@ id,name,type,level,rarity,vendor_value
 103596,Set of Wayfinder's Versatile Table Recipe,Consumable,0,Exotic,0
 103597,Luminous Partisan,Consumable,0,Exotic,0
 103598,Weekly PvP Tournament Reward Box,Container,0,Basic,0
+103599,Holy Barrage Mining Tool,Gathering,0,Rare,192
 103601,The Spearmarshal's Gift,Container,0,Exotic,0
 103602,Black Lion Plush Choya Pal Recipe,Consumable,0,Basic,0
 103603,Tofu Container,Container,0,Basic,0
@@ -67166,8 +67167,10 @@ id,name,type,level,rarity,vendor_value
 103608,Dragon Decade Spear Skin,Consumable,0,Exotic,0
 103609,Panda Warclaw Skin,Consumable,0,Rare,0
 103610,Desert-Spiced Coffee Container,Container,0,Basic,0
+103611,Holy Barrage Harvesting Tool,Gathering,0,Rare,192
 103612,Flax Fiber Container,Container,0,Basic,0
 103613,Title: Push Beta Tester,Consumable,0,Legendary,0
+103614,Holy Barrage Logging Tool,Gathering,0,Rare,192
 103615,Black Lion Plush Bird Pal Recipe,Consumable,0,Basic,0
 103616,Acclaimed Militia Chestpiece Skin,Consumable,0,Masterwork,0
 103617,Title: Object in Motion,Consumable,0,Legendary,0
