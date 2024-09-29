@@ -5576,6 +5576,7 @@ id,name,type,level,rarity,vendor_value
 6385,Trooper's Shoulderguards,Armor,74,Fine,68
 6386,Slayer's Gauntlets,Armor,70,Fine,54
 6388,Stalwart's Gauntlets,Armor,70,Fine,54
+6390,Inquisitor's Gloves,Armor,70,Fine,54
 6397,Stalwart's Greaves,Armor,71,Fine,59
 6398,Slayers Shoes,Armor,71,Fine,59
 6399,Inquisitor's Shoes,Armor,71,Fine,59
@@ -24496,6 +24497,7 @@ id,name,type,level,rarity,vendor_value
 33399,Ceremonial Rifle of Vision,Weapon,70,Exotic,354
 33400,Ceremonial Rifle of Accuracy,Weapon,78,Exotic,384
 33405,Ceremonial Scepter of Rage,Weapon,80,Exotic,264
+33409,Ceremonial Bulwark of Rage,Weapon,80,Exotic,264
 33410,Ceremonial Short Bow of Blood,Weapon,62,Exotic,318
 33417,Ceremonial Speargun of Rage,Weapon,80,Exotic,396
 33421,Ceremonial Stave of Rage,Weapon,80,Exotic,396
