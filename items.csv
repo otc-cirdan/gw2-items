@@ -67461,6 +67461,7 @@ id,name,type,level,rarity,vendor_value
 103844,Sea-Glass Wave Focus,Weapon,80,Ascended,330
 103845,Flame Ram Mechanism,Consumable,0,Basic,0
 103846,Discounted Shard of Janthir Syntri,Container,0,Legendary,640
+103848,Magnificent Convergence Extraction,Container,0,Exotic,256
 103851,Pile of Recycled Arrow Carts,Consumable,0,Basic,0
 103852,Recipe: Decima's Token,Consumable,0,Basic,50
 103853,Mini Rot Strider,MiniPet,0,Exotic,50
@@ -67483,6 +67484,7 @@ id,name,type,level,rarity,vendor_value
 103881,Natural Breastplate,Armor,80,Ascended,240
 103882,Natural Grips,Armor,80,Ascended,240
 103883,Natural Doublet,Armor,80,Ascended,240
+103884,Recipe: Bronze Decima Trophy,Consumable,0,Basic,50
 103885,Bountiful Maintenance Oil Station,Consumable,80,Masterwork,66
 103886,Pile of Recycled Trebuchets,Consumable,0,Basic,0
 103887,Alabaster Spider's Longbow Skin,Consumable,0,Rare,0
@@ -67502,6 +67504,7 @@ id,name,type,level,rarity,vendor_value
 103906,Natural Blade,Weapon,80,Ascended,10000
 103908,Sea-Glass Wave Axe,Weapon,80,Ascended,330
 103909,Blood Moon Dagger of Blood,Weapon,80,Exotic,264
+103911,Infinite Siege Golem Blueprint,Gizmo,0,Ascended,1
 103913,Pile of Recycled Siege Equipment,Trophy,0,Basic,0
 103917,Natural Breeches,Armor,80,Ascended,240
 103918,Wizard's Ascended Weapon Chest,Container,0,Ascended,320
@@ -67510,6 +67513,7 @@ id,name,type,level,rarity,vendor_value
 103922,Natural Bastion,Weapon,80,Ascended,10000
 103926,Decima's Coffer,Container,0,Exotic,0
 103928,Natural Claymore,Weapon,80,Ascended,10000
+103929,Recipe: Bronze Greer Trophy,Consumable,0,Basic,50
 103930,Alabaster Spider's Short Bow Skin,Consumable,0,Rare,0
 103931,"Homestead Recipe Book: Lights, Volume 2",Consumable,0,Exotic,0
 103932,Karka Toughness Station,Consumable,80,Masterwork,66
@@ -67528,6 +67532,7 @@ id,name,type,level,rarity,vendor_value
 103956,Mastery Point,Consumable,0,Basic,0
 103957,Box of Scavenged Siege Parts,Consumable,0,Basic,0
 103959,Catapult Mechanism,Consumable,0,Basic,0
+103960,Mini Bog Queen,MiniPet,0,Exotic,50
 103961,Alabaster Spider's Selection Box,Container,0,Rare,0
 103962,Recipe: Toxic Tuning Crystal Station,Consumable,0,Masterwork,66
 103963,Infinite Catapult Blueprint,Gizmo,0,Ascended,1
