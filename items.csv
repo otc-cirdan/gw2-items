@@ -67404,6 +67404,7 @@ id,name,type,level,rarity,vendor_value
 103769,Natural Spire,Weapon,80,Ascended,10000
 103770,Alabaster Spider's Torch Skin,Consumable,0,Rare,0
 103772,Recipe: Demon-Slaying Station,Consumable,0,Masterwork,66
+103773,Recipe: Silver Ura Trophy,Consumable,0,Basic,50
 103775,Recollection of the Bearkin's Hunts,Consumable,0,Legendary,320
 103776,Recipe: Karka Toughness Station,Consumable,0,Masterwork,66
 103777,Blood Moon Mace of Blood,Weapon,80,Exotic,264
@@ -67554,6 +67555,7 @@ id,name,type,level,rarity,vendor_value
 103982,Natural Short Bow,Weapon,80,Ascended,10000
 103983,Alabaster Spider's Warhorn Skin,Consumable,0,Rare,0
 103984,Relic of Reunification,Relic,60,Exotic,200
+103985,Endless Mystery Bearkin Combat Tonic,Gizmo,0,Exotic,0
 103986,No Reward,Consumable,0,Rare,92
 103987,Blood Moon Spear of Blood,Weapon,80,Exotic,396
 103988,Woodland Kodan Light Boots,Armor,80,Exotic,264
@@ -67581,6 +67583,7 @@ id,name,type,level,rarity,vendor_value
 104022,Relic of the Steamshrieker,Relic,60,Exotic,200
 104025,Sea-Glass Wave Staff,Weapon,80,Ascended,495
 104026,Gaeting Crystal,Consumable,0,Rare,96
+104027,Bronze Greer Trophy,Consumable,0,Basic,0
 104029,Natural Revolver,Weapon,80,Ascended,10000
 104030,Natural Tassets,Armor,80,Ascended,240
 104031,Nugget of Rift Essence,Container,0,Exotic,0
