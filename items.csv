@@ -67477,6 +67477,7 @@ id,name,type,level,rarity,vendor_value
 103864,Pile of Recycled Siege Golems,Consumable,0,Basic,0
 103866,Sea-Glass Wave Shield,Weapon,80,Ascended,330
 103867,Lump of Mithrillium,Container,0,Ascended,320
+103868,Bronze Decima Trophy,Consumable,0,Basic,0
 103870,Blood Moon Axe of Blood,Weapon,80,Exotic,264
 103871,Mist Sentry Turret,Gizmo,0,Basic,0
 103872,Relic of Mount Balrior,Relic,60,Exotic,200
@@ -67502,6 +67503,7 @@ id,name,type,level,rarity,vendor_value
 103901,Relic of the Mists Tide,Relic,60,Exotic,200
 103902,Homestead Recipe Book: Statues and Trophies,Consumable,0,Exotic,0
 103903,Alabaster Spider's Rifle Skin,Consumable,0,Rare,0
+103904,Bronze Ura Trophy,Consumable,0,Basic,0
 103905,Blood Moon Rifle of Blood,Weapon,80,Exotic,396
 103906,Natural Blade,Weapon,80,Ascended,10000
 103908,Sea-Glass Wave Axe,Weapon,80,Ascended,330
@@ -67524,6 +67526,7 @@ id,name,type,level,rarity,vendor_value
 103937,Pile of Recycled Flame Rams,Consumable,0,Basic,0
 103940,Alabaster Spider's Shield Skin,Consumable,0,Rare,0
 103944,Ura's Steampiercer,Weapon,80,Ascended,495
+103945,Recipe: Silver Decima Trophy,Consumable,0,Basic,50
 103946,Ura's Coffer,Container,0,Exotic,0
 103949,Proof of Siege Expertise,Consumable,0,Basic,0
 103950,Recipe: Ura's Token,Consumable,0,Basic,50
