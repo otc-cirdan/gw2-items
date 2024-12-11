@@ -29177,7 +29177,7 @@ id,name,type,level,rarity,vendor_value
 39626,Guild Merit,Trophy,0,Basic,0
 39695,Guild Commendation,Consumable,0,Masterwork,500
 39696,Guild Banner Tonic,Consumable,0,Rare,96
-39698,Guild Exp Banner,Consumable,0,Basic,0
+39698,Guild Experience Banner,Consumable,0,Basic,0
 39699,Guild Gathering Banner,Consumable,0,Basic,0
 39700,Guild Karma Banner,Consumable,0,Basic,0
 39701,Guild Magic Find Banner,Consumable,0,Basic,0
@@ -29186,7 +29186,7 @@ id,name,type,level,rarity,vendor_value
 39706,Guild Heroes Banner,Consumable,0,Basic,0
 39707,Guild Gathering and Swiftness Banner,Consumable,0,Basic,0
 39708,Guild Gold and Magic Find Banner,Consumable,0,Basic,0
-39709,Guild Gold from Kills Banner,Consumable,0,Basic,0
+39709,Guild Gold Banner,Consumable,0,Basic,0
 39710,Guild Karma and Experience Banner,Consumable,0,Basic,0
 39711,Endless Guild Banner Tonic,Gizmo,0,Exotic,256
 39712,Mini Red Siege Golem,MiniPet,0,Masterwork,0
@@ -44293,7 +44293,7 @@ id,name,type,level,rarity,vendor_value
 70978,Assassin's Auric Rifle,Weapon,80,Exotic,396
 70980,Essence of Subject 2,Trophy,0,Basic,1000
 70981,Exalted Guide to Rust Prevention,Trophy,0,Rare,0
-70982,Guild Gold Gain Banner Schematic,CraftingMaterial,0,Basic,0
+70982,Guild Gold Banner Schematic,CraftingMaterial,0,Basic,0
 70983,Recipe: Ruka's Bastion,Consumable,0,Ascended,160
 70984,Ornate Guild Breastplate,Armor,80,Exotic,396
 70985,Testimony of Heroics,Consumable,0,Fine,0
@@ -66914,6 +66914,7 @@ id,name,type,level,rarity,vendor_value
 102700,Polychromatic Heavy Breastplate,Armor,80,Exotic,396
 102701,Frozen Chair,Gizmo,0,Rare,0
 102705,Magi's Ursan Ornamented Rifle,Weapon,80,Rare,297
+102709,Homestead Recipe Book: World vs. World,Consumable,0,Exotic,0
 102710,Chest of Homestead Starter Goods,Container,0,Exotic,264
 102714,Polychromatic Headgear Box,Container,0,Exotic,0
 102718,Void Corrupted Dagger Skin,Consumable,0,Rare,0
@@ -67416,7 +67417,7 @@ id,name,type,level,rarity,vendor_value
 103784,Alabaster Spider's Axe Skin,Consumable,0,Rare,0
 103785,Natural Guise,Armor,80,Ascended,240
 103786,Woodland Kodan Medium Boots,Armor,80,Exotic,264
-103788,Box of Scavenged Siege Parts,Consumable,0,Basic,0
+103788,Box of Scavenged Arrow Cart Parts,Consumable,0,Basic,0
 103789,Enchanted Warclaw Skin,Consumable,0,Rare,0
 103791,Woodland Kodan Heavy Boots,Armor,80,Exotic,264
 103793,Memory of Bearkin's Adversaries,CraftingMaterial,0,Legendary,0
@@ -67469,7 +67470,7 @@ id,name,type,level,rarity,vendor_value
 103851,Pile of Recycled Arrow Carts,Consumable,0,Basic,0
 103852,Recipe: Decima's Token,Consumable,0,Basic,50
 103853,Mini Rot Strider,MiniPet,0,Exotic,50
-103854,Box of Scavenged Siege Parts,Consumable,0,Basic,0
+103854,Box of Scavenged Ballista Parts,Consumable,0,Basic,0
 103855,Recollection of the Bearkin's Adversaries,Consumable,0,Legendary,320
 103858,Dog Bench Chair,Gizmo,0,Rare,0
 103859,Woodland Kodan Boots Box,Container,0,Exotic,0
@@ -67513,10 +67514,11 @@ id,name,type,level,rarity,vendor_value
 103911,Infinite Siege Golem Blueprint,Gizmo,0,Ascended,1
 103913,Pile of Recycled Siege Equipment,Trophy,0,Basic,0
 103915,Infinite Shield Generator Blueprint,Gizmo,0,Ascended,1
+103916,"Homestead Recipe Book: World vs. World, Volume 2",Consumable,0,Exotic,0
 103917,Natural Breeches,Armor,80,Ascended,240
 103918,Wizard's Ascended Weapon Chest,Container,0,Ascended,320
-103919,Box of Scavenged Siege Parts,Consumable,0,Basic,0
-103920,Box of Scavenged Siege Parts,Consumable,0,Basic,0
+103919,Box of Scavenged Flame Ram Parts,Consumable,0,Basic,0
+103920,Box of Scavenged Catapult Parts,Consumable,0,Basic,0
 103922,Natural Bastion,Weapon,80,Ascended,10000
 103926,Decima's Coffer,Container,0,Exotic,0
 103928,Natural Claymore,Weapon,80,Ascended,10000
@@ -67538,7 +67540,7 @@ id,name,type,level,rarity,vendor_value
 103954,Sea-Glass Wave Longbow,Weapon,80,Ascended,495
 103955,Sea-Glass Wave Short Bow,Weapon,80,Ascended,495
 103956,Mastery Point,Consumable,0,Basic,0
-103957,Box of Scavenged Siege Parts,Consumable,0,Basic,0
+103957,Box of Scavenged Shield Generator Parts,Consumable,0,Basic,0
 103959,Catapult Mechanism,Consumable,0,Basic,0
 103960,Mini Bog Queen,MiniPet,0,Exotic,50
 103961,Alabaster Spider's Selection Box,Container,0,Rare,0
@@ -67552,7 +67554,7 @@ id,name,type,level,rarity,vendor_value
 103971,Alabaster Spider's Pistol Skin,Consumable,0,Rare,0
 103972,Alabaster Spider's Scepter Skin,Consumable,0,Rare,0
 103973,Nyr Hrammr,Weapon,80,Exotic,396
-103974,Box of Scavenged Siege Parts,Consumable,0,Basic,0
+103974,Box of Scavenged Trebuchet Parts,Consumable,0,Basic,0
 103975,Natural Reaver,Weapon,80,Ascended,10000
 103976,Homestead Recipe Book: Fractal Goods,Consumable,0,Exotic,0
 103977,Relic of the Beehive,Relic,60,Exotic,200
@@ -67617,6 +67619,72 @@ id,name,type,level,rarity,vendor_value
 104053,Natural Epaulets,Armor,80,Ascended,240
 104055,Natural Brazier,Weapon,80,Ascended,10000
 104057,"Homestead Recipe Book: Plants, Volume 3",Consumable,0,Exotic,0
-104059,Box of Scavenged Siege Parts,Consumable,0,Basic,0
+104059,Box of Scavenged Siege Golem Parts,Consumable,0,Basic,0
 104060,Toxic Tuning Crystal Station,Consumable,80,Masterwork,66
 104061,Mini Ventshot,MiniPet,0,Exotic,50
+104062,Giver's Winter Mittens,Armor,80,Exotic,238
+104063,Mini Plush Fox,MiniPet,0,Exotic,50
+104064,Plush Longbow,Weapon,80,Exotic,396
+104065,Recipe: Jolly Bow,Consumable,0,Basic,50
+104068,Vengeful Wolf Rider Helm Skin,Consumable,0,Masterwork,0
+104069,"Homestead Recipe Book: Wintersday, Volume 1",Consumable,0,Exotic,0
+104071,Plush Mace,Weapon,80,Exotic,264
+104072,Plush Hammer,Weapon,80,Exotic,396
+104074,Mr. Quiggles Crafting Recipe,Consumable,0,Basic,0
+104075,Dragon Essence Hammer Skin,Consumable,0,Rare,0
+104076,Plush Spear,Weapon,80,Exotic,396
+104077,Plush Shield,Weapon,80,Exotic,264
+104078,"Homestead Recipe Book: Wintersday, Volume 6",Consumable,0,Exotic,0
+104079,Plush Chest,Container,0,Exotic,256
+104080,Plush Pistol,Weapon,80,Exotic,264
+104081,Plush Scepter,Weapon,80,Exotic,264
+104083,Dragon Essence Rifle Skin,Consumable,0,Rare,0
+104084,Plush Rifle,Weapon,80,Exotic,396
+104085,Dragon Essence Mace Skin,Consumable,0,Rare,0
+104086,"Homestead Recipe Book: Wintersday, Volume 8",Consumable,0,Exotic,0
+104087,Recipe: Star Light String,Consumable,0,Basic,50
+104088,Jolly Bow,Consumable,0,Basic,0
+104089,Dragon Essence Scepter Skin,Consumable,0,Rare,0
+104090,"Homestead Recipe Book: Wintersday, Volume 2",Consumable,0,Exotic,0
+104091,"Homestead Recipe Book: Wintersday, Volume 3",Consumable,0,Exotic,0
+104092,Plush Greatsword,Weapon,80,Exotic,396
+104093,Dragon Essence Sword Skin,Consumable,0,Rare,0
+104094,Plush Staff,Weapon,80,Exotic,396
+104096,Plush Torch,Weapon,80,Exotic,264
+104097,"Homestead Recipe Book: Wintersday, Volume 5",Consumable,0,Exotic,0
+104099,Dragon Essence Longbow Skin,Consumable,0,Rare,0
+104100,Plush Axe,Weapon,80,Exotic,264
+104101,Plush Sword,Weapon,80,Exotic,264
+104102,Ginger Shortbread Shortbow,Weapon,80,Exotic,396
+104103,Dragon Essence Axe Skin,Consumable,0,Rare,0
+104104,Dragon Essence Pistol Skin,Consumable,0,Rare,0
+104105,Wintersday Weapon Chest,Container,0,Exotic,0
+104106,Sparkle Light String,Consumable,0,Basic,0
+104107,Dragon Essence Warhorn Skin,Consumable,0,Rare,0
+104108,Plush Short Bow,Weapon,80,Exotic,396
+104109,"Homestead Recipe Book: Wintersday, Volume 7",Consumable,0,Exotic,0
+104112,Dragon Essence Shield Skin,Consumable,0,Rare,0
+104113,Wintersday Bash,Weapon,80,Exotic,396
+104115,Dragon Essence Spear Skin,Consumable,0,Rare,0
+104116,Dragon Essence Dagger Skin,Consumable,0,Rare,0
+104117,Dragon Essence Staff Skin,Consumable,0,Rare,0
+104118,Plush Warhorn,Weapon,80,Exotic,264
+104120,Dragon Essence Focus Skin,Consumable,0,Rare,0
+104121,Recipe: Icicle,Consumable,0,Basic,50
+104122,Recipe: Sparkle Light String,Consumable,0,Basic,50
+104123,Winter Mittens Box,Container,0,Exotic,0
+104126,Infinite Siege Tool,Gizmo,0,Legendary,0
+104127,"Homestead Recipe Book: Wintersday, Volume 9",Consumable,0,Exotic,0
+104128,Dragon Essence Short Bow Skin,Consumable,0,Rare,0
+104129,Plush Focus,Weapon,80,Exotic,264
+104131,Giver's Winter Mittens,Armor,80,Exotic,238
+104132,Trader's Sacred Solstice Chest,Container,0,Exotic,256
+104133,Dragon Essence Greatsword Skin,Consumable,0,Rare,0
+104134,Gingerbread Rifle,Weapon,80,Exotic,396
+104135,Plush Dagger,Weapon,80,Exotic,264
+104136,Icicle,Consumable,0,Basic,0
+104137,Dragon Essence Torch Skin,Consumable,0,Rare,0
+104138,Gingerbread Speargun,Weapon,80,Exotic,396
+104139,Plush Tiger Warclaw Skin,Consumable,0,Rare,0
+104140,Giver's Winter Mittens,Armor,80,Exotic,238
+104142,"Homestead Recipe Book: Wintersday, Volume 4",Consumable,0,Exotic,0
