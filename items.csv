@@ -67655,6 +67655,7 @@ id,name,type,level,rarity,vendor_value
 104094,Plush Staff,Weapon,80,Exotic,396
 104096,Plush Torch,Weapon,80,Exotic,264
 104097,"Homestead Recipe Book: Wintersday, Volume 5",Consumable,0,Exotic,0
+104098,Eternal Tides Gown Outfit,Consumable,0,Rare,0
 104099,Dragon Essence Longbow Skin,Consumable,0,Rare,0
 104100,Plush Axe,Weapon,80,Exotic,264
 104101,Plush Sword,Weapon,80,Exotic,264
@@ -67666,6 +67667,7 @@ id,name,type,level,rarity,vendor_value
 104107,Dragon Essence Warhorn Skin,Consumable,0,Rare,0
 104108,Plush Short Bow,Weapon,80,Exotic,396
 104109,"Homestead Recipe Book: Wintersday, Volume 7",Consumable,0,Exotic,0
+104110,Luxurious Shell Chair,Gizmo,0,Rare,0
 104112,Dragon Essence Shield Skin,Consumable,0,Rare,0
 104113,Wintersday Bash,Weapon,80,Exotic,396
 104115,Dragon Essence Spear Skin,Consumable,0,Rare,0
@@ -67676,6 +67678,7 @@ id,name,type,level,rarity,vendor_value
 104121,Recipe: Icicle,Consumable,0,Basic,50
 104122,Recipe: Sparkle Light String,Consumable,0,Basic,50
 104123,Winter Mittens Box,Container,0,Exotic,0
+104124,"""/BloodstoneBoogie"" Emote Tome",Consumable,0,Exotic,0
 104126,Infinite Siege Tool,Gizmo,0,Legendary,0
 104127,"Homestead Recipe Book: Wintersday, Volume 9",Consumable,0,Exotic,0
 104128,Dragon Essence Short Bow Skin,Consumable,0,Rare,0
