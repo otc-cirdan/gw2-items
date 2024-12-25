@@ -5587,6 +5587,7 @@ id,name,type,level,rarity,vendor_value
 6408,Slayers Pants,Armor,64,Fine,76
 6411,Slayer's Leggings,Armor,64,Fine,76
 6413,Mending Greaves,Armor,48,Fine,43
+6416,Mending Shoes,Armor,48,Fine,43
 6417,Strong Shoes,Armor,48,Fine,43
 6419,Mending Boots,Armor,48,Fine,43
 6420,Strong Boots,Armor,48,Fine,43
@@ -67669,6 +67670,7 @@ id,name,type,level,rarity,vendor_value
 104108,Plush Short Bow,Weapon,80,Exotic,396
 104109,"Homestead Recipe Book: Wintersday, Volume 7",Consumable,0,Exotic,0
 104110,Luxurious Shell Chair,Gizmo,0,Rare,0
+104111,Tiny Royal Crown Helm Skin,Consumable,0,Masterwork,0
 104112,Dragon Essence Shield Skin,Consumable,0,Rare,0
 104113,Wintersday Bash,Weapon,80,Exotic,396
 104115,Dragon Essence Spear Skin,Consumable,0,Rare,0
