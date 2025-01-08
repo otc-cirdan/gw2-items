@@ -29599,6 +29599,206 @@ id,name,type,level,rarity,vendor_value
 41505,Sentinel's Elder Wood Short Bow,Weapon,75,Fine,93
 41506,Sentinel's Elder Wood Short Bow,Weapon,80,Masterwork,198
 41507,Sentinel's Krait Short Bow,Weapon,80,Rare,297
+41508,Sentinel's Pearl Needler,Weapon,80,Exotic,396
+41509,Sentinel's Elder Wood Harpoon Gun,Weapon,75,Fine,93
+41510,Sentinel's Elder Wood Harpoon Gun,Weapon,80,Masterwork,198
+41511,Sentinel's Krait Harpoon Gun,Weapon,80,Rare,297
+41512,Sentinel's Pearl Speargun,Weapon,80,Exotic,396
+41513,Sentinel's Elder Wood Torch,Weapon,75,Fine,62
+41514,Sentinel's Elder Wood Torch,Weapon,80,Masterwork,132
+41515,Sentinel's Krait Brazier,Weapon,80,Rare,198
+41516,Sentinel's Pearl Brazier,Weapon,80,Exotic,264
+41517,Sentinel's Elder Wood Warhorn,Weapon,75,Fine,62
+41518,Sentinel's Elder Wood Warhorn,Weapon,80,Masterwork,132
+41519,Sentinel's Krait Whelk,Weapon,80,Rare,198
+41520,Sentinel's Pearl Siren,Weapon,80,Exotic,264
+41521,Sentinel's Mithril Axe,Weapon,75,Fine,62
+41522,Sentinel's Mithril Axe,Weapon,80,Masterwork,132
+41523,Sentinel's Krait Battleaxe,Weapon,80,Rare,198
+41524,Sentinel's Pearl Reaver,Weapon,80,Exotic,264
+41525,Sentinel's Mithril Dagger,Weapon,75,Fine,62
+41526,Sentinel's Mithril Dagger,Weapon,80,Masterwork,132
+41527,Sentinel's Krait Ripper,Weapon,80,Rare,198
+41528,Sentinel's Pearl Carver,Weapon,80,Exotic,264
+41529,Sentinel's Mithril Greatsword,Weapon,75,Fine,93
+41530,Sentinel's Mithril Greatsword,Weapon,80,Masterwork,198
+41531,Sentinel's Krait Slayer,Weapon,80,Rare,297
+41532,Sentinel's Pearl Broadsword,Weapon,80,Exotic,396
+41533,Sentinel's Mithril Hammer,Weapon,75,Fine,93
+41534,Sentinel's Mithril Hammer,Weapon,80,Masterwork,198
+41535,Sentinel's Krait Warhammer,Weapon,80,Rare,297
+41536,Sentinel's Pearl Crusher,Weapon,80,Exotic,396
+41537,Sentinel's Mithril Mace,Weapon,75,Fine,62
+41538,Sentinel's Mithril Mace,Weapon,80,Masterwork,132
+41539,Sentinel's Krait Morning Star,Weapon,80,Rare,198
+41540,Sentinel's Pearl Bludgeoner,Weapon,80,Exotic,264
+41541,Sentinel's Mithril Shield,Weapon,75,Fine,62
+41542,Sentinel's Mithril Shield,Weapon,80,Masterwork,132
+41543,Sentinel's Krait Shell,Weapon,80,Rare,198
+41544,Sentinel's Pearl Shell,Weapon,80,Exotic,264
+41545,Sentinel's Mithril Spear,Weapon,75,Fine,93
+41546,Sentinel's Mithril Spear,Weapon,80,Masterwork,198
+41547,Sentinel's Krait Pilum,Weapon,80,Rare,297
+41548,Sentinel's Pearl Impaler,Weapon,80,Exotic,396
+41549,Sentinel's Mithril Sword,Weapon,75,Fine,62
+41550,Sentinel's Mithril Sword,Weapon,80,Masterwork,132
+41551,Sentinel's Krait Machete,Weapon,80,Rare,198
+41552,Sentinel's Pearl Sabre,Weapon,80,Exotic,264
+41553,Sentinel's Silk Insignia,CraftingMaterial,75,Fine,16
+41554,Sentinel's Embroidered Silk Insignia,CraftingMaterial,80,Masterwork,33
+41555,Sentinel's Intricate Silk Insignia,CraftingMaterial,80,Rare,50
+41556,Sentinel's Intricate Gossamer Insignia,CraftingMaterial,80,Exotic,66
+41557,Sentinel's Elder Inscription,CraftingMaterial,75,Fine,16
+41558,Sentinel's Mithril Plated Inscription,CraftingMaterial,80,Masterwork,33
+41559,Sentinel's Mithril Imbued Inscription,CraftingMaterial,80,Rare,50
+41560,Sentinel's Orichalcum Imbued Inscription,CraftingMaterial,80,Exotic,66
+41561,Carrot Soufflé,Consumable,80,Fine,15
+41562,Bowl of Refugee's Beet Soup,Consumable,80,Fine,15
+41563,Spicy Marinated Mushroom,Consumable,80,Fine,15
+41564,Plate of Frostgorge Clams,Consumable,80,Fine,15
+41565,Bowl of Garlic Kale Sautee,Consumable,80,Fine,15
+41566,Mushroom Loaf,Consumable,80,Fine,15
+41567,Plate of Spicy Herbed Chicken,Consumable,80,Fine,15
+41568,Bowl of Zesty Turnip Soup,Consumable,80,Fine,15
+41569,Bowl of Sweet and Spicy Butternut Squash Soup,Consumable,80,Fine,15
+41570,Pile of Walnut Crumble Topping,CraftingMaterial,80,Basic,9
+41571,Bowl of Garlic Butter Sauce,CraftingMaterial,80,Basic,9
+41572,Pile of Zesty Herbs,CraftingMaterial,80,Basic,9
+41573,Recipe: Carrot Soufflé,Consumable,0,Fine,11
+41574,Recipe: Bowl of Refugee's Beet Soup,Consumable,0,Fine,11
+41575,Recipe: Spicy Marinated Mushroom,Consumable,0,Fine,11
+41576,Recipe: Plate of Frostgorge Clams,Consumable,0,Fine,11
+41577,Recipe: Bowl of Garlic Kale Sautee,Consumable,0,Fine,11
+41578,Recipe: Mushroom Loaf,Consumable,0,Fine,11
+41579,Recipe: Plate of Spicy Herbed Chicken,Consumable,0,Fine,11
+41580,Recipe: Bowl of Zesty Turnip Soup,Consumable,0,Fine,11
+41581,Recipe: Bowl of Sweet and Spicy Butternut Squash Soup,Consumable,0,Fine,11
+41585,Sentinel's Reinforced Scale Boots of Mercy,Armor,80,Masterwork,132
+41586,Sentinel's Reinforced Scale Coat of the Eagle,Armor,80,Masterwork,198
+41587,Sentinel's Reinforced Scale Gauntlets of the Flock,Armor,80,Masterwork,119
+41588,Sentinel's Reinforced Scale Helm of the Traveler,Armor,80,Masterwork,165
+41589,Sentinel's Reinforced Scale Legs of Scavenging,Armor,80,Masterwork,185
+41590,Sentinel's Reinforced Scale Pauldrons of Divinity,Armor,80,Masterwork,146
+41591,Sentinel's Cabalist Boots of Strength,Armor,80,Masterwork,132
+41592,Sentinel's Cabalist Coat of Balthazar,Armor,80,Masterwork,198
+41593,Sentinel's Cabalist Gloves of the Afflicted,Armor,80,Masterwork,119
+41594,Sentinel's Cabalist Hood of Vampirism,Armor,80,Masterwork,165
+41595,Sentinel's Cabalist Legs of Scavenging,Armor,80,Masterwork,185
+41596,Sentinel's Cabalist Shoulders of the Grove,Armor,80,Masterwork,146
+41597,Sentinel's Privateer Boots of Melandru,Armor,80,Masterwork,132
+41598,Sentinel's Privateer Coat of Infiltration,Armor,80,Masterwork,198
+41599,Sentinel's Privateer Gloves of the Flock,Armor,80,Masterwork,119
+41600,Sentinel's Privateer Hat of the Flame Legion,Armor,80,Masterwork,165
+41601,Sentinel's Privateer Pants of Lyssa,Armor,80,Masterwork,185
+41602,Sentinel's Privateer Shoulders of Mercy,Armor,80,Masterwork,146
+41603,Sentinel's Reinforced Scale Boots,Armor,80,Fine,66
+41604,Sentinel's Reinforced Scale Coat,Armor,80,Fine,99
+41605,Sentinel's Reinforced Scale Gauntlets,Armor,80,Fine,60
+41606,Sentinel's Reinforced Scale Helm,Armor,80,Fine,83
+41607,Sentinel's Reinforced Scale Legs,Armor,80,Fine,93
+41608,Sentinel's Reinforced Scale Pauldrons,Armor,80,Fine,73
+41609,Sentinel's Cabalist Boots,Armor,80,Fine,66
+41610,Sentinel's Cabalist Coat,Armor,80,Fine,99
+41611,Sentinel's Cabalist Gloves,Armor,80,Fine,60
+41612,Sentinel's Cabalist Hood,Armor,80,Fine,83
+41613,Sentinel's Cabalist Legs,Armor,80,Fine,93
+41614,Sentinel's Cabalist Shoulders,Armor,80,Fine,73
+41615,Sentinel's Privateer Boots,Armor,80,Fine,66
+41616,Sentinel's Privateer Coat,Armor,80,Fine,99
+41617,Sentinel's Privateer Gloves,Armor,80,Fine,60
+41618,Sentinel's Privateer Hat,Armor,80,Fine,83
+41619,Sentinel's Privateer Pants,Armor,80,Fine,93
+41620,Sentinel's Privateer Shoulders,Armor,80,Fine,73
+41621,Sentinel's Banded Greaves of the Eagle,Armor,80,Rare,198
+41622,Sentinel's Banded Coat of Lyssa,Armor,80,Rare,297
+41623,Sentinel's Banded Gauntlets of the Flock,Armor,80,Rare,179
+41624,Sentinel's Banded Helm of the Grove,Armor,80,Rare,248
+41625,Sentinel's Banded Legs of Strength,Armor,80,Rare,278
+41626,Sentinel's Banded Pauldrons of Dwayna,Armor,80,Rare,218
+41627,Sentinel's Conjurer Shoes of Divinity,Armor,80,Rare,198
+41628,Sentinel's Conjurer Chest of Divinity,Armor,80,Rare,297
+41629,Sentinel's Conjurer Gloves of the Eagle,Armor,80,Rare,179
+41630,Sentinel's Conjurer Mask of the Lich,Armor,80,Rare,248
+41631,Sentinel's Conjurer Pants of Grenth,Armor,80,Rare,278
+41632,Sentinel's Conjurer Mantle of Balthazar,Armor,80,Rare,218
+41633,Sentinel's Privateer Boots of Lyssa,Armor,80,Rare,198
+41634,Sentinel's Rogue Coat of the Grove,Armor,80,Rare,297
+41635,Sentinel's Rogue Gloves of Hoelbrak,Armor,80,Rare,179
+41636,Sentinel's Marauder Mask of Hoelbrak,Armor,80,Rare,248
+41637,Sentinel's Rogue Pants of Hoelbrak,Armor,80,Rare,278
+41638,Sentinel's Rogue Pauldrons of the Traveler,Armor,80,Rare,218
+41639,Sentinel's Banded Greaves of the Eagle,Armor,80,Exotic,264
+41640,Sentinel's Banded Coat of Lyssa,Armor,80,Exotic,396
+41641,Sentinel's Banded Gauntlets of the Flock,Armor,80,Exotic,238
+41642,Sentinel's Banded Helm of the Grove,Armor,80,Exotic,330
+41643,Sentinel's Banded Legs of Strength,Armor,80,Exotic,370
+41644,Sentinel's Banded Pauldrons of Dwayna,Armor,80,Exotic,291
+41645,Sentinel's Conjurer Shoes of Hoelbrak,Armor,80,Exotic,264
+41646,Sentinel's Conjurer Chest of Divinity,Armor,80,Exotic,396
+41647,Sentinel's Conjurer Gloves of the Eagle,Armor,80,Exotic,238
+41648,Sentinel's Conjurer Mask of the Lich,Armor,80,Exotic,330
+41649,Sentinel's Conjurer Pants of Grenth,Armor,80,Exotic,370
+41650,Sentinel's Conjurer Mantle of Balthazar,Armor,80,Exotic,291
+41651,Sentinel's Privateer Boots of Lyssa,Armor,80,Exotic,264
+41652,Sentinel's Rogue Coat of the Grove,Armor,80,Exotic,396
+41653,Sentinel's Rogue Gloves of Hoelbrak,Armor,80,Exotic,238
+41654,Sentinel's Marauder Mask of Hoelbrak,Armor,80,Exotic,330
+41655,Sentinel's Rogue Pants of Hoelbrak,Armor,80,Exotic,370
+41656,Sentinel's Rogue Pauldrons of the Traveler,Armor,80,Exotic,291
+41657,Sentinel's Iron Axe,Weapon,80,Fine,66
+41658,Sentinel's Iron Axe of Debility,Weapon,80,Masterwork,132
+41659,Sentinel's Iron Axe of Smoldering,Weapon,80,Rare,198
+41660,Sentinel's Iron Dagger,Weapon,80,Fine,66
+41661,Sentinel's Iron Dagger of Accuracy,Weapon,80,Masterwork,132
+41662,Sentinel's Iron Dagger of Grawl Slaying,Weapon,80,Rare,198
+41663,Sentinel's Soft Wood Focus,Weapon,80,Fine,66
+41664,Sentinel's Soft Wood Focus of Ice,Weapon,80,Masterwork,132
+41665,Sentinel's Soft Wood Focus of Peril,Weapon,80,Rare,198
+41666,Sentinel's Iron Greatsword,Weapon,80,Fine,99
+41667,Sentinel's Iron Greatsword of the Geomancer,Weapon,80,Masterwork,198
+41668,Sentinel's Iron Greatsword of Hobbling,Weapon,80,Rare,297
+41669,Sentinel's Iron Hammer,Weapon,80,Fine,99
+41670,Sentinel's Iron Hammer of Accuracy,Weapon,80,Masterwork,198
+41671,Sentinel's Iron Hammer of Serpent Slaying,Weapon,80,Rare,297
+41672,Sentinel's Iron Spear,Weapon,80,Fine,99
+41673,Sentinel's Iron Spear of Force,Weapon,80,Masterwork,198
+41674,Sentinel's Iron Spear of Corruption,Weapon,80,Rare,297
+41675,Sentinel's Soft Wood Longbow,Weapon,80,Fine,99
+41676,Sentinel's Soft Wood Longbow of the Geomancer,Weapon,80,Masterwork,198
+41677,Sentinel's Soft Wood Longbow of Perception,Weapon,80,Rare,297
+41678,Sentinel's Iron Mace,Weapon,80,Fine,66
+41679,Sentinel's Iron Mace of Accuracy,Weapon,80,Masterwork,132
+41680,Sentinel's Iron Mace of Battle,Weapon,80,Rare,198
+41681,Sentinel's Iron Pistol,Weapon,80,Fine,66
+41682,Sentinel's Iron Pistol of Bloodlust,Weapon,80,Masterwork,132
+41683,Sentinel's Iron Pistol of Earth,Weapon,80,Rare,198
+41684,Sentinel's Iron Rifle,Weapon,80,Fine,99
+41685,Sentinel's Iron Rifle of Peril,Weapon,80,Masterwork,198
+41686,Sentinel's Iron Rifle of Water,Weapon,80,Rare,297
+41687,Sentinel's Soft Wood Scepter,Weapon,80,Fine,66
+41688,Sentinel's Soft Wood Scepter of Ice,Weapon,80,Masterwork,132
+41689,Sentinel's Soft Wood Scepter of Perception,Weapon,80,Rare,198
+41690,Sentinel's Iron Shield,Weapon,80,Fine,66
+41691,Sentinel's Iron Shield of Agony,Weapon,80,Masterwork,132
+41692,Sentinel's Iron Shield of Ogre Slaying,Weapon,80,Rare,198
+41693,Sentinel's Soft Wood Short Bow,Weapon,80,Fine,99
+41694,Sentinel's Soft Wood Short Bow of Peril,Weapon,80,Masterwork,198
+41695,Sentinel's Soft Wood Short Bow of Peril,Weapon,80,Rare,297
+41696,Sentinel's Steam Speargun,Weapon,80,Fine,99
+41697,Sentinel's Steam Speargun of Hobbling,Weapon,80,Masterwork,198
+41698,Sentinel's Steam Speargun of Agony,Weapon,80,Rare,297
+41699,Sentinel's Soft Wood Staff,Weapon,80,Fine,99
+41700,Sentinel's Soft Wood Staff of Force,Weapon,80,Masterwork,198
+41701,Sentinel's Soft Wood Staff of Accuracy,Weapon,80,Rare,297
+41702,Sentinel's Iron Sword,Weapon,80,Fine,66
+41703,Sentinel's Iron Sword of Agony,Weapon,80,Masterwork,132
+41704,Sentinel's Iron Sword of the Hydromancer,Weapon,80,Rare,198
+41705,Sentinel's Soft Wood Torch,Weapon,80,Fine,66
+41706,Sentinel's Soft Wood Torch of Force,Weapon,80,Masterwork,132
+41707,Sentinel's Soft Wood Torch of Restoration,Weapon,80,Rare,198
+41708,Sentinel's Black Earth Trident,Weapon,80,Fine,99
+41709,Sentinel's Black Earth Trident of the Hydromancer,Weapon,80,Masterwork,198
+41710,Sentinel's Black Earth Trident of Ice,Weapon,80,Rare,297
 41711,Sentinel's Soft Wood Warhorn,Weapon,80,Fine,66
 41712,Sentinel's Soft Wood Warhorn of the Geomancer,Weapon,80,Masterwork,132
 41713,Sentinel's Soft Wood Warhorn of the Geomancer,Weapon,80,Rare,198
@@ -67444,6 +67644,7 @@ id,name,type,level,rarity,vendor_value
 104079,Plush Chest,Container,0,Exotic,256
 104080,Plush Pistol,Weapon,80,Exotic,264
 104081,Plush Scepter,Weapon,80,Exotic,264
+104082,Diabolic Pitchfork Spear Skin,Consumable,0,Rare,0
 104083,Dragon Essence Rifle Skin,Consumable,0,Rare,0
 104084,Plush Rifle,Weapon,80,Exotic,396
 104085,Dragon Essence Mace Skin,Consumable,0,Rare,0
