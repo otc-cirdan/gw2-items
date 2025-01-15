@@ -67673,7 +67673,7 @@ id,name,type,level,rarity,vendor_value
 104108,Plush Short Bow,Weapon,80,Exotic,396
 104109,"Homestead Recipe Book: Wintersday, Volume 7",Consumable,0,Exotic,0
 104110,Luxurious Shell Chair,Gizmo,0,Rare,0
-104111,Tiny Royal Crown Helm Skin,Consumable,0,Masterwork,0
+104111,Tiny Royal Crown Skin,Consumable,0,Masterwork,0
 104112,Dragon Essence Shield Skin,Consumable,0,Rare,0
 104113,Wintersday Bash,Weapon,80,Exotic,396
 104115,Dragon Essence Spear Skin,Consumable,0,Rare,0
@@ -67701,3 +67701,8 @@ id,name,type,level,rarity,vendor_value
 104139,Plush Tiger Warclaw Skin,Consumable,0,Rare,0
 104140,Giver's Winter Mittens,Armor,80,Exotic,238
 104142,"Homestead Recipe Book: Wintersday, Volume 4",Consumable,0,Exotic,0
+104145,Vagabond's Hood Skin,Consumable,0,Masterwork,0
+104146,Vagabond's Package,Container,0,Masterwork,0
+104148,Vagabond's Shoulder Skin,Consumable,0,Masterwork,0
+104149,Thundercrag Weapon Choice,Container,0,Rare,0
+104150,Vagabond's Cape Skin,Consumable,0,Masterwork,0
