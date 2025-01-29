@@ -66114,7 +66114,7 @@ id,name,type,level,rarity,vendor_value
 101393,Regal Moth Skyscale Skin,Consumable,0,Exotic,0
 101395,Heretical Scholar's Staff Skin,Consumable,0,Rare,0
 101396,Arcane Sigil Backpack Skin,Consumable,0,Masterwork,0
-101397,Mini Amnytas Stormscale,MiniPet,0,Rare,0
+101397,Mini Amnytas Stormscale,MiniPet,0,Exotic,0
 101398,Lucky Dragon Lantern,Back,65,Rare,888
 101399,Peaceful Shrine Chair,Gizmo,0,Rare,0
 101400,Dragon Descendant's Helm Box,Container,0,Exotic,256
@@ -67103,6 +67103,7 @@ id,name,type,level,rarity,vendor_value
 103203,Recipe: Silver Siege the Stronghold Trophy,Consumable,0,Basic,50
 103208,Homestead Recipe Book: Pillars,Consumable,0,Exotic,0
 103209,Woad Medium Helm,Armor,80,Exotic,330
+103212,"Homestead Recipe Book: Lunar New Year, Volume 1",Consumable,0,Exotic,0
 103215,Magi's Full Moon Pistol,Weapon,80,Rare,198
 103218,Recipe: Vale Guardian Pieces,Consumable,0,Basic,50
 103222,Wisteria Spear Skin,Consumable,0,Rare,0
@@ -67705,6 +67706,46 @@ id,name,type,level,rarity,vendor_value
 104145,Vagabond's Hood Skin,Consumable,0,Masterwork,0
 104146,Vagabond's Package,Container,0,Masterwork,0
 104147,Hooded Windbreaker (Down) Skin,Consumable,0,Masterwork,0
-104148,Vagabond's Shoulder Skin,Consumable,0,Masterwork,0
+104148,Vagabond's Shoulders Skin,Consumable,0,Masterwork,0
 104149,Thundercrag Weapon Choice,Container,0,Rare,0
 104150,Vagabond's Cape Skin,Consumable,0,Masterwork,0
+104151,Lantern Short Bow,Weapon,80,Exotic,396
+104152,Lantern Dagger,Weapon,80,Exotic,264
+104153,Lantern Torch,Weapon,80,Exotic,264
+104154,Golden Snake Figurine,Trophy,0,Junk,8888
+104157,Lantern Mace,Weapon,80,Exotic,264
+104158,Lucky Great Snake Lantern,Back,80,Exotic,8888
+104159,Golden Snake Statue,Consumable,0,Basic,0
+104161,Celestial Snaketail Breeches,Armor,80,Exotic,370
+104162,Lantern Sword,Weapon,80,Exotic,264
+104163,Lantern Axe,Weapon,80,Exotic,264
+104164,Visage of the Great Snake Fireworks,Consumable,0,Exotic,0
+104165,Recipe: Snake Statue,Consumable,0,Basic,50
+104166,Lantern Greatsword,Weapon,80,Exotic,396
+104167,New Year's Weapon Chest,Container,0,Exotic,0
+104168,Mini Snake,MiniPet,0,Exotic,0
+104170,Snaketail Breeches,Container,0,Exotic,0
+104171,Celestial Snaketail Breeches,Armor,80,Exotic,370
+104172,Recipe: Plain White Lantern,Consumable,0,Basic,50
+104173,Lantern Rifle,Weapon,80,Exotic,396
+104174,Lantern Chest,Container,0,Exotic,256
+104176,Lantern Focus,Weapon,80,Exotic,264
+104177,Homestead Recipe Book: Lunar New Year Celestials,Consumable,0,Exotic,0
+104178,Recipe: Golden Snake Statue,Consumable,0,Basic,50
+104179,Recipe: Plain Red Lantern,Consumable,0,Basic,50
+104181,Campfire Chair,Gizmo,0,Rare,0
+104182,Lantern Hammer,Weapon,80,Exotic,396
+104183,Lantern Longbow,Weapon,80,Exotic,396
+104184,Jade Serpent Dagger,Weapon,80,Exotic,264
+104185,Snake Statue,Consumable,0,Basic,0
+104186,Jade Serpent Spear,Weapon,80,Exotic,396
+104187,Lantern Shield,Weapon,80,Exotic,264
+104188,Lantern Pistol,Weapon,80,Exotic,264
+104189,Lantern Spear,Weapon,80,Exotic,396
+104190,Lantern Scepter,Weapon,80,Exotic,264
+104191,Jade Serpent Rifle,Weapon,80,Exotic,396
+104192,Lantern Staff,Weapon,80,Exotic,396
+104193,Celestial Snaketail Breeches,Armor,80,Exotic,370
+104194,Lucky Snake Lantern,Back,65,Rare,888
+104195,Trader's Fortunate Chest,Container,0,Exotic,256
+104196,Lantern Warhorn,Weapon,80,Exotic,264
