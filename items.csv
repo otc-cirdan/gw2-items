@@ -4599,6 +4599,206 @@ id,name,type,level,rarity,vendor_value
 4861,Tarff Garb,Armor,10,Fine,23
 4862,Opticalium Gloves,Armor,3,Fine,8
 4863,Cerulean Matrix Leggings,Armor,13,Fine,26
+4864,PRT Leather Boots,Armor,5,Fine,10
+4865,Tarff Leather Coat,Armor,10,Fine,23
+4866,Opticalium Leather Gloves,Armor,3,Fine,8
+4867,Cerulean Matrix Pants,Armor,13,Fine,26
+4871,Barnacle-Encrusted Scale Helm,Armor,16,Masterwork,50
+4872,Barnacle-Encrusted Mantle,Armor,16,Masterwork,50
+4873,Barnacle-Encrusted Mask,Armor,16,Masterwork,50
+4874,Barnacle-Encrusted Scale Helm,Armor,16,Fine,25
+4875,Barnacle-Encrusted Mantle,Armor,16,Fine,25
+4876,Barnacle-Encrusted Mask,Armor,16,Fine,25
+4877,Worm Rancher's Gauntlets,Armor,18,Fine,20
+4878,Worm Rancher's Gloves,Armor,18,Fine,20
+4879,Worm Rancher's Studded Gloves,Armor,18,Fine,20
+4880,Worm Rancher's Gauntlets,Armor,18,Masterwork,40
+4881,Worm Rancher's Gloves,Armor,18,Masterwork,40
+4882,Worm Rancher's Studded Gloves,Armor,18,Masterwork,40
+4883,Seraph Chain Coat,Armor,19,Fine,35
+4884,Seraph Country Coat,Armor,19,Fine,35
+4885,Seraph Studded Coat,Armor,19,Fine,35
+4886,Seraph Chain Coat,Armor,19,Masterwork,69
+4887,Seraph Country Coat,Armor,19,Masterwork,69
+4888,Seraph Studded Coat,Armor,19,Masterwork,69
+4889,Stealthy Chain Legs,Armor,20,Fine,34
+4890,Stealthy Country Pants,Armor,20,Fine,34
+4891,Stealthy Studded Pants,Armor,20,Fine,34
+4892,Stealthy Chain Legs,Armor,20,Masterwork,68
+4893,Stealthy Country Pants,Armor,20,Masterwork,68
+4894,Stealthy Studded Pants,Armor,20,Masterwork,68
+4895,Vine-Covered Chain Pauldrons,Armor,22,Fine,28
+4896,Vine-Covered Mantle,Armor,22,Fine,28
+4897,Vine-Covered Chain Pauldrons,Armor,22,Masterwork,55
+4898,Vine-Covered Mantle,Armor,22,Masterwork,55
+4899,Vine-Covered Pauldrons,Armor,22,Fine,28
+4900,Vine-Covered Pauldrons,Armor,22,Masterwork,55
+4901,Waterproof Worn Chain Greaves,Armor,25,Fine,27
+4902,Waterproof Country Boots,Armor,25,Fine,27
+4903,Waterproof Superior Studded Boots,Armor,25,Fine,27
+4904,Waterproof Worn Chain Greaves,Armor,25,Masterwork,54
+4905,Waterproof Country Boots,Armor,25,Masterwork,54
+4906,Waterproof Superior Studded Boots,Armor,25,Masterwork,54
+4907,Darkvine Gauntlets,Armor,0,Fine,7
+4908,Darkvine Cloth Gloves,Armor,0,Fine,7
+4909,Darkvine Leather Gloves,Armor,0,Fine,7
+4910,Red-Capped Gauntlets,Armor,0,Fine,7
+4911,Red-Capped Gauntlets,Armor,0,Fine,7
+4912,Red-Capped Gauntlets,Armor,0,Fine,7
+4913,Midnight Duelist's Leggings,Armor,4,Fine,13
+4914,Midnight Devout Leggings,Armor,4,Fine,13
+4915,Midnight Leather Leggings,Armor,4,Fine,13
+4916,Mossy Duelist's Boots,Armor,5,Fine,10
+4917,Mossy Devout Shoes,Armor,5,Fine,10
+4918,Mossy Leather Boots,Armor,5,Fine,10
+4919,Kraitbane Metal Aquabreather,Armor,13,Fine,23
+4920,Kraitbane Cloth Aquabreather,Armor,13,Fine,23
+4921,Kraitbane Leather Aquabreather,Armor,13,Fine,23
+4922,Duelist's Patrol Breastplate,Armor,13,Fine,27
+4923,Devout Patrol Garb,Armor,13,Fine,27
+4924,Leather Patrol Coat,Armor,13,Fine,27
+4925,Wreckage Boots,Armor,59,Fine,51
+4926,Fort Cadence Breastplate,Armor,55,Fine,72
+4927,United Arcanist Lab's Metal Gauntlets,Armor,65,Fine,50
+4928,Brackwater Helm,Armor,63,Fine,68
+4929,Briar Metal Leggings,Armor,64,Fine,76
+4930,Rescuer's Pauldrons,Armor,61,Fine,58
+4931,Wreckage Shoes,Armor,59,Fine,51
+4932,Fort Cadence Garb,Armor,55,Fine,72
+4933,United Arcanist Lab's Cloth Gloves,Armor,65,Fine,50
+4934,Brackwater Hat,Armor,63,Fine,68
+4935,Briar Cloth Leggings,Armor,64,Fine,76
+4936,Rescuer's Mantle,Armor,61,Fine,58
+4937,Wreckage Waders,Armor,59,Fine,51
+4938,Fort Cadence Coat,Armor,55,Fine,72
+4939,United Arcanist Lab's Leather Gloves,Armor,65,Fine,50
+4940,Brackwater Mask,Armor,63,Fine,68
+4941,Briar Leather Leggings,Armor,64,Fine,76
+4942,Rescuer's Shoulderpads,Armor,61,Fine,58
+4943,Metal Aquabreather,Armor,60,Fine,65
+4944,Cloth Aquabreather,Armor,60,Fine,65
+4945,Leather Aquabreather,Armor,60,Fine,65
+4946,Fort Cadence Breastplate,Armor,55,Masterwork,144
+4947,Fort Cadence Garb,Armor,55,Masterwork,144
+4948,Fort Cadence Coat,Armor,55,Masterwork,144
+4949,Wreckage Boots,Armor,59,Masterwork,102
+4950,Wreckage Shoes,Armor,59,Masterwork,102
+4951,Wreckage Waders,Armor,59,Masterwork,102
+4952,Metal Aquabreather,Armor,60,Masterwork,130
+4953,Cloth Aquabreather,Armor,60,Masterwork,130
+4954,Leather Aquabreather,Armor,60,Masterwork,130
+4955,Rescuer's Pauldrons,Armor,61,Masterwork,115
+4956,Rescuer's Mantle,Armor,61,Masterwork,115
+4957,Rescuer's Shoulderpads,Armor,61,Masterwork,115
+4958,Brackwater Helm,Armor,63,Masterwork,135
+4959,Brackwater Hat,Armor,63,Masterwork,135
+4960,Brackwater Mask,Armor,63,Masterwork,135
+4961,Briar Metal Leggings,Armor,64,Masterwork,152
+4962,Briar Cloth Leggings,Armor,64,Masterwork,152
+4963,Briar Leather Leggings,Armor,64,Masterwork,152
+4964,United Arcanist Lab's Metal Gauntlets,Armor,65,Masterwork,99
+4965,United Arcanist Lab's Cloth Gloves,Armor,65,Masterwork,99
+4966,United Arcanist Lab's Leather Gloves,Armor,65,Masterwork,99
+4973,Whitland Boots,Armor,68,Fine,57
+4974,Whitland Shoes,Armor,68,Fine,57
+4975,Whitland Waders,Armor,68,Fine,57
+4976,Whitland Boots,Armor,68,Masterwork,114
+4977,Whitland Shoes,Armor,68,Masterwork,114
+4978,Whitland Waders,Armor,68,Masterwork,114
+4979,Metal Oxbow Aquabreather,Armor,66,Fine,70
+4980,Cloth Oxbow Aquabreather,Armor,66,Fine,70
+4981,Leather Oxbow Aquabreather,Armor,66,Fine,70
+4983,Cloth Oxbow Aquabreather,Armor,66,Masterwork,140
+4985,Firebreak Pauldrons,Armor,64,Fine,60
+4986,Firebreak Mantle,Armor,64,Fine,60
+4987,Firebreak Shoulderpads,Armor,64,Fine,60
+4988,Firebreak Pauldrons,Armor,64,Masterwork,119
+4989,Firebreak Mantle,Armor,64,Masterwork,119
+4990,Firebreak Shoulderpads,Armor,64,Masterwork,119
+4991,Magmatic Helm,Armor,63,Fine,68
+4992,Magmatic Hat,Armor,63,Fine,68
+4993,Magmatic Mask,Armor,63,Fine,68
+4994,Magmatic Helm,Armor,63,Masterwork,135
+4995,Magmatic Hat,Armor,63,Masterwork,135
+4996,Magmatic Mask,Armor,63,Masterwork,135
+4997,Bard's Valley Metal Leggings,Armor,61,Fine,73
+4998,Bard's Valley Cloth Leggings,Armor,61,Fine,73
+4999,Bard's Valley Leather Leggings,Armor,61,Fine,73
+5000,Bard's Valley Metal Leggings,Armor,61,Masterwork,146
+5001,Bard's Valley Cloth Leggings,Armor,61,Masterwork,146
+5002,Bard's Valley Leather Leggings,Armor,61,Masterwork,146
+5003,Excavator's Metal Gauntlets,Armor,65,Fine,50
+5004,Excavator's Cloth Gloves,Armor,65,Fine,50
+5005,Excavator's Leather Gloves,Armor,65,Fine,50
+5006,Excavator's Metal Gauntlets,Armor,65,Masterwork,99
+5007,Excavator's Cloth Gloves,Armor,65,Masterwork,99
+5008,Excavator's Leather Gloves,Armor,65,Masterwork,99
+5009,Progeny Gauntlets,Armor,3,Fine,8
+5010,Progeny Gloves,Armor,3,Fine,8
+5011,Progeny Leather Gloves,Armor,3,Fine,8
+5012,Incomp Boots,Armor,4,Fine,9
+5013,Incomp Shoes,Armor,4,Fine,9
+5014,Incomp Leather Boots,Armor,4,Fine,9
+5015,Leather Oxbow Aquabreather,Armor,66,Masterwork,140
+5016,Metal Oxbow Aquabreather,Armor,66,Masterwork,140
+5017,Mighty Chainmail Footgear,Armor,0,Basic,5
+5018,Mighty Chainmail Chestpiece,Armor,0,Basic,8
+5019,Mighty Chainmail Gauntlets,Armor,0,Basic,5
+5020,Mighty Chainmail Leggings,Armor,0,Basic,7
+5021,Mighty Apprentice Shoes,Armor,0,Basic,5
+5022,Mighty Apprentice Coat,Armor,0,Basic,8
+5023,Mighty Apprentice Gloves,Armor,0,Basic,5
+5024,Mighty Apprentice Pants,Armor,0,Basic,7
+5025,Mighty Rawhide Boots,Armor,0,Basic,5
+5026,Mighty Rawhide Vest,Armor,0,Basic,8
+5027,Mighty Rawhide Bracers,Armor,0,Basic,5
+5028,Mighty Rawhide Leggings,Armor,0,Basic,7
+5029,Mighty Chainmail Footgear,Armor,10,Basic,8
+5030,Mighty Chainmail Chestpiece,Armor,10,Basic,12
+5031,Mighty Chainmail Gauntlets,Armor,10,Basic,7
+5032,Mighty Chainmail Helm,Armor,10,Basic,10
+5033,Mighty Chainmail Leggings,Armor,10,Basic,11
+5034,Mighty Apprentice Shoes,Armor,10,Basic,8
+5035,Mighty Apprentice Coat,Armor,10,Basic,12
+5036,Mighty Apprentice Gloves,Armor,10,Basic,7
+5037,Mighty Apprentice Band,Armor,10,Basic,10
+5038,Mighty Apprentice Pants,Armor,10,Basic,11
+5039,Mighty Rawhide Boots,Armor,10,Basic,8
+5040,Mighty Rawhide Vest,Armor,10,Basic,12
+5041,Mighty Rawhide Bracers,Armor,10,Basic,7
+5042,Mighty Rawhide Mask,Armor,10,Basic,10
+5043,Mighty Rawhide Leggings,Armor,10,Basic,11
+5044,Mighty Chainmail Footgear,Armor,15,Basic,10
+5045,Mighty Chainmail Chestpiece,Armor,15,Basic,15
+5046,Mighty Chainmail Gauntlets,Armor,15,Basic,9
+5047,Mighty Chainmail Helm,Armor,15,Basic,13
+5048,Mighty Chainmail Leggings,Armor,15,Basic,14
+5049,Mighty Chainmail Shoulders,Armor,15,Basic,11
+5050,Mighty Apprentice Shoes,Armor,15,Basic,10
+5051,Mighty Apprentice Coat,Armor,15,Basic,15
+5052,Mighty Apprentice Gloves,Armor,15,Basic,9
+5053,Mighty Apprentice Band,Armor,15,Basic,13
+5054,Mighty Apprentice Pants,Armor,15,Basic,14
+5055,Mighty Apprentice Shoulders,Armor,15,Basic,11
+5056,Mighty Rawhide Boots,Armor,15,Basic,10
+5057,Mighty Rawhide Vest,Armor,15,Basic,15
+5058,Mighty Rawhide Bracers,Armor,15,Basic,9
+5059,Mighty Rawhide Mask,Armor,15,Basic,13
+5060,Mighty Rawhide Leggings,Armor,15,Basic,14
+5061,Mighty Rawhide Shoulders,Armor,15,Basic,11
+5062,Mighty Chainmail Footgear,Armor,20,Basic,12
+5063,Mighty Chainmail Chestpiece,Armor,20,Basic,18
+5064,Mighty Chainmail Gauntlets,Armor,20,Basic,11
+5065,Mighty Chainmail Helm,Armor,20,Basic,15
+5066,Mighty Chainmail Leggings,Armor,20,Basic,17
+5067,Mighty Chainmail Shoulders,Armor,20,Basic,14
+5068,Mighty Apprentice Shoes,Armor,20,Basic,12
+5069,Mighty Apprentice Coat,Armor,20,Basic,18
+5070,Mighty Apprentice Gloves,Armor,20,Basic,11
+5071,Mighty Apprentice Band,Armor,20,Basic,15
+5072,Mighty Apprentice Pants,Armor,20,Basic,17
+5073,Mighty Apprentice Shoulders,Armor,20,Basic,14
+5074,Mighty Rawhide Boots,Armor,20,Basic,12
 5075,Mighty Rawhide Vest,Armor,20,Basic,18
 5076,Mighty Rawhide Bracers,Armor,20,Basic,11
 5077,Mighty Rawhide Mask,Armor,20,Basic,15
@@ -67509,6 +67709,7 @@ id,name,type,level,rarity,vendor_value
 104063,Mini Plush Fox,MiniPet,0,Exotic,50
 104064,Plush Longbow,Weapon,80,Exotic,396
 104065,Recipe: Jolly Bow,Consumable,0,Basic,50
+104066,Coffers of Ascended Shards of Glory,Consumable,0,Rare,0
 104068,Vengeful Wolf Rider Helm Skin,Consumable,0,Masterwork,0
 104069,"Homestead Recipe Book: Wintersday, Volume 1",Consumable,0,Exotic,0
 104071,Plush Mace,Weapon,80,Exotic,264
