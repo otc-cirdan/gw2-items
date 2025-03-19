@@ -67502,6 +67502,7 @@ id,name,type,level,rarity,vendor_value
 103799,Box of Purified Rift Essence Components,Container,0,Ascended,320
 103800,Gauntlets of Decima,Armor,80,Ascended,240
 103801,Proof of Siege Expertise,Consumable,0,Basic,0
+103802,Gold Decima Trophy,Consumable,0,Basic,0
 103803,Natural Impaler,Weapon,80,Ascended,10000
 103804,Homestead Recipe Book: Tables and Chairs,Consumable,0,Exotic,0
 103805,Natural Razor,Weapon,80,Ascended,10000
@@ -67589,6 +67590,7 @@ id,name,type,level,rarity,vendor_value
 103909,Blood Moon Dagger of Blood,Weapon,80,Exotic,264
 103911,Infinite Siege Golem Blueprint,Gizmo,0,Ascended,1
 103913,Pile of Recycled Siege Equipment,Trophy,0,Basic,0
+103914,Gold Ura Trophy,Consumable,0,Basic,0
 103915,Infinite Shield Generator Blueprint,Gizmo,0,Ascended,1
 103916,"Homestead Recipe Book: World vs. World, Volume 2",Consumable,0,Exotic,0
 103917,Natural Breeches,Armor,80,Ascended,240
@@ -67670,6 +67672,7 @@ id,name,type,level,rarity,vendor_value
 104015,Sea-Glass Wave Torch,Weapon,80,Ascended,330
 104017,Swampworn Lowland Shore Gear Box,Container,0,Exotic,256
 104018,Silver Ura Trophy,Consumable,0,Basic,0
+104019,Gold Greer Trophy,Consumable,0,Basic,0
 104020,Recipe: Greer's Token,Consumable,0,Basic,50
 104021,Blood Moon Staff of Blood,Weapon,80,Exotic,396
 104022,Relic of the Steamshrieker,Relic,60,Exotic,200
@@ -67878,6 +67881,7 @@ id,name,type,level,rarity,vendor_value
 104262,Recipe: Relic of the Golemancer,Consumable,0,Exotic,128
 104263,Mistburned Barrens Adventure: Silver,Container,0,Masterwork,0
 104264,Mini Yagon,MiniPet,0,Masterwork,50
+104268,28 Slot Black Lion Satchel,Bag,0,Exotic,256
 104269,Homestead Recipe: Statue of Joko the Fearsome,Consumable,0,Exotic,0
 104270,Old-Growth Torch Skin,Consumable,0,Rare,0
 104275,Spineback Crab,Container,0,Rare,192
@@ -67890,6 +67894,7 @@ id,name,type,level,rarity,vendor_value
 104285,Sinister Scavenged Obsidian Warhorn,Weapon,80,Exotic,264
 104289,Sinister Scavenged Obsidian Pistol,Weapon,80,Exotic,264
 104291,Sinister Scavenged Obsidian Longbow,Weapon,80,Exotic,396
+104292,"""/PoseHigh"" Emote Tome",Consumable,0,Exotic,0
 104293,Infused Aurora Leggings Skin,Consumable,0,Masterwork,0
 104294,Sinister Scavenged Obsidian Torch,Weapon,80,Exotic,264
 104295,Old-Growth Spear Skin,Consumable,0,Rare,0
@@ -67903,9 +67908,11 @@ id,name,type,level,rarity,vendor_value
 104306,Greer's Coffer,Container,0,Exotic,0
 104312,Old-Growth Selection Box,Container,0,Rare,0
 104313,Gift of Mistburned Barrens,CraftingMaterial,0,Legendary,0
+104314,"""/PoseCover"" Emote Tome",Consumable,0,Exotic,0
 104315,Skysage's Throne,Gizmo,0,Rare,0
 104317,Recipe: Relic of Surging,Consumable,0,Exotic,128
 104318,Homestead Recipe: Jade Tech Microwave,Consumable,0,Exotic,0
+104320,"""/PoseTwist"" Emote Tome",Consumable,0,Exotic,0
 104321,Homestead Recipe: Statue of Joko the Victorious,Consumable,0,Exotic,0
 104322,Woodland Kodan Leather Gloves,Armor,80,Exotic,238
 104323,"Homestead Recipe Book: Amnytas, Volume 1",Consumable,0,Exotic,0
@@ -67913,14 +67920,17 @@ id,name,type,level,rarity,vendor_value
 104328,Old-Growth Greatsword Skin,Consumable,0,Rare,0
 104330,Sinister Scavenged Obsidian Scepter,Weapon,80,Exotic,264
 104331,Curious Mursaat Ruin Shard,Consumable,0,Basic,0
+104332,"""/PoseLow"" Emote Tome",Consumable,0,Exotic,0
 104333,Sinister Scavenged Obsidian Rifle,Weapon,80,Exotic,396
 104335,"Homestead Recipe Book: Summit Banners, Volume 1",Consumable,0,Exotic,0
 104336,Recipe: Relic of the Holosmith,Consumable,0,Exotic,128
+104340,Bloodstone Infusion,UpgradeComponent,80,Exotic,10000
 104341,Shimmering Aurora Spear Skin,Consumable,0,Rare,0
 104342,Old-Growth Axe Skin,Consumable,0,Rare,0
 104344,Old-Growth Pistol Skin,Consumable,0,Rare,0
 104345,Sinister Scavenged Obsidian Greatsword,Weapon,80,Exotic,396
 104346,True Sight Heavy Mask,Armor,80,Exotic,330
+104349,Bloodstone Infusion,UpgradeComponent,80,Exotic,10000
 104350,True Sight Light Gloves,Armor,80,Exotic,238
 104351,Sinister Scavenged Obsidian Spear,Weapon,80,Exotic,396
 104352,True Sight Light Leggings,Armor,80,Exotic,370
@@ -67943,6 +67953,7 @@ id,name,type,level,rarity,vendor_value
 104380,Recipe: Relic of the Thorns,Consumable,0,Exotic,128
 104381,Sinister Scavenged Obsidian Staff,Weapon,80,Exotic,396
 104386,Bloodstone Infusion,UpgradeComponent,80,Exotic,10000
+104389,Fashion Poses Emote Tome,Container,0,Basic,0
 104391,True Sight Heavy Shoulders,Armor,80,Exotic,291
 104392,Forest Wisp,Trinket,80,Ascended,413
 104393,True Sight Armor Recipe: Leggings,Consumable,0,Exotic,0
