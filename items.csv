@@ -2614,6 +2614,7 @@ id,name,type,level,rarity,vendor_value
 2685,Cleric's Conjurer Pants of the Traveler,Armor,78,Rare,269
 2686,Cleric's Conjurer Pants of Balthazar,Armor,80,Rare,278
 2687,Conjurer Pants of Mercy,Armor,72,Rare,252
+2688,Conjurer Pants of Mercy,Armor,79,Rare,273
 2689,Conjurer Pants of Rage,Armor,80,Rare,278
 2690,Berserker's Seer Mantle of Infiltration,Armor,62,Exotic,234
 2691,Berserker's Seer Mantle of the Eagle,Armor,70,Exotic,260
@@ -46809,6 +46810,7 @@ id,name,type,level,rarity,vendor_value
 74336,Airship-Grade Scepter Gear,Trophy,80,Rare,100
 74337,Gold Deer Loot Box,Container,0,Basic,0
 74338,Heart of a Flame Effigy,Trophy,0,Exotic,264
+74339,Large Bag of Airship Parts,Consumable,0,Basic,0
 74340,Recipe: Viper's Pearl Broadsword,Consumable,0,Exotic,132
 74341,Oiled Orichalcum Gauntlet Lining,CraftingMaterial,0,Basic,8
 74342,Guild WXP Gain,Consumable,0,Basic,0
@@ -52188,6 +52190,7 @@ id,name,type,level,rarity,vendor_value
 82221,Brightwater Supply Crate,Trophy,0,Basic,0
 82224,Trader's Key,Consumable,0,Rare,0
 82225,Wish for Harmony,Consumable,0,Rare,96
+82229,Hunter Armor Box,Container,0,Basic,0
 82233,Funerary Leggings,Armor,80,Exotic,370
 82235,Springer,Consumable,0,Exotic,0
 82237,24-Slot Marshal's Saddlebag,Bag,0,Rare,162
@@ -52866,6 +52869,7 @@ id,name,type,level,rarity,vendor_value
 83360,Assassin's Rascal Shoulders of the Ranger,Armor,80,Exotic,0
 83361,Recipe: Superior Rune of the Renegade,Consumable,0,Exotic,108
 83364,Pristine Piece of Forged Armor,Trophy,0,Basic,0
+83365,Warbeast Armor Box,Container,0,Basic,0
 83367,Superior Rune of the Cavalier,UpgradeComponent,60,Exotic,65
 83368,Metal Aquabreather,Armor,80,Masterwork,165
 83369,Mini Accumulated Ley Energy,MiniPet,0,Masterwork,50
@@ -55584,7 +55588,7 @@ id,name,type,level,rarity,vendor_value
 87042,Amnoon Refugee Recording,Trophy,0,Rare,192
 87044,Recipe: Claw of Resolution,Consumable,0,Ascended,160
 87045,Crystal Corral: Gold,Container,0,Rare,0
-87048,Gilded Strongbox,Container,0,Basic,0
+87048,Sandswept Isles Coffer,Container,0,Basic,0
 87050,Storm-Charged Fulgurite,Trophy,0,Junk,10000
 87051,Module HR-874,Trophy,0,Rare,192
 87052,Lost Supply Recording,Trophy,0,Rare,192
@@ -67163,6 +67167,7 @@ id,name,type,level,rarity,vendor_value
 103208,Homestead Recipe Book: Pillars,Consumable,0,Exotic,0
 103209,Woad Medium Helm,Armor,80,Exotic,330
 103212,"Homestead Recipe Book: Lunar New Year, Volume 1",Consumable,0,Exotic,0
+103213,Recipe: Golden Sink,Consumable,0,Basic,50
 103215,Magi's Full Moon Pistol,Weapon,80,Rare,198
 103218,Recipe: Vale Guardian Pieces,Consumable,0,Basic,50
 103222,Wisteria Spear Skin,Consumable,0,Rare,0
@@ -68023,3 +68028,50 @@ id,name,type,level,rarity,vendor_value
 104500,"Homestead Recipe Book: Misc. Items, Volume 4",Consumable,0,Exotic,0
 104501,Relic of Fire,Relic,60,Exotic,200
 104502,Scavenged Obsidian Weapon Box,Container,0,Rare,0
+104503,Kurzick Tree Singer's Short Bow,Weapon,80,Exotic,396
+104506,Homestead Decoration: Café Chair (3),Consumable,0,Exotic,0
+104507,Tyrian Regions Reward Cache,Container,0,Basic,0
+104512,Kurzick Tree Singer's Greatsword,Weapon,80,Exotic,396
+104514,Synergetics Headset (Up) Skin,Consumable,0,Masterwork,0
+104515,Kurzick Tree Singer's Torch,Weapon,80,Exotic,264
+104516,Kurzick Tree Singer's Hammer,Weapon,80,Exotic,396
+104519,Kurzick Weapon Chest,Container,0,Exotic,0
+104520,Dungeon Weapon Container,Container,0,Basic,0
+104526,Homestead Decoration: Café Guide Beacons,Consumable,0,Exotic,0
+104527,Kurzick Tree Singer's Sword,Weapon,80,Exotic,264
+104528,Living World Season 4 Cache,Container,0,Basic,0
+104530,Bag of Ley-Line Crystals,Consumable,0,Rare,92
+104531,Kurzick Tree Singer's Mace,Weapon,80,Exotic,264
+104532,End of Dragons Reward Coffer,Container,0,Basic,0
+104534,Kurzick Tree Singer's Shield,Weapon,80,Exotic,264
+104535,Cloaked Cat Mantle Box,Container,0,Exotic,256
+104537,Season 4 Material Chest,Container,0,Basic,0
+104538,Homestead Decoration: Café Food Station,Consumable,0,Exotic,0
+104539,Celestial Cloaked Cat Mantle,Armor,80,Exotic,291
+104540,Kurzick Tree Singer's Dagger,Weapon,80,Exotic,264
+104541,Living World Season 3 Cache,Container,0,Basic,0
+104544,Kurzick Tree Singer's Scepter,Weapon,80,Exotic,264
+104545,Dungeon Armor Container,Container,0,Basic,0
+104547,Sweet Treat Logging Tool,Gathering,0,Rare,192
+104550,Dungeon Token Loot Box,Container,0,Basic,0
+104554,Kurzick Tree Singer's Longbow,Weapon,80,Exotic,396
+104555,Kurzick Tree Singer's Staff,Weapon,80,Exotic,396
+104557,Celestial Cloaked Cat Mantle,Armor,80,Exotic,291
+104558,Sweet Treat Harvesting Tool,Gathering,0,Rare,192
+104560,Sweet Treat Mining Tool,Gathering,0,Rare,192
+104562,End of Dragons Reward Coffer,Container,0,Basic,0
+104563,Celestial Cloaked Cat Mantle,Armor,80,Exotic,291
+104564,Avian Aspect Helm Skin,Consumable,0,Masterwork,0
+104565,Synergetics Headset Pack,Container,0,Masterwork,0
+104566,Chatoyant Infusion,UpgradeComponent,80,Exotic,10000
+104567,Homestead Decoration Box: Café Console,Consumable,0,Exotic,0
+104570,WvW Exclusives Choice Chest,Container,0,Basic,0
+104575,Kurzick Tree Singer's Spear,Weapon,80,Exotic,396
+104576,Kurzick Tree Singer's Rifle,Weapon,80,Exotic,396
+104577,Kurzick Tree Singer's Warhorn,Weapon,80,Exotic,264
+104578,Kurzick Tree Singer's Axe,Weapon,80,Exotic,264
+104579,Heart of Thorns Currency Choice,Container,0,Basic,0
+104583,Synergetics Headset (Down) Skin,Consumable,0,Masterwork,0
+104584,Sunspear Armor Box,Container,0,Basic,0
+104585,Homestead Decoration: Café Transporter,Consumable,0,Exotic,0
+104586,Bag of Aurillium,Consumable,0,Rare,92
