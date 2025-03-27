@@ -67935,6 +67935,7 @@ id,name,type,level,rarity,vendor_value
 104344,Old-Growth Pistol Skin,Consumable,0,Rare,0
 104345,Sinister Scavenged Obsidian Greatsword,Weapon,80,Exotic,396
 104346,True Sight Heavy Mask,Armor,80,Exotic,330
+104347,Mistburned Renown Chest,Gizmo,0,Exotic,0
 104349,Bloodstone Infusion,UpgradeComponent,80,Exotic,10000
 104350,True Sight Light Gloves,Armor,80,Exotic,238
 104351,Sinister Scavenged Obsidian Spear,Weapon,80,Exotic,396
@@ -68032,6 +68033,7 @@ id,name,type,level,rarity,vendor_value
 104506,Homestead Decoration: Café Chair (3),Consumable,0,Exotic,0
 104507,Tyrian Regions Reward Cache,Container,0,Basic,0
 104512,Kurzick Tree Singer's Greatsword,Weapon,80,Exotic,396
+104513,Kurzick Tree Singer's Pistol,Weapon,80,Exotic,264
 104514,Synergetics Headset (Up) Skin,Consumable,0,Masterwork,0
 104515,Kurzick Tree Singer's Torch,Weapon,80,Exotic,264
 104516,Kurzick Tree Singer's Hammer,Weapon,80,Exotic,396
@@ -68053,6 +68055,7 @@ id,name,type,level,rarity,vendor_value
 104544,Kurzick Tree Singer's Scepter,Weapon,80,Exotic,264
 104545,Dungeon Armor Container,Container,0,Basic,0
 104547,Sweet Treat Logging Tool,Gathering,0,Rare,192
+104549,Kurzick Tree Singer's Focus,Weapon,80,Exotic,264
 104550,Dungeon Token Loot Box,Container,0,Basic,0
 104554,Kurzick Tree Singer's Longbow,Weapon,80,Exotic,396
 104555,Kurzick Tree Singer's Staff,Weapon,80,Exotic,396
