@@ -5074,8 +5074,15 @@ id,name,type,level,rarity,vendor_value
 5347,Whisper's Secret Hood,Armor,80,Rare,1900
 5348,Whisper's Secret Leggings,Armor,80,Rare,2200
 5349,Whisper's Secret Shoulderguards,Armor,80,Rare,1700
+5353,Apprentice Shoes of the Elementalist,Armor,80,Exotic,0
+5354,Guild Archmage Robes of the Elementalist,Armor,80,Exotic,0
+5355,Guild Archmage Pants of the Elementalist,Armor,80,Exotic,0
+5362,Apprentice Gloves of the Elementalist,Armor,80,Exotic,0
+5363,Apprentice Shoulders of the Elementalist,Armor,80,Exotic,0
+5364,Apprentice Band of the Elementalist,Armor,80,Exotic,0
 5387,Guild Archmage Robes of the Mesmer,Armor,80,Exotic,0
 5390,Guild Archmage Pants of the Mesmer,Armor,80,Exotic,0
+5398,Cloth Aquabreather,Armor,80,Exotic,0
 5407,Magician Boots,Armor,0,Exotic,0
 5408,Magician Coat,Armor,0,Exotic,0
 5409,Magician Gloves,Armor,0,Exotic,0
@@ -6427,6 +6434,7 @@ id,name,type,level,rarity,vendor_value
 8642,Quaggan Bag of Goods,Container,0,Fine,22
 8643,Snowball,Consumable,0,Basic,5
 8644,Potion of Jackalope Transformation,Consumable,10,Masterwork,15
+8645,Potion of Wolf Transformation,Consumable,10,Masterwork,15
 8646,Jafri's Package of Snowballs,Consumable,0,Fine,25
 8647,Smoke Bomb,Consumable,10,Basic,4
 8648,Molachev Cocktail,Consumable,0,Basic,2
@@ -14294,6 +14302,7 @@ id,name,type,level,rarity,vendor_value
 19403,Matrix Cube Key,Trophy,0,Basic,0
 19404,Matrix Cube Key,Trophy,0,Basic,0
 19405,Matrix Cube Key,Trophy,0,Basic,0
+19415,Wiley Pirate Paper Scraps,Trophy,0,Basic,0
 19418,Stolen Sack of Feed,Trophy,0,Basic,0
 19431,Letter of Thanks,Consumable,0,Fine,25
 19432,Eloquent Letter of Thanks,Consumable,0,Masterwork,250
@@ -14913,8 +14922,12 @@ id,name,type,level,rarity,vendor_value
 20321,Endless Mystery Tonic,Gizmo,0,Exotic,0
 20322,Snow Owl Tonic,Consumable,0,Basic,0
 20323,Unidentified Dye,Container,0,Basic,0
+20324,Black Lion Harvesting Sickle,Gathering,0,Rare,0
+20325,Black Lion Logging Axe,Gathering,0,Rare,0
+20326,Black Lion Mining Pick,Gathering,0,Rare,0
 20327,Eagle Tonic,Consumable,0,Basic,0
 20328,Owl Tonic,Consumable,0,Basic,0
+20329,Golemite Tonic,Consumable,0,Basic,0
 20330,Jackalope Tonic,Consumable,0,Basic,0
 20331,Leopard Tonic,Consumable,0,Basic,0
 20332,Minotaur Tonic,Consumable,0,Basic,0
@@ -15404,6 +15417,7 @@ id,name,type,level,rarity,vendor_value
 21046,Tome of Influence,Consumable,0,Legendary,0
 21047,Mini Rytlock,MiniPet,0,Basic,0
 21048,Golem Banker,Gizmo,0,Basic,0
+21083,Soldier's Amulet,Trinket,80,Exotic,0
 21092,Rune of Strength,UpgradeComponent,0,Exotic,0
 21119,Flawed Guild Catapult Blueprint,Gizmo,0,Basic,1
 21121,Sigil of Agony,UpgradeComponent,0,Exotic,0
@@ -15472,6 +15486,8 @@ id,name,type,level,rarity,vendor_value
 21221,Rune of Sanctuary,UpgradeComponent,0,Exotic,0
 21222,Rune of Orr,UpgradeComponent,0,Exotic,0
 21237,Staff of Life,Weapon,80,Exotic,0
+21241,Staff of Smoldering,Weapon,80,Exotic,0
+21242,Trident of Force,Weapon,80,Exotic,0
 21259,Siege Golem Blueprint,Gizmo,0,Basic,1
 21260,Superior Arrow Cart Blueprint,Gizmo,0,Basic,1
 21261,Superior Ballista Blueprint,Gizmo,0,Basic,1
@@ -15584,12 +15600,21 @@ id,name,type,level,rarity,vendor_value
 23010,Mithril Mining Pick,Gathering,45,Basic,20
 23011,Mithril Mining Pick,Gathering,60,Fine,54
 23013,Mithril Harvesting Sickle,Gathering,60,Fine,54
+23020,Master Harvesting Sickle,Gathering,35,Masterwork,72
+23021,Master Logging Axe,Gathering,35,Masterwork,72
+23022,Master Mining Pick,Gathering,35,Masterwork,72
 23023,Splitting Axe,Gathering,45,Masterwork,86
 23024,Mining Pick,Gathering,45,Masterwork,86
 23025,Foraging Sickle,Gathering,50,Masterwork,94
+23026,Master Harvesting Sickle,Gathering,60,Masterwork,108
+23027,Master Logging Axe,Gathering,60,Masterwork,108
+23028,Master Mining Pick,Gathering,60,Masterwork,108
 23029,Copper Harvesting Sickle,Gathering,0,Basic,3
 23030,Copper Logging Axe,Gathering,0,Basic,3
 23031,Copper Mining Pick,Gathering,0,Basic,3
+23032,Master Harvesting Sickle,Gathering,15,Masterwork,44
+23033,Master Logging Axe,Gathering,15,Masterwork,44
+23034,Master Mining Pick,Gathering,0,Masterwork,44
 23035,Pick Axe,Gathering,32,Basic,16
 23036,Worker's Sickle,Gathering,34,Basic,17
 23037,Bun Yan Axe,Gathering,20,Basic,11
@@ -27149,7 +27174,10 @@ id,name,type,level,rarity,vendor_value
 36376,Witch's Coat,Armor,0,Rare,0
 36379,Witch's Outfit,Container,0,Rare,0
 36380,Spooky Ghost Tonic,Consumable,0,Masterwork,0
+36381,Spooky Zombie Tonic,Consumable,0,Masterwork,0
 36382,Spooky Skeleton Tonic,Consumable,0,Masterwork,0
+36384,Mad Memoires I: Boyhood,Trophy,0,Fine,4
+36385,Mad Memoires II: Friendship,Trophy,0,Fine,4
 36396,Candy-Powered Matter Meter,Gizmo,0,Basic,0
 36397,Mad Memoires,Back,0,Fine,29
 36398,Mad Memoires: Complete Edition,Back,0,Masterwork,128
@@ -27489,6 +27517,7 @@ id,name,type,level,rarity,vendor_value
 36969,Alchemical Bottle,Consumable,0,Basic,1
 36979,Alchemical Bottle,Weapon,0,Fine,0
 36989,Alchemical Bottle,Consumable,0,Basic,1
+36994,Mysterious Soggy Bag,Trophy,0,Basic,0
 36996,Map Fragment,Trophy,0,Basic,0
 36997,Map of Southsun Cove,Trophy,0,Basic,0
 36998,Unhatched Swarm Egg,Trophy,0,Basic,0
@@ -28272,6 +28301,7 @@ id,name,type,level,rarity,vendor_value
 38296,Recipe: Giver's Mithril Imbued Inscription,Consumable,0,Rare,96
 38297,Recipe: Bringer's Orichalcum-Imbued Inscription,Consumable,0,Exotic,128
 38298,15-Slot Gift Box,Bag,0,Basic,27
+38299,Ultimate Wintersday Gift,Container,0,Exotic,16
 38300,Mystical Cog,CraftingMaterial,0,Exotic,1
 38301,Wad of Enchanted Stuffing,Trophy,0,Masterwork,1
 38302,Drop of Magic Glue,Trophy,0,Masterwork,1
@@ -29181,12 +29211,14 @@ id,name,type,level,rarity,vendor_value
 39626,Guild Merit,Trophy,0,Basic,0
 39695,Guild Commendation,Consumable,0,Masterwork,500
 39696,Guild Banner Tonic,Consumable,0,Rare,96
+39697,Guild Armor Station,Consumable,0,Basic,0
 39698,Guild Experience Banner,Consumable,0,Basic,0
 39699,Guild Gathering Banner,Consumable,0,Basic,0
 39700,Guild Karma Banner,Consumable,0,Basic,0
 39701,Guild Magic Find Banner,Consumable,0,Basic,0
 39702,Guild Road Marker,Consumable,0,Basic,0
 39703,Guild Banquet,Consumable,0,Basic,0
+39705,Guild Weapon Stations,Consumable,0,Basic,0
 39706,Guild Heroes Banner,Consumable,0,Basic,0
 39707,Guild Gathering and Swiftness Banner,Consumable,0,Basic,0
 39708,Guild Gold and Magic Find Banner,Consumable,0,Basic,0
@@ -30096,7 +30128,9 @@ id,name,type,level,rarity,vendor_value
 42418,Heavy Fused Gauntlets,Armor,80,Exotic,238
 42419,Medium Fused Gauntlets,Armor,80,Exotic,238
 42420,Light Fused Gauntlets,Armor,80,Exotic,238
+42424,Fervid Censer,Back,80,Rare,198
 42425,Sclerite Karka Shell,Back,80,Ascended,330
+42426,Sclerite Karka Shell,Back,80,Exotic,264
 42427,Potion Of Karka Slaying,Consumable,80,Fine,2
 42428,Potion Of Karka Toughness,Consumable,80,Fine,2
 42429,Settler's Banded Greaves of the Eagle,Armor,80,Exotic,264
@@ -30411,6 +30445,7 @@ id,name,type,level,rarity,vendor_value
 42968,Captain's Airship Pass (2 weeks),Gizmo,0,Masterwork,0
 42970,Additional Crafting License,Consumable,0,Rare,0
 42973,Flute,Gizmo,0,Rare,0
+42974,Kite Fortune,Container,0,Rare,0
 42976,Boost Enchantment Powder,Gizmo,0,Rare,125
 42978,Wintersday Minis 3-Pack,Container,0,Masterwork,0
 42979,Heroic Chest,Container,0,Masterwork,0
@@ -30505,6 +30540,7 @@ id,name,type,level,rarity,vendor_value
 43253,Malign WvW Infusion,UpgradeComponent,0,Fine,8
 43254,Mighty WvW Infusion,UpgradeComponent,0,Fine,8
 43255,Precise WvW Infusion,UpgradeComponent,0,Fine,8
+43300,Investigation Kit,Gizmo,0,Basic,0
 43301,Bag of Race Track Winnings,Container,0,Exotic,0
 43302,Bag of Race Track Winnings,Container,0,Exotic,0
 43307,Fireworks,Weapon,0,Basic,0
@@ -30522,6 +30558,7 @@ id,name,type,level,rarity,vendor_value
 43350,Holographic Shattered Dragon Wing Cover,Consumable,0,Rare,250
 43351,Aetherized Tonic,Consumable,0,Masterwork,64
 43352,Infinite Aetherized Tonic,Gizmo,0,Exotic,256
+43353,Marjory's Journal,Gizmo,0,Basic,0
 43357,Dragon Coffer,Container,0,Masterwork,0
 43358,Kralkachocolate Bar,Consumable,80,Basic,16
 43359,Dragonfly Cupcake,Consumable,80,Basic,16
@@ -31447,6 +31484,10 @@ id,name,type,level,rarity,vendor_value
 45011,Mini Mr. Sparkles,MiniPet,0,Exotic,50
 45016,Quip,Weapon,80,Legendary,0
 45017,Quip,Weapon,80,Legendary,0
+45022,Oscillating Diaphragm,Trophy,0,Basic,0
+45023,Focusing Crystal,Trophy,0,Basic,0
+45024,Translocator Beacon,Trophy,0,Basic,0
+45025,Positional Relay Beacon,Trophy,0,Basic,0
 45027,Twisted Watchwork Portal Device,Consumable,0,Exotic,0
 45028,Recipe: Twisted Watchwork Portal Device,Consumable,0,Exotic,0
 45029,Gift from Scarlet,Container,0,Fine,100
@@ -34872,6 +34913,7 @@ id,name,type,level,rarity,vendor_value
 48756,Mini Caithe,MiniPet,0,Exotic,100
 48761,Mini Dolyak,MiniPet,0,Rare,50
 48763,WvW Season 1 Participation Bag,Container,0,Exotic,0
+48796,Mad King Chest,Container,0,Exotic,256
 48803,Tassi's Relay Golem,Gizmo,0,Rare,0
 48804,Gift of Candy Corn,Consumable,0,Rare,0
 48805,High-Quality Plastic Fangs,CraftingMaterial,0,Rare,37
@@ -34914,6 +34956,7 @@ id,name,type,level,rarity,vendor_value
 48920,Recipe: Toxic Tuning Crystal,Consumable,0,Fine,27
 48921,Bowl of Marjory's Experimental Chili,Consumable,80,Fine,33
 48922,Recipe: Marjory's Experimental Chili,Consumable,0,Fine,27
+48923,Krait Obelisk Shard Transcriber,Trophy,0,Basic,0
 48924,Blacklight Dye,Consumable,0,Rare,5
 48925,Cobolt Dye,Consumable,0,Rare,5
 48926,Cyanide Dye,Consumable,0,Rare,5
@@ -43504,6 +43547,7 @@ id,name,type,level,rarity,vendor_value
 69430,Shaman's Reclaimed Greatsword of Earth,Weapon,80,Masterwork,198
 69432,Pile of Auric Dust,CraftingMaterial,0,Ascended,0
 69434,Bottle of Airship Oil,CraftingMaterial,0,Ascended,80
+69444,Note from Caithe,Trophy,0,Basic,0
 69445,Shaman's Reclaimed Rifle,Weapon,80,Fine,99
 69451,Shadow Orange Dye,Consumable,0,Rare,50
 69455,Shaman's Reclaimed Pistol,Weapon,76,Fine,63
@@ -51322,6 +51366,7 @@ id,name,type,level,rarity,vendor_value
 80735,Ardent Glorious Breastplate Skin,Consumable,0,Exotic,0
 80738,Mini Elegant Emperor Llama,MiniPet,0,Exotic,50
 80739,Ardent Glorious Footgear Skin,Consumable,0,Exotic,0
+80740,Illustrious Guise,Armor,80,Ascended,0
 80741,Caladbolg Iridi,Weapon,80,Ascended,330
 80743,Empowered Cured Thick Leather Square,CraftingMaterial,0,Ascended,80
 80744,Ardent Glorious Shoulderguard Skin,Consumable,0,Exotic,0
@@ -61625,6 +61670,7 @@ id,name,type,level,rarity,vendor_value
 95090,Flames of War,Container,0,Legendary,0
 95091,Archdemon Wings Glider,Consumable,0,Masterwork,0
 95092,Legendary Cache,Container,0,Legendary,0
+95093,Legendary Equipment Unlocked!,Trinket,0,Legendary,0
 95097,The Dreamer,Container,0,Legendary,0
 95098,Marionette Community Goal Reward,Container,0,Fine,0
 95100,The Juggernaut,Container,0,Legendary,0
@@ -62184,6 +62230,7 @@ id,name,type,level,rarity,vendor_value
 95742,Jade Tech Hammer,Weapon,80,Exotic,396
 95745,Bowl of Canthan Vegetable Mix,CraftingMaterial,80,Fine,17
 95746,Scavenger Bag: Metal,Container,0,Basic,32
+95747,Seething Terror Stone,Trophy,0,Exotic,256
 95748,Mini Navan,MiniPet,0,Masterwork,50
 95749,Suun's Herald,Weapon,80,Ascended,10000
 95750,Catalyst's Cache,Container,0,Rare,0
@@ -62998,6 +63045,7 @@ id,name,type,level,rarity,vendor_value
 96869,Togo's Spire,Weapon,80,Ascended,10000
 96871,Skiff Supercharger 1,JadeTechModule,80,Masterwork,128
 96872,Jar of Scorpions,Container,0,Fine,64
+96873,Seething Anguish Stone,Trophy,0,Exotic,256
 96874,Giant Octopus,Container,0,Ascended,320
 96875,Vindicator's Cache,Container,0,Rare,192
 96876,Pollock,Container,0,Basic,32
@@ -63057,6 +63105,7 @@ id,name,type,level,rarity,vendor_value
 96955,Saltspray Greatsword,Weapon,80,Exotic,396
 96956,Badge of the Mechanist,Trophy,0,Exotic,5000
 96957,Notes on Dual Identities,Consumable,80,Exotic,132
+96958,Seething Hunger Stone,Trophy,0,Exotic,256
 96959,Dragon's Jade Tech Gauntlets,Armor,80,Exotic,238
 96960,Recipe: Jade Orichalcum Ring,Consumable,0,Exotic,132
 96962,Togo's Doublet,Armor,80,Ascended,240
@@ -63532,6 +63581,7 @@ id,name,type,level,rarity,vendor_value
 97597,Bowl of Chopped Flavorful Fish,Consumable,0,Basic,5000
 97598,Fortified Precursor Rifle Barrel,CraftingMaterial,0,Exotic,64
 97599,Vindicator's Trinket,Trinket,80,Exotic,330
+97600,Seething Fury Stone,Trophy,0,Exotic,256
 97601,Scavenger Bag: Cloth,Container,0,Basic,32
 97602,Demise of the Dragon,Weapon,80,Exotic,396
 97604,Stingray,Container,0,Exotic,256
@@ -63554,6 +63604,7 @@ id,name,type,level,rarity,vendor_value
 97631,Dragon's Jade Tech Coat,Armor,80,Exotic,396
 97632,Badge of Dissonance,Trinket,80,Exotic,528
 97633,Guide to Kurzick Combat Stances,Consumable,80,Exotic,132
+97634,Seething Bloodthirst Stone,Trophy,0,Exotic,256
 97635,Harrier's Light Monastery Gloves,Armor,80,Exotic,238
 97636,Endless Shark Tonic,Gizmo,0,Exotic,104
 97638,Recipe: Togo's Razor,Consumable,0,Ascended,160
@@ -63617,6 +63668,7 @@ id,name,type,level,rarity,vendor_value
 97725,Recipe: Suun's Wristguards,Consumable,0,Ascended,160
 97726,Martial Artist's Headband,Consumable,80,Exotic,132
 97729,Ritualist's Ancient Kraken Gauntlets,Armor,80,Exotic,238
+97730,Fishing Rod,Gathering,0,Basic,0
 97731,Ascalon Fishing License,Consumable,0,Exotic,0
 97732,Shadow Serpent Sword,Weapon,80,Exotic,264
 97734,Recipe: Bowl of Echovald Hotpot,Consumable,0,Ascended,0
@@ -64118,6 +64170,7 @@ id,name,type,level,rarity,vendor_value
 98372,Zephyrite Shawl,Container,0,Exotic,0
 98385,Dragon Decade Shield Skin,Consumable,0,Exotic,0
 98397,Birthday Gift,Container,0,Rare,100
+98412,Lingering Branded Aether,Consumable,80,Exotic,132
 98424,Anniversary Achievement Box,Container,0,Rare,192
 98427,Watchwork Mace,Weapon,80,Exotic,264
 98430,Water Dragon Greaves Skin,Consumable,0,Masterwork,0
@@ -64142,8 +64195,10 @@ id,name,type,level,rarity,vendor_value
 98496,Seven Dragon Dye Pack,Container,0,Rare,0
 98500,Fragment of Prismatic Fury,Gizmo,0,Legendary,0
 98501,Birthday Gift,Container,0,Rare,100
+98502,Scale Fragment of Kralkatorrik,Gizmo,0,Exotic,0
 98503,Water Dragon Gauntlets Skin,Consumable,0,Masterwork,0
 98506,Watchwork Rifle,Weapon,80,Exotic,396
+98508,Purified Branded Aether,Consumable,80,Exotic,132
 98519,Kralkatorrik's Claw Skin,Consumable,0,Legendary,0
 98521,Watchwork Pistol,Weapon,80,Exotic,264
 98523,Windswept Blade,Weapon,80,Exotic,264
@@ -64302,9 +64357,11 @@ id,name,type,level,rarity,vendor_value
 98989,Kasmeer's Illusioned Coin Purse,Bag,0,Basic,27
 98990,,Consumable,0,Junk,10
 98991,,Consumable,0,Junk,10
+98994,Purified Icebrood Aether,Consumable,80,Exotic,132
 98995,"""/Serve"" Emote Tome",Consumable,0,Exotic,0
 98999,Jormag's Weight Skin,Consumable,0,Legendary,0
 99000,Jormag's Bite Skin,Consumable,0,Legendary,0
+99001,Scale Fragment of Jormag,Gizmo,0,Exotic,0
 99003,Jormag's Fang Skin,Consumable,0,Legendary,0
 99004,Bag of Gear,Container,0,Masterwork,0
 99005,Playful Ghost Jade Bot Skin,Consumable,0,Rare,0
@@ -64319,6 +64376,7 @@ id,name,type,level,rarity,vendor_value
 99020,Auspicious Pixiu Skyscale Skin,Consumable,0,Exotic,0
 99021,Maid Outfit,Consumable,0,Rare,0
 99023,Jormag's Claw Skin,Consumable,0,Legendary,0
+99024,Purified Scale Fragment of Jormag,Gizmo,0,Exotic,0
 99025,Jormag's Argument Skin,Consumable,0,Legendary,0
 99027,Scale Splinter of Jormag,Gizmo,0,Exotic,0
 99028,Uncharged Fragment of Prismatic Persuasion,Trophy,0,Exotic,0
@@ -64332,6 +64390,7 @@ id,name,type,level,rarity,vendor_value
 99037,Scale Splinter of Jormag,Gizmo,0,Exotic,0
 99039,Umbral Serpent Backpack and Glider Combo,Consumable,0,Masterwork,0
 99041,Jormag's Scale Skin,Consumable,0,Legendary,0
+99042,Lingering Icebrood Aether,Consumable,80,Exotic,132
 99043,Butler Outfit,Consumable,0,Rare,0
 99045,Jormag's Wisdom Skin,Consumable,0,Legendary,0
 99047,Dokkaebi Axe Skin,Consumable,0,Rare,0
@@ -64658,12 +64717,16 @@ id,name,type,level,rarity,vendor_value
 99379,Mocha of the Mists Coffee Pitcher,Consumable,80,Exotic,128
 99380,Brewery Chair,Gizmo,0,Rare,0
 99381,Coffee Maestro's Supplies,Container,0,Rare,0
+99382,Mote of Bliss,Trophy,0,Exotic,256
+99383,Mote of Courage,Trophy,0,Exotic,256
+99384,Mote of Bloodthirst,Trophy,0,Exotic,256
 99386,Luxon Hunter's Sword,Weapon,80,Exotic,264
 99387,Virtuoso's Cache,Container,0,Rare,192
 99388,Week 4 Requisition Credit,Consumable,0,Basic,0
 99389,Xunlai Aether Detector,Weapon,80,Exotic,264
 99390,Fragment of Prismatic Life,Gizmo,0,Legendary,0
 99391,Serpentine Tattoo Legs Skin,Consumable,0,Masterwork,0
+99392,Mote of Satiation,Trophy,0,Exotic,256
 99393,Soo-Won's Gaze Skin,Consumable,0,Legendary,0
 99394,Bestial Tides Tattoo Chest Skin,Consumable,0,Masterwork,0
 99395,Recipe: Turtle Pilot Booster,Consumable,0,Exotic,128
@@ -64676,6 +64739,7 @@ id,name,type,level,rarity,vendor_value
 99405,The Hunger That Renews,Weapon,80,Exotic,264
 99406,Harbinger's Cache,Container,0,Rare,192
 99407,Soo-Won's Rending Skin,Consumable,0,Legendary,0
+99408,Mist-Touched Staff Fragment,Trophy,0,Exotic,256
 99409,Light Special Ops Pauldrons,Armor,80,Ascended,363
 99410,Luxon Hunter's Mace,Weapon,80,Exotic,264
 99412,Soo-Won's Breath Skin,Consumable,0,Legendary,0
@@ -64689,13 +64753,19 @@ id,name,type,level,rarity,vendor_value
 99421,Luxon Hunter's Greatsword,Weapon,80,Exotic,396
 99422,Cask of Shiverpeak Stout,Consumable,0,Rare,96
 99423,Soo-Won's Argument Skin,Consumable,0,Legendary,0
+99424,Mote of Compassion,Trophy,0,Exotic,256
 99425,Heavy Special Ops Pauldrons,Armor,80,Ascended,363
+99426,Mote of Fury,Trophy,0,Exotic,256
 99427,Scale Splinter of Soo-Won,Gizmo,0,Exotic,0
 99428,"Mining Air Filter, Grade A",Consumable,0,Basic,0
 99429,The Anguish That Festers,Weapon,80,Exotic,264
 99431,Replica Oni Arms,Consumable,80,Exotic,132
+99432,Self-Assembling Longbow Fragment,Trophy,0,Exotic,256
 99433,The Bloodthirst That Lingers,Weapon,80,Exotic,264
+99434,Self-Assembling Dagger Fragment,Trophy,0,Exotic,256
+99435,Self-Assembling Axe Fragment,Trophy,0,Exotic,256
 99436,Scale Splinter of Soo-Won,Gizmo,0,Exotic,0
+99437,Mist-Touched Sword Fragment,Trophy,0,Exotic,256
 99438,Jade Tech Visor Skin,Consumable,0,Masterwork,0
 99442,Soo-Won's Insight Skin,Consumable,0,Legendary,0
 99443,Soo-Won's Persuasion Skin,Consumable,0,Legendary,0
@@ -64713,12 +64783,14 @@ id,name,type,level,rarity,vendor_value
 99459,Light Special Ops Pants,Armor,80,Ascended,462
 99460,Bottle of Ironbrew,Consumable,0,Rare,96
 99461,Untamed's Cache,Container,0,Rare,192
+99462,Mist-Touched Axe Fragment,Trophy,0,Exotic,256
 99463,The Terror That Grows,Weapon,80,Exotic,396
 99465,Mechanist's Cache,Container,0,Rare,192
 99466,Willbender's Cache,Container,0,Rare,192
 99468,Heavy Special Ops Harness,Armor,80,Ascended,495
 99469,Luxon Hunter's Scepter,Weapon,80,Exotic,264
 99470,Soo-Won's Weight Skin,Consumable,0,Legendary,0
+99471,Mote of Anguish,Trophy,0,Exotic,256
 99472,Light Special Ops Boots,Armor,80,Ascended,330
 99475,Purified Scale Fragment of Soo-Won,Gizmo,0,Exotic,0
 99476,Medium Special Ops Gloves,Armor,80,Ascended,297
@@ -64726,14 +64798,17 @@ id,name,type,level,rarity,vendor_value
 99478,Tahkayun's Armor Piercer,Weapon,80,Ascended,330
 99479,Soo-Won's Fang Skin,Consumable,0,Legendary,0
 99480,,Consumable,0,Junk,10
+99481,Self-Assembling Sword Fragment,Trophy,0,Exotic,256
 99482,Luxon Hunter's Shield,Weapon,80,Exotic,264
 99483,Luxon Hunter's Torch,Weapon,80,Exotic,264
 99484,Dragonjade-Tier Reward Package,Container,0,Exotic,256
+99485,Mote of Hunger,Trophy,0,Exotic,256
 99486,Holo Cape Projector Skin,Consumable,80,Exotic,132
 99487,Medium Special Ops Helmet,Armor,80,Ascended,413
 99488,Heavy Special Ops Gloves,Armor,80,Ascended,297
 99489,Purified Void Aether,Consumable,80,Exotic,132
 99491,Soo-Won's Wing Skin,Consumable,0,Legendary,0
+99492,Mist-Touched Dagger Fragment,Trophy,0,Exotic,256
 99493,Bestial Tides Tattoo Legs Skin,Consumable,0,Masterwork,0
 99494,Medium Special Ops Pauldrons,Armor,80,Ascended,363
 99495,Soo-Won's Wisdom Skin,Consumable,0,Legendary,0
@@ -64743,6 +64818,7 @@ id,name,type,level,rarity,vendor_value
 99499,,Consumable,0,Junk,10
 99500,Fate Unraveling Sword Skin,Consumable,0,Rare,0
 99501,Medium Special Ops Pants,Armor,80,Ascended,462
+99503,Mist-Touched Longbow Fragment,Trophy,0,Exotic,256
 99504,Mini Oni,MiniPet,0,Exotic,0
 99505,Street Noodles Chair,Gizmo,0,Rare,0
 99506,Minister's Hat,Armor,80,Exotic,330
@@ -64767,9 +64843,11 @@ id,name,type,level,rarity,vendor_value
 99532,Bladesworn's Cache,Container,0,Rare,192
 99533,Mining Rig Operator's Seat,Gizmo,0,Exotic,0
 99534,Heavy Special Ops Pants,Armor,80,Ascended,462
+99535,Mote of Terror,Trophy,0,Exotic,256
 99536,Week 1 Requisition Credit,Consumable,0,Basic,0
 99537,Luxon Hunter's Short Bow,Weapon,80,Exotic,396
 99538,Bottle of Divinity Reserve,Consumable,0,Rare,96
+99539,Self-Assembling Staff Fragment,Trophy,0,Exotic,256
 99540,Luxon Hunter's Hammer,Weapon,80,Exotic,396
 99541,Scale Splinter of Soo-Won,Gizmo,0,Exotic,0
 99542,Luxon Hunter's Longbow,Weapon,80,Exotic,396
@@ -64778,6 +64856,7 @@ id,name,type,level,rarity,vendor_value
 99546,Chest of the Gyala Delve Hero,Container,0,Exotic,0
 99547,Soo-Won's Tail Skin,Consumable,0,Legendary,0
 99549,Specter's Cache,Container,0,Rare,192
+99551,Mote of Delight,Trophy,0,Exotic,256
 99552,Special Ops Requisition: Chestpiece,Consumable,0,Exotic,128
 99553,Medium Special Ops Harness,Armor,80,Ascended,495
 99555,Bottle of Peacemaker Pilsner,Consumable,0,Rare,96
@@ -65159,9 +65238,11 @@ id,name,type,level,rarity,vendor_value
 99968,Deluxe Gear Box,Container,0,Exotic,0
 99970,Recipe: Stormforged Scepter,Consumable,0,Exotic,128
 99971,Bird Loot Box,Container,0,Basic,0
+99974,Shard of Decay,Consumable,0,Exotic,0
 99976,Rift Hunter Shoulders Box,Container,0,Exotic,0
 99979,Berserker's Shattered Mace,Weapon,80,Exotic,264
 99980,Endless Kryptis Lord Combat Tonic,Gizmo,0,Exotic,0
+99983,XVII: The Cosmos,Consumable,0,Basic,0
 99984,Glacial Logging Tool,Gathering,0,Rare,192
 99986,Queen's Flipper,Container,0,Fine,64
 99987,Deluxe Gear Box,Container,0,Exotic,0
@@ -65179,6 +65260,9 @@ id,name,type,level,rarity,vendor_value
 100006,Rabid Skyscale Scepter,Weapon,80,Ascended,330
 100007,Magi's Skyforged Hammer,Weapon,80,Rare,297
 100008,Possession Infusion,UpgradeComponent,80,Exotic,10000
+100009,"Vaulz Baelwalker
+576 Frost 0X0I
+Knowledge",Gizmo,0,Basic,0
 100010,Visage of Nourys,Container,0,Exotic,0
 100011,Rift Hunter Light Coat,Armor,80,Exotic,396
 100012,Recipe: Relic of the Brawler,Consumable,0,Exotic,128
@@ -65207,9 +65291,11 @@ id,name,type,level,rarity,vendor_value
 100048,Relic of the Ice,Relic,60,Exotic,200
 100049,Sanctified Focus Skin,Consumable,0,Rare,0
 100050,Arcanum of Astral Grasp,Trophy,0,Basic,0
+100051,Echo of the Hero,Consumable,0,Exotic,0
 100052,Skyscale Hatchling Harvesting Tool,Gathering,0,Rare,192
 100054,Viper's Abomination Torch,Weapon,80,Exotic,264
 100055,Rare Rift Essence,CraftingMaterial,0,Rare,0
+100056,Receipt for Skyscale Saddle Parts,Consumable,0,Exotic,5000
 100058,Astral Ward Pillar,Consumable,0,Basic,0
 100060,Fine Rift Motivation,Gizmo,0,Fine,0
 100063,Relic of Surging,Relic,60,Exotic,200
@@ -65231,6 +65317,7 @@ id,name,type,level,rarity,vendor_value
 100089,Magi's Skyforged Greatsword,Weapon,80,Rare,297
 100090,Relic of the Dragonhunter,Relic,60,Exotic,200
 100092,Viper's Abomination Short Bow,Weapon,80,Exotic,396
+100093,A Visit to the North,Consumable,0,Exotic,0
 100094,Skyscale of Spirit,Consumable,0,Exotic,5000
 100096,Mist-Hardened Transcendent Chest,Container,0,Exotic,0
 100097,Shrine Guardians' Gratitude,Container,0,Basic,0
@@ -65243,6 +65330,9 @@ id,name,type,level,rarity,vendor_value
 100109,Amnytas Hoard,Container,0,Rare,0
 100110,Sinister Saryx Torch,Weapon,80,Rare,198
 100111,Skyscale of Air,Consumable,0,Exotic,5000
+100113,"Mildred Goswin
+403 Frost 0IIX
+Unsworn",Gizmo,0,Basic,0
 100114,Inspiration of Deldrimor,Consumable,0,Exotic,0
 100115,Relic of Mabon,Relic,60,Exotic,200
 100116,Recipe: Relic of the Afflicted,Consumable,0,Exotic,128
@@ -65250,8 +65340,14 @@ id,name,type,level,rarity,vendor_value
 100118,Skyscale of Water,Consumable,0,Exotic,5000
 100120,Magi's Skyforged Short Bow,Weapon,80,Rare,297
 100121,Viper's Abomination Greatsword,Weapon,80,Exotic,396
+100122,"Yexxi the Stern
+092 Tide 00XI
+Knowledge",Gizmo,0,Basic,0
 100123,Tasty Wurm Segment,Trophy,0,Masterwork,5000
 100124,Rabid Skyscale Shield,Weapon,80,Ascended,330
+100127,"Daytona Jaque
+982 Bloom 0XX1
+Unsworn",Gizmo,0,Basic,0
 100129,Black Lion Glyph Selection Container,Container,0,Rare,0
 100130,Shaman's Stormforged Axe,Weapon,80,Exotic,264
 100131,Rich Maguuman Mahogany,Consumable,0,Exotic,5000
@@ -65270,6 +65366,7 @@ id,name,type,level,rarity,vendor_value
 100148,Relic of Speed,Relic,60,Exotic,200
 100149,Astral Ward Gate,Consumable,0,Basic,0
 100150,Tasty Wurm Segment,Consumable,0,Exotic,5000
+100151,Awakening,Consumable,0,Exotic,0
 100153,Relic of the Fractal,Relic,60,Exotic,200
 100154,Wizard's Tower Trial: Gold,Container,0,Rare,0
 100155,Essence of the Celestial,Consumable,0,Rare,0
@@ -65283,6 +65380,7 @@ id,name,type,level,rarity,vendor_value
 100164,Sanctified Axe Skin,Consumable,0,Rare,0
 100165,Relic of the Necromancer,Relic,60,Exotic,65
 100166,Storm's Eye Rifle,Weapon,80,Exotic,396
+100168,In Memorium,Consumable,0,Exotic,0
 100169,Deluxe Gear Box,Container,0,Exotic,0
 100170,Sample of Kryptis Possession,Consumable,0,Exotic,5000
 100172,Sanctified Helm Skin,Consumable,0,Masterwork,0
@@ -65291,6 +65389,7 @@ id,name,type,level,rarity,vendor_value
 100175,Recipe: Relic of the Trooper,Consumable,0,Exotic,128
 100177,Relic of Peitha,Relic,60,Exotic,200
 100178,Wizard's Tower Trial: Silver,Container,0,Masterwork,0
+100179,Shard of Ice,Consumable,0,Exotic,0
 100180,Celestial Fish,Container,0,Legendary,640
 100181,Recipe: Relic of Antitoxin,Consumable,0,Exotic,128
 100182,Partial Academic Arch,Consumable,0,Basic,0
@@ -65302,6 +65401,7 @@ id,name,type,level,rarity,vendor_value
 100193,Amnytas: Hero's Choice Chest,Container,0,Exotic,0
 100194,Relic of the Weaver,Relic,60,Exotic,200
 100195,Skyscale Target Practice: Bronze,Container,0,Fine,0
+100197,Skyscale Saddle Parts List,Consumable,0,Exotic,5000
 100198,Arcanum of Astral Stride,Trophy,0,Basic,0
 100199,Sorcerer's Cape Skin,Consumable,0,Masterwork,0
 100204,Academic Wall with Windows,Consumable,0,Basic,0
@@ -65309,6 +65409,7 @@ id,name,type,level,rarity,vendor_value
 100206,Recipe: Storm's Eye Dagger,Consumable,0,Exotic,128
 100207,Astral Ward Light Leggings,Armor,80,Exotic,370
 100208,Skyscale Hatchling Mining Tool,Gathering,0,Rare,192
+100209,Inspiration of Deldrimor,Consumable,0,Exotic,0
 100210,A Spark of Knowledge,Consumable,0,Exotic,0
 100211,Echo of Turai,Trophy,0,Exotic,0
 100215,Shaman's Stormforged Greatsword,Weapon,80,Exotic,396
@@ -65321,6 +65422,7 @@ id,name,type,level,rarity,vendor_value
 100222,Skyscale Treat,Consumable,0,Exotic,5000
 100224,Shaman's Stormforged Hammer,Weapon,80,Exotic,396
 100225,Mini Galrath,MiniPet,0,Masterwork,50
+100226,Callon's Mourning,Consumable,0,Exotic,0
 100227,Choya Mining Tool,Gathering,0,Rare,192
 100228,Recipe: Stormforged Greatsword,Consumable,0,Exotic,128
 100229,Rabid Skyscale Staff,Weapon,80,Ascended,495
@@ -65331,6 +65433,7 @@ id,name,type,level,rarity,vendor_value
 100235,Shaman's Stormforged Sword,Weapon,80,Exotic,264
 100237,Skyscale of Blood,Consumable,0,Exotic,5000
 100238,Relic of the Lich,Relic,60,Exotic,200
+100239,Tainted Bloodstone Censer,Gizmo,0,Basic,2
 100240,Relic Container: Power,Container,0,Exotic,200
 100244,Jar of Dangerous Spirits,Container,0,Basic,0
 100245,Kryptis Skyscale,Consumable,0,Exotic,0
@@ -65345,18 +65448,28 @@ id,name,type,level,rarity,vendor_value
 100261,Recipe: Relic of Resistance,Consumable,0,Exotic,128
 100262,Relic of Fireworks,Relic,60,Exotic,200
 100264,Deluxe Gear Box,Container,0,Exotic,0
+100265,"Silque 
+109 Tide 00XX
+Natural",Gizmo,0,Basic,0
 100266,Mini R'tchikk,MiniPet,0,Masterwork,50
 100267,Case of Captured Lightning,CraftingMaterial,0,Exotic,0
+100268,XV: The Fiend,Consumable,0,Basic,0
+100269,"Percy Gammons
+892 Dusk XIVV
+Unsworn",Gizmo,0,Basic,0
 100270,Infused Aurora Gloves Skin,Consumable,0,Masterwork,0
 100271,Relic Container: Conditions,Container,0,Exotic,200
 100272,Air Elemental Loot Box,Container,0,Basic,0
 100274,Recipe: Relic of Dwayna,Consumable,0,Exotic,128
 100275,10 Astral Acclaim,Consumable,0,Fine,32
+100276,Beacon Stone,Gizmo,0,Basic,2
 100277,Dwarven Relic,Consumable,0,Rare,0
+100279,Fractured Constellation,Consumable,0,Exotic,0
 100280,Golden Ticket,Consumable,0,Ascended,0
 100281,Viper's Abomination Shield,Weapon,80,Exotic,264
 100282,Astral Ward Heavy Shoulders,Armor,80,Exotic,291
 100284,Sanctified Weapon Skin Selection Box,Container,0,Rare,0
+100287,XX: The Young Dragon,Consumable,0,Basic,0
 100288,Gift of Stormy Skies,CraftingMaterial,0,Ascended,0
 100289,Rabid Skyscale Longbow,Weapon,80,Ascended,495
 100290,Valkyrie Eagle Eye Scepter,Weapon,80,Rare,198
@@ -65388,6 +65501,7 @@ id,name,type,level,rarity,vendor_value
 100327,Astral Ward Skyscale Mount Unlock,Consumable,0,Exotic,0
 100328,Recipe: Relic of the Warrior,Consumable,0,Exotic,128
 100330,Berserker's Shattered Staff,Weapon,80,Exotic,396
+100334,List of Artifacts,Gizmo,0,Basic,2
 100336,Storm Lord's Throne,Gizmo,0,Fine,0
 100337,Kryptis Loot Box,Container,0,Basic,0
 100338,Infernal Envoy Staff Skin,Consumable,0,Rare,0
@@ -65407,12 +65521,17 @@ id,name,type,level,rarity,vendor_value
 100354,Balance Fish,Container,0,Exotic,256
 100356,Endless Wizard of the Celestial Combat Tonic,Gizmo,0,Exotic,0
 100357,Stash of Astral Coins,Consumable,0,Rare,0
+100358,Greater Understanding,Consumable,0,Exotic,0
+100359,"Arina 
+892 Snow 0XV1
+Obscure",Gizmo,0,Basic,0
 100361,Sanctified Boots Skin,Consumable,0,Masterwork,0
 100363,Rabid Skyscale Greatsword,Weapon,80,Ascended,495
 100364,Masterwork Rift Motivation,Gizmo,0,Masterwork,0
 100367,Complete Oracle Deck,Consumable,0,Basic,0
 100368,Relic of the Scourge,Relic,60,Exotic,200
 100369,Recipe: Relic of the Adventurer,Consumable,0,Exotic,128
+100370,Return to Hortensia,Gizmo,0,Basic,0
 100372,Amnytas Gear Box,Container,0,Basic,0
 100373,Storm's Eye Warhorn,Weapon,80,Exotic,264
 100374,Storm's Eye Shield,Weapon,80,Exotic,264
@@ -65422,10 +65541,14 @@ id,name,type,level,rarity,vendor_value
 100378,Rift Hunter Medium Leggings,Armor,80,Exotic,370
 100382,Astral Ward Mastery,Consumable,0,Exotic,0
 100383,Despair's Lament,Weapon,80,Ascended,330
+100384,"Fulla
+733 Tide VIXV
+Unsworn",Gizmo,0,Basic,0
 100385,Relic of the Centaur,Relic,60,Exotic,200
 100386,500 Astral Acclaim,Consumable,0,Fine,32
 100388,Relic of the Astral Ward,Relic,60,Exotic,200
 100390,Relic of Antitoxin,Relic,60,Exotic,200
+100391,Meeting Hortensia,Gizmo,0,Basic,0
 100392,Astral Ward Heavy Boots,Armor,80,Exotic,264
 100394,Sinister Saryx Longbow,Weapon,80,Rare,297
 100395,Echo of the Past,Trophy,0,Exotic,0
@@ -65435,8 +65558,12 @@ id,name,type,level,rarity,vendor_value
 100401,Sanctified Coat Skin,Consumable,0,Masterwork,0
 100403,Relic of the Golemancer,Relic,60,Exotic,200
 100405,Deluxe Gear Box,Container,0,Exotic,0
+100406,"Docia Greywind
+092 Bloom XXII
+Balance",Gizmo,0,Basic,0
 100407,Possession Infusion,UpgradeComponent,80,Exotic,10000
 100409,Pacified Magical Storm,Consumable,0,Exotic,0
+100410,Kryptis Corpse,Gizmo,0,Basic,2
 100411,Relic of the Trooper,Relic,60,Exotic,200
 100412,Magi's Skyforged Rifle,Weapon,80,Rare,297
 100413,Envy's Bite,Weapon,80,Ascended,330
@@ -65448,6 +65575,7 @@ id,name,type,level,rarity,vendor_value
 100420,Magi's Skyforged Sword,Weapon,80,Rare,198
 100421,Eagle Eye Weapon Chest,Container,0,Rare,0
 100422,Scrap of Secrets of the Obscure Mastery,Consumable,0,Masterwork,0
+100423,Fractured Constellation,Consumable,0,Exotic,0
 100424,Rabid Skyscale Pistol,Weapon,80,Ascended,330
 100427,Mini Construct of Galdra,MiniPet,0,Masterwork,50
 100428,Viper's Abomination Rifle,Weapon,80,Exotic,396
@@ -65482,6 +65610,7 @@ id,name,type,level,rarity,vendor_value
 100468,Recipe: Relic of the Monk,Consumable,0,Exotic,128
 100469,Instant Reward Track Progress,Consumable,0,Basic,0
 100470,Cosmic Logging Tool,Gathering,0,Rare,0
+100471,Memory of Ascension,Consumable,0,Exotic,0
 100472,Sinister Saryx Shield,Weapon,80,Rare,198
 100473,Large Static Charge,Consumable,0,Basic,0
 100474,Viper's Abomination Mace,Weapon,80,Exotic,264
@@ -65492,12 +65621,15 @@ id,name,type,level,rarity,vendor_value
 100483,Malice's Heartstring,Weapon,80,Ascended,495
 100484,Mini Avatar of Gluttony,MiniPet,0,Masterwork,50
 100485,Astral Ward Light Helm,Armor,80,Exotic,330
+100486,A Call to Action,Consumable,0,Exotic,0
 100487,Skyscale of Life,Consumable,0,Exotic,5000
 100490,Recipe: Stormforged Warhorn,Consumable,0,Exotic,128
 100491,Skyscale of Ice,Consumable,0,Exotic,5000
 100492,Astral Ward Medium Coat,Armor,80,Exotic,396
 100493,Berserker's Shattered Greatsword,Weapon,80,Exotic,396
 100494,Viper's Abomination Axe,Weapon,80,Exotic,264
+100495,A Spark of Knowledge,Consumable,0,Exotic,0
+100496,The Convoy,Consumable,0,Basic,0
 100498,Sanctified Torch Skin,Consumable,0,Rare,0
 100500,Amnytas Gear Box,Container,0,Basic,0
 100501,Vermilion Logging Tool,Gathering,0,Rare,192
@@ -65506,6 +65638,7 @@ id,name,type,level,rarity,vendor_value
 100504,Astral Ward Light Coat,Armor,80,Exotic,396
 100505,Mini Zizel,MiniPet,0,Masterwork,50
 100506,Astral Ward Door,Consumable,0,Basic,0
+100508,Planning for Tyria's Future,Gizmo,0,Basic,2
 100509,Arcanum of Astral Heartbeat,Trophy,0,Basic,0
 100512,Gift of Magical Prosperity,CraftingMaterial,0,Ascended,0
 100513,Possession Infusion,UpgradeComponent,80,Exotic,10000
@@ -65514,7 +65647,12 @@ id,name,type,level,rarity,vendor_value
 100516,Deluxe Gear Box,Container,0,Exotic,0
 100517,Empress Fish,Container,0,Ascended,320
 100518,Saurian Cache,Container,0,Basic,0
+100520,XIV: Patience,Consumable,0,Basic,0
+100521,"Gideon Hawthorn II
+003 Tide IIX0
+Natural",Gizmo,0,Basic,0
 100522,Astral Ward Staircase,Consumable,0,Basic,0
+100523,Curry Bun with Bloodstone,Gizmo,0,Basic,2
 100524,Arcanum of Astral Bearing,Trophy,0,Basic,0
 100525,Recipe: Storm's Eye Shield,Consumable,0,Exotic,128
 100526,Knowledge Fish,Container,0,Masterwork,128
@@ -65549,6 +65687,7 @@ id,name,type,level,rarity,vendor_value
 100570,XII: The Endless,Consumable,0,Basic,0
 100571,Deluxe Gear Box,Container,0,Exotic,0
 100572,Viper's Abomination Warhorn,Weapon,80,Exotic,264
+100573,XIII: The Templar,Consumable,0,Basic,0
 100574,Rift Hunter Medium Boots,Armor,80,Exotic,264
 100575,Essence of Knowledge,Consumable,0,Rare,0
 100576,Mist-Infused Saddle Oil,Consumable,0,Exotic,5000
@@ -65565,6 +65704,7 @@ id,name,type,level,rarity,vendor_value
 100593,Sanctified Shoulder Skin,Consumable,0,Masterwork,0
 100594,Recipe: Relic of the Scourge,Consumable,0,Exotic,128
 100595,Bag of Coins (1 Gold),Container,0,Exotic,0
+100596,III: The Mother Sovereign,Consumable,0,Basic,0
 100597,Dwarven Trinket,Trophy,0,Basic,0
 100598,Oracle Deck Box,Gizmo,0,Basic,0
 100599,Recipe: Amalgamated Rift Essence,Consumable,0,Masterwork,64
@@ -65594,6 +65734,7 @@ id,name,type,level,rarity,vendor_value
 100633,Relic of the Flock,Relic,60,Exotic,200
 100634,Sample of Kryptis Corruption,Consumable,0,Exotic,5000
 100635,Masterwork Rift Motivation,Gizmo,0,Masterwork,0
+100637,Completed List of Artifacts,Gizmo,0,Basic,2
 100638,Recipe: Relic of Ice,Consumable,0,Exotic,128
 100640,Skyscale of Fire,Consumable,0,Exotic,5000
 100642,Recipe: Stormforged Torch,Consumable,0,Exotic,128
@@ -65605,6 +65746,9 @@ id,name,type,level,rarity,vendor_value
 100650,Storm's Eye Torch,Weapon,80,Exotic,264
 100652,Rabid Skyscale Axe,Weapon,80,Ascended,330
 100654,Bag of Loot,Container,0,Fine,66
+100656,"Basil
+329 Tide II0X
+Celestial",Gizmo,0,Basic,0
 100657,Sanctified Staff Skin,Consumable,0,Rare,0
 100659,Relic of the Water,Relic,60,Exotic,200
 100661,Shred of Secrets of the Obscure Mastery,Consumable,0,Masterwork,0
@@ -65617,6 +65761,7 @@ id,name,type,level,rarity,vendor_value
 100671,Echo of the Obscure,Consumable,0,Exotic,0
 100672,Sinister Saryx Mace,Weapon,80,Rare,198
 100674,Berserker's Shattered Rifle,Weapon,80,Exotic,396
+100675,Receipt for Infused Skyscale Egg,Consumable,0,Exotic,5000
 100676,Relic of Vampirism,Relic,60,Exotic,200
 100677,Tasty Chak Legs,Consumable,0,Exotic,5000
 100679,Deluxe Gear Box,Container,0,Exotic,0
@@ -65624,6 +65769,7 @@ id,name,type,level,rarity,vendor_value
 100684,Sinister Saryx Scepter,Weapon,80,Rare,198
 100686,Recipe: Relic of the Herald,Consumable,0,Exotic,128
 100688,Mini Lyhr,MiniPet,0,Rare,50
+100689,Jeweled Amulet,Gizmo,0,Basic,2
 100690,Fly-by-Night: Bronze,Container,0,Fine,0
 100691,Storm's Eye Dagger,Weapon,80,Exotic,264
 100692,Valkyrie Eagle Eye Greatsword,Weapon,80,Rare,297
@@ -65632,6 +65778,9 @@ id,name,type,level,rarity,vendor_value
 100698,Sorcerer's Cape Glider,Consumable,0,Masterwork,0
 100699,Astral Ward Medium Shoulders,Armor,80,Exotic,291
 100700,Recipe: Storm's Eye Axe,Consumable,0,Exotic,128
+100701,"""Just Tillie"" 
+032 Dusk XIIV
+Obscure",Gizmo,0,Basic,0
 100703,Shaman's Stormforged Rifle,Weapon,80,Exotic,396
 100704,Astral Ward Light Shoulders,Armor,80,Exotic,291
 100705,Recipe: Relic of the Sunless,Consumable,0,Exotic,128
@@ -65650,8 +65799,10 @@ id,name,type,level,rarity,vendor_value
 100722,Rift Hunter Glove Box,Container,0,Exotic,0
 100723,Valkyrie Eagle Eye Rifle,Weapon,80,Rare,297
 100724,Valkyrie Eagle Eye Longbow,Weapon,80,Rare,297
+100726,Skyscale Comforts List,Consumable,0,Exotic,5000
 100727,Upgraded Comms Device (Experimental),Gizmo,0,Basic,0
 100728,Recipe: Relic of the Necromancer,Consumable,0,Exotic,128
+100731,Ancient Astral Ward Manual,Gizmo,0,Basic,2
 100732,Simple Stool,Gizmo,0,Fine,0
 100733,Jade Tech Loot Box,Container,0,Basic,0
 100735,Transcribed Jotun Runestone,Consumable,0,Rare,0
@@ -65663,39 +65814,60 @@ id,name,type,level,rarity,vendor_value
 100743,,Consumable,0,Junk,10
 100745,Cosmic Mining Tool,Gathering,0,Rare,0
 100746,Skywatch Archipelago Strongbox,Container,0,Basic,0
+100748,Maer's Mourning,Consumable,0,Exotic,0
+100749,"Abelin Favre
+543 Bloom X011
+Celestial",Gizmo,0,Basic,0
+100750,Mabon's Journal,Consumable,0,Exotic,0
 100751,Strength Fish,Container,0,Rare,192
 100752,Relic of the Pack,Relic,60,Exotic,200
+100754,IX: The Stag,Consumable,0,Basic,0
 100755,Recipe: Storm's Eye Pistol,Consumable,0,Exotic,128
 100756,Berserker's Shattered Sword,Weapon,80,Exotic,264
 100758,,Consumable,0,Junk,10
 100759,Rift Hunter Heavy Leggings,Armor,80,Exotic,370
 100760,"""/Heroic"" Emote Tome",Consumable,0,Ascended,0
+100761,I: The Forager,Consumable,0,Basic,0
 100762,Rabid Skyscale Focus,Weapon,80,Ascended,330
 100763,The Waylit Lantern,Weapon,80,Exotic,0
 100764,XIX: Sunrise,Consumable,0,Basic,0
 100765,Visage of Nourys,Armor,80,Exotic,330
 100766,Analytical Charm,Consumable,0,Exotic,5000
+100768,"Celiix the Forgiven
+620 Dusk IVXX
+Strength",Gizmo,0,Basic,0
 100769,Plush Quaggan,Consumable,0,Exotic,5000
 100770,Viper's Abomination Scepter,Weapon,80,Exotic,264
+100771,IV: The Mirror,Consumable,0,Basic,0
+100774,A New Threat Emerges,Consumable,0,Exotic,0
 100775,Relic of Vass,Relic,60,Exotic,200
 100776,Berserker's Shattered Axe,Weapon,80,Exotic,264
 100777,Magi's Skyforged Shield,Weapon,80,Rare,198
+100778,Shard of Crystal,Consumable,0,Exotic,0
 100781,Recipe: Relic of the Chronomancer,Consumable,0,Exotic,128
 100784,Tasty Moss-Covered Bark,Consumable,0,Exotic,5000
 100785,Valkyrie Eagle Eye Sword,Weapon,80,Rare,198
+100787,A Spark of Knowledge,Consumable,0,Exotic,0
 100788,Large Pinch of Stardust,Consumable,0,Basic,0
 100789,Earthshaker Mining Tool,Gathering,0,Rare,192
 100791,Valkyrie Eagle Eye Dagger,Weapon,80,Rare,198
+100792,Receipt for Skyscale Comforts,Consumable,0,Exotic,5000
 100793,Recipe: Stormforged Mace,Consumable,0,Exotic,128
 100794,Relic of Resistance,Relic,60,Exotic,200
 100795,Relic Chest,Container,0,Exotic,200
 100796,Mini Avatar of Envy,MiniPet,0,Masterwork,50
 100798,Gift of Amnytas,CraftingMaterial,0,Exotic,0
+100801,"Cethis
+102 Tide X00I
+Strength",Gizmo,0,Basic,0
 100802,Rift Hunter Headgear Box,Container,0,Exotic,0
 100804,Rift Hunter Heavy Shoulders,Armor,80,Exotic,291
 100805,Shaman's Stormforged Longbow,Weapon,80,Exotic,396
 100806,Possession Infusion,UpgradeComponent,80,Exotic,10000
 100809,Vermilion Mining Tool,Gathering,0,Rare,192
+100810,XVIII: Twilight,Consumable,0,Basic,0
+100811,Ithil's Mourning,Consumable,0,Exotic,0
+100813,A Spark of Knowledge,Consumable,0,Exotic,0
 100816,Sorrow's Claw,Weapon,80,Exotic,0
 100817,Valkyrie Eagle Eye Short Bow,Weapon,80,Rare,297
 100819,Wizard's Tower Trial: Bronze,Container,0,Fine,0
@@ -65707,6 +65879,7 @@ id,name,type,level,rarity,vendor_value
 100829,II: The Minister Illuminate,Consumable,0,Basic,0
 100832,Chest of the Obscure,Container,0,Rare,192
 100833,Deluxe Gear Box,Container,0,Exotic,0
+100834,XVI: The Tower of Secrets,Consumable,0,Basic,0
 100835,Recipe: Stormforged Rifle,Consumable,0,Exotic,128
 100839,Mini Isgarren,MiniPet,0,Masterwork,50
 100842,Magi's Skyforged Torch,Weapon,80,Rare,198
@@ -65746,6 +65919,9 @@ id,name,type,level,rarity,vendor_value
 100892,Valkyrie Eagle Eye Staff,Weapon,80,Rare,297
 100893,Relic of the Zephyrite,Relic,60,Exotic,200
 100895,Storm's Eye Greatsword,Weapon,80,Exotic,396
+100897,"Olava Skumasdottir
+403 Bloom XXX0
+Obscure",Gizmo,0,Basic,0
 100900,Valkyrie Eagle Eye Shield,Weapon,80,Rare,198
 100901,Saddlebag of Holding,Consumable,0,Exotic,5000
 100902,Skyscale Target Practice: Silver,Container,0,Masterwork,0
@@ -65753,6 +65929,7 @@ id,name,type,level,rarity,vendor_value
 100908,Relic of the Holosmith,Relic,60,Exotic,200
 100909,Jade-Spun Silk Thread,Consumable,0,Exotic,5000
 100910,Mini Avatar of Despair,MiniPet,0,Masterwork,50
+100911,V: The Weeping Mountain,Consumable,0,Basic,0
 100913,Possession Infusion,UpgradeComponent,80,Exotic,10000
 100914,Possession Infusion,UpgradeComponent,80,Exotic,10000
 100915,Shaman's Stormforged Mace,Weapon,80,Exotic,264
@@ -65761,6 +65938,7 @@ id,name,type,level,rarity,vendor_value
 100919,Valkyrie Eagle Eye Hammer,Weapon,80,Rare,297
 100920,Eternal Blade,Weapon,80,Exotic,0
 100921,Glacial Mining Tool,Gathering,0,Rare,192
+100922,Fractured Constellation,Consumable,0,Exotic,0
 100923,Sinister Saryx Pistol,Weapon,80,Rare,198
 100924,Relic of the Deadeye,Relic,60,Exotic,200
 100926,"""/Possessed"" Emote Tome",Consumable,0,Ascended,0
@@ -65778,6 +65956,7 @@ id,name,type,level,rarity,vendor_value
 100941,Rare Rift Motivation,Gizmo,0,Rare,0
 100942,Relic of Dagda,Relic,60,Exotic,200
 100943,Fly-by-Night: Gold,Container,0,Rare,0
+100944,In Memoriam,Gizmo,0,Basic,0
 100945,Rift Hunter Light Shoulders,Armor,80,Exotic,291
 100946,Arcanum of Astral Footprints,Trophy,0,Basic,0
 100947,Relic of Fireworks,Relic,60,Exotic,200
@@ -65786,8 +65965,13 @@ id,name,type,level,rarity,vendor_value
 100951,Endless Wizard of the Celestial Combat Tonic,Gizmo,0,Exotic,0
 100952,Storm's Eye Pistol,Weapon,80,Exotic,264
 100953,Berserker's Shattered Focus,Weapon,80,Exotic,264
+100955,Skyscale Egg Infusion List,Consumable,0,Exotic,5000
 100957,Sanctified Sword Skin,Consumable,0,Rare,0
+100959,"Ivane Saberlin
+809 Frost X00V
+Balance",Gizmo,0,Basic,0
 100960,Berserker's Shattered Dagger,Weapon,80,Exotic,264
+100961,Echo of the Past,Consumable,0,Exotic,0
 100962,Chest of the Obscure,Container,0,Exotic,0
 100963,Rabid Skyscale Dagger,Weapon,80,Ascended,330
 100966,Tasty Trail Ration,Consumable,0,Exotic,5000
@@ -66187,23 +66371,38 @@ id,name,type,level,rarity,vendor_value
 101434,Synergetics Cyberhound Skin,Consumable,0,Exotic,0
 101435,Golden Dragon Figurine,Trophy,0,Junk,8888
 101437,Dragon Descendant's Helm,Armor,80,Exotic,330
+101438,"Lifeblood of Nourys, Eyes of the Abyss",Consumable,0,Exotic,0
+101439,Relic of Mercy,Relic,80,Legendary,640
 101440,Solar Astrolabe Short Bow Skin,Consumable,0,Rare,0
+101441,Relic of Evasion,Relic,80,Legendary,640
+101442,Relic of Speed,Relic,60,Legendary,640
 101444,Mysterious Tablet,Gizmo,0,Basic,0
 101445,Necrotic Essence Warhorn Skin,Consumable,0,Rare,0
 101446,Maddened Mackerel,Container,0,Legendary,640
+101447,Relic of the Pack,Relic,80,Legendary,640
 101448,Massive Calcified Gasp,Consumable,0,Basic,0
 101449,Banner of the Bastion of the Obscure,Back,80,Exotic,264
 101450,Necrotic Essence Short Bow Skin,Consumable,0,Rare,0
 101451,Necrotic Essence Axe Skin,Consumable,0,Rare,0
+101452,Relic of the Firebrand,Relic,80,Legendary,640
+101453,Relic of the Nightmare,Relic,80,Legendary,640
 101454,Mastery Point,Consumable,0,Basic,0
 101457,Solar Astrolabe Torch Skin,Consumable,0,Rare,0
 101458,Ancient Scroll of Astral Ward Weapons,Consumable,0,Rare,0
+101459,Lifeblood of Myros the Spiteful,Consumable,0,Exotic,0
 101460,Obsidian Heavy Greaves,Armor,80,Legendary,240
+101461,Relic of Leadership,Relic,80,Legendary,640
 101462,Obsidian Light Mantle,Armor,80,Legendary,240
 101463,Solar Astrolabe Hammer Skin,Consumable,0,Rare,0
 101464,Solar Astrolabe Warhorn Skin,Consumable,0,Rare,0
+101465,Relic of the Necromancer,Relic,80,Legendary,640
+101466,Relic of Resistance,Relic,80,Legendary,640
+101467,Relic of the Demon Queen,Relic,80,Legendary,640
 101469,Skysage's Boots Skin,Consumable,0,Masterwork,0
+101471,Lifeblood of Knaebelag the Terror,Consumable,0,Exotic,0
+101472,Relic of the Reaper,Relic,80,Legendary,640
 101473,Necrotic Essence Hammer Skin,Consumable,0,Rare,0
+101474,Relic of the Water,Relic,80,Legendary,640
 101475,Skysage's Gloves Skin,Consumable,0,Masterwork,0
 101476,Necrotic Essence Rifle Skin,Consumable,0,Rare,0
 101477,Chest of the Obscure,Container,0,Exotic,0
@@ -66214,15 +66413,29 @@ id,name,type,level,rarity,vendor_value
 101484,Necrotic Essence Longbow Skin,Consumable,0,Rare,0
 101485,Solar Astrolabe Selection Box,Container,0,Rare,0
 101486,Solar Astrolabe Rifle Skin,Consumable,0,Rare,0
+101487,Relic of Antitoxin,Relic,80,Legendary,640
 101488,Fashionable Kilt Skin,Consumable,0,Masterwork,0
+101489,Relic of the Fractal,Relic,80,Legendary,640
+101490,Lifeblood of Pherus the Subjugator,Consumable,0,Exotic,0
+101491,Relic of Dagda,Relic,80,Legendary,640
+101492,Relic of Vass,Relic,80,Legendary,640
+101493,Relic of the Afflicted,Relic,80,Legendary,640
 101494,Banner of the Bastion of the Natural,Back,80,Exotic,264
 101495,Saryx Backpiece,Back,80,Ascended,330
 101496,Skysage's Shoulder Skin,Consumable,0,Masterwork,0
 101499,Obsidian Light Regalia,Armor,80,Legendary,240
+101500,Relic of Cerus,Relic,80,Legendary,640
 101501,Obsidian Light Pants,Armor,80,Legendary,240
+101502,Lifeblood of Galene the Seething,Consumable,0,Exotic,0
+101503,Relic of Nourys,Relic,80,Legendary,640
+101504,Relic of Durability,Relic,80,Legendary,640
 101507,Necrotic Essence Shield Skin,Consumable,0,Rare,0
+101509,Relic of the Herald,Relic,80,Legendary,640
 101510,Knaebelag's Fang,Weapon,80,Ascended,330
+101511,Relic of the Adventurer,Relic,80,Legendary,640
 101512,Shattered Kryptis Carapace,Gizmo,0,Basic,0
+101513,Relic of the Defender,Relic,80,Legendary,640
+101514,Relic of Dwayna,Relic,80,Legendary,640
 101515,Maguuma Jungle Fishing License,Consumable,0,Exotic,0
 101516,Obsidian Light Crown,Armor,80,Legendary,240
 101518,,Consumable,0,Basic,0
@@ -66230,67 +66443,102 @@ id,name,type,level,rarity,vendor_value
 101521,Obsidian Heavy Breastplate,Armor,80,Legendary,240
 101522,Trapper's Fur Cape Skin,Consumable,0,Masterwork,6250
 101523,Frenzied Cephalopod,Container,0,Exotic,256
+101526,Relic of the Weaver,Relic,80,Legendary,640
+101527,Relic of the Flock,Relic,80,Legendary,640
 101528,Saryx Backpiece (Infused),Back,80,Ascended,330
 101529,Cyberhowl Greatsword Skin,Consumable,0,Rare,0
 101533,Skysage's Helm Skin,Consumable,0,Masterwork,0
+101534,Relic of the Cavalier,Relic,80,Legendary,640
 101535,Obsidian Light Shoes,Armor,80,Legendary,240
 101536,Obsidian Light Gloves,Armor,80,Legendary,240
 101537,Solar Astrolabe Pistol Skin,Consumable,0,Rare,0
+101539,Relic of the Aristocracy,Relic,80,Legendary,640
 101540,Mystic Facet,CraftingMaterial,0,Rare,130
+101541,Relic of the Sunless,Relic,80,Legendary,640
 101542,Cerus's Magnificent Coffer,Container,0,Exotic,0
 101543,Solar Astrolabe Scepter Skin,Consumable,0,Rare,0
 101544,Obsidian Heavy Helmet,Armor,80,Legendary,240
+101545,Relic of the Warrior,Relic,80,Legendary,640
+101546,Relic of Karakosa,Relic,80,Legendary,640
 101547,Ancient Scroll,Gizmo,0,Basic,0
+101549,Relic of the Chronomancer,Relic,80,Legendary,640
 101550,Necrotic Essence Mace Skin,Consumable,0,Rare,0
 101551,Obsidian Heavy Pauldrons,Armor,80,Legendary,240
 101552,Skysage's Leggings Skin,Consumable,0,Masterwork,0
 101553,Solar Astrolabe Greatsword Skin,Consumable,0,Rare,0
+101554,Relic of the Trooper,Relic,80,Legendary,640
 101556,Obsidian Medium Jacket,Armor,80,Legendary,240
 101558,Nugget of Rift Essence,Container,0,Exotic,0
 101560,Knaebelag's Hoard,Container,0,Rare,0
 101561,Necrotic Essence Pistol Skin,Consumable,0,Rare,0
 101562,Solar Astrolabe Sword Skin,Consumable,0,Rare,0
+101563,Relic of Febe,Relic,80,Legendary,640
+101564,Relic of Fireworks,Relic,80,Legendary,640
 101565,Banner of the Bastion of Balance,Back,80,Exotic,264
 101566,Solar Astrolabe Dagger Skin,Consumable,0,Rare,0
 101568,Obsidian Heavy Cuisses,Armor,80,Legendary,240
 101569,Deluxe Gear Box,Container,0,Exotic,0
 101570,Obsidian Medium Gloves,Armor,80,Legendary,240
+101571,Relic of the Unseen Invasion,Relic,80,Legendary,640
+101573,Relic of Akeem,Relic,80,Legendary,640
 101574,Cat Tree Chair,Gizmo,0,Rare,0
 101575,Banner of the Bastion of Knowledge,Back,80,Exotic,264
 101576,Solar Astrolabe Longbow Skin,Consumable,0,Rare,0
 101578,Necrotic Essence Staff Skin,Consumable,0,Rare,0
 101579,Obsidian Medium Leggings,Armor,80,Legendary,240
+101580,Relic of the Thief,Relic,60,Legendary,640
+101581,Relic of the Mirage,Relic,80,Legendary,640
 101582,Legendary Relic,Relic,80,Legendary,640
 101583,Banner of the Bastion of the Celestial,Back,80,Exotic,264
 101584,Necrotic Essence Torch Skin,Consumable,0,Rare,0
+101585,Lifeblood of Ignaxious,Consumable,0,Exotic,0
+101586,Relic of the Wizard's Tower,Relic,80,Legendary,640
+101590,Relic of the Dragonhunter,Relic,80,Legendary,640
 101591,Solar Astrolabe Mace Skin,Consumable,0,Rare,0
 101594,Ancient Scroll of Astral Ward Weapons,Consumable,0,Rare,0
 101595,Gift of Inner Nayos,CraftingMaterial,0,Exotic,0
 101597,Chest of the Obscure,Container,0,Rare,192
 101598,Solar Astrolabe Focus Skin,Consumable,0,Rare,0
 101599,Solar Astrolabe Shield Skin,Consumable,0,Rare,0
+101600,Relic of the Brawler,Relic,80,Legendary,640
 101601,Necrotic Essence Greatsword Skin,Consumable,0,Rare,0
 101602,Obsidian Medium Boots,Armor,80,Legendary,240
 101604,Reclaimed Bonds Mount Adoption License,Consumable,0,Rare,999
+101605,Relic of Lyhr,Relic,80,Legendary,640
+101607,Relic of the Centaur,Relic,80,Legendary,640
+101608,Relic of the Ice,Relic,80,Legendary,640
 101609,Obsidian Heavy Gauntlets,Armor,80,Legendary,240
 101610,Horn of Maguuma Fishing Reward,Container,0,Legendary,640
+101611,Relic of Peitha,Relic,80,Legendary,640
 101614,Obsidian Medium Mask,Armor,80,Legendary,240
 101615,Banner of the Bastion of Strength,Back,80,Exotic,264
 101616,Mastery Point,Consumable,0,Basic,0
 101617,Leaf Glider,Consumable,0,Masterwork,0
+101618,Relic of the Zephyrite,Relic,80,Legendary,640
+101619,Relic of the Astral Ward,Relic,80,Legendary,640
+101621,Relic of the Midnight King,Relic,80,Legendary,640
 101622,Buried Angst,Container,0,Masterwork,128
 101623,Legendary Weapon Starter Kit—Set 3,Container,0,Legendary,640
 101626,Skysage's Coat Skin,Consumable,0,Masterwork,0
+101627,Relic of Nayos,Relic,80,Legendary,640
 101628,Necrotic Essence Focus Skin,Consumable,0,Rare,0
 101629,Ancient Tome,Gizmo,0,Basic,0
+101630,Relic of the Monk,Relic,80,Legendary,640
 101631,Solar Astrolabe Axe Skin,Consumable,0,Rare,0
 101632,Solar Astrolabe Staff Skin,Consumable,0,Rare,0
+101634,Relic of the Scourge,Relic,80,Legendary,640
 101636,Necrotic Essence Sword Skin,Consumable,0,Rare,0
+101637,Relic of the Deadeye,Relic,80,Legendary,640
 101638,Reclaimed Bonds Mount Select License,Consumable,0,Rare,999
 101639,Knaebelag's Hoard,Container,0,Rare,0
+101640,Relic of the Krait,Relic,80,Legendary,640
 101641,Necrotic Essence Dagger Skin,Consumable,0,Rare,0
+101643,Relic of Mabon,Relic,80,Legendary,640
+101644,Relic of the Daredevil,Relic,80,Legendary,640
 101645,Obsidian Medium Shoulders,Armor,80,Legendary,240
 101646,Necrotic Essence Scepter Skin,Consumable,0,Rare,0
+101647,Relic of the Citadel,Relic,80,Legendary,640
+101649,Relic of Isgarren,Relic,80,Legendary,640
 101650,Afternoon Wine Dye,Consumable,0,Rare,5
 101651,Fool's Tall Tonic,Consumable,2,Exotic,128
 101652,Devil-Rending Dagger Skin,Consumable,0,Rare,0
@@ -66363,6 +66611,7 @@ id,name,type,level,rarity,vendor_value
 101728,Tincture of Distilled World Bosses,Consumable,0,Basic,0
 101729,Lunar Astrolabe Longbow Skin,Consumable,0,Rare,0
 101730,Lunar Astrolabe Scepter Skin,Consumable,0,Rare,0
+101731,Relic of the Twin Generals,Relic,80,Legendary,640
 101733,Suffused Obsidian Light Gloves Skin,Consumable,0,Exotic,0
 101734,Lunar Astrolabe Short Bow Skin,Consumable,0,Rare,0
 101735,Blackgate Veteran,Consumable,0,Legendary,0
@@ -66371,6 +66620,7 @@ id,name,type,level,rarity,vendor_value
 101739,Eparch's Sword,Weapon,80,Exotic,264
 101740,Lunar Astrolabe Axe Skin,Consumable,0,Rare,0
 101741,Mini Astral Ward Livia,MiniPet,0,Masterwork,50
+101742,Mini Eparch,MiniPet,0,Masterwork,50
 101744,Suffused Obsidian Medium Shoulders Skin,Consumable,0,Exotic,0
 101745,Suffused Obsidian Light Regalia Skin,Consumable,0,Exotic,0
 101746,Dragonbrand Veteran,Consumable,0,Legendary,0
@@ -66396,6 +66646,7 @@ id,name,type,level,rarity,vendor_value
 101772,Delicate Flower,Trophy,0,Fine,0
 101774,Skyscale Mace Skin,Consumable,0,Rare,0
 101775,Box of Eparch's Prized Possessions,Container,0,Exotic,256
+101776,Relic of the Founding,Relic,80,Legendary,640
 101777,Two-Handed Skyscale Weapon Box,Container,0,Ascended,320
 101778,Jar of Finely Ground Bloodstone Dust,Consumable,0,Exotic,0
 101779,Yellow Flower,Trophy,0,Fine,0
@@ -66462,6 +66713,7 @@ id,name,type,level,rarity,vendor_value
 101857,Shadow Chevalier Mace Skin,Consumable,0,Rare,0
 101858,Reuniting Lost Kryptis: Bronze,Container,0,Fine,0
 101859,Tincture of Distilled Convergences,Consumable,0,Basic,0
+101860,Relic of Mosyn,Relic,80,Legendary,640
 101861,Lunar Astrolabe Warhorn Skin,Consumable,0,Rare,0
 101862,Extra-Large Pinch of Stardust,Consumable,0,Basic,0
 101863,Relic of the Sorcerer,Relic,60,Exotic,200
@@ -66502,11 +66754,13 @@ id,name,type,level,rarity,vendor_value
 101905,Free Kryptis Essence: Silver,Container,0,Masterwork,0
 101906,Nayos Recon Run: Gold,Container,0,Rare,0
 101907,Ruins of Surmia Veteran,Consumable,0,Legendary,0
+101908,Relic of the Sorcerer,Relic,80,Legendary,640
 101909,Arborstone Veteran,Consumable,0,Legendary,0
 101910,Shadow Chevalier Short Bow Skin,Consumable,0,Rare,0
 101912,Underworld Veteran,Consumable,0,Legendary,0
 101913,Riverside Veteran,Consumable,0,Legendary,0
 101916,Miller's Sound Veteran,Consumable,0,Legendary,0
+101917,Relic of the Wayfinder,Relic,80,Legendary,640
 101918,Suffused Obsidian Medium Leggings Skin,Consumable,0,Exotic,0
 101919,Lunar Astrolabe Dagger Skin,Consumable,0,Rare,0
 101920,Skysage's Cape Skin,Consumable,0,Masterwork,0
@@ -66531,6 +66785,7 @@ id,name,type,level,rarity,vendor_value
 101941,Skyscale Hammer Skin,Consumable,0,Rare,0
 101942,Tincture of Distilled Nayos Events,Consumable,0,Basic,0
 101943,Relic of the Wayfinder,Relic,60,Exotic,200
+101944,Relic of Zakiros,Relic,80,Legendary,640
 101945,Shadow Chevalier Rifle Skin,Consumable,0,Rare,0
 101947,Amnytas Supply Run: Gold,Container,0,Rare,0
 101948,Mingoo's Cat Toy,Trophy,0,Fine,0
@@ -66763,6 +67018,7 @@ id,name,type,level,rarity,vendor_value
 102187,Recipe: Bronze Mordremoth Trophy,Consumable,0,Basic,50
 102188,Recipe: Titanplate Heavy Pauldrons,Consumable,0,Exotic,6000
 102191,Recipe: Gold Cairn the Indomitable Trophy,Consumable,0,Basic,50
+102194,Map of Known Samples,Gizmo,0,Basic,0
 102196,Homestead Upgrade: Wood Trade Capacity,Consumable,0,Exotic,0
 102199,Relic of the Blightbringer,Relic,60,Exotic,200
 102201,Recipe: Bronze Sabetha Trophy,Consumable,0,Basic,50
@@ -66774,6 +67030,7 @@ id,name,type,level,rarity,vendor_value
 102213,Warclaw Treat,Consumable,0,Rare,0
 102216,Magi's Full Moon Dagger,Weapon,80,Rare,198
 102220,Glyph of the Leatherworker,Consumable,0,Basic,0
+102228,Sample Results,Gizmo,0,Basic,0
 102230,Wayfinder's Versatile Table Decoration,Consumable,0,Exotic,0
 102231,,Consumable,0,Junk,10
 102236,Janthir Wilds Kodan Loot Box,Container,0,Basic,0
@@ -66798,6 +67055,7 @@ id,name,type,level,rarity,vendor_value
 102283,Janthiri Gear Box,Container,0,Exotic,116
 102284,Recipe: Bronze Xera Trophy,Consumable,0,Basic,50
 102285,Recipe: Gold Tequatl Trophy,Consumable,0,Basic,50
+102290,Known Track 03,Gizmo,0,Basic,0
 102292,Borrowed Bait,Container,0,Fine,0
 102293,Mini Mr. Ribbington,MiniPet,0,Masterwork,50
 102301,Lowland Shore Adventure: Gold,Container,0,Rare,0
@@ -66813,6 +67071,7 @@ id,name,type,level,rarity,vendor_value
 102336,Onyx Spider's Scepter Skin,Consumable,0,Rare,0
 102340,Titanplate Medium Gloves,Armor,80,Exotic,238
 102342,Gift of Recollector of Memories,CraftingMaterial,0,Legendary,0
+102343,All Samples Returned,Gizmo,0,Basic,0
 102344,Recipe: Gold Twin Largos Trophy,Consumable,0,Basic,50
 102346,Precious Lowland Shore Gear Box,Container,0,Exotic,256
 102348,Onyx Spider's Longbow Skin,Consumable,0,Rare,0
@@ -66855,7 +67114,9 @@ id,name,type,level,rarity,vendor_value
 102437,Mouse-Eared Octopus,Container,0,Exotic,256
 102439,Polychromatic Heavy Gauntlets,Armor,80,Exotic,238
 102440,Recipe: Bloodstone Turret Fragment,Consumable,0,Basic,50
+102442,Relic of Rivers,Relic,80,Legendary,640
 102443,Polychromatic Coat Box,Container,0,Exotic,0
+102444,Tier 4,Consumable,0,Basic,0
 102446,,Consumable,0,Junk,10
 102449,Magi's Ursan Ornamented Pistol,Weapon,80,Rare,198
 102450,Homestead Recipe Book: Tables,Consumable,0,Exotic,0
@@ -66880,6 +67141,7 @@ id,name,type,level,rarity,vendor_value
 102482,Recipe: Titanplate Heavy Breastplate,Consumable,0,Exotic,6000
 102486,Void Corrupted Axe Skin,Consumable,0,Rare,0
 102487,Mini Barbed Vale,MiniPet,0,Masterwork,50
+102490,Unknown Track 05,Gizmo,0,Basic,0
 102492,Recipe: Bronze Triple Trouble Trophy,Consumable,0,Basic,50
 102494,Curious Mursaat Currency,Consumable,0,Basic,0
 102495,Recipe: Bronze Vale Guardian Trophy,Consumable,0,Basic,50
@@ -66887,6 +67149,7 @@ id,name,type,level,rarity,vendor_value
 102500,Homestead Upgrade: Ore Trade Capacity,Consumable,0,Rare,0
 102503,Lowland Pine Log,CraftingMaterial,0,Basic,8
 102504,Woad Medium Coat,Armor,80,Exotic,396
+102507,Known Track 04,Gizmo,0,Basic,0
 102508,Heat Core Infusion,UpgradeComponent,0,Ascended,40
 102510,Magi's Full Moon Torch,Weapon,80,Rare,198
 102512,Janthir Wilds Warclaw Skin,Consumable,0,Rare,0
@@ -66899,6 +67162,7 @@ id,name,type,level,rarity,vendor_value
 102528,Glyph of the Herbalist,Consumable,0,Basic,0
 102529,Glyph of Virtue,Consumable,0,Basic,0
 102530,Recipe: Silver Cardinal Adina Trophy,Consumable,0,Basic,50
+102531,Cryptid Chase Unlocked,Gizmo,0,Basic,0
 102533,Onyx Spider's Shield Skin,Consumable,0,Rare,0
 102535,Shred of Janthir Wilds Mastery,Consumable,0,Masterwork,0
 102536,Mythical Kodan Cache,Container,0,Exotic,0
@@ -66911,6 +67175,7 @@ id,name,type,level,rarity,vendor_value
 102554,Rot Stalker Coat Skin,Consumable,0,Masterwork,0
 102557,Polychromatic Heavy Greaves,Armor,80,Exotic,264
 102558,Honey Flower,CraftingMaterial,0,Basic,8
+102559,Unknown Track 01,Gizmo,0,Basic,0
 102561,Woad Heavy Shoulders,Armor,80,Exotic,291
 102563,Recipe: Titanplate Light Cowl,Consumable,0,Exotic,6000
 102567,Glyph of Alchemy,Consumable,0,Basic,0
@@ -67003,6 +67268,7 @@ id,name,type,level,rarity,vendor_value
 102781,Igneous Regalia Outfit,Consumable,0,Rare,0
 102785,Onyx Spider's Pistol Skin,Consumable,0,Rare,0
 102786,Polychromatic Shoulders Box,Container,0,Exotic,0
+102787,Relic of Atrocity,Relic,80,Legendary,640
 102788,Polychromatic Light Shoes,Armor,80,Exotic,264
 102789,Polychromatic Leggings Box,Container,0,Exotic,0
 102790,Homestead Recipe Book: Banners,Consumable,0,Exotic,0
@@ -67019,6 +67285,7 @@ id,name,type,level,rarity,vendor_value
 102814,Bearkin War Helm,Container,0,Exotic,0
 102816,Onyx Spider's Greatsword Skin,Consumable,0,Rare,0
 102818,Lowland Shore Renown Token,Trophy,0,Rare,0
+102821,Unknown Track 02,Gizmo,0,Basic,0
 102822,Wool Ball,Trophy,0,Basic,0
 102823,Glyph of the Unbound,Consumable,0,Basic,0
 102826,Polychromatic Medium Leggings,Armor,80,Exotic,370
@@ -67041,12 +67308,15 @@ id,name,type,level,rarity,vendor_value
 102866,Magi's Full Moon Hammer,Weapon,80,Rare,297
 102868,Recipe: Bronze Keep Construct Trophy,Consumable,0,Basic,50
 102874,Recipe: Gold Mursaat Overseer Trophy,Consumable,0,Basic,50
+102877,Relic of the Claw,Relic,80,Legendary,640
 102878,Woad Light Boots,Armor,80,Exotic,264
 102881,Janthir Syntri Renown Token,Trophy,0,Rare,0
 102882,Magi's Full Moon Staff,Weapon,80,Rare,297
 102883,Homestead Upgrade: Fiber Trade Capacity,Consumable,0,Exotic,0
 102884,Magi's Ursan Ornamented Dagger,Weapon,80,Rare,198
 102886,Recipe: Gold Cardinal Adina Trophy,Consumable,0,Basic,50
+102891,Tier 1,Consumable,0,Basic,0
+102896,Relic of the Blightbringer,Relic,80,Legendary,640
 102899,Ring of the Crustacean,Trinket,80,Ascended,495
 102901,Gift of Klobjarne Geirr,CraftingMaterial,0,Legendary,0
 102902,"Homestead Recipe Book: Plants, Volume 2",Consumable,0,Exotic,0
@@ -67060,6 +67330,7 @@ id,name,type,level,rarity,vendor_value
 102917,Recipe: Bronze Gorseval Trophy,Consumable,0,Basic,50
 102918,Recipe: Xera's Ribbon Scrap,Consumable,0,Basic,50
 102920,Recipe: Twin Largos' Token,Consumable,0,Basic,50
+102923,Tier 3,Consumable,0,Basic,0
 102924,Recipe: Gold White Mantle Abomination Trophy,Consumable,0,Basic,50
 102925,Recipe: Triple Trouble Tooth,Consumable,0,Basic,50
 102926,Glyph of the Leatherworker,Consumable,0,Basic,0
@@ -67087,6 +67358,7 @@ id,name,type,level,rarity,vendor_value
 102974,"Homestead Recipe Book: Plants, Volume 1",Consumable,0,Exotic,0
 102978,Recipe: Tequatl Tailbone,Consumable,0,Basic,50
 102980,Recipe: Silver Twin Largos Trophy,Consumable,0,Basic,50
+102981,Known Track 05,Gizmo,0,Basic,0
 102986,Recipe: Bronze Twin Largos Trophy,Consumable,0,Basic,50
 102987,Recipe: Impaled Prisoner,Consumable,0,Basic,50
 102989,Homestead Upgrade: Fiber Trade Capacity,Consumable,0,Exotic,0
@@ -67117,6 +67389,7 @@ id,name,type,level,rarity,vendor_value
 103052,Glyph of the Unbound,Consumable,0,Basic,0
 103054,Recipe: Jade Bot Workbench,Consumable,0,Basic,50
 103055,Titanplate Medium Jacket,Armor,80,Exotic,396
+103058,Circling-Heat Pearl,Consumable,0,Ascended,160
 103060,Viperfish,Container,0,Exotic,256
 103061,Recipe: Bronze Siege the Stronghold Trophy,Consumable,0,Basic,50
 103063,Void Corrupted Focus Skin,Consumable,0,Rare,0
@@ -67136,6 +67409,7 @@ id,name,type,level,rarity,vendor_value
 103110,Valkyrie Bearkin War Helm,Armor,80,Exotic,330
 103112,Recipe: Bronze Shatterer Trophy,Consumable,0,Basic,50
 103114,"Homestead Recipe Book: Misc. Items, Volume 1",Consumable,0,Exotic,0
+103116,Tier 5,Consumable,0,Basic,0
 103117,Janthir Fishing Reward,Container,0,Legendary,640
 103121,Recipe: Bronze Dhuum Trophy,Consumable,0,Basic,50
 103126,Onyx Spider's Focus Skin,Consumable,0,Rare,0
@@ -67154,6 +67428,7 @@ id,name,type,level,rarity,vendor_value
 103165,Recipe: Gold Gorseval Trophy,Consumable,0,Basic,50
 103167,Titanplate Medium Shoulders,Armor,80,Exotic,291
 103172,Recipe: Silver Xera Trophy,Consumable,0,Basic,50
+103174,Tier Progress,Consumable,0,Basic,0
 103182,Janthir Wilds Elemental Loot Box,Container,0,Basic,0
 103183,Recipe: Dhuum's Token,Consumable,0,Basic,50
 103184,Janthir Wilds Expedition Contract,Consumable,0,Rare,0
@@ -67163,6 +67438,7 @@ id,name,type,level,rarity,vendor_value
 103193,Large Stash of Carved Lowland Pine Coins,Consumable,0,Rare,0
 103195,Recipe: Titanplate Heavy Greaves,Consumable,0,Exotic,6000
 103196,Local Writ of Renown,Consumable,0,Rare,0
+103200,The End?,Gizmo,0,Basic,0
 103203,Recipe: Silver Siege the Stronghold Trophy,Consumable,0,Basic,50
 103208,Homestead Recipe Book: Pillars,Consumable,0,Exotic,0
 103209,Woad Medium Helm,Armor,80,Exotic,330
@@ -67185,9 +67461,11 @@ id,name,type,level,rarity,vendor_value
 103249,Woad Light Gloves,Armor,80,Exotic,238
 103253,Ursan Weapon Chest,Container,0,Rare,0
 103254,Recipe: Titanplate Light Mantle,Consumable,0,Exotic,6000
+103255,Known Track 02,Gizmo,0,Basic,0
 103257,Valkyrie Bearkin War Helm,Armor,80,Exotic,330
 103258,Rot Stalker Gloves Skin,Consumable,0,Masterwork,0
 103261,Rot Stalker Helm Skin,Consumable,0,Masterwork,0
+103262,Relic of the Stormsinger,Relic,80,Legendary,640
 103263,Woad Light Coat,Armor,80,Exotic,396
 103266,Recipe: Keep Construct Rubble,Consumable,0,Basic,50
 103268,Lowland Spear Unlock,Consumable,0,Exotic,0
@@ -67244,6 +67522,7 @@ id,name,type,level,rarity,vendor_value
 103395,Springer Treat,Consumable,0,Rare,0
 103397,Titanplate Heavy Cuisses,Armor,80,Exotic,370
 103398,Magi's Full Moon Axe,Weapon,80,Rare,198
+103401,Known Track 01,Gizmo,0,Basic,0
 103402,Recipe: Cardinal Sabir's Token,Consumable,0,Basic,50
 103403,Woad Coat Box,Container,0,Exotic,0
 103406,Onyx Spider's Dagger Skin,Consumable,0,Rare,0
@@ -67271,6 +67550,7 @@ id,name,type,level,rarity,vendor_value
 103449,Recipe: Conjured Amalgamate's Token,Consumable,0,Basic,50
 103450,Bearkin War Helm Remnant,CraftingMaterial,0,Exotic,0
 103452,Recipe: Gold Cardinal Sabir Trophy,Consumable,0,Basic,50
+103453,Unknown Track 04,Gizmo,0,Basic,0
 103454,Recipe: Silver Vale Guardian Trophy,Consumable,0,Basic,50
 103458,Homestead Recipe Book: Trees,Consumable,0,Exotic,0
 103459,Recipe: Titanplate Medium Gloves,Consumable,0,Exotic,6000
@@ -67291,11 +67571,13 @@ id,name,type,level,rarity,vendor_value
 103494,Janthir Wilds Creatures Loot Box,Container,0,Basic,0
 103495,Woad Light Helm,Armor,80,Exotic,330
 103506,Recipe: Bronze Tequatl Trophy,Consumable,0,Basic,50
+103507,Relic of Sorrow,Relic,80,Legendary,640
 103511,Queen Parrotfish,Container,0,Rare,192
 103512,Recipe: Bronze Deimos Trophy,Consumable,0,Basic,50
 103514,Glyph of the Herbalist,Consumable,0,Basic,0
 103516,Polychromatic Boot Box,Container,0,Exotic,0
 103517,Squeaker,Trophy,0,Basic,0
+103518,Tier 2,Consumable,0,Basic,0
 103530,Kodan Cache Key,Gizmo,0,Exotic,0
 103531,Homestead Upgrade: Ore Trade Capacity,Consumable,0,Rare,0
 103533,Plant Fiber,Trophy,0,Basic,0
@@ -67307,6 +67589,7 @@ id,name,type,level,rarity,vendor_value
 103550,Titanplate Shoulders Recipe Book,Container,0,Rare,0
 103552,Flame Legion Darksteel,Consumable,0,Ascended,160
 103553,Recipe: Silver Dhuum Trophy,Consumable,0,Basic,50
+103554,Unknown Track 03,Gizmo,0,Basic,0
 103556,Onyx Spider's Short Bow Skin,Consumable,0,Rare,0
 103568,Wild Roar Mount Select License,Consumable,0,Rare,999
 103569,Magi's Full Moon Rifle,Weapon,80,Rare,297
@@ -67516,6 +67799,7 @@ id,name,type,level,rarity,vendor_value
 103808,The Stormpiercer Spear Skin,Consumable,0,Rare,0
 103809,Proof of Siege Expertise,Consumable,0,Basic,0
 103810,Natural Leggings,Armor,80,Ascended,240
+103811,Relic of the Steamshrieker,Relic,80,Legendary,640
 103813,Mini Grey Warclaw Cub,MiniPet,0,Masterwork,50
 103814,Homestead Recipe Book: Hedge Mazes,Consumable,0,Exotic,0
 103815,Klobjarne Geirr,Weapon,80,Legendary,100000
@@ -67529,6 +67813,7 @@ id,name,type,level,rarity,vendor_value
 103824,Star Blessed Skiff Skin,Consumable,0,Rare,0
 103826,Pile of Recycled Shield Generators,Consumable,0,Basic,0
 103828,Convergence Challenge Mode: Gold,Container,0,Rare,0
+103829,Relic of Geysers,Relic,80,Legendary,640
 103830,Natural Wand,Weapon,80,Ascended,10000
 103831,Chest of Decima's Gloves,Container,0,Ascended,320
 103832,Legendary Weapon Starter Key—Set 6,Container,0,Legendary,640
@@ -67603,6 +67888,8 @@ id,name,type,level,rarity,vendor_value
 103919,Box of Scavenged Flame Ram Parts,Consumable,0,Basic,0
 103920,Box of Scavenged Catapult Parts,Consumable,0,Basic,0
 103922,Natural Bastion,Weapon,80,Ascended,10000
+103923,Relic of the Beehive,Relic,80,Legendary,640
+103924,Relic of Reunification,Relic,80,Legendary,640
 103926,Decima's Coffer,Container,0,Exotic,0
 103928,Natural Claymore,Weapon,80,Ascended,10000
 103929,Recipe: Bronze Greer Trophy,Consumable,0,Basic,50
@@ -67613,6 +67900,7 @@ id,name,type,level,rarity,vendor_value
 103936,Blood Moon Scepter of Blood,Weapon,80,Exotic,264
 103937,Pile of Recycled Flame Rams,Consumable,0,Basic,0
 103940,Alabaster Spider's Shield Skin,Consumable,0,Rare,0
+103941,Relic of the Mists Tide,Relic,80,Legendary,640
 103942,Recipe: Gold Decima Trophy,Consumable,0,Basic,50
 103944,Ura's Steampiercer,Weapon,80,Ascended,495
 103945,Recipe: Silver Decima Trophy,Consumable,0,Basic,50
@@ -67691,6 +67979,7 @@ id,name,type,level,rarity,vendor_value
 104032,Recipe: Magnanimous Maintenance Oil Station,Consumable,0,Masterwork,66
 104033,Convergence Challenge Mode: Gold,Container,0,Rare,0
 104034,Mini Sentient Conduit,MiniPet,0,Exotic,50
+104035,Relic of Mount Balrior,Relic,80,Legendary,640
 104036,Pile of Recycled Catapults,Consumable,0,Basic,0
 104037,Recollection of the Bearkin's Victories,Consumable,0,Legendary,320
 104038,Silver Decima Trophy,Consumable,0,Basic,0
@@ -67876,6 +68165,7 @@ id,name,type,level,rarity,vendor_value
 104245,True Sight Armor Recipe: Shoulders,Consumable,0,Exotic,0
 104246,Decima's Magnificent Coffer,Container,0,Exotic,0
 104247,True Sight Medium Mask,Armor,80,Exotic,330
+104249,Relic of Vampirism,Relic,80,Legendary,640
 104250,"Homestead Recipe Book: Kryta, Volume 1",Consumable,0,Exotic,0
 104251,Ward Knight's Boots Skin,Consumable,0,Masterwork,0
 104252,Homestead Recipe: Beetletun Statue Fragments,Consumable,0,Exotic,0
@@ -67889,8 +68179,10 @@ id,name,type,level,rarity,vendor_value
 104268,28 Slot Black Lion Satchel,Bag,0,Exotic,256
 104269,Homestead Recipe: Statue of Joko the Fearsome,Consumable,0,Exotic,0
 104270,Old-Growth Torch Skin,Consumable,0,Rare,0
+104274,Relic of Surging,Relic,80,Legendary,640
 104275,Spineback Crab,Container,0,Rare,192
 104276,Old-Growth Longbow Skin,Consumable,0,Rare,0
+104277,Relic of the Lich,Relic,80,Legendary,640
 104278,Charged Titan Ore Home Instance Node,Consumable,0,Rare,0
 104280,Fishtailed Frog,Container,0,Fine,64
 104281,True Sight Heavy Boots,Armor,80,Exotic,264
@@ -67903,6 +68195,7 @@ id,name,type,level,rarity,vendor_value
 104293,Infused Aurora Leggings Skin,Consumable,0,Masterwork,0
 104294,Sinister Scavenged Obsidian Torch,Weapon,80,Exotic,264
 104295,Old-Growth Spear Skin,Consumable,0,Rare,0
+104296,Relic of Thorns,Relic,80,Legendary,640
 104298,Feathered Snail,Container,0,Rare,192
 104299,Old-Growth Scepter Skin,Consumable,0,Rare,0
 104301,True Sight Armor Recipe: Boots,Consumable,0,Exotic,0
@@ -67911,6 +68204,8 @@ id,name,type,level,rarity,vendor_value
 104304,True Sight Light Mask,Armor,80,Exotic,330
 104305,True Sight Light Boots,Armor,80,Exotic,264
 104306,Greer's Coffer,Container,0,Exotic,0
+104308,Relic of Fire,Relic,80,Legendary,640
+104311,Relic of the Privateer,Relic,80,Legendary,640
 104312,Old-Growth Selection Box,Container,0,Rare,0
 104313,Gift of Mistburned Barrens,CraftingMaterial,0,Legendary,0
 104314,"""/PoseCover"" Emote Tome",Consumable,0,Exotic,0
@@ -67927,6 +68222,7 @@ id,name,type,level,rarity,vendor_value
 104331,Curious Mursaat Ruin Shard,Consumable,0,Basic,0
 104332,"""/PoseLow"" Emote Tome",Consumable,0,Exotic,0
 104333,Sinister Scavenged Obsidian Rifle,Weapon,80,Exotic,396
+104334,Relic of the Ogre,Relic,80,Legendary,640
 104335,"Homestead Recipe Book: Summit Banners, Volume 1",Consumable,0,Exotic,0
 104336,Recipe: Relic of the Holosmith,Consumable,0,Exotic,128
 104340,Bloodstone Infusion,UpgradeComponent,80,Exotic,10000
@@ -67958,8 +68254,10 @@ id,name,type,level,rarity,vendor_value
 104379,"Homestead Recipe Book: Awakened, Volume 1",Consumable,0,Exotic,0
 104380,Recipe: Relic of the Thorns,Consumable,0,Exotic,128
 104381,Sinister Scavenged Obsidian Staff,Weapon,80,Exotic,396
+104383,Relic of the Earth,Relic,80,Legendary,640
 104386,Bloodstone Infusion,UpgradeComponent,80,Exotic,10000
 104389,Fashion Poses Emote Tome,Container,0,Basic,0
+104390,Relic of the Holosmith,Relic,80,Legendary,640
 104391,True Sight Heavy Shoulders,Armor,80,Exotic,291
 104392,Forest Wisp,Trinket,80,Ascended,413
 104393,True Sight Armor Recipe: Leggings,Consumable,0,Exotic,0
@@ -67976,7 +68274,9 @@ id,name,type,level,rarity,vendor_value
 104410,Decima's Coffer,Container,0,Exotic,0
 104411,Endless Yagon Tonic,Gizmo,0,Exotic,104
 104412,True Sight Medium Boots,Armor,80,Exotic,264
+104413,Relic of the Eagle,Relic,80,Legendary,640
 104414,Woodland Kodan Leather Gloves,Container,0,Exotic,0
+104416,Relic of the Golemancer,Relic,80,Legendary,640
 104417,Old-Growth Dagger Skin,Consumable,0,Rare,0
 104418,Scavenged Obsidian Weapon Box,Container,0,Exotic,0
 104419,True Sight Medium Shoulders,Armor,80,Exotic,291
@@ -68022,6 +68322,7 @@ id,name,type,level,rarity,vendor_value
 104488,Sinister Scavenged Obsidian Focus,Weapon,80,Exotic,264
 104489,"Homestead Recipe Book: Auric Basin, Volume 1",Consumable,0,Exotic,0
 104490,Mistburned Barrens Adventure: Bronze,Container,0,Fine,0
+104491,Relic of Altruism,Relic,80,Legendary,640
 104492,"Homestead Recipe Book: Lion Statues, Volume 1",Consumable,0,Exotic,0
 104495,Old-Growth Sword Skin,Consumable,0,Rare,0
 104496,Homestead Recipe: Statue of Joko the Indomitable,Consumable,0,Exotic,0
