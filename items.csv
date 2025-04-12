@@ -45688,6 +45688,7 @@ id,name,type,level,rarity,vendor_value
 72778,Spirit of The Lover Experiment,CraftingMaterial,0,Exotic,66
 72780,Wide Library Shelf,Consumable,0,Basic,0
 72781,Green Wood Pen,CraftingMaterial,0,Fine,4
+72782,Mad King Chest,Container,0,Exotic,256
 72783,Recipe: Paintbrush,Consumable,0,Exotic,132
 72784,Recipe: Minstrel's Exalted Boots,Consumable,0,Exotic,132
 72785,Recipe: Viper's Exalted Boots,Consumable,0,Exotic,132
@@ -49269,6 +49270,7 @@ id,name,type,level,rarity,vendor_value
 77605,Recipe: Peppermint Omnomberry Bar,Consumable,0,Masterwork,66
 77606,Berserker's Elder Short Bow,Weapon,80,Rare,297
 77607,Festive Grymm Svaard,Consumable,0,Exotic,0
+77608,Ultimate Wintersday Gift,Container,0,Exotic,16
 77609,Timekeeper Short Bow Skin,Consumable,0,Rare,0
 77610,Recipe: Tuning Icicle,Consumable,0,Masterwork,66
 77611,Cleric's Mithril Rifle,Weapon,80,Rare,297
