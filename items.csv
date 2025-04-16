@@ -60237,7 +60237,7 @@ id,name,type,level,rarity,vendor_value
 93301,Super Mushroom Platform,Consumable,0,Basic,0
 93302,Glitched Adventure Focus,Weapon,80,Exotic,264
 93303,Red Lion Dye,Consumable,0,Exotic,0
-93304,Mini Super Ooze,MiniPet,0,Exotic,50
+93304,Mini Super Blue Ooze,MiniPet,0,Exotic,50
 93305,Super Tree Trunk,Consumable,0,Basic,0
 93306,Garnet Dye,Consumable,0,Fine,0
 93307,Virtual Box,Container,0,Rare,0
@@ -67778,7 +67778,7 @@ Balance",Gizmo,0,Basic,0
 103776,Recipe: Karka Toughness Station,Consumable,0,Masterwork,66
 103777,Blood Moon Mace of Blood,Weapon,80,Exotic,264
 103780,Sea-Glass Wave Sword,Weapon,80,Ascended,330
-103782,Mini Biege Warclaw Cub,MiniPet,0,Masterwork,50
+103782,Mini Beige Warclaw Cub,MiniPet,0,Masterwork,50
 103783,Greer's Coffer,Container,0,Exotic,0
 103784,Alabaster Spider's Axe Skin,Consumable,0,Rare,0
 103785,Natural Guise,Armor,80,Ascended,240
@@ -68413,3 +68413,56 @@ Balance",Gizmo,0,Basic,0
 104584,Sunspear Armor Box,Container,0,Basic,0
 104585,Homestead Decoration: Café Transporter,Consumable,0,Exotic,0
 104586,Bag of Aurillium,Consumable,0,Rare,92
+104587,"Homestead Recipe Book: Super Adventure Box, Volume 2",Consumable,0,Exotic,0
+104588,"""/MagicTrick"" Emote Tome",Consumable,0,Exotic,0
+104589,Super Rainbow Cloud Torch,Weapon,80,Exotic,264
+104592,Super Rainbow Cloud Longbow,Weapon,80,Exotic,396
+104593,Recipe: Super Pagoda Long Roof,Consumable,0,Basic,50
+104594,Recipe: Super Pagoda Arch,Consumable,0,Basic,50
+104595,"Homestead Recipe Book: Super Adventure Box, Volume 4",Consumable,0,Exotic,0
+104596,Super Rainbow Cloud Scepter,Weapon,80,Exotic,264
+104597,Super Rainbow Cloud Mace,Weapon,80,Exotic,264
+104598,Recipe: Super Pagoda Pond,Consumable,0,Basic,50
+104599,Recipe: Super Pagoda Deck,Consumable,0,Basic,50
+104600,Super Rainbow Cloud Sword,Weapon,80,Exotic,264
+104601,Mini Super Yellow Ooze,MiniPet,0,Exotic,50
+104602,Super Rainbow Cloud Hammer,Weapon,80,Exotic,396
+104603,Recipe: Super Pagoda Roof,Consumable,0,Basic,50
+104604,Super Rainbow Cloud Spear,Weapon,80,Exotic,396
+104605,"Homestead Recipe Book: Super Adventure Box, Volume 5",Consumable,0,Exotic,0
+104606,Super Pagoda Door,Consumable,0,Basic,0
+104607,Super Rainbow Cloud Dagger,Weapon,80,Exotic,264
+104608,Super Rainbow Cloud Warhorn,Weapon,80,Exotic,264
+104609,Super Rainbow Cloud Axe,Weapon,80,Exotic,264
+104610,Valkyrie Powered Boots,Armor,80,Exotic,264
+104612,Retro-Forged Torch,Weapon,80,Exotic,264
+104614,Super Rainbow Cloud Shield,Weapon,80,Exotic,264
+104616,Recipe: Super Pagoda Floor,Consumable,0,Basic,50
+104618,Super Rainbow Cloud Staff,Weapon,80,Exotic,396
+104620,Powered Boots Box,Container,0,Exotic,256
+104621,Super Rainbow Cloud Rifle,Weapon,80,Exotic,396
+104622,"Homestead Recipe Book: Super Adventure Box, Volume 7",Consumable,0,Exotic,0
+104623,Super Rainbow Cloud Focus,Weapon,80,Exotic,264
+104624,Super Pagoda Deck,Consumable,0,Basic,0
+104625,Super Pagoda Long Roof,Consumable,0,Basic,0
+104626,Valkyrie Powered Boots,Armor,80,Exotic,264
+104628,Super Pagoda Pond,Consumable,0,Basic,0
+104630,Magical Spear Skin,Consumable,0,Rare,0
+104631,Valkyrie Powered Boots,Armor,80,Exotic,264
+104632,Super Pagoda Floor,Consumable,0,Basic,0
+104633,Trader's Golem-Buster Weapons Locker,Container,0,Exotic,256
+104634,Super Rainbow Cloud Short Bow,Weapon,80,Exotic,396
+104636,Super Rainbow Cloud Pistol,Weapon,80,Exotic,264
+104637,Retro-Forged Axe,Weapon,80,Exotic,264
+104639,Retro-Forged Weapon Chest,Container,0,Exotic,0
+104640,Recipe: Super Pagoda Door,Consumable,0,Basic,50
+104641,Super Rainbow Cloud Weapons Locker,Container,0,Exotic,256
+104642,"Homestead Recipe Book: Super Adventure Box, Volume 6",Consumable,0,Exotic,0
+104643,Recipe: Super Pagoda Wall,Consumable,0,Basic,50
+104644,Royal Layered Cape Skin,Consumable,0,Masterwork,6250
+104646,"Homestead Recipe Book: Super Adventure Box, Volume 1",Consumable,0,Exotic,0
+104647,Retro-Forged Trident,Weapon,80,Exotic,396
+104648,"Homestead Recipe Book: Super Adventure Box, Volume 3",Consumable,0,Exotic,0
+104649,"Homestead Recipe Book: Super Adventure Box, Volume 8",Consumable,0,Exotic,0
+104650,Super Rainbow Cloud Greatsword,Weapon,80,Exotic,396
+104651,"Homestead Recipe Book: Super Adventure Box, Volume 9",Consumable,0,Exotic,0
