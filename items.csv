@@ -23078,6 +23078,7 @@ id,name,type,level,rarity,vendor_value
 31323,Legionnaire Staff,Weapon,80,Exotic,396
 31325,Legionnaire Firebrand,Weapon,80,Exotic,264
 31326,Legionnaire Trident,Weapon,80,Exotic,396
+31329,Blood Bulwark,Weapon,80,Exotic,264
 31330,Iron Bulwark,Weapon,80,Exotic,264
 31331,Plated Sniper Rifle,Weapon,80,Exotic,396
 31332,Tribal Axe,Weapon,80,Exotic,264
@@ -23392,6 +23393,7 @@ id,name,type,level,rarity,vendor_value
 31932,Golden Warhorn,Weapon,80,Exotic,264
 31949,Seraph Torch,Weapon,80,Exotic,264
 31952,Serrated Spear,Weapon,80,Exotic,396
+31953,Sickle Axe,Weapon,80,Exotic,264
 31955,Svanir Axe,Weapon,80,Exotic,264
 31957,Svanir Focus,Weapon,80,Exotic,264
 31958,Svanir Greatsword,Weapon,80,Exotic,396
