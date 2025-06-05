@@ -66503,6 +66503,7 @@ id,name,type,level,rarity,vendor_value
 99958,Shaman's Stormforged Torch,Weapon,80,Exotic,264
 99959,Storm's Eye Short Bow,Weapon,80,Exotic,396
 99960,Relic Container: Support,Container,0,Exotic,200
+99961,Wizard's Vault Daily Completion Chest,Container,0,Rare,0
 99962,Gift of Persistence,CraftingMaterial,0,Exotic,0
 99964,Pouch of Stardust,CraftingMaterial,0,Exotic,0
 99965,Relic of the Flock,Relic,60,Exotic,200
@@ -68843,6 +68844,7 @@ Balance",Gizmo,0,Basic,0
 103470,Void Corrupted Shield Skin,Consumable,0,Rare,0
 103471,Magi's Ursan Ornamented Staff,Weapon,80,Rare,297
 103472,Scrap of Janthir Wilds Mastery,Consumable,0,Masterwork,0
+103474,Bog Queen Combat Tonic,Gizmo,0,Exotic,0
 103478,Recipe: Bronze Chak Gerent Trophy,Consumable,0,Basic,50
 103482,Wild Roar Mount Adoption License,Consumable,0,Rare,999
 103483,Onyx Spider's Warhorn Skin,Consumable,0,Rare,0
@@ -69839,6 +69841,7 @@ Balance",Gizmo,0,Basic,0
 104759,Recipe: Lightborne Mace,Consumable,0,Exotic,128
 104760,Enchanted Roller Beetle Skin,Consumable,0,Rare,0
 104761,Lightborne Spear,Weapon,80,Exotic,396
+104762,Uncrowned Legend's Warhorn,Weapon,80,Exotic,264
 104763,Gift of the Mursaat Ruins,CraftingMaterial,0,Legendary,0
 104765,Uncrowned Legend's Trident,Weapon,80,Exotic,396
 104766,Stone-Growth Pistol Skin,Consumable,0,Rare,0
@@ -69907,6 +69910,7 @@ Balance",Gizmo,0,Basic,0
 104862,Black Lion Brasswork Wall Recipe,Consumable,0,Basic,0
 104864,Attuned Ring of the Crustacean (Infused),Trinket,80,Ascended,495
 104865,"Homestead Recipe Book: Dragon Bash, Volume 3",Consumable,0,Exotic,0
+104866,Uncrowned Legend's Greatsword,Weapon,80,Exotic,396
 104867,Slumbering Lightborne Warhorn,Weapon,80,Rare,198
 104869,Stone-Growth Shield Skin,Consumable,0,Rare,0
 104871,Stellar Dragon Wings Glider,Consumable,0,Masterwork,0
