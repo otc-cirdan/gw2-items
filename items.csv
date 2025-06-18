@@ -69786,6 +69786,7 @@ Balance",Gizmo,0,Basic,0
 104678,Stone-Growth Sword Skin,Consumable,0,Rare,0
 104681,Attuned Wood Rune Ring (Infused),Trinket,80,Ascended,495
 104682,Mini Bog Queen,Container,0,Exotic,50
+104684,Sacred Raven's Mace,Weapon,80,Exotic,264
 104685,Recipe: Norn Stone Structure,Consumable,0,Basic,50
 104686,Skywatch Archipelago: Commander's Choice Chest,Container,0,Exotic,0
 104687,Verdant Brink: Commander's Choice Chest,Container,0,Exotic,0
@@ -69802,6 +69803,7 @@ Balance",Gizmo,0,Basic,0
 104705,Lightborne Staff,Weapon,80,Exotic,396
 104706,Attuned Knotted Rope Ring,Trinket,80,Ascended,495
 104707,Slumbering Lightborne Scepter,Weapon,80,Rare,198
+104708,Sacred Raven's Rifle,Weapon,80,Exotic,396
 104710,Convergence: Outer Nayos: Commander's Choice Chest,Container,0,Exotic,0
 104711,Mini White Journeykit,MiniPet,0,Rare,50
 104713,Recipe: Lightborne Shield,Consumable,0,Exotic,128
@@ -69811,6 +69813,7 @@ Balance",Gizmo,0,Basic,0
 104718,Slumbering Lightborne Axe,Weapon,80,Rare,198
 104720,Recipe: Lightborne Scepter,Consumable,0,Exotic,128
 104721,Lightborne Rifle,Weapon,80,Exotic,396
+104722,Raven-Blessed Visage,Armor,80,Exotic,330
 104723,Homestead Recipe Book: Books,Consumable,0,Exotic,0
 104725,Slumbering Lightborne Mace,Weapon,80,Rare,198
 104726,Vibrant Wings Backpack Skin,Consumable,0,Masterwork,0
@@ -69856,6 +69859,7 @@ Balance",Gizmo,0,Basic,0
 104776,Slumbering Lightborne Short Bow,Weapon,80,Rare,297
 104777,Binding of the Dragon,CraftingMaterial,0,Legendary,0
 104779,Black Lion Brasswork Curved Pipe Recipe,Consumable,0,Basic,0
+104780,Raven-Blessed Visage,Armor,80,Exotic,330
 104783,Citadel of Zakiros: Commander's Choice Chest,Container,0,Exotic,0
 104785,Askur Camping Cookout Backpiece Remnant,CraftingMaterial,0,Exotic,0
 104787,Lightborne Sword,Weapon,80,Exotic,264
@@ -69872,15 +69876,19 @@ Balance",Gizmo,0,Basic,0
 104802,Ring of the Crustacean (Infused),Trinket,80,Ascended,495
 104803,Domain of Vabbi: Commander's Choice Chest,Container,0,Exotic,0
 104804,Wood Rune Ring (Infused),Trinket,80,Ascended,495
+104806,Sacred Raven's Pistol,Weapon,80,Exotic,264
 104807,Recipe: Lightborne Spear,Consumable,0,Exotic,128
+104808,Sacred Raven's Scepter,Weapon,80,Exotic,264
 104809,Recipe: Lightborne Dagger,Consumable,0,Exotic,128
 104810,Slumbering Lightborne Shield,Weapon,80,Rare,198
 104814,Stone-Growth Short Bow Skin,Consumable,0,Rare,0
+104815,Raven-Blessed Visage Box,Container,0,Exotic,256
 104816,Woodland Kodan Leather Shoulders,Armor,80,Exotic,291
 104817,Salmon of Knowledge Backpiece Remnant,CraftingMaterial,0,Exotic,0
 104818,Convergence Challenge Mode: Silver,Container,0,Masterwork,0
 104819,Black Lion Brasswork Straight Pipe Recipe,Consumable,0,Basic,0
 104820,Mini Beige Journeykit,MiniPet,0,Rare,50
+104822,Sacred Raven's Sword,Weapon,80,Exotic,264
 104823,Recipe: Lightborne Hammer,Consumable,0,Exotic,128
 104825,Recipe: Lightborne Staff,Consumable,0,Exotic,128
 104826,Mini Vigilant Geode,MiniPet,0,Masterwork,50
@@ -69891,14 +69899,18 @@ Balance",Gizmo,0,Basic,0
 104832,Janthir Syntri: Commander's Choice Chest,Container,0,Exotic,0
 104834,"Homestead Recipe Book: Dragon Bash, Volume 4",Consumable,0,Exotic,0
 104835,Mini Gray Journeykit,MiniPet,0,Rare,50
+104836,Trader's Sacred Crystal Chest,Container,0,Exotic,256
+104837,Sacred Raven's Shield,Weapon,80,Exotic,264
 104838,Verdant Brink: Commander's Choice Chest,Gizmo,0,Exotic,0
 104839,Gift of the Side Course,CraftingMaterial,0,Legendary,0
 104840,Black Lion Brasswork Pipe Connector Recipe,Consumable,0,Basic,0
+104841,Sacred Raven's Longbow,Weapon,80,Exotic,396
 104842,Fox Fire Spear Skin,Consumable,0,Rare,0
 104843,Slumbering Lightborne Sword,Weapon,80,Rare,198
 104844,Fruit of the Shadow,CraftingMaterial,0,Legendary,0
 104845,Black Lion Brasswork Pipe Cap Recipe,Consumable,0,Basic,0
 104846,Gift of Shadows,CraftingMaterial,0,Legendary,0
+104847,Sacred Raven's Warhorn,Weapon,80,Exotic,264
 104848,Relic of Bava Nisos,Relic,60,Exotic,200
 104849,Relic of Agony,Relic,60,Exotic,200
 104850,Stone-Growth Mace Skin,Consumable,0,Rare,0
@@ -69911,6 +69923,7 @@ Balance",Gizmo,0,Basic,0
 104859,Lightborne Axe,Weapon,80,Exotic,264
 104860,Lightborne Greatsword,Weapon,80,Exotic,396
 104862,Black Lion Brasswork Wall Recipe,Consumable,0,Basic,0
+104863,Ornate Grand Piano Chair,Gizmo,0,Rare,0
 104864,Attuned Ring of the Crustacean (Infused),Trinket,80,Ascended,495
 104865,"Homestead Recipe Book: Dragon Bash, Volume 3",Consumable,0,Exotic,0
 104866,Uncrowned Legend's Greatsword,Weapon,80,Exotic,396
@@ -69928,6 +69941,7 @@ Balance",Gizmo,0,Basic,0
 104884,Tangled Depths: Commander's Choice Chest,Container,0,Exotic,0
 104885,Echovald Wilds: Commander's Choice Chest,Container,0,Exotic,0
 104888,Dragon's End: Commander's Choice Chest,Gizmo,0,Exotic,0
+104893,Sacred Raven's Torch,Weapon,80,Exotic,264
 104894,Dragon's Stand: Commander's Choice Chest,Container,0,Exotic,0
 104895,Champion of Orr,Consumable,0,Rare,0
 104896,Gift of Bava Nisos,CraftingMaterial,0,Legendary,0
@@ -69935,6 +69949,7 @@ Balance",Gizmo,0,Basic,0
 104898,Recipe: Lightborne Rifle,Consumable,0,Exotic,128
 104900,Mini Golden Labrador,MiniPet,0,Exotic,50
 104901,Norn Brazier,Consumable,0,Basic,0
+104904,Sacred Raven's Focus,Weapon,80,Exotic,264
 104905,Lightborne Shield,Weapon,80,Exotic,264
 104906,Dragon's Stand: Commander's Choice Chest,Gizmo,0,Exotic,0
 104908,Shadowfruit Seeds,Consumable,0,Rare,0
@@ -69942,10 +69957,13 @@ Balance",Gizmo,0,Basic,0
 104910,Dragon's End: Commander's Choice Chest,Container,0,Exotic,0
 104911,Auric Basin: Commander's Choice Chest,Gizmo,0,Exotic,0
 104913,Recipe: Lightborne Greatsword,Consumable,0,Exotic,128
+104914,Sacred Raven's Axe,Weapon,80,Exotic,264
 104916,Lightborne Scepter,Weapon,80,Exotic,264
 104918,Lightborne Torch,Weapon,80,Exotic,264
 104919,Stone-Growth Dagger Skin,Consumable,0,Rare,0
+104920,Sacred Raven's Chest,Container,0,Exotic,256
 104921,Stellar Dragon Wings Backpack and Glider Combo,Consumable,0,Masterwork,0
+104925,Sacred Raven's Greatsword,Weapon,80,Exotic,396
 104926,Vibrant Wings Glider Skin,Consumable,0,Masterwork,0
 104928,Relic of the Living City,Relic,60,Exotic,200
 104929,Inner Nayos: Commander's Choice Chest,Container,0,Exotic,0
@@ -69966,6 +69984,7 @@ Balance",Gizmo,0,Basic,0
 104945,Amnytas: Commander's Choice Chest,Gizmo,0,Exotic,0
 104949,Recipe: Lightborne Focus,Consumable,0,Exotic,128
 104950,Lightborne Warhorn,Weapon,80,Exotic,264
+104953,Sacred Raven's Spear,Weapon,80,Exotic,396
 104955,Recipe: Lightborne Sword,Consumable,0,Exotic,128
 104956,Convergence Challenge Mode: Gold,Container,0,Rare,0
 104958,Mini Orange Journeykit,MiniPet,0,Rare,50
@@ -69976,9 +69995,11 @@ Balance",Gizmo,0,Basic,0
 104965,Gift of the Appetizer,CraftingMaterial,0,Legendary,0
 104966,Stone-Growth Greatsword Skin,Consumable,0,Rare,0
 104967,Recipe: Lightborne Warhorn,Consumable,0,Exotic,128
+104968,Sacred Raven's Hammer,Weapon,80,Exotic,396
 104971,Homestead Decoration Limit Increase,Consumable,0,Rare,0
 104973,Seitung Province: Commander's Choice Chest,Container,0,Exotic,0
 104977,Stone-Growth Selection Box,Container,0,Rare,0
+104978,Raven-Blessed Visage,Armor,80,Exotic,330
 104979,Slumbering Lightborne Pistol,Weapon,80,Rare,198
 104980,Woodland Kodan Leather Shoulders,Armor,80,Exotic,291
 104981,Orrax Manifested Backpack and Glider Combo,Consumable,0,Masterwork,0
@@ -69988,8 +70009,11 @@ Balance",Gizmo,0,Basic,0
 104987,Letter from Lutze,Consumable,0,Junk,10
 104988,New Kaineng City: Commander's Choice Chest,Container,0,Exotic,0
 104989,Lightborne Focus,Weapon,80,Exotic,264
+104991,Sacred Raven's Staff,Weapon,80,Exotic,396
+104992,Black Lion Ornate Grand Piano Recipe,Consumable,0,Basic,0
 104993,Elon Riverlands: Commander's Choice Chest,Gizmo,0,Exotic,0
 104994,Relic of Mistburn,Relic,60,Exotic,200
+104995,Sacred Raven's Dagger,Weapon,80,Exotic,264
 104996,Stone-Growth Spear Skin,Consumable,0,Rare,0
 104997,Recipe: Norn Stair,Consumable,0,Basic,50
 104998,Slumbering Lightborne Focus,Weapon,80,Rare,198
@@ -69997,6 +70021,7 @@ Balance",Gizmo,0,Basic,0
 105001,Tangled Depths: Commander's Choice Chest,Gizmo,0,Exotic,0
 105002,Eternal Proof of Friendship,Consumable,0,Legendary,20
 105004,Mists Gate Residue,CraftingMaterial,0,Exotic,64
+105005,Sacred Raven's Short Bow,Weapon,80,Exotic,396
 105006,Recipe: Lightborne Pistol,Consumable,0,Exotic,128
 105007,Slumbering Lightborne Rifle,Weapon,80,Rare,297
 105008,Lightborne Dagger,Weapon,80,Exotic,264
