@@ -15450,7 +15450,6 @@ id,name,type,level,rarity,vendor_value
 20732,Stem Dye,Consumable,0,Fine,5
 20733,Strawberry Breeze Dye,Consumable,0,Fine,5
 20734,Strawberry Dye,Consumable,0,Fine,5
-20735,Stream Dye,Consumable,0,Basic,5
 20736,Summer Thistle Dye,Consumable,0,Fine,5
 20737,Tulip Dye,Consumable,0,Fine,5
 20738,Umber Dye,Consumable,0,Fine,5
@@ -68568,6 +68567,7 @@ Balance",Gizmo,0,Basic,0
 102814,Bearkin War Helm Choice Box,Container,0,Exotic,0
 102816,Onyx Spider's Greatsword Skin,Consumable,0,Rare,0
 102818,Lowland Shore Renown Token,Trophy,0,Rare,0
+102820,"Homestead Recipe Book: Four Winds, Volume 1",Consumable,0,Exotic,0
 102821,Unknown Track 02,Gizmo,0,Basic,0
 102822,Wool Ball,Trophy,0,Basic,0
 102823,Glyph of the Unbound,Consumable,0,Basic,0
@@ -70050,3 +70050,53 @@ Balance",Gizmo,0,Basic,0
 105033,Sunshine Sandals Skin,Consumable,0,Masterwork,0
 105034,Sunshine Bracelet Skin,Consumable,0,Masterwork,0
 105035,Sunshine Shorts Skin,Consumable,0,Masterwork,0
+105036,Castoran Tentacled Skimmer Skin,Consumable,0,Exotic,0
+105039,Sun Aspect Crystal,Consumable,0,Basic,0
+105040,Chromatic Resin Sword Skin,Consumable,0,Rare,0
+105045,"Homestead Recipe Book: Four Winds, Volume 4",Consumable,0,Exotic,0
+105046,Chromatic Resin Spear Skin,Consumable,0,Rare,0
+105047,Chromatic Resin Mace Skin,Consumable,0,Rare,0
+105048,"Homestead Recipe Book: Four Winds, Volume 5",Consumable,0,Exotic,0
+105049,Chromatic Resin Dagger Skin,Consumable,0,Rare,0
+105050,Chromatic Resin Staff Skin,Consumable,0,Rare,0
+105054,"Homestead Recipe Book: Four Winds, Volume 2",Consumable,0,Exotic,0
+105055,Seashell Focus,Weapon,80,Exotic,264
+105057,Regenerative Chamber Chair,Gizmo,0,Rare,0
+105063,Chromatic Resin Axe Skin,Consumable,0,Rare,0
+105065,Zephyrite Display Stand,Consumable,0,Basic,0
+105068,Bazaar-Traded Weapon Chest,Container,0,Exotic,0
+105070,Chromatic Resin Rifle Skin,Consumable,0,Rare,0
+105073,Lightning Aspect Crystal,Consumable,0,Basic,0
+105078,Plumed Commodore's Hat Skin,Consumable,0,Masterwork,0
+105079,Seashell Shield,Weapon,80,Exotic,264
+105081,Fairy Dust Logging Tool,Gathering,0,Rare,192
+105083,Chromatic Resin Torch Skin,Consumable,0,Rare,0
+105087,Wind Aspect Crystal,Consumable,0,Basic,0
+105089,Siege Turtle Rental Post,Consumable,0,Basic,0
+105091,Chromatic Resin Warhorn Skin,Consumable,0,Rare,0
+105092,Recipe: Lightning Aspect Crystal,Consumable,0,Basic,50
+105095,Scavenged Frost Legion Infusion,Container,0,Exotic,0
+105096,Fairy Dust Harvesting Tool,Gathering,0,Rare,192
+105098,Chromatic Resin Longbow Skin,Consumable,0,Rare,0
+105101,Recipe: Wind Aspect Crystal,Consumable,0,Basic,50
+105102,Recipe: Zephyrite Display Stand,Consumable,0,Basic,50
+105104,Chromatic Resin Weapon Skin Choice Box,Container,0,Rare,0
+105105,Chromatic Resin Shield Skin,Consumable,0,Rare,0
+105107,Fairy Dust Gathering Tools Pack,Container,0,Masterwork,0
+105108,Recipe: Sun Aspect Crystal,Consumable,0,Basic,50
+105109,"Homestead Recipe Book: Four Winds, Volume 3",Consumable,0,Exotic,0
+105110,Mini Garenhoff Coon Cat,MiniPet,0,Exotic,50
+105111,Chromatic Resin Pistol Skin,Consumable,0,Rare,0
+105115,Chromatic Resin Greatsword Skin,Consumable,0,Rare,0
+105117,Fairy Dust Mining Tool,Gathering,0,Rare,192
+105122,Chromatic Resin Hammer Skin,Consumable,0,Rare,0
+105124,"Homestead Recipe Book: Four Winds, Volume 7",Consumable,0,Exotic,0
+105125,Recipe: Siege Turtle Rental Post,Consumable,0,Basic,50
+105128,Collapsing Star Spear Skin,Consumable,0,Rare,0
+105131,Chromatic Resin Focus Skin,Consumable,0,Rare,0
+105132,"Homestead Recipe Book: Four Winds, Volume 6",Consumable,0,Exotic,0
+105134,Round Boatsman Hat Skin,Consumable,0,Masterwork,0
+105137,Chromatic Resin Short Bow Skin,Consumable,0,Rare,0
+105138,Flat Boatsman Hat Skin,Consumable,0,Masterwork,0
+105139,Chromatic Resin Scepter Skin,Consumable,0,Rare,0
+105141,Title Scroll: Eternal Alchemist,Consumable,0,Rare,0
