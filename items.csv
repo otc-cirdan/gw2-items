@@ -5291,6 +5291,7 @@ id,name,type,level,rarity,vendor_value
 5657,Council Watch Boots,Armor,0,Exotic,0
 5666,Priory's Historical Mask,Armor,0,Exotic,0
 5668,Priory's Historical Shoulderpads,Armor,0,Exotic,0
+5669,Vigil's Honor Boots,Armor,0,Exotic,0
 5670,Vigil's Honor Jerkin,Armor,0,Exotic,0
 5671,Vigil's Honor Gloves,Armor,0,Exotic,0
 5685,Whisper's Secret Leggings,Armor,0,Exotic,0
@@ -23626,6 +23627,7 @@ id,name,type,level,rarity,vendor_value
 31525,Molten Warhorn,Weapon,80,Exotic,264
 31526,Makeshift Shield,Weapon,80,Exotic,264
 31528,Troll Tusk,Weapon,80,Exotic,264
+31530,Fanged Greatsword,Weapon,80,Exotic,396
 31534,Horned Mace,Weapon,80,Exotic,264
 31535,Macabre Pistol,Weapon,80,Exotic,264
 31538,Tusked Defender,Weapon,80,Exotic,264
