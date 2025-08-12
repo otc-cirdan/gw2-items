@@ -3805,14 +3805,18 @@ id,name,type,level,rarity,vendor_value
 3966,Tor's Chain Coat,Armor,10,Fine,23
 3967,Tor's Cloth Coat,Armor,10,Fine,23
 3968,Tor's Leather Coat,Armor,10,Fine,23
+3969,"""Acquired"" Boots",Armor,52,Fine,46
 3970,Crusader's Heavy Helm,Armor,54,Fine,59
 3971,Dark Leggings,Armor,51,Fine,63
+3972,Mountainous Pauldrons,Armor,57,Fine,54
 3973,"""Acquired"" Shoes",Armor,52,Fine,46
 3974,Crusader's Light Helm,Armor,54,Fine,59
 3975,Shadow Leggings,Armor,51,Fine,63
+3976,Mountainous Mantle,Armor,57,Fine,54
 3977,"""Acquired"" Leather Shoes",Armor,52,Fine,46
 3978,Crusader's Mask,Armor,54,Fine,59
 3979,Smoke Leggings,Armor,51,Fine,63
+3980,Mountainous Shoulderpads,Armor,57,Fine,54
 3981,"Shiny ""Acquired"" Boots",Armor,52,Masterwork,92
 3982,Fine Crusader's Heavy Helm,Armor,54,Masterwork,118
 3983,Dark Leggings,Armor,51,Masterwork,126
@@ -3820,6 +3824,7 @@ id,name,type,level,rarity,vendor_value
 3985,"Shiny ""Acquired"" Shoes",Armor,52,Masterwork,92
 3986,Fine Crusader's Light Helm,Armor,54,Masterwork,118
 3987,Shadow Leggings,Armor,51,Masterwork,126
+3988,Mountainous Mantle,Armor,57,Masterwork,108
 3989,"Shiny ""Acquired"" Leather Shoes",Armor,52,Masterwork,92
 3990,Fine Crusader's Mask,Armor,54,Masterwork,118
 3991,Smoke Leggings,Armor,51,Masterwork,126
@@ -3833,10 +3838,12 @@ id,name,type,level,rarity,vendor_value
 3999,Improved Spleedoop Breather,Armor,58,Masterwork,125
 4000,Excavator's Gauntlets,Armor,55,Fine,44
 4001,Excavator's Gloves,Armor,55,Fine,44
+4002,Leather Excavator's Gloves,Armor,55,Fine,44
 4003,Caer Breastplate,Armor,56,Fine,74
 4004,Caer Garb,Armor,56,Fine,74
 4005,Caer Coat,Armor,56,Fine,74
 4006,Improved Caer Breastplate,Armor,56,Masterwork,147
+4007,Improved Caer Garb,Armor,56,Masterwork,147
 4008,Improved Caer Coat,Armor,56,Masterwork,147
 4009,Improved Excavator's Gauntlets,Armor,55,Masterwork,87
 4010,Improved Excavator's Gloves,Armor,55,Masterwork,87
@@ -3858,9 +3865,11 @@ id,name,type,level,rarity,vendor_value
 4026,Dolyak Rancher's Leather Boots,Armor,33,Fine,33
 4027,Steam-Touched Coat,Armor,31,Fine,47
 4028,Hune's Leather Work Gloves,Armor,27,Fine,26
+4029,Icedevil Mask,Armor,28,Fine,37
 4030,Nentor Leather Leggings,Armor,28,Fine,41
 4031,Thick Shoulderpads,Armor,29,Fine,33
 4032,Queldip Leather Gloves,Armor,36,Fine,32
+4033,Queldip Gloves,Armor,36,Fine,32
 4034,Queldip Gauntlets,Armor,36,Fine,32
 4035,Bramm's Sturdy Boots,Armor,39,Fine,37
 4036,Bramm's Sturdy Shoes,Armor,39,Fine,37
@@ -3884,6 +3893,7 @@ id,name,type,level,rarity,vendor_value
 4054,Pinion Heavy Leggings,Armor,36,Masterwork,98
 4055,Padded Pauldrons,Armor,29,Masterwork,66
 4056,Dolyak Rancher's Cloth Shoes,Armor,33,Masterwork,66
+4057,Bramm's Sturdy Shoes,Armor,39,Masterwork,74
 4058,Steam-Touched Sturdy Garb,Armor,31,Masterwork,93
 4059,Hune's Work Gloves,Armor,27,Masterwork,51
 4060,Queldip Gloves,Armor,36,Masterwork,63
@@ -3898,16 +3908,20 @@ id,name,type,level,rarity,vendor_value
 4069,Queldip Leather Gloves,Armor,36,Masterwork,63
 4070,Icedevil Mask,Armor,28,Masterwork,73
 4071,Nentor Leather Leggings,Armor,28,Masterwork,82
+4072,Pinion Leather Leggings,Armor,36,Masterwork,98
 4073,Thick Shoulderpads,Armor,29,Masterwork,66
 4074,Leather Wyrmblood Boots,Armor,42,Fine,39
 4075,Cloth Wyrmblood Boots,Armor,42,Fine,39
 4076,Heavy Wyrmblood Boots,Armor,42,Fine,39
 4077,Heavy Wyrmblood Boots,Armor,42,Masterwork,78
 4078,Cloth Wyrmblood Boots,Armor,42,Masterwork,78
+4079,Leather Wyrmblood Boots,Armor,42,Masterwork,78
 4080,Heavy Shelter Gloves,Armor,40,Fine,35
+4081,Cloth Shelter Gloves,Armor,40,Fine,35
 4082,Leather Shelter Gloves,Armor,40,Fine,35
 4083,Heavy Shelter Gloves,Armor,40,Masterwork,69
 4084,Cloth Shelter Gloves,Armor,40,Masterwork,69
+4085,Leather Shelter Gloves,Armor,40,Masterwork,69
 4086,Rejuvenating Black Earth Aquabreather,Armor,48,Fine,54
 4087,Rejuvenating Black Earth Aquabreather,Armor,48,Fine,54
 4088,Lingering Black Earth Aquabreather,Armor,48,Fine,54
@@ -3915,23 +3929,34 @@ id,name,type,level,rarity,vendor_value
 4090,Rejuvenating Black Earth Aquabreather of Hoelbrak,Armor,48,Masterwork,108
 4091,Lingering Black Earth Aquabreather of Hoelbrak,Armor,48,Masterwork,108
 4092,Dostoev Heavy Helm,Armor,46,Fine,53
+4093,Dostoev Cloth Helm,Armor,46,Fine,53
 4094,Dostoev Leather Helm,Armor,46,Fine,53
 4095,Dostoev Heavy Helm,Armor,46,Masterwork,105
 4096,Dostoev Cloth Helm,Armor,46,Masterwork,105
 4097,Dostoev Leather Helm,Armor,46,Masterwork,105
 4098,Heavy De Molish Chestpiece,Armor,49,Fine,66
 4099,Light De Molish Chestpiece,Armor,49,Fine,66
+4100,Medium De Molish Chestpiece,Armor,49,Fine,66
 4101,Heavy De Molish Chestpiece,Armor,49,Masterwork,132
 4102,Light De Molish Chestpiece,Armor,49,Masterwork,132
 4103,Medium De Molish Chestpiece,Armor,49,Masterwork,132
 4104,Heavy Tribulation Shoulderguards,Armor,50,Fine,50
+4105,Light Tribulation Shoulderguards,Armor,50,Fine,50
 4106,Medium Tribulation Shoulderguards,Armor,50,Fine,50
+4107,Heavy Tribulation Shoulderguards,Armor,50,Masterwork,99
 4108,Light Tribulation Shoulderguards,Armor,50,Masterwork,99
+4109,Medium Tribulation Shoulderguards,Armor,50,Masterwork,99
 4110,Heavy Travelen Leggings,Armor,43,Fine,56
 4111,Light Travelen Leggings,Armor,43,Fine,56
+4112,Medium Travelen Leggings,Armor,43,Fine,56
+4113,Heavy Travelen Leggings,Armor,43,Masterwork,112
+4114,Light Travelen Leggings,Armor,43,Masterwork,112
 4115,Medium Travelen Leggings,Armor,43,Masterwork,112
+4116,Arundon Heavy Gloves,Armor,71,Fine,54
 4117,Arundon Light Gloves,Armor,71,Fine,54
 4118,Arundon Leather Gloves,Armor,71,Fine,54
+4119,Arundon Heavy Gloves,Armor,71,Masterwork,107
+4120,Arundon Light Gloves,Armor,71,Masterwork,107
 4121,Arundon Leather Gloves,Armor,71,Masterwork,107
 4122,Heavy Inka Boots,Armor,73,Fine,61
 4123,Cloth Inka Boots,Armor,73,Fine,61
@@ -3939,16 +3964,21 @@ id,name,type,level,rarity,vendor_value
 4125,Heavy Inka Boots,Armor,73,Masterwork,122
 4126,Cloth Inka Boots,Armor,73,Masterwork,122
 4127,Leather Inka Boots,Armor,73,Masterwork,122
+4128,Heavy Balance Leggings,Armor,74,Fine,86
+4129,Light Balance Leggings,Armor,74,Fine,86
 4130,Medium Balance Leggings,Armor,74,Fine,86
 4131,Heavy Balance Leggings,Armor,74,Masterwork,171
 4132,Light Balance Leggings,Armor,74,Masterwork,171
+4133,Medium Balance Leggings,Armor,74,Masterwork,171
 4134,Bore Heavy Helm,Armor,75,Fine,78
 4135,Bore Cloth Helm,Armor,75,Fine,78
 4136,Bore Leather Helm,Armor,75,Fine,78
 4137,Bore Heavy Helm,Armor,75,Masterwork,155
+4138,Bore Cloth Helm,Armor,75,Masterwork,155
 4139,Bore Leather Helm,Armor,75,Masterwork,155
 4140,Heavy Orsippus Aquabreather,Armor,77,Fine,79
 4141,Light Orsippus Aquabreather,Armor,77,Fine,79
+4142,Medium Orsippus Aquabreather,Armor,77,Fine,79
 4143,Heavy Orsippus Aquabreather,Armor,77,Masterwork,158
 4144,Light Orsippus Aquabreather,Armor,77,Masterwork,158
 4145,Medium Orsippus Aquabreather,Armor,77,Masterwork,158
@@ -3956,7 +3986,10 @@ id,name,type,level,rarity,vendor_value
 4147,Light Deep and Troubled Chestpiece,Armor,78,Fine,96
 4148,Medium Deep and Troubled Chestpiece,Armor,78,Fine,96
 4149,Heavy Deep and Troubled Chestpiece,Armor,78,Masterwork,192
+4150,Light Deep and Troubled Chestpiece,Armor,78,Masterwork,192
+4151,Medium Deep and Troubled Chestpiece,Armor,78,Masterwork,192
 4152,Heavy Blue Ice Shoulderguards,Armor,76,Fine,70
+4153,Light Blue Ice Shoulderguards,Armor,76,Fine,70
 4154,Medium Blue Ice Shoulderguards,Armor,76,Fine,70
 4155,Heavy Blue Ice Shoulderguards,Armor,76,Masterwork,139
 4156,Light Blue Ice Shoulderguards,Armor,76,Masterwork,139
@@ -13071,6 +13104,7 @@ id,name,type,level,rarity,vendor_value
 15548,Valkyrie Mithril Spear,Weapon,80,Masterwork,198
 15549,Carrion Krait Pilum,Weapon,80,Rare,297
 15550,Cleric's Krait Pilum,Weapon,80,Rare,297
+15551,Krait Pilum,Weapon,80,Rare,297
 15552,Berserker's Krait Pilum,Weapon,80,Rare,297
 15553,Rampager's Krait Pilum,Weapon,80,Rare,297
 15554,Knight's Krait Pilum,Weapon,80,Rare,297
