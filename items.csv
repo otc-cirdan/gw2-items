@@ -1599,14 +1599,11 @@ id,name,type,level,rarity,vendor_value
 1656,Mighty Worn Chain Helm,Armor,16,Fine,25
 1657,Precise Worn Chain Helm,Armor,12,Fine,22
 1658,Precise Worn Chain Helm,Armor,17,Fine,27
-1659,Vital Worn Chain Helm,Armor,13,Fine,23
-1660,Vital Worn Chain Helm,Armor,18,Fine,28
 1661,Malign Worn Chain Helm,Armor,14,Fine,24
 1662,Malign Worn Chain Helm,Armor,19,Fine,29
 1663,Strong Worn Chain Helm,Armor,21,Fine,30
 1664,Strong Worn Chain Helm,Armor,26,Fine,35
 1665,Strong Worn Scale Helm,Armor,31,Fine,39
-1666,Strong Worn Scale Helm,Armor,36,Fine,44
 1667,Ravaging Worn Chain Helm,Armor,22,Fine,32
 1668,Ravaging Worn Chain Helm,Armor,27,Fine,35
 1669,Ravaging Worn Scale Helm,Armor,32,Fine,40
@@ -1615,33 +1612,20 @@ id,name,type,level,rarity,vendor_value
 1672,Honed Worn Chain Helm,Armor,28,Fine,37
 1673,Honed Worn Scale Helm,Armor,33,Fine,42
 1674,Honed Worn Scale Helm,Armor,38,Fine,45
-1675,Ravaging Worn Chain Helm,Armor,24,Fine,33
 1676,Ravaging Worn Chain Helm,Armor,29,Fine,38
-1677,Ravaging Worn Scale Helm,Armor,34,Fine,42
-1678,Ravaging Worn Scale Helm,Armor,39,Fine,47
 1679,Strong Worn Scale Helm,Armor,41,Fine,48
 1680,Strong Worn Scale Helm,Armor,46,Fine,53
-1681,Strong Worn Scale Helm,Armor,51,Fine,57
-1682,Strong Worn Scale Helm,Armor,56,Fine,62
 1683,Ravaging Worn Scale Helm,Armor,42,Fine,49
-1684,Ravaging Worn Scale Helm,Armor,47,Fine,53
-1685,Ravaging Worn Scale Helm,Armor,52,Fine,58
 1686,Ravaging Worn Scale Helm,Armor,57,Fine,62
 1687,Honed Worn Scale Helm,Armor,43,Fine,50
 1688,Honed Worn Scale Helm,Armor,48,Fine,54
-1689,Honed Worn Scale Helm,Armor,53,Fine,59
-1690,Honed Worn Scale Helm,Armor,58,Fine,63
-1691,Ravaging Worn Scale Helm,Armor,44,Fine,50
 1692,Ravaging Worn Scale Helm,Armor,49,Fine,55
-1693,Ravaging Worn Scale Helm,Armor,54,Fine,59
 1694,Ravaging Worn Scale Helm,Armor,59,Fine,64
-1695,Berserker's Reinforced Scale Helm,Armor,61,Fine,65
 1696,Berserker's Reinforced Scale Helm,Armor,66,Fine,70
 1697,Berserker's Reinforced Scale Helm,Armor,71,Fine,74
 1698,Berserker's Reinforced Scale Helm,Armor,76,Fine,79
 1699,Berserker's Reinforced Scale Helm,Armor,80,Fine,83
 1700,Carrion Reinforced Scale Helm,Armor,62,Fine,67
-1701,Carrion Reinforced Scale Helm,Armor,67,Fine,70
 1702,Carrion Reinforced Scale Helm,Armor,72,Fine,75
 1703,Carrion Reinforced Scale Helm,Armor,77,Fine,79
 1704,Carrion Reinforced Scale Helm,Armor,80,Fine,83
@@ -1650,25 +1634,19 @@ id,name,type,level,rarity,vendor_value
 1707,Rampager's Reinforced Scale Helm,Armor,73,Fine,77
 1708,Rampager's Reinforced Scale Helm,Armor,78,Fine,80
 1709,Rampager's Reinforced Scale Helm,Armor,80,Fine,83
-1710,Shaman's Reinforced Scale Helm,Armor,64,Fine,68
 1711,Shaman's Reinforced Scale Helm,Armor,69,Fine,73
 1712,Shaman's Reinforced Scale Helm,Armor,74,Fine,77
 1713,Shaman's Reinforced Scale Helm,Armor,79,Fine,82
-1714,Shaman's Reinforced Scale Helm,Armor,80,Fine,83
 1715,Mighty Swindler Coat of Melandru,Armor,14,Masterwork,57
 1716,Mighty Swindler Coat of the Traveler,Armor,20,Masterwork,72
 1717,Strong Swindler Coat of the Flock,Armor,26,Masterwork,84
 1718,Strong Swindler Coat of Rata Sum,Armor,32,Masterwork,96
-1719,Strong Swindler Coat of the Citadel,Armor,38,Masterwork,108
 1720,Ravaging Swindler Coat of Hoelbrak,Armor,27,Masterwork,84
 1721,Ravaging Swindler Coat of Melandru,Armor,33,Masterwork,99
 1722,Strong Privateer Coat of the Pack,Armor,44,Masterwork,120
 1723,Strong Privateer Coat of Hoelbrak,Armor,50,Masterwork,135
 1724,Strong Privateer Coat of the Dolyak,Armor,56,Masterwork,147
-1725,Ravaging Swindler Coat of Hoelbrak,Armor,39,Masterwork,111
 1726,Ravaging Privateer Coat of Lyssa,Armor,45,Masterwork,123
-1727,Ravaging Privateer Coat of Lyssa,Armor,51,Masterwork,135
-1728,Ravaging Privateer Coat of Rage,Armor,57,Masterwork,147
 1729,Honed Privateer Coat of the Flame Legion,Armor,40,Masterwork,114
 1730,Honed Privateer Coat of Melandru,Armor,46,Masterwork,126
 1731,Honed Privateer Coat of Scavenging,Armor,52,Masterwork,138
@@ -1676,34 +1654,20 @@ id,name,type,level,rarity,vendor_value
 1733,Ravaging Privateer Coat of Mercy,Armor,53,Masterwork,141
 1734,Ravaging Privateer Coat of Rage,Armor,59,Masterwork,153
 1735,Berserker's Privateer Coat of the Afflicted,Armor,62,Masterwork,159
-1736,Berserker's Privateer Coat of the Pack,Armor,68,Masterwork,171
 1737,Mighty Worn Scale Helm of the Citadel,Armor,14,Masterwork,48
 1738,Mighty Worn Scale Helm of the Flame Legion,Armor,20,Masterwork,60
-1739,Berserker's Privateer Coat of Grenth,Armor,74,Masterwork,183
 1740,Strong Worn Scale Helm of Melandru,Armor,26,Masterwork,70
 1741,Berserker's Privateer Coat of the Eagle,Armor,80,Masterwork,198
 1742,Carrion Privateer Coat of the Afflicted,Armor,63,Masterwork,162
-1743,Strong Worn Scale Helm of the Flame Legion,Armor,32,Masterwork,80
-1744,Strong Worn Scale Helm of the Traveler,Armor,38,Masterwork,90
-1745,Carrion Privateer Coat of Dwayna,Armor,69,Masterwork,174
 1746,Ravaging Worn Scale Helm of Mercy,Armor,27,Masterwork,70
-1747,Carrion Privateer Coat of the Pack,Armor,75,Masterwork,186
-1748,Ravaging Worn Scale Helm of the Citadel,Armor,33,Masterwork,83
 1749,Carrion Privateer Coat of the Afflicted,Armor,79,Masterwork,195
-1750,Strong Reinforced Scale Helm of Dwayna,Armor,44,Masterwork,100
 1751,Carrion Privateer Coat of the Eagle,Armor,80,Masterwork,198
-1752,Strong Reinforced Scale Helm of Scavenging,Armor,50,Masterwork,113
 1753,Rampager's Privateer Coat of the Centaur,Armor,64,Masterwork,162
-1754,Strong Reinforced Scale Helm of the Flock,Armor,56,Masterwork,123
-1755,Ravaging Worn Scale Helm of the Pack,Armor,39,Masterwork,93
 1756,Rampager's Privateer Coat of Hoelbrak,Armor,70,Masterwork,177
-1757,Ravaging Reinforced Scale Helm of the Afflicted,Armor,45,Masterwork,103
 1758,Ravaging Reinforced Scale Helm of the Citadel,Armor,51,Masterwork,113
 1759,Rampager's Privateer Coat of Divinity,Armor,76,Masterwork,189
 1760,Rampager's Privateer Coat of Vampirism,Armor,80,Masterwork,198
 1761,Ravaging Reinforced Scale Helm of the Eagle,Armor,57,Masterwork,123
-1762,Shaman's Privateer Coat of Rage,Armor,65,Masterwork,165
-1763,Honed Reinforced Scale Helm of Rata Sum,Armor,40,Masterwork,95
 1764,Honed Reinforced Scale Helm of the Pack,Armor,46,Masterwork,105
 1765,Shaman's Privateer Coat of Hoelbrak,Armor,71,Masterwork,177
 1766,Honed Reinforced Scale Helm of the Grove,Armor,52,Masterwork,115
@@ -1711,85 +1675,54 @@ id,name,type,level,rarity,vendor_value
 1768,Honed Reinforced Scale Helm of Scavenging,Armor,58,Masterwork,125
 1769,Shaman's Privateer Coat of Infiltration,Armor,80,Masterwork,198
 1770,Ravaging Reinforced Scale Helm of the Grove,Armor,53,Masterwork,118
-1771,Ravaging Reinforced Scale Helm of the Flock,Armor,59,Masterwork,128
 1772,Cleric's Privateer Coat of Infiltration,Armor,66,Masterwork,168
 1773,Berserker's Reinforced Scale Helm of the Flame Legion,Armor,62,Masterwork,133
 1774,Cleric's Privateer Coat of Divinity,Armor,72,Masterwork,180
-1775,Berserker's Reinforced Scale Helm of Dwayna,Armor,68,Masterwork,143
 1776,Cleric's Privateer Coat of Infiltration,Armor,78,Masterwork,192
 1777,Berserker's Reinforced Scale Helm of the Flame Legion,Armor,74,Masterwork,153
-1778,Cleric's Privateer Coat of Dwayna,Armor,80,Masterwork,198
-1779,Berserker's Reinforced Scale Helm of Dwayna,Armor,80,Masterwork,165
-1780,Carrion Reinforced Scale Helm of the Flock,Armor,63,Masterwork,135
 1781,Carrion Reinforced Scale Helm of the Flock,Armor,69,Masterwork,145
-1782,Carrion Reinforced Scale Helm of Dwayna,Armor,75,Masterwork,155
-1783,Strong Privateer Coat of Lyssa,Armor,39,Rare,167
 1784,Carrion Reinforced Scale Helm of the Eagle,Armor,79,Masterwork,163
 1785,Strong Privateer Coat of Melandru,Armor,46,Rare,189
 1786,Carrion Reinforced Scale Helm of the Lich,Armor,80,Masterwork,165
 1787,Rampager's Reinforced Scale Helm of Scavenging,Armor,64,Masterwork,135
-1788,Strong Privateer Coat of Vampirism,Armor,53,Rare,212
 1789,Ravaging Privateer Coat of Grenth,Armor,40,Rare,171
 1790,Rampager's Reinforced Scale Helm of Hoelbrak,Armor,70,Masterwork,148
 1791,Rampager's Reinforced Scale Helm of Balthazar,Armor,76,Masterwork,158
-1792,Ravaging Privateer Coat of Strength,Armor,47,Rare,189
 1793,Rampager's Reinforced Scale Helm of Lyssa,Armor,80,Masterwork,165
 1794,Strong Rogue Coat of the Eagle,Armor,60,Rare,234
 1795,Shaman's Reinforced Scale Helm of Hoelbrak,Armor,65,Masterwork,138
-1796,Shaman's Reinforced Scale Helm of the Citadel,Armor,71,Masterwork,148
 1797,Berserker's Rogue Coat of Melandru,Armor,67,Rare,252
 1798,Berserker's Rogue Coat of the Traveler,Armor,74,Rare,275
 1799,Shaman's Reinforced Scale Helm of the Citadel,Armor,77,Masterwork,158
 1800,Shaman's Reinforced Scale Helm of the Traveler,Armor,80,Masterwork,165
 1801,Berserker's Rogue Coat of the Centaur,Armor,80,Rare,297
 1802,Cleric's Reinforced Scale Helm of Rata Sum,Armor,66,Masterwork,140
-1803,Cleric's Reinforced Scale Helm of the Flock,Armor,72,Masterwork,150
-1804,Ravaging Rogue Coat of the Pack,Armor,54,Rare,212
-1805,Cleric's Reinforced Scale Helm of Hoelbrak,Armor,78,Masterwork,160
 1806,Carrion Rogue Coat of Rage,Armor,61,Rare,234
-1807,Cleric's Reinforced Scale Helm of Hoelbrak,Armor,80,Masterwork,165
 1808,Carrion Rogue Coat of the Dolyak,Armor,68,Rare,257
-1809,Carrion Rogue Coat of Grenth,Armor,75,Rare,279
-1810,Carrion Rogue Coat of Dwayna,Armor,80,Rare,297
-1811,Strong Reinforced Scale Helm of Strength,Armor,39,Rare,139
 1812,Strong Reinforced Scale Helm of the Traveler,Armor,46,Rare,158
-1813,Strong Reinforced Scale Helm of Grenth,Armor,53,Rare,177
-1814,Honed Rogue Coat of the Pack,Armor,55,Rare,216
 1815,Rampager's Rogue Coat of Lyssa,Armor,62,Rare,239
-1816,Ravaging Reinforced Scale Helm of Lyssa,Armor,40,Rare,143
-1817,Ravaging Reinforced Scale Helm of the Centaur,Armor,47,Rare,158
 1818,Rampager's Rogue Coat of the Pack,Armor,69,Rare,261
 1819,Strong Banded Helm of Balthazar,Armor,60,Rare,195
-1820,Rampager's Rogue Coat of Strength,Armor,76,Rare,284
 1821,Berserker's Banded Helm of Balthazar,Armor,67,Rare,210
 1822,Rampager's Rogue Coat of Grenth,Armor,80,Rare,297
 1823,Shaman's Rogue Coat of the Traveler,Armor,70,Rare,266
-1824,Berserker's Banded Helm of the Afflicted,Armor,74,Rare,229
 1825,Shaman's Rogue Coat of Hoelbrak,Armor,77,Rare,284
-1826,Berserker's Banded Helm of Infiltration,Armor,80,Rare,248
 1827,Ravaging Banded Helm of Vampirism,Armor,54,Rare,177
 1828,Carrion Banded Helm of Mercy,Armor,61,Rare,195
-1829,Shaman's Rogue Coat of the Grove,Armor,80,Rare,297
 1830,Carrion Banded Helm of Infiltration,Armor,68,Rare,214
-1831,Cleric's Rogue Coat of Dwayna,Armor,71,Rare,266
-1832,Carrion Banded Helm of Hoelbrak,Armor,75,Rare,233
 1833,Cleric's Rogue Coat of Lyssa,Armor,78,Rare,288
 1834,Carrion Banded Helm of the Traveler,Armor,80,Rare,248
 1835,Cleric's Rogue Coat of Divinity,Armor,80,Rare,297
 1836,Honed Banded Helm of the Traveler,Armor,55,Rare,180
-1837,Rogue Coat of the Traveler,Armor,72,Rare,270
 1838,Rampager's Banded Helm of Strength,Armor,62,Rare,199
 1839,Rogue Coat of the Lich,Armor,79,Rare,293
 1840,Rampager's Banded Helm of Rata Sum,Armor,69,Rare,218
 1841,Rampager's Banded Helm of Scavenging,Armor,76,Rare,237
 1842,Rampager's Banded Helm of Rata Sum,Armor,80,Rare,248
-1843,Rogue Coat of Mercy,Armor,80,Rare,297
 1844,Shaman's Banded Helm of Hoelbrak,Armor,70,Rare,222
 1845,Shaman's Banded Helm of the Eagle,Armor,77,Rare,237
 1846,Shaman's Banded Helm of the Grove,Armor,80,Rare,248
-1847,Cleric's Banded Helm of Infiltration,Armor,71,Rare,222
 1848,Cleric's Banded Helm of the Lich,Armor,78,Rare,240
-1849,Cleric's Banded Helm of Rage,Armor,80,Rare,248
 1851,Banded Helm of Scavenging,Armor,79,Rare,244
 1852,Banded Helm of Grenth,Armor,80,Rare,248
 1853,Mighty Worn Chain Legs,Armor,0,Basic,5
@@ -1798,7 +1731,6 @@ id,name,type,level,rarity,vendor_value
 1856,Berserker's Scallywag Legs of the Flame Legion,Armor,70,Exotic,331
 1857,Berserker's Scallywag Legs of the Dolyak,Armor,78,Exotic,359
 1858,Devona's Legplates,Armor,80,Exotic,370
-1859,Carrion Scallywag Legs of the Afflicted,Armor,63,Exotic,303
 1860,Carrion Scallywag Legs of the Pack,Armor,71,Exotic,331
 1861,Carrion Scallywag Legs of the Eagle,Armor,79,Exotic,364
 1862,Sheena's Legplates,Armor,80,Exotic,370
