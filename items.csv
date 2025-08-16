@@ -38609,6 +38609,7 @@ id,name,type,level,rarity,vendor_value
 53204,Vagabond's Kessene Wreath,Weapon,26,Masterwork,60
 53205,Vagabond's Royal Barber,Weapon,26,Masterwork,90
 53206,Vagabond's Redeye Maul,Weapon,26,Masterwork,90
+53207,Vagabond's Flangeflare,Weapon,26,Masterwork,60
 53208,Vagabond's Obedience,Weapon,26,Masterwork,60
 53209,Vagabond's Cannon Law,Weapon,26,Masterwork,90
 53210,Vagabond's Majestic Hand,Weapon,26,Masterwork,60
@@ -38627,6 +38628,7 @@ id,name,type,level,rarity,vendor_value
 53223,Vagabond's Flangeflare,Weapon,29,Masterwork,64
 53224,Vagabond's Obedience,Weapon,29,Masterwork,64
 53225,Vagabond's Cannon Law,Weapon,29,Masterwork,96
+53226,Vagabond's Majestic Hand,Weapon,29,Masterwork,64
 53227,Vagabond's Pride of Arms,Weapon,29,Masterwork,64
 53228,Vagabond's Concordance,Weapon,29,Masterwork,96
 53229,Vagabond's Dignity,Weapon,29,Masterwork,64
@@ -38663,6 +38665,7 @@ id,name,type,level,rarity,vendor_value
 53260,Vagabond's Concordance,Weapon,34,Masterwork,105
 53261,Vagabond's Dignity,Weapon,34,Masterwork,70
 53262,Vagabond's Hue,Weapon,34,Masterwork,70
+53263,Vagabond's Cry,Weapon,34,Masterwork,70
 53264,Vagabond's Disputation,Weapon,37,Masterwork,76
 53265,Vagabond's Queen's Retort,Weapon,37,Masterwork,114
 53266,Vagabond's Prince's Praise,Weapon,37,Masterwork,114
@@ -38752,6 +38755,7 @@ id,name,type,level,rarity,vendor_value
 53350,Vagabond's Great Sledge,Weapon,29,Masterwork,96
 53351,Vagabond's Eye of Astrix,Weapon,29,Masterwork,64
 53352,Vagabond's Griffoncrack,Weapon,29,Masterwork,64
+53353,Vagabond's Thunderbluss,Weapon,29,Masterwork,96
 53354,Vagabond's Yew Rod,Weapon,29,Masterwork,64
 53355,Vagabond's Dun Targe,Weapon,29,Masterwork,64
 53356,Vagabond's Eagle's Perch,Weapon,29,Masterwork,96
@@ -38763,6 +38767,7 @@ id,name,type,level,rarity,vendor_value
 53362,Vagabond's Deerchaser,Weapon,31,Masterwork,99
 53363,Vagabond's Scramasax,Weapon,31,Masterwork,66
 53364,Vagabond's Stagsign,Weapon,31,Masterwork,66
+53365,Vagabond's Oxenblade,Weapon,31,Masterwork,99
 53366,Vagabond's Great Sledge,Weapon,31,Masterwork,99
 53367,Vagabond's Eye of Astrix,Weapon,31,Masterwork,66
 53368,Vagabond's Griffoncrack,Weapon,31,Masterwork,66
