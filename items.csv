@@ -53095,6 +53095,7 @@ id,name,type,level,rarity,vendor_value
 81600,Black Lion Delivery Box,Container,0,Rare,0
 81601,Black Lion Delivery Box,Container,0,Rare,0
 81602,Testimony of Heroics,Consumable,0,Fine,0
+81603,Badge of Honor,Consumable,0,Basic,0
 81604,Champion's Crown,Gizmo,0,Legendary,0
 81605,Black Lion Delivery Box,Container,0,Rare,0
 81606,Token of Northwest Attunement,Consumable,0,Basic,0
@@ -68957,6 +68958,7 @@ Balance",Gizmo,0,Basic,0
 103657,Sanguine Focus,Weapon,80,Exotic,264
 103658,Mystical Beast Axe Skin,Consumable,0,Rare,0
 103659,Portable Hot Springs Chair,Gizmo,0,Rare,0
+103660,Flowing Silk Backpack and Glider Combo,Consumable,0,Masterwork,0
 103661,Candy Core Sword,Weapon,80,Exotic,264
 103662,Antique Bell,Consumable,0,Basic,0
 103663,Mystical Beast Longbow Skin,Consumable,0,Rare,0
@@ -69172,6 +69174,7 @@ Balance",Gizmo,0,Basic,0
 103908,Sea-Glass Wave Axe,Weapon,80,Ascended,330
 103909,Blood Moon Dagger of Blood,Weapon,80,Exotic,264
 103911,Infinite Siege Golem Blueprint,Gizmo,0,Ascended,1
+103912,Naga Spirit Backpack and Glider Combo,Consumable,0,Masterwork,0
 103913,Pile of Recycled Siege Equipment,Trophy,0,Basic,0
 103914,Gold Ura Trophy,Consumable,0,Basic,0
 103915,Infinite Shield Generator Blueprint,Gizmo,0,Ascended,1
@@ -69425,6 +69428,7 @@ Balance",Gizmo,0,Basic,0
 104203,Black Lion Twisted Imaginarium Mushroom Recipe,Consumable,0,Basic,0
 104204,Vinelord Edgebloom Spear Skin,Consumable,0,Rare,0
 104205,Dainty Bee Wings Glider,Consumable,0,Masterwork,0
+104206,Dainty Bee Wings Backpack and Glider Combo,Consumable,0,Masterwork,0
 104207,Imperial Everbloom Mace Skin,Consumable,0,Rare,0
 104208,Black Lion Twisted Imaginarium Entryway Recipe,Consumable,0,Basic,0
 104209,Imperial Everbloom Greatsword Skin,Consumable,0,Rare,0
@@ -70139,3 +70143,7 @@ Balance",Gizmo,0,Basic,0
 105138,Flat Boatsman Hat Skin,Consumable,0,Masterwork,0
 105139,Chromatic Resin Scepter Skin,Consumable,0,Rare,0
 105141,Title Scroll: Eternal Alchemist,Consumable,0,Rare,0
+105153,Testimony of Desert Heroics,Consumable,0,Fine,0
+105154,Peaceful Rainbows Homestead Sky,Consumable,0,Exotic,0
+105160,Testimony of Jade Heroics,Consumable,0,Fine,0
+105161,Haunted Anchor Axe Skin,Consumable,0,Rare,0
