@@ -8023,6 +8023,7 @@ id,name,type,level,rarity,vendor_value
 10294,Honed Scale Boots,Armor,35,Masterwork,68
 10295,Vigorous Scale Coat,Armor,35,Masterwork,102
 10296,Vigorous Scale Coat,Armor,25,Fine,41
+10297,Scale Coat,Armor,35,Masterwork,102
 10298,Strong Scale Coat,Armor,30,Fine,47
 10299,Scale Coat,Armor,25,Fine,41
 10300,Honed Scale Coat,Armor,30,Fine,47
@@ -25302,6 +25303,7 @@ id,name,type,level,rarity,vendor_value
 33714,Krytan Rifle,Weapon,76,Fine,95
 33715,Krytan Rifle,Weapon,80,Fine,99
 33717,Krytan Scepter,Weapon,66,Fine,56
+33719,Krytan Scepter,Weapon,76,Fine,63
 33720,Krytan Scepter,Weapon,80,Fine,66
 33721,Krytan Shield,Weapon,61,Fine,52
 33722,Krytan Shield,Weapon,66,Fine,56
@@ -67931,6 +67933,7 @@ Balance",Gizmo,0,Basic,0
 101769,Skyscale Greatsword Skin,Consumable,0,Rare,0
 101771,Portable Wizard's Tower Exchange,Gizmo,0,Rare,0
 101772,Delicate Flower,Trophy,0,Fine,0
+101773,Tincture of Distilled Meta-Events,Consumable,0,Basic,0
 101774,Skyscale Mace Skin,Consumable,0,Rare,0
 101775,Box of Eparch's Prized Possessions,Container,0,Exotic,256
 101776,Relic of the Founding,Relic,80,Legendary,640
@@ -70146,6 +70149,7 @@ Balance",Gizmo,0,Basic,0
 105138,Flat Boatsman Hat Skin,Consumable,0,Masterwork,0
 105139,Chromatic Resin Scepter Skin,Consumable,0,Rare,0
 105141,Title Scroll: Eternal Alchemist,Consumable,0,Rare,0
+105144,Crystal Rune Conjured Doorway Skin,Consumable,0,Rare,0
 105146,Slender Fairy Wings Backpack Skin,Consumable,0,Masterwork,0
 105153,Testimony of Desert Heroics,Consumable,0,Fine,0
 105154,Peaceful Rainbows Homestead Sky,Consumable,0,Exotic,0
