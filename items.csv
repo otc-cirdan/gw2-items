@@ -35000,28 +35000,22 @@ id,name,type,level,rarity,vendor_value
 47726,Dire Krytan Speargun of Agony,Weapon,62,Masterwork,159
 47727,Dire Krytan Speargun of the Geomancer,Weapon,68,Masterwork,171
 47728,Dire Krytan Speargun of Bloodlust,Weapon,74,Masterwork,183
-47729,Dire Krytan Speargun of Earth,Weapon,80,Masterwork,198
 47730,Dire Krytan Staff of Agony,Weapon,62,Masterwork,159
 47731,Dire Krytan Staff of the Geomancer,Weapon,68,Masterwork,171
 47732,Dire Krytan Staff of Bloodlust,Weapon,74,Masterwork,183
 47733,Dire Krytan Staff of Earth,Weapon,80,Masterwork,198
 47734,Dire Krytan Sword of Agony,Weapon,62,Masterwork,106
 47735,Dire Krytan Sword of the Geomancer,Weapon,68,Masterwork,114
-47736,Dire Krytan Sword of Bloodlust,Weapon,74,Masterwork,122
 47737,Dire Krytan Sword of Earth,Weapon,80,Masterwork,132
 47738,Dire Krytan Torch of Agony,Weapon,62,Masterwork,106
 47739,Dire Krytan Torch of the Geomancer,Weapon,68,Masterwork,114
 47740,Dire Krytan Torch of Bloodlust,Weapon,74,Masterwork,122
 47741,Dire Krytan Torch of Earth,Weapon,80,Masterwork,132
 47742,Dire Krytan Trident of Agony,Weapon,62,Masterwork,159
-47743,Dire Krytan Trident of the Geomancer,Weapon,68,Masterwork,171
 47744,Dire Krytan Trident of Bloodlust,Weapon,74,Masterwork,183
-47745,Dire Krytan Trident of Earth,Weapon,80,Masterwork,198
 47746,Dire Krytan Warhorn of Agony,Weapon,62,Masterwork,106
 47747,Dire Krytan Warhorn of the Geomancer,Weapon,68,Masterwork,114
-47748,Dire Krytan Warhorn of Bloodlust,Weapon,74,Masterwork,122
 47749,Dire Krytan Warhorn of Earth,Weapon,80,Masterwork,132
-47750,Dire Aureate Axe of Water,Weapon,60,Rare,156
 47751,Dire Aureate Axe of Corruption,Weapon,67,Rare,168
 47752,Dire Aureate Axe of Energy,Weapon,74,Rare,183
 47753,Dire Aureate Axe of Air,Weapon,80,Rare,198
@@ -35039,20 +35033,17 @@ id,name,type,level,rarity,vendor_value
 47765,Dire Aureate Highlander Greatsword of Air,Weapon,80,Rare,297
 47766,Dire Aureate Warhammer of Water,Weapon,60,Rare,234
 47767,Dire Aureate Warhammer of Corruption,Weapon,67,Rare,252
-47768,Dire Aureate Warhammer of Energy,Weapon,74,Rare,275
 47769,Dire Aureate Warhammer of Air,Weapon,80,Rare,297
 47770,Dire Aureate Spear of Water,Weapon,60,Rare,234
 47771,Dire Aureate Spear of Corruption,Weapon,67,Rare,252
 47772,Dire Aureate Spear of Energy,Weapon,74,Rare,275
 47773,Dire Aureate Spear of Air,Weapon,80,Rare,297
 47774,Dire Aureate Longbow of Water,Weapon,60,Rare,234
-47775,Dire Aureate Longbow of Corruption,Weapon,67,Rare,252
 47776,Dire Aureate Longbow of Energy,Weapon,74,Rare,275
 47777,Dire Aureate Longbow of Air,Weapon,80,Rare,297
 47778,Dire Aureate Mace of Water,Weapon,60,Rare,156
 47779,Dire Aureate Mace of Corruption,Weapon,67,Rare,168
 47780,Dire Aureate Mace of Energy,Weapon,74,Rare,183
-47781,Dire Aureate Mace of Air,Weapon,80,Rare,198
 47782,Dire Aureate Pistol of Water,Weapon,60,Rare,156
 47783,Dire Aureate Pistol of Corruption,Weapon,67,Rare,168
 47784,Dire Aureate Pistol of Energy,Weapon,74,Rare,183
@@ -35061,8 +35052,6 @@ id,name,type,level,rarity,vendor_value
 47787,Dire Aureate Musket of Corruption,Weapon,67,Rare,252
 47788,Dire Aureate Musket of Energy,Weapon,74,Rare,275
 47789,Dire Aureate Musket of Air,Weapon,80,Rare,297
-47790,Dire Aureate Virge of Water,Weapon,60,Rare,156
-47791,Dire Aureate Virge of Corruption,Weapon,67,Rare,168
 47792,Dire Aureate Virge of Energy,Weapon,74,Rare,183
 47793,Dire Aureate Virge of Air,Weapon,80,Rare,198
 47794,Dire Aureate Targe of Water,Weapon,60,Rare,156
@@ -35073,22 +35062,18 @@ id,name,type,level,rarity,vendor_value
 47799,Dire Aureate Short Bow of Corruption,Weapon,67,Rare,252
 47800,Dire Aureate Short Bow of Energy,Weapon,74,Rare,275
 47801,Dire Aureate Short Bow of Air,Weapon,80,Rare,297
-47802,Dire Aureate Speargun of Water,Weapon,60,Rare,234
 47803,Dire Aureate Speargun of Corruption,Weapon,67,Rare,252
 47804,Dire Aureate Speargun of Energy,Weapon,74,Rare,275
 47805,Dire Aureate Speargun of Air,Weapon,80,Rare,297
 47806,Dire Aureate Staff of Water,Weapon,60,Rare,234
-47807,Dire Aureate Staff of Corruption,Weapon,67,Rare,252
 47808,Dire Aureate Staff of Energy,Weapon,74,Rare,275
 47809,Dire Aureate Staff of Air,Weapon,80,Rare,297
-47810,Dire Aureate Rinblade of Water,Weapon,60,Rare,156
 47811,Dire Aureate Rinblade of Corruption,Weapon,67,Rare,168
 47812,Dire Aureate Rinblade of Energy,Weapon,74,Rare,183
 47813,Dire Aureate Rinblade of Air,Weapon,80,Rare,198
 47814,Dire Aureate Sconce of Water,Weapon,60,Rare,156
 47815,Dire Aureate Sconce of Corruption,Weapon,67,Rare,168
 47816,Dire Aureate Sconce of Energy,Weapon,74,Rare,183
-47817,Dire Aureate Sconce of Air,Weapon,80,Rare,198
 47818,Dire Aureate Trident of Water,Weapon,60,Rare,234
 47819,Dire Aureate Trident of Corruption,Weapon,67,Rare,252
 47820,Dire Aureate Trident of Energy,Weapon,74,Rare,275
