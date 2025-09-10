@@ -35000,22 +35000,28 @@ id,name,type,level,rarity,vendor_value
 47726,Dire Krytan Speargun of Agony,Weapon,62,Masterwork,159
 47727,Dire Krytan Speargun of the Geomancer,Weapon,68,Masterwork,171
 47728,Dire Krytan Speargun of Bloodlust,Weapon,74,Masterwork,183
+47729,Dire Krytan Speargun of Earth,Weapon,80,Masterwork,198
 47730,Dire Krytan Staff of Agony,Weapon,62,Masterwork,159
 47731,Dire Krytan Staff of the Geomancer,Weapon,68,Masterwork,171
 47732,Dire Krytan Staff of Bloodlust,Weapon,74,Masterwork,183
 47733,Dire Krytan Staff of Earth,Weapon,80,Masterwork,198
 47734,Dire Krytan Sword of Agony,Weapon,62,Masterwork,106
 47735,Dire Krytan Sword of the Geomancer,Weapon,68,Masterwork,114
+47736,Dire Krytan Sword of Bloodlust,Weapon,74,Masterwork,122
 47737,Dire Krytan Sword of Earth,Weapon,80,Masterwork,132
 47738,Dire Krytan Torch of Agony,Weapon,62,Masterwork,106
 47739,Dire Krytan Torch of the Geomancer,Weapon,68,Masterwork,114
 47740,Dire Krytan Torch of Bloodlust,Weapon,74,Masterwork,122
 47741,Dire Krytan Torch of Earth,Weapon,80,Masterwork,132
 47742,Dire Krytan Trident of Agony,Weapon,62,Masterwork,159
+47743,Dire Krytan Trident of the Geomancer,Weapon,68,Masterwork,171
 47744,Dire Krytan Trident of Bloodlust,Weapon,74,Masterwork,183
+47745,Dire Krytan Trident of Earth,Weapon,80,Masterwork,198
 47746,Dire Krytan Warhorn of Agony,Weapon,62,Masterwork,106
 47747,Dire Krytan Warhorn of the Geomancer,Weapon,68,Masterwork,114
+47748,Dire Krytan Warhorn of Bloodlust,Weapon,74,Masterwork,122
 47749,Dire Krytan Warhorn of Earth,Weapon,80,Masterwork,132
+47750,Dire Aureate Axe of Water,Weapon,60,Rare,156
 47751,Dire Aureate Axe of Corruption,Weapon,67,Rare,168
 47752,Dire Aureate Axe of Energy,Weapon,74,Rare,183
 47753,Dire Aureate Axe of Air,Weapon,80,Rare,198
@@ -35033,17 +35039,20 @@ id,name,type,level,rarity,vendor_value
 47765,Dire Aureate Highlander Greatsword of Air,Weapon,80,Rare,297
 47766,Dire Aureate Warhammer of Water,Weapon,60,Rare,234
 47767,Dire Aureate Warhammer of Corruption,Weapon,67,Rare,252
+47768,Dire Aureate Warhammer of Energy,Weapon,74,Rare,275
 47769,Dire Aureate Warhammer of Air,Weapon,80,Rare,297
 47770,Dire Aureate Spear of Water,Weapon,60,Rare,234
 47771,Dire Aureate Spear of Corruption,Weapon,67,Rare,252
 47772,Dire Aureate Spear of Energy,Weapon,74,Rare,275
 47773,Dire Aureate Spear of Air,Weapon,80,Rare,297
 47774,Dire Aureate Longbow of Water,Weapon,60,Rare,234
+47775,Dire Aureate Longbow of Corruption,Weapon,67,Rare,252
 47776,Dire Aureate Longbow of Energy,Weapon,74,Rare,275
 47777,Dire Aureate Longbow of Air,Weapon,80,Rare,297
 47778,Dire Aureate Mace of Water,Weapon,60,Rare,156
 47779,Dire Aureate Mace of Corruption,Weapon,67,Rare,168
 47780,Dire Aureate Mace of Energy,Weapon,74,Rare,183
+47781,Dire Aureate Mace of Air,Weapon,80,Rare,198
 47782,Dire Aureate Pistol of Water,Weapon,60,Rare,156
 47783,Dire Aureate Pistol of Corruption,Weapon,67,Rare,168
 47784,Dire Aureate Pistol of Energy,Weapon,74,Rare,183
@@ -35052,6 +35061,8 @@ id,name,type,level,rarity,vendor_value
 47787,Dire Aureate Musket of Corruption,Weapon,67,Rare,252
 47788,Dire Aureate Musket of Energy,Weapon,74,Rare,275
 47789,Dire Aureate Musket of Air,Weapon,80,Rare,297
+47790,Dire Aureate Virge of Water,Weapon,60,Rare,156
+47791,Dire Aureate Virge of Corruption,Weapon,67,Rare,168
 47792,Dire Aureate Virge of Energy,Weapon,74,Rare,183
 47793,Dire Aureate Virge of Air,Weapon,80,Rare,198
 47794,Dire Aureate Targe of Water,Weapon,60,Rare,156
@@ -35062,18 +35073,22 @@ id,name,type,level,rarity,vendor_value
 47799,Dire Aureate Short Bow of Corruption,Weapon,67,Rare,252
 47800,Dire Aureate Short Bow of Energy,Weapon,74,Rare,275
 47801,Dire Aureate Short Bow of Air,Weapon,80,Rare,297
+47802,Dire Aureate Speargun of Water,Weapon,60,Rare,234
 47803,Dire Aureate Speargun of Corruption,Weapon,67,Rare,252
 47804,Dire Aureate Speargun of Energy,Weapon,74,Rare,275
 47805,Dire Aureate Speargun of Air,Weapon,80,Rare,297
 47806,Dire Aureate Staff of Water,Weapon,60,Rare,234
+47807,Dire Aureate Staff of Corruption,Weapon,67,Rare,252
 47808,Dire Aureate Staff of Energy,Weapon,74,Rare,275
 47809,Dire Aureate Staff of Air,Weapon,80,Rare,297
+47810,Dire Aureate Rinblade of Water,Weapon,60,Rare,156
 47811,Dire Aureate Rinblade of Corruption,Weapon,67,Rare,168
 47812,Dire Aureate Rinblade of Energy,Weapon,74,Rare,183
 47813,Dire Aureate Rinblade of Air,Weapon,80,Rare,198
 47814,Dire Aureate Sconce of Water,Weapon,60,Rare,156
 47815,Dire Aureate Sconce of Corruption,Weapon,67,Rare,168
 47816,Dire Aureate Sconce of Energy,Weapon,74,Rare,183
+47817,Dire Aureate Sconce of Air,Weapon,80,Rare,198
 47818,Dire Aureate Trident of Water,Weapon,60,Rare,234
 47819,Dire Aureate Trident of Corruption,Weapon,67,Rare,252
 47820,Dire Aureate Trident of Energy,Weapon,74,Rare,275
@@ -70141,3 +70156,134 @@ Balance",Gizmo,0,Basic,0
 105158,Slender Fairy Wings Glider Skin,Consumable,0,Masterwork,0
 105160,Testimony of Jade Heroics,Consumable,0,Fine,0
 105161,Haunted Anchor Axe Skin,Consumable,0,Rare,0
+105164,Agony-Torn Gloves,Trophy,0,Rare,0
+105165,Commander's Duelist Gloves of Divinity,Armor,80,Rare,1
+105166,Celestial Viper's Jerkin of Divinity,Armor,80,Exotic,1
+105167,Commander's Tormented Longbow of Force,Weapon,80,Exotic,396
+105169,Shade-Touched Warhorn Skin,Consumable,0,Rare,0
+105170,Emerald Orichalcum Amulet,Trinket,80,Exotic,528
+105172,Commander's Duelist Pauldrons of Divinity,Armor,80,Rare,1
+105173,Pact Herald,Weapon,80,Rare,198
+105174,Commander's Tormented Spear of Force,Weapon,80,Exotic,396
+105176,Shade-Touched Scepter Skin,Consumable,0,Rare,0
+105178,Commander's Tormented Focus of Force,Weapon,80,Exotic,264
+105180,Pact Scepter,Weapon,80,Rare,198
+105181,Commander's Tormented Axe of Force,Weapon,80,Exotic,264
+105182,Basic Guild Cape,Back,80,Rare,198
+105183,Celestial Phalanx Warplate of Divinity,Armor,80,Exotic,1
+105184,Commander's Stately Circlet of Divinity,Armor,80,Rare,1
+105185,Pact Crusher,Weapon,80,Rare,297
+105187,Commander's Tormented Rifle of Force,Weapon,80,Exotic,396
+105188,Emerald Orichalcum Earring,Trinket,80,Rare,248
+105189,Celestial Cloth Aquabreather of Divinity,Armor,80,Exotic,330
+105190,Commander's Tormented Scepter of Force,Weapon,80,Exotic,264
+105191,Pact Hornbow,Weapon,80,Rare,297
+105192,Commander's Stately Footwear of Divinity,Armor,80,Rare,1
+105193,Commander's Heavy Plate Pauldrons of Divinity,Armor,80,Rare,1
+105194,Commander's Tormented Shield of Force,Weapon,80,Exotic,264
+105195,Shade-Touched Axe Skin,Consumable,0,Rare,0
+105197,Celestial Phalanx Warhelm of Divinity,Armor,80,Exotic,1
+105198,Shade-Touched Longbow Skin,Consumable,0,Rare,0
+105199,Commander's Duelist Coat of Divinity,Armor,80,Rare,1
+105200,20-Slot Fractally Stitched Pouch,Bag,0,Exotic,256
+105203,Austral Mantle Skin,Consumable,0,Masterwork,0
+105204,Mini White and Purple Turtle Hatchling,MiniPet,0,Rare,50
+105205,Mini Yellow Turtle Hatchling,MiniPet,0,Rare,50
+105206,Celestial Viper's Monocle of Divinity,Armor,80,Exotic,1
+105209,Commander's Stately Epaulets of Divinity,Armor,80,Rare,1
+105210,Mini Celestial Turtle Hatchling,MiniPet,0,Rare,50
+105212,Celestial Trickster's Leggings of Divinity,Armor,80,Exotic,1
+105213,Celestial Phalanx Gauntlets of Divinity,Armor,80,Exotic,1
+105215,Celestial Viper's Boots of Divinity,Armor,80,Exotic,1
+105216,Commander's Heavy Plate Legguards of Divinity,Armor,80,Rare,1
+105219,Pact Tower Shield,Weapon,80,Rare,198
+105220,Pact Focus,Weapon,80,Rare,198
+105221,Celestial Leather Aquabreather of Divinity,Armor,80,Exotic,330
+105225,Commander's Heavy Plate Helm of Divinity,Armor,80,Rare,1
+105226,Commander's Heavy Plate Chestguard of Divinity,Armor,80,Rare,1
+105227,Commander's Metal Aquabreather of Divinity,Armor,80,Rare,248
+105229,Commander's Stately Leggings of Divinity,Armor,80,Rare,1
+105230,Pact Handgun,Weapon,80,Rare,198
+105231,Pact Shotgun,Weapon,80,Rare,297
+105232,Pact Dirk,Weapon,80,Rare,198
+105233,Commander's Cloth Aquabreather of Divinity,Armor,80,Rare,248
+105234,Shade-Touched Hammer Skin,Consumable,0,Rare,0
+105235,Commander's Duelist Pants of Divinity,Armor,80,Rare,1
+105236,Mini Blue Turtle Hatchling,MiniPet,0,Rare,50
+105237,Shade-Touched Sword Skin,Consumable,0,Rare,0
+105238,Emerald Orichalcum Amulet,Trinket,80,Rare,396
+105239,Pact Quarterstaff,Weapon,80,Rare,297
+105240,Incursion Weapon Token,Trophy,0,Exotic,0
+105242,Shade-Touched Pistol Skin,Consumable,0,Rare,0
+105243,Fractal Sheriff's Star,Trinket,80,Ascended,413
+105245,Commander's Duelist Mask of Divinity,Armor,80,Rare,1
+105247,Shade-Touched Mace Skin,Consumable,0,Rare,0
+105248,Commander's Heavy Plate Gauntlets of Divinity,Armor,80,Rare,1
+105249,Pact Gladius,Weapon,80,Rare,198
+105250,Pact Morning Star,Weapon,80,Rare,198
+105251,Quickplay Rare Weapon Chest,Container,0,Rare,192
+105252,Mini Green Turtle Hatchling,MiniPet,0,Rare,50
+105253,Commander's Leather Aquabreather of Divinity,Armor,80,Rare,248
+105255,Celestial Phalanx Legplates of Divinity,Armor,80,Exotic,1
+105256,Infinite Mist Omnipotion,Gizmo,80,Exotic,1
+105257,Celestial Trickster's Mask of Divinity,Armor,80,Exotic,1
+105259,Celestial Trickster's Mantle of Divinity,Armor,80,Exotic,1
+105260,Ebony Orichalcum Ring,Trinket,80,Exotic,396
+105261,Pact Battleaxe,Weapon,80,Rare,198
+105262,Shade-Touched Shield Skin,Consumable,0,Rare,0
+105263,Celestial Trickster's Gloves of Divinity,Armor,80,Exotic,1
+105264,"""/Barbecue"" Emote Tome",Consumable,0,Exotic,0
+105265,Shade-Touched Greatsword Skin,Consumable,0,Rare,0
+105267,Commander's Tormented Hammer of Force,Weapon,80,Exotic,396
+105268,Pact Brazier,Weapon,80,Rare,198
+105269,Commander's Stately Garb of Divinity,Armor,80,Rare,1
+105272,Heavy Starter Gear Chest,Container,0,Rare,192
+105273,Commander's Tormented Mace of Force,Weapon,80,Exotic,264
+105274,Mystic Coin Vault Bag,Container,0,Fine,64
+105275,Celestial Trickster's Shoes of Divinity,Armor,80,Exotic,1
+105276,Celestial Viper's Shoulderpads of Divinity,Armor,80,Exotic,1
+105277,Commander's Tormented Dagger of Force,Weapon,80,Exotic,264
+105279,Commander's Tormented Sword of Force,Weapon,80,Exotic,264
+105280,Medium Starter Gear Chest,Container,0,Rare,192
+105281,Commander's Duelist Boots of Divinity,Armor,80,Rare,1
+105283,Shade-Touched Rifle Skin,Consumable,0,Rare,0
+105286,Commander's Tormented Pistol of Force,Weapon,80,Exotic,264
+105287,Emerald Orichalcum Ring,Trinket,80,Rare,297
+105288,Incursion Armor Token,Trophy,0,Exotic,0
+105289,Light Starter Gear Chest,Container,0,Rare,192
+105290,Mini Albino Turtle Hatchling,MiniPet,0,Rare,50
+105292,Mini Gold Turtle Hatchling,MiniPet,0,Rare,50
+105295,Celestial Metal Aquabreather of Divinity,Armor,80,Exotic,330
+105297,Shade-Touched Focus Skin,Consumable,0,Rare,0
+105298,Mini Blazing Turtle Hatchling,MiniPet,0,Rare,50
+105300,Celestial Phalanx Shoulders of Divinity,Armor,80,Exotic,1
+105301,Commander's Heavy Plate Greaves of Divinity,Armor,80,Rare,1
+105302,Shade-Touched Torch Skin,Consumable,0,Rare,0
+105303,Pact Spear,Weapon,80,Rare,297
+105304,Shade-Touched Short Bow Skin,Consumable,0,Rare,0
+105305,Ebony Orichalcum Earring,Trinket,80,Exotic,330
+105306,Black Diamond Orichalcum Ring,Trinket,80,Exotic,396
+105307,Mini Turtle Hatchling Reward Chest,Container,0,Rare,192
+105310,Celestial Viper's Leggings of Divinity,Armor,80,Exotic,1
+105312,Commander's Tormented Warhorn of Force,Weapon,80,Exotic,264
+105313,Celestial Viper's Armguards of Divinity,Armor,80,Exotic,1
+105315,Commander's Tormented Greatsword of Force,Weapon,80,Exotic,396
+105316,Mini Silver Turtle Hatchling,MiniPet,0,Rare,50
+105318,Pact Needler,Weapon,80,Rare,297
+105319,Commander's Tormented Staff of Force,Weapon,80,Exotic,396
+105320,Black Diamond Orichalcum Earring,Trinket,80,Exotic,330
+105321,Incursion Accessory Token,Trophy,0,Exotic,0
+105323,Shade-Touched Dagger Skin,Consumable,0,Rare,0
+105324,Celestial Phalanx Warboots of Divinity,Armor,80,Exotic,1
+105325,Commander's Tormented Short Bow of Force,Weapon,80,Exotic,396
+105327,Shade-Touched Staff Skin,Consumable,0,Rare,0
+105328,Shade-Touched Spear Skin,Consumable,0,Rare,0
+105329,Commander's Tormented Torch of Force,Weapon,80,Exotic,264
+105330,Guild Captain's Cape,Back,80,Exotic,264
+105331,Legendary Weapon Starter Key—Universal,Gizmo,0,Legendary,640
+105332,Lucent Crystal Vault Bag,Container,0,Fine,64
+105333,Commander's Stately Gloves of Divinity,Armor,80,Rare,1
+105336,Fractalline Dust,Trophy,0,Rare,0
+105337,Pact Avenger,Weapon,80,Rare,297
+105340,Mini Black and Cyan Turtle Hatchling,MiniPet,0,Rare,50
+105341,Celestial Trickster's Vest of Divinity,Armor,80,Exotic,1
