@@ -24057,7 +24057,6 @@ id,name,type,level,rarity,vendor_value
 32236,Caretaker's Rifle,Weapon,8,Fine,20
 32237,Avenger's Rifle,Weapon,8,Fine,20
 32238,Avenger's Staff,Weapon,8,Fine,20
-32239,Caretaker's Staff,Weapon,8,Fine,20
 32240,Avenger's Longbow,Weapon,8,Fine,20
 32241,Avenger's Short Bow,Weapon,8,Fine,20
 32242,Caretaker's Short Bow,Weapon,8,Fine,20
@@ -24069,7 +24068,6 @@ id,name,type,level,rarity,vendor_value
 32248,Caretaker's Staff,Weapon,8,Fine,20
 32249,Ravaging Avenger's Longbow,Weapon,78,Rare,288
 32250,Strong Avenger's Short Bow,Weapon,78,Rare,288
-32251,Mending Caretaker's Short Bow,Weapon,78,Rare,288
 32252,Strong Hero's Longsword,Weapon,78,Rare,288
 32253,Strong Avenger's Hammer,Weapon,78,Rare,288
 32254,Mending Caretaker's Rifle,Weapon,78,Rare,288
@@ -24078,12 +24076,9 @@ id,name,type,level,rarity,vendor_value
 32257,Strong Avenger's Staff,Weapon,78,Rare,288
 32258,Warden's Greatsword,Weapon,5,Fine,15
 32259,Carrion Legionnaire Axe of Blood,Weapon,62,Exotic,212
-32260,Carrion Legionnaire Axe of Vision,Weapon,70,Exotic,236
-32261,Carrion Legionnaire Axe of Accuracy,Weapon,78,Exotic,256
 32262,Carrion Legionnaire Axe of Rage,Weapon,80,Exotic,264
 32263,Carrion Legionnaire Dagger of Blood,Weapon,62,Exotic,212
 32264,Carrion Legionnaire Dagger of Vision,Weapon,70,Exotic,236
-32265,Carrion Legionnaire Dagger of Accuracy,Weapon,78,Exotic,256
 32266,Carrion Legionnaire Dagger of Rage,Weapon,80,Exotic,264
 32267,Carrion Legionnaire Symbol of Blood,Weapon,62,Exotic,212
 32268,Carrion Legionnaire Symbol of Vision,Weapon,70,Exotic,236
@@ -24097,7 +24092,6 @@ id,name,type,level,rarity,vendor_value
 32276,Carrion Legionnaire Maul of Vision,Weapon,70,Exotic,354
 32277,Carrion Legionnaire Maul of Accuracy,Weapon,78,Exotic,384
 32278,Carrion Legionnaire Maul of Rage,Weapon,80,Exotic,396
-32279,Carrion Legionnaire Spear of Blood,Weapon,62,Exotic,318
 32280,Carrion Legionnaire Spear of Vision,Weapon,70,Exotic,354
 32281,Carrion Legionnaire Spear of Accuracy,Weapon,78,Exotic,384
 32282,Carrion Legionnaire Spear of Rage,Weapon,80,Exotic,396
@@ -24107,7 +24101,6 @@ id,name,type,level,rarity,vendor_value
 32286,Carrion Legionnaire Longbow of Rage,Weapon,80,Exotic,396
 32287,Legionnaire Mace,Weapon,62,Exotic,212
 32288,Legionnaire Mace,Weapon,70,Exotic,236
-32289,Legionnaire Mace,Weapon,78,Exotic,256
 32290,Legionnaire Mace,Weapon,80,Exotic,264
 32291,Legionnaire Sidearm,Weapon,62,Exotic,212
 32292,Legionnaire Sidearm,Weapon,70,Exotic,236
@@ -24117,7 +24110,6 @@ id,name,type,level,rarity,vendor_value
 32296,Carrion Legionnaire Bayonet of Vision,Weapon,70,Exotic,354
 32297,Carrion Legionnaire Bayonet of Accuracy,Weapon,78,Exotic,384
 32298,Carrion Legionnaire Bayonet of Rage,Weapon,80,Exotic,396
-32299,Carrion Legionnaire Virge of Blood,Weapon,62,Exotic,212
 32300,Carrion Legionnaire Virge of Vision,Weapon,70,Exotic,236
 32301,Carrion Legionnaire Virge of Accuracy,Weapon,78,Exotic,256
 32302,Carrion Legionnaire Virge of Rage,Weapon,80,Exotic,264
@@ -24126,20 +24118,16 @@ id,name,type,level,rarity,vendor_value
 32305,Carrion Legionnaire Shield of Accuracy,Weapon,78,Exotic,256
 32306,Carrion Legionnaire Shield of Rage,Weapon,80,Exotic,264
 32307,Carrion Legionnaire Short Bow of Blood,Weapon,62,Exotic,318
-32308,Carrion Legionnaire Short Bow of Vision,Weapon,70,Exotic,354
 32309,Carrion Legionnaire Short Bow of Accuracy,Weapon,78,Exotic,384
 32310,Carrion Legionnaire Short Bow of Rage,Weapon,80,Exotic,396
 32311,Carrion Legionnaire Speargun of Blood,Weapon,62,Exotic,318
-32312,Carrion Legionnaire Speargun of Vision,Weapon,70,Exotic,354
 32313,Carrion Legionnaire Speargun of Accuracy,Weapon,78,Exotic,384
 32314,Carrion Legionnaire Speargun of Rage,Weapon,80,Exotic,396
-32315,Legionnaire Staff,Weapon,62,Exotic,318
 32316,Legionnaire Staff,Weapon,70,Exotic,354
 32317,Legionnaire Staff,Weapon,78,Exotic,384
 32318,Legionnaire Staff,Weapon,80,Exotic,396
 32319,Carrion Legionnaire Sword of Blood,Weapon,62,Exotic,212
 32320,Carrion Legionnaire Sword of Vision,Weapon,70,Exotic,236
-32321,Carrion Legionnaire Sword of Accuracy,Weapon,78,Exotic,256
 32322,Carrion Legionnaire Sword of Rage,Weapon,80,Exotic,264
 32323,Legionnaire Firebrand,Weapon,62,Exotic,212
 32324,Legionnaire Firebrand,Weapon,70,Exotic,236
@@ -24149,7 +24137,6 @@ id,name,type,level,rarity,vendor_value
 32328,Legionnaire Trident,Weapon,70,Exotic,354
 32329,Legionnaire Trident,Weapon,78,Exotic,384
 32330,Legionnaire Trident,Weapon,80,Exotic,396
-32331,Carrion Legionnaire Horn of Blood,Weapon,62,Exotic,212
 32332,Carrion Legionnaire Horn of Vision,Weapon,70,Exotic,236
 32333,Carrion Legionnaire Horn of Accuracy,Weapon,78,Exotic,256
 32334,Carrion Legionnaire Horn of Rage,Weapon,80,Exotic,264
@@ -24159,46 +24146,29 @@ id,name,type,level,rarity,vendor_value
 32338,Malign Steam Axe,Weapon,16,Fine,20
 32339,Malign Steam Dagger,Weapon,1,Fine,6
 32340,Malign Steam Dagger,Weapon,6,Fine,11
-32341,Malign Steam Dagger,Weapon,11,Fine,16
-32342,Malign Steam Dagger,Weapon,16,Fine,20
 32343,Malign Steam Gizmo,Weapon,1,Fine,6
 32344,Malign Steam Gizmo,Weapon,6,Fine,11
 32345,Malign Steam Gizmo,Weapon,11,Fine,16
-32346,Malign Steam Gizmo,Weapon,16,Fine,20
 32347,Malign Great Steamblade,Weapon,1,Fine,9
 32348,Malign Great Steamblade,Weapon,6,Fine,17
-32349,Malign Great Steamblade,Weapon,11,Fine,24
 32350,Malign Great Steamblade,Weapon,16,Fine,30
 32351,Malign Steam Hammer,Weapon,1,Fine,9
 32352,Malign Steam Hammer,Weapon,6,Fine,17
-32353,Malign Steam Hammer,Weapon,11,Fine,24
 32354,Malign Steam Hammer,Weapon,16,Fine,30
-32355,Malign Steam Spear,Weapon,1,Fine,9
 32356,Malign Steam Spear,Weapon,6,Fine,17
 32357,Malign Steam Spear,Weapon,11,Fine,24
 32358,Malign Steam Spear,Weapon,16,Fine,30
-32359,Malign Steam Bow,Weapon,1,Fine,9
-32360,Malign Steam Bow,Weapon,6,Fine,17
 32361,Malign Steam Bow,Weapon,11,Fine,24
 32362,Malign Steam Bow,Weapon,16,Fine,30
 32363,Malign Steam Mace,Weapon,1,Fine,6
 32364,Malign Steam Mace,Weapon,6,Fine,11
 32365,Malign Steam Mace,Weapon,11,Fine,16
-32366,Malign Steam Mace,Weapon,16,Fine,20
-32367,Malign Steam Pistol,Weapon,1,Fine,6
-32368,Malign Steam Pistol,Weapon,6,Fine,11
 32369,Malign Steam Pistol,Weapon,11,Fine,16
 32370,Malign Steam Pistol,Weapon,16,Fine,20
-32371,Malign Steam Rifle,Weapon,1,Fine,9
-32372,Malign Steam Rifle,Weapon,6,Fine,17
 32373,Malign Steam Rifle,Weapon,11,Fine,24
-32374,Malign Steam Rifle,Weapon,16,Fine,30
 32375,Malign Steam Scepter,Weapon,1,Fine,6
 32376,Malign Steam Scepter,Weapon,6,Fine,11
-32377,Malign Steam Scepter,Weapon,11,Fine,16
-32378,Malign Steam Scepter,Weapon,16,Fine,20
 32379,Malign Steam Shield,Weapon,1,Fine,6
-32380,Malign Steam Shield,Weapon,6,Fine,11
 32381,Malign Steam Shield,Weapon,11,Fine,16
 32382,Malign Steam Shield,Weapon,16,Fine,20
 32383,Malign Steam Short Bow,Weapon,1,Fine,9
@@ -66142,6 +66112,7 @@ id,name,type,level,rarity,vendor_value
 99546,Chest of the Gyala Delve Hero,Container,0,Exotic,0
 99547,Soo-Won's Tail Skin,Consumable,0,Legendary,0
 99549,Specter's Cache,Container,0,Rare,192
+99550,Starter Kit: The Flameseeker Prophecies,Container,80,Exotic,264
 99551,Mote of Delight,Trophy,0,Exotic,256
 99552,Special Ops Requisition: Chestpiece,Consumable,0,Exotic,128
 99553,Medium Special Ops Harness,Armor,80,Ascended,495
@@ -70182,6 +70153,7 @@ Balance",Gizmo,0,Basic,0
 105193,Commander's Heavy Plate Pauldrons of Divinity,Armor,80,Rare,1
 105194,Commander's Tormented Shield of Force,Weapon,80,Exotic,264
 105195,Shade-Touched Axe Skin,Consumable,0,Rare,0
+105196,Fractalline Spark,Trophy,0,Exotic,0
 105197,Celestial Phalanx Warhelm of Divinity,Armor,80,Exotic,1
 105198,Shade-Touched Longbow Skin,Consumable,0,Rare,0
 105199,Commander's Duelist Coat of Divinity,Armor,80,Rare,1
