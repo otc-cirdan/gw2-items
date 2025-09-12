@@ -3003,7 +3003,6 @@ id,name,type,level,rarity,vendor_value
 3067,Strong Rawhide Bracers,Armor,56,Basic,23
 3068,Strong Rawhide Bracers,Armor,60,Basic,24
 3069,Berserker's Rawhide Bracers,Armor,64,Basic,25
-3070,Mighty Rawhide Mask,Armor,12,Basic,11
 3071,Mighty Rawhide Mask,Armor,16,Basic,13
 3072,Mighty Rawhide Mask,Armor,20,Basic,15
 3073,Strong Rawhide Mask,Armor,24,Basic,17
@@ -3012,9 +3011,7 @@ id,name,type,level,rarity,vendor_value
 3076,Strong Rawhide Mask,Armor,36,Basic,22
 3077,Strong Rawhide Mask,Armor,40,Basic,24
 3078,Strong Rawhide Mask,Armor,44,Basic,25
-3079,Strong Rawhide Mask,Armor,48,Basic,27
 3080,Strong Rawhide Mask,Armor,52,Basic,29
-3081,Strong Rawhide Mask,Armor,56,Basic,31
 3082,Strong Rawhide Mask,Armor,60,Basic,33
 3083,Berserker's Rawhide Mask,Armor,64,Basic,34
 3084,Mighty Rawhide Leggings,Armor,4,Basic,7
@@ -3036,7 +3033,6 @@ id,name,type,level,rarity,vendor_value
 3100,Mighty Rawhide Shoulders,Armor,16,Basic,11
 3101,Mighty Rawhide Shoulders,Armor,20,Basic,14
 3102,Strong Rawhide Shoulders,Armor,24,Basic,15
-3103,Strong Rawhide Shoulders,Armor,28,Basic,16
 3104,Strong Rawhide Shoulders,Armor,32,Basic,18
 3105,Strong Rawhide Shoulders,Armor,36,Basic,20
 3106,Strong Rawhide Shoulders,Armor,40,Basic,21
@@ -3049,7 +3045,6 @@ id,name,type,level,rarity,vendor_value
 3113,Berserker's Chainmail Footgear,Armor,72,Basic,30
 3114,Berserker's Chainmail Chestpiece,Armor,72,Basic,45
 3115,Berserker's Chainmail Gauntlets,Armor,72,Basic,27
-3116,Berserker's Chainmail Helm,Armor,72,Basic,38
 3117,Berserker's Chainmail Leggings,Armor,72,Basic,42
 3118,Berserker's Chainmail Shoulders,Armor,72,Basic,33
 3119,Berserker's Apprentice Shoes,Armor,72,Basic,30
@@ -3106,7 +3101,6 @@ id,name,type,level,rarity,vendor_value
 3170,Berserker's Chainmail Helm,Armor,80,Basic,42
 3171,Berserker's Chainmail Leggings,Armor,80,Basic,47
 3172,Berserker's Chainmail Shoulders,Armor,80,Basic,37
-3173,Berserker's Apprentice Shoes,Armor,80,Basic,33
 3174,Berserker's Apprentice Coat,Armor,80,Basic,50
 3175,Berserker's Apprentice Gloves,Armor,80,Basic,30
 3176,Berserker's Apprentice Band,Armor,80,Basic,42
@@ -3116,7 +3110,6 @@ id,name,type,level,rarity,vendor_value
 3180,Berserker's Rawhide Vest,Armor,80,Basic,50
 3181,Berserker's Rawhide Bracers,Armor,80,Basic,30
 3182,Berserker's Rawhide Mask,Armor,80,Basic,42
-3183,Berserker's Rawhide Leggings,Armor,80,Basic,47
 3184,Berserker's Rawhide Shoulders,Armor,80,Basic,37
 3185,Mighty Chainmail Footgear,Armor,2,Basic,4
 3186,Mighty Chainmail Footgear,Armor,6,Basic,6
@@ -3126,14 +3119,12 @@ id,name,type,level,rarity,vendor_value
 3190,Strong Chainmail Footgear,Armor,22,Basic,13
 3191,Strong Chainmail Footgear,Armor,26,Basic,14
 3192,Strong Chainmail Footgear,Armor,30,Basic,16
-3193,Strong Chainmail Footgear,Armor,34,Basic,17
 3194,Strong Chainmail Footgear,Armor,38,Basic,18
 3195,Strong Chainmail Footgear,Armor,42,Basic,20
 3196,Strong Chainmail Footgear,Armor,46,Basic,21
 3197,Strong Chainmail Footgear,Armor,50,Basic,23
 3198,Strong Chainmail Footgear,Armor,54,Basic,24
 3199,Strong Chainmail Footgear,Armor,58,Basic,25
-3200,Berserker's Chainmail Footgear,Armor,62,Basic,27
 3201,Berserker's Chainmail Footgear,Armor,66,Basic,28
 3202,Berserker's Chainmail Footgear,Armor,70,Basic,30
 3203,Berserker's Chainmail Footgear,Armor,74,Basic,31
@@ -3149,11 +3140,9 @@ id,name,type,level,rarity,vendor_value
 3213,Strong Chainmail Chestpiece,Armor,34,Basic,25
 3214,Strong Chainmail Chestpiece,Armor,38,Basic,27
 3215,Strong Chainmail Chestpiece,Armor,42,Basic,30
-3216,Strong Chainmail Chestpiece,Armor,46,Basic,32
 3217,Strong Chainmail Chestpiece,Armor,50,Basic,34
 3218,Strong Chainmail Chestpiece,Armor,54,Basic,36
 3219,Strong Chainmail Chestpiece,Armor,58,Basic,38
-3220,Berserker's Chainmail Chestpiece,Armor,62,Basic,40
 3221,Berserker's Chainmail Chestpiece,Armor,66,Basic,42
 3222,Berserker's Chainmail Chestpiece,Armor,70,Basic,45
 3223,Berserker's Chainmail Chestpiece,Armor,74,Basic,46
@@ -3165,12 +3154,7 @@ id,name,type,level,rarity,vendor_value
 3229,Mighty Chainmail Gauntlets,Armor,18,Basic,10
 3230,Strong Chainmail Gauntlets,Armor,22,Basic,12
 3231,Strong Chainmail Gauntlets,Armor,26,Basic,13
-3232,Strong Chainmail Gauntlets,Armor,30,Basic,14
-3233,Strong Chainmail Gauntlets,Armor,34,Basic,15
-3234,Strong Chainmail Gauntlets,Armor,38,Basic,17
 3235,Strong Chainmail Gauntlets,Armor,42,Basic,18
-3236,Strong Chainmail Gauntlets,Armor,46,Basic,19
-3237,Strong Chainmail Gauntlets,Armor,50,Basic,21
 3238,Strong Chainmail Gauntlets,Armor,54,Basic,22
 3239,Strong Chainmail Gauntlets,Armor,58,Basic,23
 3240,Berserker's Chainmail Gauntlets,Armor,62,Basic,24
@@ -3181,20 +3165,15 @@ id,name,type,level,rarity,vendor_value
 3245,Mighty Chainmail Helm,Armor,10,Basic,10
 3246,Mighty Chainmail Helm,Armor,14,Basic,12
 3247,Mighty Chainmail Helm,Armor,18,Basic,14
-3248,Strong Chainmail Helm,Armor,22,Basic,16
 3249,Strong Chainmail Helm,Armor,26,Basic,18
 3250,Strong Chainmail Helm,Armor,30,Basic,20
 3251,Strong Chainmail Helm,Armor,34,Basic,21
 3252,Strong Chainmail Helm,Armor,38,Basic,23
 3253,Strong Chainmail Helm,Armor,42,Basic,25
 3254,Strong Chainmail Helm,Armor,46,Basic,27
-3255,Strong Chainmail Helm,Armor,50,Basic,29
 3256,Strong Chainmail Helm,Armor,54,Basic,30
-3257,Strong Chainmail Helm,Armor,58,Basic,32
 3258,Berserker's Chainmail Helm,Armor,62,Basic,34
 3259,Berserker's Chainmail Helm,Armor,66,Basic,35
-3260,Berserker's Chainmail Helm,Armor,70,Basic,37
-3261,Berserker's Chainmail Helm,Armor,74,Basic,39
 3262,Berserker's Chainmail Helm,Armor,78,Basic,40
 3263,Mighty Chainmail Leggings,Armor,2,Basic,5
 3264,Mighty Chainmail Leggings,Armor,6,Basic,8
@@ -24057,6 +24036,7 @@ id,name,type,level,rarity,vendor_value
 32236,Caretaker's Rifle,Weapon,8,Fine,20
 32237,Avenger's Rifle,Weapon,8,Fine,20
 32238,Avenger's Staff,Weapon,8,Fine,20
+32239,Caretaker's Staff,Weapon,8,Fine,20
 32240,Avenger's Longbow,Weapon,8,Fine,20
 32241,Avenger's Short Bow,Weapon,8,Fine,20
 32242,Caretaker's Short Bow,Weapon,8,Fine,20
@@ -24068,6 +24048,7 @@ id,name,type,level,rarity,vendor_value
 32248,Caretaker's Staff,Weapon,8,Fine,20
 32249,Ravaging Avenger's Longbow,Weapon,78,Rare,288
 32250,Strong Avenger's Short Bow,Weapon,78,Rare,288
+32251,Mending Caretaker's Short Bow,Weapon,78,Rare,288
 32252,Strong Hero's Longsword,Weapon,78,Rare,288
 32253,Strong Avenger's Hammer,Weapon,78,Rare,288
 32254,Mending Caretaker's Rifle,Weapon,78,Rare,288
@@ -24076,9 +24057,12 @@ id,name,type,level,rarity,vendor_value
 32257,Strong Avenger's Staff,Weapon,78,Rare,288
 32258,Warden's Greatsword,Weapon,5,Fine,15
 32259,Carrion Legionnaire Axe of Blood,Weapon,62,Exotic,212
+32260,Carrion Legionnaire Axe of Vision,Weapon,70,Exotic,236
+32261,Carrion Legionnaire Axe of Accuracy,Weapon,78,Exotic,256
 32262,Carrion Legionnaire Axe of Rage,Weapon,80,Exotic,264
 32263,Carrion Legionnaire Dagger of Blood,Weapon,62,Exotic,212
 32264,Carrion Legionnaire Dagger of Vision,Weapon,70,Exotic,236
+32265,Carrion Legionnaire Dagger of Accuracy,Weapon,78,Exotic,256
 32266,Carrion Legionnaire Dagger of Rage,Weapon,80,Exotic,264
 32267,Carrion Legionnaire Symbol of Blood,Weapon,62,Exotic,212
 32268,Carrion Legionnaire Symbol of Vision,Weapon,70,Exotic,236
@@ -24092,6 +24076,7 @@ id,name,type,level,rarity,vendor_value
 32276,Carrion Legionnaire Maul of Vision,Weapon,70,Exotic,354
 32277,Carrion Legionnaire Maul of Accuracy,Weapon,78,Exotic,384
 32278,Carrion Legionnaire Maul of Rage,Weapon,80,Exotic,396
+32279,Carrion Legionnaire Spear of Blood,Weapon,62,Exotic,318
 32280,Carrion Legionnaire Spear of Vision,Weapon,70,Exotic,354
 32281,Carrion Legionnaire Spear of Accuracy,Weapon,78,Exotic,384
 32282,Carrion Legionnaire Spear of Rage,Weapon,80,Exotic,396
@@ -24101,6 +24086,7 @@ id,name,type,level,rarity,vendor_value
 32286,Carrion Legionnaire Longbow of Rage,Weapon,80,Exotic,396
 32287,Legionnaire Mace,Weapon,62,Exotic,212
 32288,Legionnaire Mace,Weapon,70,Exotic,236
+32289,Legionnaire Mace,Weapon,78,Exotic,256
 32290,Legionnaire Mace,Weapon,80,Exotic,264
 32291,Legionnaire Sidearm,Weapon,62,Exotic,212
 32292,Legionnaire Sidearm,Weapon,70,Exotic,236
@@ -24110,6 +24096,7 @@ id,name,type,level,rarity,vendor_value
 32296,Carrion Legionnaire Bayonet of Vision,Weapon,70,Exotic,354
 32297,Carrion Legionnaire Bayonet of Accuracy,Weapon,78,Exotic,384
 32298,Carrion Legionnaire Bayonet of Rage,Weapon,80,Exotic,396
+32299,Carrion Legionnaire Virge of Blood,Weapon,62,Exotic,212
 32300,Carrion Legionnaire Virge of Vision,Weapon,70,Exotic,236
 32301,Carrion Legionnaire Virge of Accuracy,Weapon,78,Exotic,256
 32302,Carrion Legionnaire Virge of Rage,Weapon,80,Exotic,264
@@ -24118,16 +24105,20 @@ id,name,type,level,rarity,vendor_value
 32305,Carrion Legionnaire Shield of Accuracy,Weapon,78,Exotic,256
 32306,Carrion Legionnaire Shield of Rage,Weapon,80,Exotic,264
 32307,Carrion Legionnaire Short Bow of Blood,Weapon,62,Exotic,318
+32308,Carrion Legionnaire Short Bow of Vision,Weapon,70,Exotic,354
 32309,Carrion Legionnaire Short Bow of Accuracy,Weapon,78,Exotic,384
 32310,Carrion Legionnaire Short Bow of Rage,Weapon,80,Exotic,396
 32311,Carrion Legionnaire Speargun of Blood,Weapon,62,Exotic,318
+32312,Carrion Legionnaire Speargun of Vision,Weapon,70,Exotic,354
 32313,Carrion Legionnaire Speargun of Accuracy,Weapon,78,Exotic,384
 32314,Carrion Legionnaire Speargun of Rage,Weapon,80,Exotic,396
+32315,Legionnaire Staff,Weapon,62,Exotic,318
 32316,Legionnaire Staff,Weapon,70,Exotic,354
 32317,Legionnaire Staff,Weapon,78,Exotic,384
 32318,Legionnaire Staff,Weapon,80,Exotic,396
 32319,Carrion Legionnaire Sword of Blood,Weapon,62,Exotic,212
 32320,Carrion Legionnaire Sword of Vision,Weapon,70,Exotic,236
+32321,Carrion Legionnaire Sword of Accuracy,Weapon,78,Exotic,256
 32322,Carrion Legionnaire Sword of Rage,Weapon,80,Exotic,264
 32323,Legionnaire Firebrand,Weapon,62,Exotic,212
 32324,Legionnaire Firebrand,Weapon,70,Exotic,236
@@ -24137,6 +24128,7 @@ id,name,type,level,rarity,vendor_value
 32328,Legionnaire Trident,Weapon,70,Exotic,354
 32329,Legionnaire Trident,Weapon,78,Exotic,384
 32330,Legionnaire Trident,Weapon,80,Exotic,396
+32331,Carrion Legionnaire Horn of Blood,Weapon,62,Exotic,212
 32332,Carrion Legionnaire Horn of Vision,Weapon,70,Exotic,236
 32333,Carrion Legionnaire Horn of Accuracy,Weapon,78,Exotic,256
 32334,Carrion Legionnaire Horn of Rage,Weapon,80,Exotic,264
@@ -24146,29 +24138,46 @@ id,name,type,level,rarity,vendor_value
 32338,Malign Steam Axe,Weapon,16,Fine,20
 32339,Malign Steam Dagger,Weapon,1,Fine,6
 32340,Malign Steam Dagger,Weapon,6,Fine,11
+32341,Malign Steam Dagger,Weapon,11,Fine,16
+32342,Malign Steam Dagger,Weapon,16,Fine,20
 32343,Malign Steam Gizmo,Weapon,1,Fine,6
 32344,Malign Steam Gizmo,Weapon,6,Fine,11
 32345,Malign Steam Gizmo,Weapon,11,Fine,16
+32346,Malign Steam Gizmo,Weapon,16,Fine,20
 32347,Malign Great Steamblade,Weapon,1,Fine,9
 32348,Malign Great Steamblade,Weapon,6,Fine,17
+32349,Malign Great Steamblade,Weapon,11,Fine,24
 32350,Malign Great Steamblade,Weapon,16,Fine,30
 32351,Malign Steam Hammer,Weapon,1,Fine,9
 32352,Malign Steam Hammer,Weapon,6,Fine,17
+32353,Malign Steam Hammer,Weapon,11,Fine,24
 32354,Malign Steam Hammer,Weapon,16,Fine,30
+32355,Malign Steam Spear,Weapon,1,Fine,9
 32356,Malign Steam Spear,Weapon,6,Fine,17
 32357,Malign Steam Spear,Weapon,11,Fine,24
 32358,Malign Steam Spear,Weapon,16,Fine,30
+32359,Malign Steam Bow,Weapon,1,Fine,9
+32360,Malign Steam Bow,Weapon,6,Fine,17
 32361,Malign Steam Bow,Weapon,11,Fine,24
 32362,Malign Steam Bow,Weapon,16,Fine,30
 32363,Malign Steam Mace,Weapon,1,Fine,6
 32364,Malign Steam Mace,Weapon,6,Fine,11
 32365,Malign Steam Mace,Weapon,11,Fine,16
+32366,Malign Steam Mace,Weapon,16,Fine,20
+32367,Malign Steam Pistol,Weapon,1,Fine,6
+32368,Malign Steam Pistol,Weapon,6,Fine,11
 32369,Malign Steam Pistol,Weapon,11,Fine,16
 32370,Malign Steam Pistol,Weapon,16,Fine,20
+32371,Malign Steam Rifle,Weapon,1,Fine,9
+32372,Malign Steam Rifle,Weapon,6,Fine,17
 32373,Malign Steam Rifle,Weapon,11,Fine,24
+32374,Malign Steam Rifle,Weapon,16,Fine,30
 32375,Malign Steam Scepter,Weapon,1,Fine,6
 32376,Malign Steam Scepter,Weapon,6,Fine,11
+32377,Malign Steam Scepter,Weapon,11,Fine,16
+32378,Malign Steam Scepter,Weapon,16,Fine,20
 32379,Malign Steam Shield,Weapon,1,Fine,6
+32380,Malign Steam Shield,Weapon,6,Fine,11
 32381,Malign Steam Shield,Weapon,11,Fine,16
 32382,Malign Steam Shield,Weapon,16,Fine,20
 32383,Malign Steam Short Bow,Weapon,1,Fine,9
