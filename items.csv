@@ -9723,6 +9723,7 @@ id,name,type,level,rarity,vendor_value
 12015,Hearty Noble Pants,Armor,50,Rare,189
 12016,Carrion Noble Pants,Armor,65,Rare,231
 12017,Cleric's Noble Pants,Armor,65,Rare,231
+12018,Noble Pants,Armor,65,Rare,231
 12019,Valkyrie Noble Pants,Armor,65,Rare,231
 12020,Berserker's Noble Pants,Armor,65,Rare,231
 12021,Rampager's Noble Pants,Armor,65,Rare,231
@@ -25302,6 +25303,7 @@ id,name,type,level,rarity,vendor_value
 33711,Krytan Rifle,Weapon,61,Fine,78
 33714,Krytan Rifle,Weapon,76,Fine,95
 33715,Krytan Rifle,Weapon,80,Fine,99
+33716,Krytan Scepter,Weapon,61,Fine,52
 33717,Krytan Scepter,Weapon,66,Fine,56
 33719,Krytan Scepter,Weapon,76,Fine,63
 33720,Krytan Scepter,Weapon,80,Fine,66
