@@ -5092,8 +5092,12 @@ id,name,type,level,rarity,vendor_value
 5362,Apprentice Gloves of the Elementalist,Armor,80,Exotic,0
 5363,Apprentice Shoulders of the Elementalist,Armor,80,Exotic,0
 5364,Apprentice Band of the Elementalist,Armor,80,Exotic,0
+5386,Apprentice Shoes of the Mesmer,Armor,80,Exotic,0
 5387,Guild Archmage Robes of the Mesmer,Armor,80,Exotic,0
+5388,Apprentice Gloves of the Mesmer,Armor,80,Exotic,0
+5389,Apprentice Band of the Mesmer,Armor,80,Exotic,0
 5390,Guild Archmage Pants of the Mesmer,Armor,80,Exotic,0
+5391,Apprentice Shoulders of the Mesmer,Armor,80,Exotic,0
 5398,Cloth Aquabreather,Armor,80,Exotic,0
 5407,Magician Boots,Armor,0,Exotic,0
 5408,Magician Coat,Armor,0,Exotic,0
@@ -70200,6 +70204,7 @@ Balance",Gizmo,0,Basic,0
 105213,Celestial Phalanx Gauntlets of Divinity,Armor,80,Exotic,1
 105215,Celestial Viper's Boots of Divinity,Armor,80,Exotic,1
 105216,Commander's Heavy Plate Legguards of Divinity,Armor,80,Rare,1
+105218,Mists-Grasper Gloves Box,Container,0,Exotic,0
 105219,Pact Tower Shield,Weapon,80,Rare,198
 105220,Pact Focus,Weapon,80,Rare,198
 105221,Celestial Leather Aquabreather of Divinity,Armor,80,Exotic,330
@@ -70231,6 +70236,7 @@ Balance",Gizmo,0,Basic,0
 105255,Celestial Phalanx Legplates of Divinity,Armor,80,Exotic,1
 105256,Infinite Mist Omnipotion,Gizmo,80,Exotic,1
 105257,Celestial Trickster's Mask of Divinity,Armor,80,Exotic,1
+105258,Celestial Mists-Grasper Gloves,Armor,80,Exotic,238
 105259,Celestial Trickster's Mantle of Divinity,Armor,80,Exotic,1
 105260,Ebony Orichalcum Ring,Trinket,80,Exotic,396
 105261,Pact Battleaxe,Weapon,80,Rare,198
@@ -70260,6 +70266,7 @@ Balance",Gizmo,0,Basic,0
 105295,Celestial Metal Aquabreather of Divinity,Armor,80,Exotic,330
 105297,Shade-Touched Focus Skin,Consumable,0,Rare,0
 105298,Mini Blazing Turtle Hatchling,MiniPet,0,Rare,50
+105299,Celestial Mists-Grasper Gloves,Armor,80,Exotic,238
 105300,Celestial Phalanx Shoulders of Divinity,Armor,80,Exotic,1
 105301,Commander's Heavy Plate Greaves of Divinity,Armor,80,Rare,1
 105302,Shade-Touched Torch Skin,Consumable,0,Rare,0
@@ -70288,6 +70295,7 @@ Balance",Gizmo,0,Basic,0
 105331,Legendary Weapon Starter Key—Universal,Gizmo,0,Legendary,640
 105332,Lucent Crystal Vault Bag,Container,0,Fine,64
 105333,Commander's Stately Gloves of Divinity,Armor,80,Rare,1
+105334,Celestial Mists-Grasper Gloves,Armor,80,Exotic,238
 105336,Fractalline Dust,Trophy,0,Rare,0
 105337,Pact Avenger,Weapon,80,Rare,297
 105340,Mini Black and Cyan Turtle Hatchling,MiniPet,0,Rare,50
