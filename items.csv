@@ -36649,6 +36649,7 @@ id,name,type,level,rarity,vendor_value
 50142,Swelter's Gait,Armor,51,Exotic,196
 50143,Brightcarved Breastplate,Armor,60,Exotic,336
 50144,Barca's Gambit,Armor,37,Exotic,240
+50145,Groaning Gloves,Armor,60,Exotic,202
 50146,Barca's Studs,Armor,37,Exotic,144
 50147,Pike's Ambition,Armor,60,Exotic,280
 50148,Barca's Crest,Armor,37,Exotic,200
@@ -36657,6 +36658,7 @@ id,name,type,level,rarity,vendor_value
 50151,Sepulchre Greaves,Armor,60,Exotic,314
 50152,Barca's Sleeve,Armor,37,Exotic,176
 50153,Dual Peaks,Armor,60,Exotic,247
+50154,Gieve's Plate,Armor,68,Exotic,366
 50155,Clark's Chukkas,Armor,65,Exotic,236
 50156,Duty-Bound Duffers,Armor,18,Exotic,96
 50157,Gieve's Plate,Armor,65,Exotic,354
@@ -36671,6 +36673,7 @@ id,name,type,level,rarity,vendor_value
 50166,Brightcarved Breastplate,Armor,44,Exotic,270
 50167,Groaning Gloves,Armor,44,Exotic,162
 50168,Pike's Ambition,Armor,44,Exotic,225
+50169,Sepulchre Greaves,Armor,44,Exotic,252
 50170,Dual Peaks,Armor,44,Exotic,198
 50171,Bella's Crown,Armor,68,Exotic,305
 50172,Mail of Mac Quen,Armor,65,Exotic,331
@@ -36683,13 +36686,18 @@ id,name,type,level,rarity,vendor_value
 50179,Barca's Studs,Armor,26,Exotic,116
 50180,Barca's Crest,Armor,26,Exotic,160
 50181,Pike's Ambition,Armor,51,Exotic,245
+50182,Sepulchre Greaves,Armor,51,Exotic,275
 50183,Barca's Baldric,Armor,26,Exotic,180
 50184,Barca's Sleeve,Armor,26,Exotic,141
+50185,Dual Peaks,Armor,51,Exotic,216
 50186,Miucha's Mantle,Armor,65,Exotic,260
+50187,Miucha's Mantle,Armor,68,Exotic,269
 50188,Dashing Tricorner,Armor,68,Exotic,305
 50189,Many-Buckled Swash,Armor,68,Exotic,366
+50190,Ostholz's Kickers,Armor,37,Exotic,160
 50191,Trackless Boots,Armor,60,Exotic,224
 50192,Ostholz's Duster,Armor,37,Exotic,240
+50193,Amnemoi's Robe,Armor,60,Exotic,336
 50194,Ostholz's Work Gloves,Armor,37,Exotic,144
 50195,Inconnu's Paw,Armor,60,Exotic,202
 50196,Ostholz's Rag,Armor,37,Exotic,200
@@ -36706,9 +36714,11 @@ id,name,type,level,rarity,vendor_value
 50207,Amnemoi's Robe,Armor,44,Exotic,270
 50208,Inconnu's Paw,Armor,44,Exotic,162
 50209,Dashing Tricorner,Armor,65,Exotic,295
+50210,"Mask of 1,000 Faces",Armor,44,Exotic,225
 50211,Inconspicuous Dungarees,Armor,44,Exotic,252
 50212,Highsteppers,Armor,68,Exotic,244
 50213,Obfuscation Ward,Armor,44,Exotic,198
+50214,Stiletto Jodhpurs,Armor,65,Exotic,331
 50215,Stiletto Jodhpurs,Armor,68,Exotic,342
 50216,Trackless Boots,Armor,51,Exotic,196
 50217,Ostholz's Kickers,Armor,26,Exotic,128
@@ -36716,6 +36726,7 @@ id,name,type,level,rarity,vendor_value
 50219,Ostholz's Duster,Armor,26,Exotic,192
 50220,Ragamuffin Cape,Armor,18,Exotic,144
 50221,Amnemoi's Robe,Armor,51,Exotic,294
+50222,Ostholz's Work Gloves,Armor,26,Exotic,116
 50223,Inconnu's Paw,Armor,51,Exotic,177
 50224,Ragamuffin Grips,Armor,18,Exotic,87
 50225,Ostholz's Rag,Armor,26,Exotic,160
@@ -36724,6 +36735,7 @@ id,name,type,level,rarity,vendor_value
 50228,Ragamuffin Bandana,Armor,18,Exotic,120
 50229,Inconspicuous Dungarees,Armor,51,Exotic,275
 50230,Ragamuffin Slacks,Armor,18,Exotic,135
+50231,Ostholz's Britches,Armor,26,Exotic,180
 50232,Breezy Backplate,Armor,68,Exotic,269
 50233,Ostholz's Brace,Armor,26,Exotic,141
 50234,Ragamuffin Pads,Armor,18,Exotic,106
@@ -36751,6 +36763,7 @@ id,name,type,level,rarity,vendor_value
 50374,Vesper Vest,Armor,60,Exotic,336
 50375,Imuthi's Thorax,Armor,68,Exotic,366
 50376,Kid Gloves,Armor,37,Exotic,144
+50377,Clarion Clasps,Armor,60,Exotic,202
 50378,Cabras Cowl,Armor,37,Exotic,200
 50379,Anointed Diadem,Armor,60,Exotic,280
 50380,Witherbreeches,Armor,37,Exotic,224
@@ -36760,6 +36773,8 @@ id,name,type,level,rarity,vendor_value
 50384,Imuthi's Tarsals,Armor,65,Exotic,236
 50385,Imuthi's Thorax,Armor,65,Exotic,354
 50386,Imuthi's Phalanges,Armor,65,Exotic,213
+50387,Imuthi's Phalanges,Armor,68,Exotic,220
+50388,Blessed Steps,Armor,44,Exotic,180
 50389,Vesper Vest,Armor,44,Exotic,270
 50390,Clarion Clasps,Armor,44,Exotic,162
 50391,Anointed Diadem,Armor,44,Exotic,225
