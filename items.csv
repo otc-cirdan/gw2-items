@@ -39215,7 +39215,6 @@ id,name,type,level,rarity,vendor_value
 53801,Survivor's Yew Rod,Weapon,36,Rare,111
 53802,Survivor's Dun Targe,Weapon,36,Rare,111
 53803,Survivor's Eagle's Perch,Weapon,36,Rare,167
-53804,Survivor's Leopard's Bite,Weapon,36,Rare,111
 53805,Survivor's Honor of Njal,Weapon,36,Rare,111
 53806,Survivor's Skaaldsinger,Weapon,36,Rare,111
 53807,Vagabond's Francisca,Weapon,36,Rare,111
@@ -39299,7 +39298,6 @@ id,name,type,level,rarity,vendor_value
 53885,Vagabond's Chainblade,Weapon,51,Rare,141
 53886,Vagabond's Legion's Light,Weapon,51,Rare,141
 53887,Vagabond's Charr Alarm Clock,Weapon,51,Rare,141
-53888,Vagabond's Grawlgrinder,Weapon,55,Rare,150
 53889,Vagabond's Chromecurve,Weapon,55,Rare,225
 53890,Vagabond's Pulleybow,Weapon,55,Rare,225
 53891,Vagabond's Serrated Fate,Weapon,55,Rare,150
@@ -39338,10 +39336,8 @@ id,name,type,level,rarity,vendor_value
 53924,Vagabond's Kessene Wreath,Weapon,36,Rare,111
 53925,Vagabond's Royal Barber,Weapon,36,Rare,167
 53926,Vagabond's Redeye Maul,Weapon,36,Rare,167
-53927,Vagabond's Flangeflare,Weapon,36,Rare,111
 53928,Vagabond's Obedience,Weapon,36,Rare,111
 53929,Vagabond's Cannon Law,Weapon,36,Rare,167
-53930,Vagabond's Majestic Hand,Weapon,36,Rare,111
 53931,Vagabond's Pride of Arms,Weapon,36,Rare,111
 53932,Vagabond's Concordance,Weapon,36,Rare,167
 53933,Vagabond's Dignity,Weapon,36,Rare,111
@@ -39350,17 +39346,14 @@ id,name,type,level,rarity,vendor_value
 53936,Vagabond's Disputation,Weapon,39,Rare,117
 53937,Vagabond's Queen's Retort,Weapon,39,Rare,176
 53938,Vagabond's Prince's Praise,Weapon,39,Rare,176
-53939,Vagabond's Discretion,Weapon,39,Rare,117
 53940,Vagabond's Kessene Wreath,Weapon,39,Rare,117
 53941,Vagabond's Royal Barber,Weapon,39,Rare,176
 53942,Vagabond's Redeye Maul,Weapon,39,Rare,176
 53943,Vagabond's Flangeflare,Weapon,39,Rare,117
 53944,Vagabond's Obedience,Weapon,39,Rare,117
 53945,Vagabond's Cannon Law,Weapon,39,Rare,176
-53946,Vagabond's Majestic Hand,Weapon,39,Rare,117
 53947,Vagabond's Pride of Arms,Weapon,39,Rare,117
 53948,Vagabond's Concordance,Weapon,39,Rare,176
-53949,Vagabond's Dignity,Weapon,39,Rare,117
 53950,Vagabond's Hue,Weapon,39,Rare,117
 53951,Vagabond's Cry,Weapon,39,Rare,117
 53952,Vagabond's Disputation,Weapon,44,Rare,126
@@ -39385,7 +39378,6 @@ id,name,type,level,rarity,vendor_value
 53971,Vagabond's Discretion,Weapon,51,Rare,141
 53972,Vagabond's Kessene Wreath,Weapon,51,Rare,141
 53973,Vagabond's Royal Barber,Weapon,51,Rare,212
-53974,Vagabond's Redeye Maul,Weapon,51,Rare,212
 53975,Vagabond's Flangeflare,Weapon,51,Rare,141
 53976,Vagabond's Obedience,Weapon,51,Rare,141
 53977,Vagabond's Cannon Law,Weapon,51,Rare,212
