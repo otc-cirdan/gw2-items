@@ -17819,8 +17819,10 @@ id,name,type,level,rarity,vendor_value
 25155,Shaman's Norn Warhammer of Air,Weapon,80,Rare,297
 25156,Shaman's Etched Harpoon of Blood,Weapon,62,Exotic,318
 25157,Shaman's Etched Harpoon of Vision,Weapon,70,Exotic,354
+25158,Shaman's Etched Harpoon of Accuracy,Weapon,78,Exotic,384
 25159,Shaman's Etched Harpoon of Rage,Weapon,80,Exotic,396
 25160,Shiverpeak Spear,Weapon,1,Fine,9
+25161,Shiverpeak Spear,Weapon,6,Fine,17
 25162,Shiverpeak Spear,Weapon,11,Fine,24
 25163,Shiverpeak Spear,Weapon,16,Fine,30
 25164,Shiverpeak Spear,Weapon,21,Fine,36
@@ -17832,16 +17834,19 @@ id,name,type,level,rarity,vendor_value
 25170,Shiverpeak Spear,Weapon,51,Fine,68
 25171,Shiverpeak Spear,Weapon,56,Fine,74
 25172,Shiverpeak Spear,Weapon,61,Fine,78
+25173,Shiverpeak Spear,Weapon,66,Fine,84
 25174,Shiverpeak Spear,Weapon,71,Fine,89
 25175,Shiverpeak Spear,Weapon,76,Fine,95
 25176,Shiverpeak Spear,Weapon,80,Fine,99
 25177,Shiverpeak Spear,Weapon,14,Masterwork,57
+25178,Shiverpeak Spear,Weapon,20,Masterwork,72
 25179,Shiverpeak Spear,Weapon,26,Masterwork,84
 25180,Shiverpeak Spear,Weapon,32,Masterwork,96
 25181,Shiverpeak Spear,Weapon,38,Masterwork,108
 25182,Shiverpeak Spear,Weapon,44,Masterwork,120
 25183,Shiverpeak Spear,Weapon,50,Masterwork,135
 25184,Shiverpeak Spear,Weapon,56,Masterwork,147
+25185,Shiverpeak Spear,Weapon,62,Masterwork,159
 25186,Shiverpeak Spear,Weapon,68,Masterwork,171
 25187,Shiverpeak Spear,Weapon,74,Masterwork,183
 25188,Shiverpeak Spear,Weapon,80,Masterwork,198
@@ -17853,26 +17858,33 @@ id,name,type,level,rarity,vendor_value
 25194,Shaman's Norn Spear of Energy,Weapon,74,Rare,275
 25195,Shaman's Norn Spear of Air,Weapon,80,Rare,297
 25196,Shaman's Etched Greatbow of Blood,Weapon,62,Exotic,318
+25197,Shaman's Etched Greatbow of Vision,Weapon,70,Exotic,354
 25198,Shaman's Etched Greatbow of Accuracy,Weapon,78,Exotic,384
 25199,Shaman's Etched Greatbow of Rage,Weapon,80,Exotic,396
+25200,Healing Shiverpeak Bow,Weapon,1,Fine,9
 25201,Healing Shiverpeak Bow,Weapon,6,Fine,17
 25202,Healing Shiverpeak Bow,Weapon,11,Fine,24
+25203,Healing Shiverpeak Bow,Weapon,16,Fine,30
 25204,Mending Shiverpeak Bow,Weapon,21,Fine,36
 25205,Mending Shiverpeak Bow,Weapon,26,Fine,42
 25206,Mending Shiverpeak Bow,Weapon,31,Fine,47
 25207,Mending Shiverpeak Bow,Weapon,36,Fine,53
 25208,Mending Shiverpeak Bow,Weapon,41,Fine,57
 25209,Mending Shiverpeak Bow,Weapon,46,Fine,63
+25210,Mending Shiverpeak Bow,Weapon,51,Fine,68
 25211,Mending Shiverpeak Bow,Weapon,56,Fine,74
 25212,Shaman's Shiverpeak Bow,Weapon,61,Fine,78
+25213,Shaman's Shiverpeak Bow,Weapon,66,Fine,84
 25214,Shaman's Shiverpeak Bow,Weapon,71,Fine,89
 25215,Shaman's Shiverpeak Bow,Weapon,76,Fine,95
+25216,Shaman's Shiverpeak Bow,Weapon,80,Fine,99
 25217,Healing Shiverpeak Bow of Agony,Weapon,14,Masterwork,57
 25218,Healing Shiverpeak Bow of Force,Weapon,20,Masterwork,72
 25219,Mending Shiverpeak Bow of Accuracy,Weapon,26,Masterwork,84
 25220,Mending Shiverpeak Bow of Grawl Slaying,Weapon,32,Masterwork,96
 25221,Mending Shiverpeak Bow of Serpent Slaying,Weapon,38,Masterwork,108
 25222,Mending Shiverpeak Bow of Smoldering,Weapon,44,Masterwork,120
+25223,Mending Shiverpeak Bow of Debility,Weapon,50,Masterwork,135
 25224,Mending Shiverpeak Bow of the Hydromancer,Weapon,56,Masterwork,147
 25225,Shaman's Shiverpeak Bow of Agony,Weapon,62,Masterwork,159
 25226,Shaman's Shiverpeak Bow of the Geomancer,Weapon,68,Masterwork,171
@@ -17903,6 +17915,8 @@ id,name,type,level,rarity,vendor_value
 25251,Mending Shiverpeak Club,Weapon,56,Fine,49
 25252,Shaman's Shiverpeak Club,Weapon,61,Fine,52
 25253,Shaman's Shiverpeak Club,Weapon,66,Fine,56
+25254,Shaman's Shiverpeak Club,Weapon,71,Fine,59
+25255,Shaman's Shiverpeak Club,Weapon,76,Fine,63
 25256,Shaman's Shiverpeak Club,Weapon,80,Fine,66
 25257,Healing Shiverpeak Club of Agony,Weapon,14,Masterwork,38
 25258,Healing Shiverpeak Club of Force,Weapon,20,Masterwork,48
@@ -17913,6 +17927,7 @@ id,name,type,level,rarity,vendor_value
 25263,Mending Shiverpeak Club of Debility,Weapon,50,Masterwork,90
 25264,Mending Shiverpeak Club of the Hydromancer,Weapon,56,Masterwork,98
 25265,Shaman's Shiverpeak Club of Agony,Weapon,62,Masterwork,106
+25266,Shaman's Shiverpeak Club of the Geomancer,Weapon,68,Masterwork,114
 25267,Shaman's Shiverpeak Club of Bloodlust,Weapon,74,Masterwork,122
 25268,Shaman's Shiverpeak Club of Earth,Weapon,80,Masterwork,132
 25269,Mending Norn Mace of Battle,Weapon,39,Rare,111
@@ -17932,6 +17947,7 @@ id,name,type,level,rarity,vendor_value
 25283,Healing Shiverpeak Handcannon,Weapon,16,Fine,20
 25284,Mending Shiverpeak Handcannon,Weapon,21,Fine,24
 25285,Mending Shiverpeak Handcannon,Weapon,26,Fine,28
+25286,Mending Shiverpeak Handcannon,Weapon,31,Fine,31
 25287,Mending Shiverpeak Handcannon,Weapon,36,Fine,35
 25288,Mending Shiverpeak Handcannon,Weapon,41,Fine,38
 25289,Mending Shiverpeak Handcannon,Weapon,46,Fine,42
@@ -17948,6 +17964,8 @@ id,name,type,level,rarity,vendor_value
 25300,Mending Shiverpeak Handcannon of Grawl Slaying,Weapon,32,Masterwork,64
 25301,Mending Shiverpeak Handcannon of Serpent Slaying,Weapon,38,Masterwork,72
 25302,Mending Shiverpeak Handcannon of Smoldering,Weapon,44,Masterwork,80
+25303,Mending Shiverpeak Handcannon of Debility,Weapon,50,Masterwork,90
+25304,Mending Shiverpeak Handcannon of the Hydromancer,Weapon,56,Masterwork,98
 25305,Shaman's Shiverpeak Handcannon of Agony,Weapon,62,Masterwork,106
 25306,Shaman's Shiverpeak Handcannon of the Geomancer,Weapon,68,Masterwork,114
 25307,Shaman's Shiverpeak Handcannon of Bloodlust,Weapon,74,Masterwork,122
@@ -17973,8 +17991,10 @@ id,name,type,level,rarity,vendor_value
 25327,Mending Shiverpeak Arquebus,Weapon,36,Fine,53
 25328,Mending Shiverpeak Arquebus,Weapon,41,Fine,57
 25329,Mending Shiverpeak Arquebus,Weapon,46,Fine,63
+25330,Mending Shiverpeak Arquebus,Weapon,51,Fine,68
 25331,Mending Shiverpeak Arquebus,Weapon,56,Fine,74
 25332,Shaman's Shiverpeak Arquebus,Weapon,61,Fine,78
+25333,Shaman's Shiverpeak Arquebus,Weapon,66,Fine,84
 25334,Shaman's Shiverpeak Arquebus,Weapon,71,Fine,89
 25335,Shaman's Shiverpeak Arquebus,Weapon,76,Fine,95
 25336,Shaman's Shiverpeak Arquebus,Weapon,80,Fine,99
