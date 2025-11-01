@@ -3759,6 +3759,7 @@ id,name,type,level,rarity,vendor_value
 3920,Lionguard Gloves,Armor,18,Masterwork,40
 3921,Haven Leather Mask,Armor,16,Masterwork,50
 3922,Northen Leather Leggings,Armor,17,Masterwork,59
+3923,Seraph Shoulderpads,Armor,24,Masterwork,58
 3924,Haven Heavy Helm,Armor,16,Fine,25
 3925,Haven Cloth Helm,Armor,16,Fine,25
 3926,Haven Leather Mask,Armor,16,Fine,25
@@ -3766,6 +3767,7 @@ id,name,type,level,rarity,vendor_value
 3928,Northen Cloth Leggings,Armor,17,Fine,30
 3929,Northen Leather Leggings,Armor,17,Fine,30
 3930,Lionguard Gauntlets,Armor,18,Fine,20
+3931,Lionguard Gloves,Armor,18,Fine,20
 3932,Lionguard Gloves,Armor,18,Fine,20
 3933,Hunter Boots,Armor,21,Fine,24
 3934,Hunter Shoes,Armor,21,Fine,24
@@ -3782,11 +3784,14 @@ id,name,type,level,rarity,vendor_value
 3945,Metal Aquabreather,Armor,20,Masterwork,60
 3946,Cloth Aquabreather,Armor,20,Masterwork,60
 3947,Leather Aquabreather,Armor,20,Masterwork,60
+3948,Shadow Leggings,Armor,25,Masterwork,76
 3949,Shadow Gloves,Armor,25,Masterwork,49
 3950,Shadow Shoes,Armor,25,Masterwork,54
 3951,Shadow Garb,Armor,25,Masterwork,81
 3952,Shadow Mantle,Armor,25,Masterwork,60
 3953,Shadow Helm,Armor,25,Masterwork,68
+3954,Fur-Lined Helm,Armor,20,Fine,30
+3955,Fur-Lined Helmet,Armor,20,Masterwork,60
 3956,Fur-Lined Mask,Armor,20,Fine,30
 3957,Heavy Molesmasher Gloves,Armor,5,Fine,9
 3958,Cloth Molesmasher Gloves,Armor,5,Fine,9
@@ -26429,7 +26434,9 @@ id,name,type,level,rarity,vendor_value
 34893,Vigorous Bandit Bugle,Weapon,55,Fine,175
 34894,Vigorous Bandit Bugle,Weapon,60,Fine,186
 34895,Soldier's Bandit Bugle,Weapon,65,Fine,210
+34896,Soldier's Bandit Bugle,Weapon,70,Fine,221
 34897,Soldier's Bandit Bugle,Weapon,75,Fine,233
+34898,Soldier's Bandit Bugle,Weapon,80,Fine,245
 34899,Mighty Black Earth Trident,Weapon,0,Fine,43
 34900,Mighty Black Earth Trident,Weapon,10,Fine,86
 34901,Mighty Black Earth Trident,Weapon,15,Fine,108
@@ -26495,21 +26502,37 @@ id,name,type,level,rarity,vendor_value
 34961,Soldier's Bandit Spire,Weapon,75,Fine,433
 34962,Soldier's Bandit Spire,Weapon,80,Fine,455
 34963,Mighty Steam Speargun,Weapon,0,Fine,43
+34964,Mighty Steam Speargun,Weapon,10,Fine,86
 34965,Mighty Steam Speargun,Weapon,15,Fine,108
 34966,Mighty Steam Speargun,Weapon,20,Fine,130
+34967,Vigorous Steam Speargun,Weapon,25,Fine,151
+34968,Vigorous Steam Speargun,Weapon,30,Fine,195
 34969,Vigorous Steam Speargun,Weapon,35,Fine,216
 34970,Vigorous Steam Speargun,Weapon,40,Fine,238
+34971,Vigorous Steam Speargun,Weapon,45,Fine,260
+34972,Vigorous Steam Speargun,Weapon,50,Fine,303
+34973,Vigorous Steam Speargun,Weapon,55,Fine,325
 34974,Vigorous Steam Speargun,Weapon,60,Fine,346
+34975,Soldier's Steam Speargun,Weapon,65,Fine,390
+34976,Soldier's Steam Speargun,Weapon,70,Fine,411
+34977,Soldier's Steam Speargun,Weapon,75,Fine,433
 34978,Soldier's Steam Speargun,Weapon,80,Fine,455
 34979,Mighty Bandit Short Bow,Weapon,0,Fine,43
 34980,Mighty Bandit Short Bow,Weapon,10,Fine,86
 34981,Mighty Bandit Short Bow,Weapon,15,Fine,108
 34982,Mighty Bandit Short Bow,Weapon,20,Fine,130
 34983,Vigorous Bandit Short Bow,Weapon,25,Fine,151
+34984,Vigorous Bandit Short Bow,Weapon,30,Fine,195
+34985,Vigorous Bandit Short Bow,Weapon,35,Fine,216
+34986,Vigorous Bandit Short Bow,Weapon,40,Fine,238
 34987,Vigorous Bandit Short Bow,Weapon,45,Fine,260
 34988,Vigorous Bandit Short Bow,Weapon,50,Fine,303
+34989,Vigorous Bandit Short Bow,Weapon,55,Fine,325
+34990,Vigorous Bandit Short Bow,Weapon,60,Fine,346
+34991,Soldier's Bandit Short Bow,Weapon,65,Fine,390
 34992,Soldier's Bandit Short Bow,Weapon,70,Fine,411
 34993,Soldier's Bandit Short Bow,Weapon,75,Fine,433
+34994,Soldier's Bandit Short Bow,Weapon,80,Fine,455
 34995,Mighty Bandit Ward,Weapon,0,Fine,23
 34996,Mighty Bandit Ward,Weapon,10,Fine,46
 34997,Mighty Bandit Ward,Weapon,15,Fine,58
@@ -26529,33 +26552,48 @@ id,name,type,level,rarity,vendor_value
 35011,Mighty Bandit Baton,Weapon,0,Fine,33
 35012,Mighty Bandit Baton,Weapon,10,Fine,66
 35013,Mighty Bandit Baton,Weapon,15,Fine,83
+35014,Mighty Bandit Baton,Weapon,20,Fine,100
+35015,Vigorous Bandit Baton,Weapon,25,Fine,116
 35016,Vigorous Bandit Baton,Weapon,30,Fine,150
 35017,Vigorous Bandit Baton,Weapon,35,Fine,167
+35018,Vigorous Bandit Baton,Weapon,40,Fine,183
 35019,Vigorous Bandit Baton,Weapon,45,Fine,200
 35020,Vigorous Bandit Baton,Weapon,50,Fine,233
 35021,Vigorous Bandit Baton,Weapon,55,Fine,250
+35022,Vigorous Bandit Baton,Weapon,60,Fine,267
 35023,Soldier's Bandit Baton,Weapon,65,Fine,300
+35024,Soldier's Bandit Baton,Weapon,70,Fine,317
 35025,Soldier's Bandit Baton,Weapon,75,Fine,334
 35026,Soldier's Bandit Baton,Weapon,80,Fine,350
+35027,Mighty Bandit Musket,Weapon,0,Fine,43
 35028,Mighty Bandit Musket,Weapon,10,Fine,86
 35029,Mighty Bandit Musket,Weapon,15,Fine,108
 35030,Mighty Bandit Musket,Weapon,20,Fine,130
+35031,Vigorous Bandit Musket,Weapon,25,Fine,151
 35032,Vigorous Bandit Musket,Weapon,30,Fine,195
+35033,Vigorous Bandit Musket,Weapon,35,Fine,216
 35034,Vigorous Bandit Musket,Weapon,40,Fine,238
+35035,Vigorous Bandit Musket,Weapon,45,Fine,260
 35036,Vigorous Bandit Musket,Weapon,50,Fine,303
 35037,Vigorous Bandit Musket,Weapon,55,Fine,325
+35038,Vigorous Bandit Musket,Weapon,60,Fine,346
 35039,Soldier's Bandit Musket,Weapon,65,Fine,390
 35040,Soldier's Bandit Musket,Weapon,70,Fine,411
 35041,Soldier's Bandit Musket,Weapon,75,Fine,433
 35042,Soldier's Bandit Musket,Weapon,80,Fine,455
 35043,Mighty Bandit Revolver,Weapon,0,Fine,33
+35044,Mighty Bandit Revolver,Weapon,10,Fine,66
+35045,Mighty Bandit Revolver,Weapon,15,Fine,83
+35046,Mighty Bandit Revolver,Weapon,20,Fine,100
 35047,Vigorous Bandit Revolver,Weapon,25,Fine,116
 35048,Vigorous Bandit Revolver,Weapon,30,Fine,150
+35049,Vigorous Bandit Revolver,Weapon,35,Fine,167
 35050,Vigorous Bandit Revolver,Weapon,40,Fine,183
 35051,Vigorous Bandit Revolver,Weapon,45,Fine,200
 35052,Vigorous Bandit Revolver,Weapon,50,Fine,233
 35053,Vigorous Bandit Revolver,Weapon,55,Fine,250
 35054,Vigorous Bandit Revolver,Weapon,60,Fine,267
+35055,Soldier's Bandit Revolver,Weapon,65,Fine,300
 35056,Soldier's Bandit Revolver,Weapon,70,Fine,317
 35057,Soldier's Bandit Revolver,Weapon,75,Fine,334
 35058,Soldier's Bandit Revolver,Weapon,80,Fine,350
@@ -70357,6 +70395,7 @@ Balance",Gizmo,0,Basic,0
 105412,Blazing Cape and Glider Combo,Consumable,0,Masterwork,0
 105413,Track 13: Winds of Change,Consumable,0,Exotic,0
 105414,Track 8: Flesh and Fever,Consumable,0,Exotic,0
+105417,Track 8: Oath to the Ancients,Consumable,0,Exotic,0
 105418,Track 6: Destiny's Gorge,Consumable,0,Exotic,0
 105419,Wall Bracket Half (960),Consumable,0,Basic,0
 105422,Mini Captain's Council Sayida,MiniPet,0,Exotic,50
@@ -70384,6 +70423,7 @@ Balance",Gizmo,0,Basic,0
 105454,Track 39: Into the Wilds,Consumable,0,Exotic,0
 105455,Restless Captain Token: Coat,Trophy,0,Exotic,30000
 105456,Track 48: Remnants of the Betrayer,Consumable,0,Exotic,0
+105457,Track 21: Thick Dark Water,Consumable,0,Exotic,0
 105459,Island Shrub (Bunch),Consumable,0,Basic,0
 105460,Restless Captain's Heavy Mantle,Armor,80,Exotic,291
 105461,Soundtrack Single—Secrets of the Obscure,Container,0,Exotic,0
@@ -70444,9 +70484,11 @@ Balance",Gizmo,0,Basic,0
 105561,Track 12: These Ancient Halls,Consumable,0,Exotic,0
 105562,Round String Lights,Consumable,0,Basic,0
 105564,Pearlshell Warhorn Skin,Consumable,0,Rare,0
+105565,Track 22: Courage and Regret,Consumable,0,Exotic,0
 105566,Fanned Island Fern Patch,Consumable,0,Basic,0
 105567,Track 1: End of Dragons,Consumable,0,Exotic,0
 105569,Blazing Glider,Consumable,0,Masterwork,0
+105570,Track 27: Left to Fester,Consumable,0,Exotic,0
 105571,Track 6: The Beast Emerges,Consumable,0,Exotic,0
 105575,Wooden Beam (16 x 240 x 30),Consumable,0,Basic,0
 105580,Restless Captain Token: Helmet,Trophy,0,Exotic,5000
@@ -70470,6 +70512,7 @@ Balance",Gizmo,0,Basic,0
 105607,Tall Ship Stairs,Consumable,0,Basic,0
 105608,Extremis Heavy Hood,Armor,80,Exotic,330
 105610,Track 31: Sands of the Djinn,Consumable,0,Exotic,0
+105611,Track 28: Rage and Regret,Consumable,0,Exotic,0
 105612,Burlap Sack Pile,Consumable,0,Basic,0
 105614,Tropical Forest Gear Bag,Container,0,Exotic,264
 105615,Track 30: Maws of the Ruptured Heart,Consumable,0,Exotic,0
@@ -70573,14 +70616,17 @@ Balance",Gizmo,0,Basic,0
 105794,Arms of the People,Gizmo,0,Exotic,0
 105795,Alliance Field Operative's Light Boots,Armor,80,Exotic,264
 105796,Track 17: Leaving Tarir,Consumable,0,Exotic,0
+105797,Track 3: Harr Mire,Consumable,0,Exotic,0
 105798,Track 16: Storm Rising,Consumable,0,Exotic,0
 105799,Upgraded Hologram Emitter,Consumable,0,Basic,16
 105802,Track 20: Taming the Jungle,Consumable,0,Exotic,0
 105803,Track 3: Captain of the Aetherblades,Consumable,0,Exotic,0
 105804,Gift of the People,CraftingMaterial,0,Legendary,0
 105805,Simple Door,Consumable,0,Basic,0
+105809,Track 23: Mount Balrior,Consumable,0,Exotic,0
 105811,Track 27: Mordremoth,Consumable,0,Exotic,0
 105813,Castoran Wavehawk Skin,Consumable,0,Rare,0
+105816,Track 15: Peitha's Flame,Consumable,0,Exotic,0
 105817,Island Tree (Short),Consumable,0,Basic,0
 105818,Extremis Token: Gloves,Trophy,0,Exotic,5000
 105820,Track 49: Truly Awake,Consumable,0,Exotic,0
@@ -70591,6 +70637,7 @@ Balance",Gizmo,0,Basic,0
 105825,Track 3: Welcome to the Desert,Consumable,0,Exotic,0
 105827,Track 21: Alone in This Metropolis,Consumable,0,Exotic,0
 105828,Wall (120 x 240),Consumable,0,Basic,0
+105832,Track 17: Eparch's Finest,Consumable,0,Exotic,0
 105835,Track 18: Minions of Kralkatorrik,Consumable,0,Exotic,0
 105836,Whisper's Secret Spear,Weapon,80,Rare,4500
 105838,Track 24: For the Ward!,Consumable,0,Exotic,0
@@ -70704,6 +70751,7 @@ Balance",Gizmo,0,Basic,0
 106044,Entryway Wall (Single),Consumable,0,Basic,0
 106047,Strelitzia Crystallinum Longbow,Weapon,80,Exotic,396
 106048,Track 21: Marked Target,Consumable,0,Exotic,0
+106050,Track 26: What Remains of the Tyrants,Consumable,0,Exotic,0
 106052,Great Bearded Goatfish,Container,0,Fine,64
 106057,Track 31: The Slums,Consumable,0,Exotic,0
 106058,Bamboo Awning,Consumable,0,Basic,0
@@ -70740,6 +70788,7 @@ Balance",Gizmo,0,Basic,0
 106118,Track 7: Elona Reach,Consumable,0,Exotic,0
 106119,Track 12: Daigo Ward,Consumable,0,Exotic,0
 106121,Pearlshell Axe Skin,Consumable,0,Rare,0
+106125,Track 23: Mount Balrior,Consumable,0,Exotic,0
 106127,"Track 15: Tarir, the Forgotten City",Consumable,0,Exotic,0
 106128,Chromatic Bubbles,UpgradeComponent,80,Exotic,10000
 106131,Track 11: Auric Wilds,Consumable,0,Exotic,0
@@ -70789,6 +70838,7 @@ Balance",Gizmo,0,Basic,0
 106196,Track 19: An Army of Avarice,Consumable,0,Exotic,0
 106197,Track 16: Attack on Tarir,Consumable,0,Exotic,0
 106199,Hammerheart's Sword,Weapon,80,Ascended,330
+106202,"Track 24: Manikaz, the Blood Phenom",Consumable,0,Exotic,0
 106204,Restless Captain Token: Boots,Trophy,0,Exotic,5000
 106205,Track 9: Sanctuary of Truth,Consumable,0,Exotic,0
 106206,Relic of the Mist Stranger,Relic,60,Exotic,200
@@ -70812,6 +70862,7 @@ Balance",Gizmo,0,Basic,0
 106241,Wall (960 x 240),Consumable,0,Basic,0
 106244,Spindrift Spear,Weapon,80,Exotic,0
 106246,Wooden Beam Corner (30 x 120 x 30),Consumable,0,Basic,0
+106247,Track 14: On the Hunt,Consumable,0,Exotic,0
 106248,Seer-Enchanted Torch,Weapon,80,Exotic,264
 106251,Track 49: Truly Awake,Consumable,0,Exotic,0
 106252,Soundtrack Single—End of Dragons,Container,0,Exotic,0
@@ -70830,6 +70881,7 @@ Balance",Gizmo,0,Basic,0
 106277,Track 12: Daigo Ward,Consumable,0,Exotic,0
 106280,Track 7: Amnytas in Peril,Consumable,0,Exotic,0
 106281,Track 3: Captain of the Aetherblades,Consumable,0,Exotic,0
+106282,Track 10: Sunless Isle,Consumable,0,Exotic,0
 106283,Restless Captain's Medium Gloves,Armor,80,Exotic,238
 106285,Chromatic Bubble Wand,Container,0,Exotic,0
 106286,Stairs (120 x 60),Consumable,0,Basic,0
@@ -70859,11 +70911,13 @@ Balance",Gizmo,0,Basic,0
 106334,Soundtrack Single—Path of Fire,Container,0,Exotic,0
 106335,Alliance Field Operative's Boots Box,Container,0,Exotic,0
 106336,Wide Entryway Wall (Single),Consumable,0,Basic,0
+106337,Ethereal Sea-Life Infusion,UpgradeComponent,80,Exotic,10000
 106338,Castoran Choya Treasure Box,Container,0,Basic,0
 106340,Track 50: Harvest Ceremony,Consumable,0,Exotic,0
 106341,Castoran King Crab: Bronze,Container,0,Fine,0
 106343,Bonus Cache,Container,0,Exotic,264
 106346,Glimmering Arches Grand Prix: Silver,Container,0,Fine,0
+106352,Track 12: These Ancient Halls,Consumable,0,Exotic,0
 106355,Relic of the Scoundrel,Relic,60,Exotic,200
 106357,Endless Tropical Crab Tonic,Gizmo,0,Exotic,104
 106358,Strelitzia Crystallinum Warhorn,Weapon,80,Exotic,264
@@ -70871,6 +70925,7 @@ Balance",Gizmo,0,Basic,0
 106362,Track 42: Lament of the Lutgardises,Consumable,0,Exotic,0
 106363,Seer-Enchanted Greatsword,Weapon,80,Exotic,396
 106364,Relic of the Biomancer,Relic,60,Exotic,200
+106366,Track 2: This Unknown Hemisphere,Consumable,0,Exotic,0
 106367,Curved Roof (600),Consumable,0,Basic,0
 106368,Seer-Enchanted Mace,Weapon,80,Exotic,264
 106370,Survivor's Enchanted Compass,CraftingMaterial,0,Exotic,0
@@ -70886,7 +70941,9 @@ Balance",Gizmo,0,Basic,0
 106391,Fast Constructor's Short Bow,Weapon,80,Exotic,396
 106396,Track 23: A Promise,Consumable,0,Exotic,0
 106398,Track 6: Stroll in the Night Market,Consumable,0,Exotic,0
+106399,Chromatic Bubbles,UpgradeComponent,80,Exotic,10000
 106400,Agaleus,Armor,0,Exotic,330
+106403,Track 22: Boiling Point,Consumable,0,Exotic,0
 106404,Track 25: Yagon's Choir,Consumable,0,Exotic,0
 106405,Track 44: Edge of Annihilation,Consumable,0,Exotic,0
 106406,Fast Constructor's Mace,Weapon,80,Exotic,264
@@ -70965,6 +71022,7 @@ Balance",Gizmo,0,Basic,0
 106523,Track 2: A Fractured Horizon,Consumable,0,Exotic,0
 106525,Tropical Beach Gear Bag,Container,0,Exotic,264
 106526,Canthan Glass Bottle,Consumable,0,Basic,0
+106527,Ethereal Sea-Life Infusion,UpgradeComponent,80,Exotic,10000
 106529,Track 28: Ishan's Wish,Consumable,0,Exotic,0
 106531,Fast Constructor's Pistol,Weapon,80,Exotic,264
 106532,Skirmish Chest,Gizmo,0,Exotic,0
@@ -71041,6 +71099,7 @@ Balance",Gizmo,0,Basic,0
 106676,Agaleus Container,Container,0,Exotic,0
 106679,Track 22: On the Banks of the Elon,Consumable,0,Exotic,0
 106681,Fast Constructor's Hammer,Weapon,80,Exotic,396
+106685,Track 8: Oath to the Ancients,Consumable,0,Exotic,0
 106686,Extremis Medium Coat,Armor,80,Exotic,396
 106687,Track 32: Veterans of the Desolation,Consumable,0,Exotic,0
 106688,Track 27: Soojung Heights,Consumable,0,Exotic,0
