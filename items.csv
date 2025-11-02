@@ -70449,6 +70449,7 @@ Balance",Gizmo,0,Basic,0
 105498,Track 2: Mist Connections,Consumable,0,Exotic,0
 105499,Visions of Eternity Launch Supply Drop Requisition,Consumable,0,Rare,0
 105501,Track 48: Remnants of the Betrayer,Consumable,0,Exotic,0
+105504,Maguuma Jungle Fishing License,Consumable,0,Exotic,0
 105506,Burlap Sack,Consumable,0,Basic,0
 105509,Mystic Bident,Weapon,80,Exotic,396
 105510,Track 19: The Queen of Murk,Consumable,0,Exotic,0
@@ -70567,9 +70568,11 @@ Balance",Gizmo,0,Basic,0
 105704,Track 29: Bava Nisos,Consumable,0,Exotic,0
 105705,Hardy Island Fern,Consumable,0,Basic,0
 105706,Restless Captain's Heavy Veil,Armor,80,Exotic,330
+105708,Track 17: Blood and Vengeance,Consumable,0,Exotic,0
 105710,Common Aetherlocation Treasure,Container,0,Fine,0
 105711,Curved Roof Corner,Consumable,0,Basic,0
 105713,Spire of the Forgotten,Weapon,80,Exotic,0
+105714,Track 20: The Bloodied Lord,Consumable,0,Exotic,0
 105715,Strelitzia Crystallinum Dagger,Weapon,80,Exotic,264
 105716,Boardwalk (240 x 960),Consumable,0,Basic,0
 105717,Chromatic Bubbles,UpgradeComponent,80,Exotic,10000
@@ -70640,6 +70643,7 @@ Balance",Gizmo,0,Basic,0
 105832,Track 17: Eparch's Finest,Consumable,0,Exotic,0
 105835,Track 18: Minions of Kralkatorrik,Consumable,0,Exotic,0
 105836,Whisper's Secret Spear,Weapon,80,Rare,4500
+105837,Track 3: Isgarren the Curator,Consumable,0,Exotic,0
 105838,Track 24: For the Ward!,Consumable,0,Exotic,0
 105841,Track 33: Undead of Elona,Consumable,0,Exotic,0
 105843,Track 16: Pricklepatch Hollow,Consumable,0,Exotic,0
@@ -70662,6 +70666,7 @@ Balance",Gizmo,0,Basic,0
 105874,Alliance Field Operative's Heavy Leggings,Armor,80,Exotic,370
 105875,Gift of Insight,CraftingMaterial,0,Legendary,0
 105878,Alliance Field Operative's Coat Box,Container,0,Exotic,0
+105879,Janthir Fishing Reward,Container,0,Legendary,640
 105880,Track 34: An Old Forgotten Place,Consumable,0,Exotic,0
 105881,Tattered Note,Gizmo,0,Exotic,0
 105884,Track 6: Jaka Itzel,Consumable,0,Exotic,0
@@ -70681,6 +70686,7 @@ Balance",Gizmo,0,Basic,0
 105913,Visions of Eternity Expedition Contract,Consumable,0,Rare,0
 105918,Wall (600 x 240),Consumable,0,Basic,0
 105921,Selachimorpha,Armor,80,Legendary,240
+105922,Track 14: On the Hunt,Consumable,0,Exotic,0
 105924,Chromatic Bubbles,UpgradeComponent,80,Exotic,10000
 105925,Cleric's Charged Stormcaller Spear,Weapon,80,Exotic,396
 105927,Castoran King Crab: Silver,Container,0,Fine,0
@@ -70757,6 +70763,7 @@ Balance",Gizmo,0,Basic,0
 106058,Bamboo Awning,Consumable,0,Basic,0
 106060,Track 26: Arid Dawn,Consumable,0,Exotic,0
 106061,Track 10: A Spirit's Final Wish,Consumable,0,Exotic,0
+106062,Track 22: Boiling Point,Consumable,0,Exotic,0
 106063,Extremis Medium Gloves,Armor,80,Exotic,238
 106065,Track 15: Hallowed Ground,Consumable,0,Exotic,0
 106066,Mini SERV Golem,MiniPet,0,Exotic,50
@@ -70860,6 +70867,7 @@ Balance",Gizmo,0,Basic,0
 106236,Track 40: The End of War,Consumable,0,Exotic,0
 106240,Old Magic: Bronze,Container,0,Fine,0
 106241,Wall (960 x 240),Consumable,0,Basic,0
+106243,Track 13: False Gods,Consumable,0,Exotic,0
 106244,Spindrift Spear,Weapon,80,Exotic,0
 106246,Wooden Beam Corner (30 x 120 x 30),Consumable,0,Basic,0
 106247,Track 14: On the Hunt,Consumable,0,Exotic,0
@@ -71012,6 +71020,7 @@ Balance",Gizmo,0,Basic,0
 106509,Track 13: An Exalted Lullaby,Consumable,0,Exotic,0
 106511,Extremis Token: Leggings,Trophy,0,Exotic,20000
 106512,Track 8: Faren's Flier,Consumable,0,Exotic,0
+106513,Track 19: An Army of Avarice,Consumable,0,Exotic,0
 106514,Track 23: Ravaged Ascension,Consumable,0,Exotic,0
 106515,Track 9: Hero from Faraway,Consumable,0,Exotic,0
 106516,Track 10: The Kryptis,Consumable,0,Exotic,0
@@ -71036,6 +71045,7 @@ Balance",Gizmo,0,Basic,0
 106547,Wall Bracket Corner,Consumable,0,Basic,0
 106548,Captain Leo the Relentless and the Kitty Crew,Gizmo,0,Exotic,256
 106554,Endless Castoran Choya Tonic,Gizmo,0,Exotic,104
+106557,Track 7: Amnytas in Peril,Consumable,0,Exotic,0
 106560,"""/ThumbsDown"" Emote Tome",Consumable,0,Exotic,0
 106561,Track 22: On the Banks of the Elon,Consumable,0,Exotic,0
 106564,Track 50: Harvest Ceremony,Consumable,0,Exotic,0
@@ -71048,10 +71058,12 @@ Balance",Gizmo,0,Basic,0
 106579,Fast Constructor's Shield,Weapon,80,Exotic,264
 106582,Track 1: Secrets of the Obscure,Consumable,0,Exotic,0
 106585,Seer-Enchanted Warhorn,Weapon,80,Exotic,264
+106587,Track 18: Might of the Cosmos,Consumable,0,Exotic,0
 106589,Track 13: False Gods,Consumable,0,Exotic,0
 106590,Track 40: Become Like Water,Consumable,0,Exotic,0
 106592,Track 1: End of Dragons,Consumable,0,Exotic,0
 106594,Track 14: Canthan Justice,Consumable,0,Exotic,0
+106595,Track 7: Forged by Torment,Consumable,0,Exotic,0
 106598,Track 8: Beginning of a Warrior's Journey,Consumable,0,Exotic,0
 106599,Track 45: Tengu Village,Consumable,0,Exotic,0
 106600,Track 33: Refuge for Outcasts,Consumable,0,Exotic,0
