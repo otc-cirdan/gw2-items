@@ -70407,6 +70407,7 @@ Balance",Gizmo,0,Basic,0
 105431,Scrap of Castora Mastery,Consumable,0,Masterwork,0
 105432,Track 3: Isgarren the Curator,Consumable,0,Exotic,0
 105434,Track 8: Beginning of a Warrior's Journey,Consumable,0,Exotic,0
+105435,Track 15: Nightfall Vigilance,Consumable,0,Exotic,0
 105437,Pearlshell Focus Skin,Consumable,0,Rare,0
 105438,Agaleus,Armor,0,Exotic,330
 105442,Small Seer Cache,Container,0,Exotic,264
@@ -70460,6 +70461,7 @@ Balance",Gizmo,0,Basic,0
 105518,Canthan Lantern,Consumable,0,Basic,0
 105519,Fast Constructor's Sword,Weapon,80,Exotic,264
 105521,Track 51: Where Calamity Began,Consumable,0,Exotic,0
+105524,Track 12: The Lowland Kodan,Consumable,0,Exotic,0
 105525,Seneschal's Chest,Container,0,Exotic,264
 105528,Large Seer Cache,Container,0,Exotic,264
 105529,Track 25: Battle in Draconis Mons,Consumable,0,Exotic,0
@@ -70548,6 +70550,7 @@ Balance",Gizmo,0,Basic,0
 105665,Extremis Light Coat,Armor,80,Exotic,396
 105666,Track 1: Janthir Wilds,Consumable,0,Exotic,0
 105667,Castoran Gnarled Boar Treasure Box,Container,0,Basic,0
+105671,Track 6: Roar of the Delta,Consumable,0,Exotic,0
 105672,Track 58: A World Without You,Consumable,0,Exotic,0
 105674,Extremis Medium Boots,Armor,80,Exotic,264
 105676,Aquabreather Piece,Consumable,0,Basic,0
@@ -70600,6 +70603,7 @@ Balance",Gizmo,0,Basic,0
 105752,Track 3: The Pact Laid Waste,Consumable,0,Exotic,0
 105753,Windowed Wall (600 x 240),Consumable,0,Basic,0
 105755,Track 2: This Unknown Hemisphere,Consumable,0,Exotic,0
+105756,Track 16: To Fell a King,Consumable,0,Exotic,0
 105757,Track 4: Life-Fire,Consumable,0,Exotic,0
 105758,Flying Fireworks: Gold,Container,0,Fine,0
 105760,Track 4: Life-Fire,Consumable,0,Exotic,0
@@ -70608,6 +70612,7 @@ Balance",Gizmo,0,Basic,0
 105764,Alliance Field Operative's Heavy Boots,Armor,80,Exotic,264
 105765,Track 52: Order and Balance,Consumable,0,Exotic,0
 105768,Track 11: Auric Wilds,Consumable,0,Exotic,0
+105770,Track 21: Thick Dark Water,Consumable,0,Exotic,0
 105774,Track 34: Dirge of the Father King,Consumable,0,Exotic,0
 105777,Track 7: Elona Reach,Consumable,0,Exotic,0
 105779,Track 5: The Empire of Dragons,Consumable,0,Exotic,0
@@ -70653,6 +70658,7 @@ Balance",Gizmo,0,Basic,0
 105849,Local Writ of Renown,Consumable,0,Rare,0
 105850,Extremis Light Leggings,Armor,80,Exotic,370
 105851,Fast Constructor's Torch,Weapon,80,Exotic,264
+105853,Track 18: Elegy of the Elders,Consumable,0,Exotic,0
 105854,Track 53: What Began Will Return,Consumable,0,Exotic,0
 105858,Ship Stairs,Consumable,0,Basic,0
 105859,Track 9: Sanctuary of Truth,Consumable,0,Exotic,0
@@ -70727,6 +70733,7 @@ Balance",Gizmo,0,Basic,0
 105987,Track 17: Veins of the Dragon,Consumable,0,Exotic,0
 105989,Fast Constructor's Axe,Weapon,80,Exotic,264
 105991,Strelitzia Crystallinum Short Bow,Weapon,80,Exotic,396
+105993,Ethereal Sea-Life Infusion,UpgradeComponent,80,Exotic,10000
 105994,Wall (60 x 240),Consumable,0,Basic,0
 105995,Track 9: Quaggan Command,Consumable,0,Exotic,0
 105997,Castora Cache,Container,0,Rare,0
@@ -70748,6 +70755,7 @@ Balance",Gizmo,0,Basic,0
 106023,Soundtrack Single—Janthir Wilds,Container,0,Exotic,0
 106027,Pearlshell Spear Skin,Consumable,0,Rare,0
 106028,Track 6: Destiny's Gorge,Consumable,0,Exotic,0
+106029,Track 6: The Beast Emerges,Consumable,0,Exotic,0
 106030,Track 19: Rata Novus,Consumable,0,Exotic,0
 106036,Track 10: Sunless Isle,Consumable,0,Exotic,0
 106037,Restless Captain's Medium Leggings,Armor,80,Exotic,370
@@ -70827,6 +70835,7 @@ Balance",Gizmo,0,Basic,0
 106166,Track 25: Mouth of Mordremoth,Consumable,0,Exotic,0
 106169,Track 52: Order and Balance,Consumable,0,Exotic,0
 106170,Track 7: View from the Canopy,Consumable,0,Exotic,0
+106172,Track 6: Roar of the Delta,Consumable,0,Exotic,0
 106173,Chromatic Bubbles,UpgradeComponent,80,Exotic,10000
 106175,Track 24: Ruins of Reflection,Consumable,0,Exotic,0
 106176,Track 20: Danger Lurks in the Jade,Consumable,0,Exotic,0
@@ -70925,6 +70934,7 @@ Balance",Gizmo,0,Basic,0
 106341,Castoran King Crab: Bronze,Container,0,Fine,0
 106343,Bonus Cache,Container,0,Exotic,264
 106346,Glimmering Arches Grand Prix: Silver,Container,0,Fine,0
+106348,Track 29: Bava Nisos,Consumable,0,Exotic,0
 106352,Track 12: These Ancient Halls,Consumable,0,Exotic,0
 106355,Relic of the Scoundrel,Relic,60,Exotic,200
 106357,Endless Tropical Crab Tonic,Gizmo,0,Exotic,104
@@ -70945,8 +70955,10 @@ Balance",Gizmo,0,Basic,0
 106385,Chromatic Sap,Consumable,0,Basic,0
 106387,Track 37: House Zu Heltzer,Consumable,0,Exotic,0
 106388,Track 21: Scar,Consumable,0,Exotic,0
+106389,Track 9: Curious Allies,Consumable,0,Exotic,0
 106390,Track 6: Stroll in the Night Market,Consumable,0,Exotic,0
 106391,Fast Constructor's Short Bow,Weapon,80,Exotic,396
+106395,"Track 24: Manikaz, the Blood Phenom",Consumable,0,Exotic,0
 106396,Track 23: A Promise,Consumable,0,Exotic,0
 106398,Track 6: Stroll in the Night Market,Consumable,0,Exotic,0
 106399,Chromatic Bubbles,UpgradeComponent,80,Exotic,10000
@@ -71010,8 +71022,10 @@ Balance",Gizmo,0,Basic,0
 106492,Tropical Bridge,Consumable,0,Basic,0
 106493,Track 12: The Lowland Kodan,Consumable,0,Exotic,0
 106494,Track 12: Sands of Time,Consumable,0,Exotic,0
+106495,Track 9: This Mountain Before Us,Consumable,0,Exotic,0
 106497,Ship Mast,Consumable,0,Basic,0
 106498,Skimmer-Net Scramble: Bronze,Container,0,Fine,0
+106501,Track 17: Blood and Vengeance,Consumable,0,Exotic,0
 106502,Skimmer Ley-Line Adventure: Gold,Container,0,Fine,0
 106503,Track 40: The End of War,Consumable,0,Exotic,0
 106504,Pearlshell Mace Skin,Consumable,0,Rare,0
@@ -71048,6 +71062,7 @@ Balance",Gizmo,0,Basic,0
 106557,Track 7: Amnytas in Peril,Consumable,0,Exotic,0
 106560,"""/ThumbsDown"" Emote Tome",Consumable,0,Exotic,0
 106561,Track 22: On the Banks of the Elon,Consumable,0,Exotic,0
+106563,Track 20: The Quiet Before,Consumable,0,Exotic,0
 106564,Track 50: Harvest Ceremony,Consumable,0,Exotic,0
 106569,Track 4: Togo's Legacy,Consumable,0,Exotic,0
 106570,Fast Constructor's Focus,Weapon,80,Exotic,264
