@@ -70496,6 +70496,7 @@ Balance",Gizmo,0,Basic,0
 105570,Track 27: Left to Fester,Consumable,0,Exotic,0
 105571,Track 6: The Beast Emerges,Consumable,0,Exotic,0
 105575,Wooden Beam (16 x 240 x 30),Consumable,0,Basic,0
+105576,Extra Life Donor Listing,Consumable,0,Ascended,160
 105580,Restless Captain Token: Helmet,Trophy,0,Exotic,5000
 105581,Boardwalk (480 x 960),Consumable,0,Basic,0
 105582,Track 36: Once There Was Laughter,Consumable,0,Exotic,0
@@ -70533,6 +70534,7 @@ Balance",Gizmo,0,Basic,0
 105633,Column (30 x 480 x 30),Consumable,0,Basic,0
 105634,Track 30: The View from Above,Consumable,0,Exotic,0
 105636,Stairs (120 x 120),Consumable,0,Basic,0
+105638,Painter's Brilliance Glider,Consumable,0,Masterwork,0
 105639,Extremis Heavy Mantle,Armor,80,Exotic,291
 105640,Fast Constructor's Staff,Weapon,80,Exotic,396
 105641,Track 10: A Spirit's Final Wish,Consumable,0,Exotic,0
@@ -70592,6 +70594,7 @@ Balance",Gizmo,0,Basic,0
 105728,Track 31: Sands of the Djinn,Consumable,0,Exotic,0
 105730,Secret Squid,Container,0,Ascended,320
 105733,Track 25: Mouth of Mordremoth,Consumable,0,Exotic,0
+105736,Chromatic Bubbles,UpgradeComponent,80,Exotic,10000
 105737,Track 14: Enter the Fire God,Consumable,0,Exotic,0
 105738,Agaleus,Armor,80,Exotic,330
 105739,Seer-Enchanted Pistol,Weapon,80,Exotic,264
@@ -70600,6 +70603,7 @@ Balance",Gizmo,0,Basic,0
 105742,Track 24: Ruins of Reflection,Consumable,0,Exotic,0
 105743,Selachimorpha Container,Container,0,Legendary,0
 105745,Island Tree (Curved),Consumable,0,Basic,0
+105746,Painter's Brilliance Backpack and Glider Combo,Consumable,0,Masterwork,0
 105747,Track 9: Hero from Faraway,Consumable,0,Exotic,0
 105751,Track 4: The Jungle Provides,Consumable,0,Exotic,0
 105752,Track 3: The Pact Laid Waste,Consumable,0,Exotic,0
@@ -70618,6 +70622,7 @@ Balance",Gizmo,0,Basic,0
 105774,Track 34: Dirge of the Father King,Consumable,0,Exotic,0
 105777,Track 7: Elona Reach,Consumable,0,Exotic,0
 105779,Track 5: The Empire of Dragons,Consumable,0,Exotic,0
+105783,Painter's Brilliance Backpack,Consumable,0,Masterwork,0
 105784,Cleric's Stormcaller Spear,Weapon,80,Exotic,396
 105786,Track 8: Forged in Fire,Consumable,0,Exotic,0
 105787,Strelitzia Crystallinum Rifle,Weapon,80,Exotic,396
@@ -70633,6 +70638,7 @@ Balance",Gizmo,0,Basic,0
 105803,Track 3: Captain of the Aetherblades,Consumable,0,Exotic,0
 105804,Gift of the People,CraftingMaterial,0,Legendary,0
 105805,Simple Door,Consumable,0,Basic,0
+105807,Extra Life Karma Booster,Container,0,Ascended,320
 105809,Track 23: Mount Balrior,Consumable,0,Exotic,0
 105811,Track 27: Mordremoth,Consumable,0,Exotic,0
 105813,Castoran Wavehawk Skin,Consumable,0,Rare,0
@@ -70743,6 +70749,7 @@ Balance",Gizmo,0,Basic,0
 105998,Track 47: Junkyard Strife,Consumable,0,Exotic,0
 106001,Cabana Roof Long (A),Consumable,0,Basic,0
 106003,Track 54: The Cycle Ends,Consumable,0,Exotic,0
+106007,Track 11: The Wizards,Consumable,0,Exotic,0
 106008,Canthan Glass Bottle (Full),Consumable,0,Basic,0
 106010,Track 5: Dangerous Beauty,Consumable,0,Exotic,0
 106011,Castoran Gear Box,Container,0,Basic,0
@@ -70899,6 +70906,7 @@ Balance",Gizmo,0,Basic,0
 106275,Gift of the Tides,CraftingMaterial,0,Exotic,0
 106276,Alliance Field Operative's Leggings Box,Container,0,Exotic,0
 106277,Track 12: Daigo Ward,Consumable,0,Exotic,0
+106278,Chromatic Bubbles,UpgradeComponent,80,Exotic,10000
 106280,Track 7: Amnytas in Peril,Consumable,0,Exotic,0
 106281,Track 3: Captain of the Aetherblades,Consumable,0,Exotic,0
 106282,Track 10: Sunless Isle,Consumable,0,Exotic,0
@@ -70933,6 +70941,7 @@ Balance",Gizmo,0,Basic,0
 106336,Wide Entryway Wall (Single),Consumable,0,Basic,0
 106337,Ethereal Sea-Life Infusion,UpgradeComponent,80,Exotic,10000
 106338,Castoran Choya Treasure Box,Container,0,Basic,0
+106339,Visions of Eternity Launch Supply Drop: Week Two,Container,0,Rare,0
 106340,Track 50: Harvest Ceremony,Consumable,0,Exotic,0
 106341,Castoran King Crab: Bronze,Container,0,Fine,0
 106343,Bonus Cache,Container,0,Exotic,264
@@ -71089,6 +71098,7 @@ Balance",Gizmo,0,Basic,0
 106605,Track 46: Parabellum,Consumable,0,Exotic,0
 106606,Great Choya Race: Gold,Container,0,Fine,0
 106607,Berserker's Mithril Javelin,Weapon,80,Rare,297
+106608,Mini Guardian Angel Blish,MiniPet,0,Masterwork,50
 106609,Jukebox,Consumable,0,Basic,0
 106610,Track 2: A New Journey,Consumable,0,Exotic,0
 106611,Strelitzia Crystallinum Mace,Weapon,80,Exotic,264
