@@ -27000,15 +27000,10 @@ id,name,type,level,rarity,vendor_value
 35459,Soldier's Bandit Short Bow,Weapon,65,Masterwork,1148
 35460,Soldier's Bandit Short Bow,Weapon,75,Masterwork,1300
 35461,Soldier's Bandit Short Bow,Weapon,80,Masterwork,1386
-35462,Mighty Steam Speargun,Weapon,15,Masterwork,325
 35463,Vigorous Steam Speargun,Weapon,25,Masterwork,476
 35464,Vigorous Steam Speargun,Weapon,35,Masterwork,650
-35465,Vigorous Steam Speargun,Weapon,45,Masterwork,801
-35466,Vigorous Steam Speargun,Weapon,55,Masterwork,975
 35467,Soldier's Steam Speargun,Weapon,65,Masterwork,1148
 35468,Soldier's Steam Speargun,Weapon,75,Masterwork,1300
-35469,Soldier's Steam Speargun,Weapon,80,Masterwork,1386
-35470,Mighty Bandit Spire,Weapon,15,Masterwork,325
 35471,Vigorous Bandit Spire,Weapon,25,Masterwork,476
 35472,Vigorous Bandit Spire,Weapon,35,Masterwork,650
 35473,Vigorous Bandit Spire,Weapon,45,Masterwork,801
@@ -27017,36 +27012,22 @@ id,name,type,level,rarity,vendor_value
 35476,Soldier's Bandit Spire,Weapon,75,Masterwork,1300
 35477,Soldier's Bandit Spire,Weapon,80,Masterwork,1386
 35478,Mighty Bandit Slicer,Weapon,15,Masterwork,250
-35479,Vigorous Bandit Slicer,Weapon,25,Masterwork,367
 35480,Vigorous Bandit Slicer,Weapon,35,Masterwork,501
-35481,Vigorous Bandit Slicer,Weapon,45,Masterwork,617
-35482,Vigorous Bandit Slicer,Weapon,55,Masterwork,751
-35483,Soldier's Bandit Slicer,Weapon,65,Masterwork,885
 35484,Soldier's Bandit Slicer,Weapon,75,Masterwork,1002
-35485,Soldier's Bandit Slicer,Weapon,80,Masterwork,1068
 35486,Mighty Bandit Torch,Weapon,15,Masterwork,175
 35487,Vigorous Bandit Torch,Weapon,25,Masterwork,256
 35488,Vigorous Bandit Torch,Weapon,35,Masterwork,350
-35489,Vigorous Bandit Torch,Weapon,45,Masterwork,431
 35490,Vigorous Bandit Torch,Weapon,55,Masterwork,525
-35491,Soldier's Bandit Torch,Weapon,65,Masterwork,618
-35492,Soldier's Bandit Torch,Weapon,75,Masterwork,700
-35493,Soldier's Bandit Torch,Weapon,80,Masterwork,746
 35494,Mighty Black Earth Trident,Weapon,15,Masterwork,325
 35495,Vigorous Black Earth Trident,Weapon,25,Masterwork,476
 35496,Vigorous Black Earth Trident,Weapon,35,Masterwork,650
 35497,Vigorous Black Earth Trident,Weapon,45,Masterwork,801
 35498,Vigorous Black Earth Trident,Weapon,55,Masterwork,975
-35499,Soldier's Black Earth Trident,Weapon,65,Masterwork,1148
-35500,Soldier's Black Earth Trident,Weapon,75,Masterwork,1300
-35501,Soldier's Black Earth Trident,Weapon,80,Masterwork,1386
-35502,Mighty Bandit Bugle,Weapon,15,Masterwork,175
 35503,Vigorous Bandit Bugle,Weapon,25,Masterwork,256
 35504,Vigorous Bandit Bugle,Weapon,35,Masterwork,350
 35505,Vigorous Bandit Bugle,Weapon,45,Masterwork,431
 35506,Vigorous Bandit Bugle,Weapon,55,Masterwork,525
 35507,Soldier's Bandit Bugle,Weapon,65,Masterwork,618
-35508,Soldier's Bandit Bugle,Weapon,75,Masterwork,700
 35509,Soldier's Bandit Bugle,Weapon,80,Masterwork,746
 35510,Badge of Honor,Consumable,0,Basic,0
 35511,Top Half of the Mistwrought Key,Trophy,0,Basic,0
