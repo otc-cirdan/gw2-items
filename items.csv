@@ -27000,10 +27000,15 @@ id,name,type,level,rarity,vendor_value
 35459,Soldier's Bandit Short Bow,Weapon,65,Masterwork,1148
 35460,Soldier's Bandit Short Bow,Weapon,75,Masterwork,1300
 35461,Soldier's Bandit Short Bow,Weapon,80,Masterwork,1386
+35462,Mighty Steam Speargun,Weapon,15,Masterwork,325
 35463,Vigorous Steam Speargun,Weapon,25,Masterwork,476
 35464,Vigorous Steam Speargun,Weapon,35,Masterwork,650
+35465,Vigorous Steam Speargun,Weapon,45,Masterwork,801
+35466,Vigorous Steam Speargun,Weapon,55,Masterwork,975
 35467,Soldier's Steam Speargun,Weapon,65,Masterwork,1148
 35468,Soldier's Steam Speargun,Weapon,75,Masterwork,1300
+35469,Soldier's Steam Speargun,Weapon,80,Masterwork,1386
+35470,Mighty Bandit Spire,Weapon,15,Masterwork,325
 35471,Vigorous Bandit Spire,Weapon,25,Masterwork,476
 35472,Vigorous Bandit Spire,Weapon,35,Masterwork,650
 35473,Vigorous Bandit Spire,Weapon,45,Masterwork,801
@@ -27012,22 +27017,36 @@ id,name,type,level,rarity,vendor_value
 35476,Soldier's Bandit Spire,Weapon,75,Masterwork,1300
 35477,Soldier's Bandit Spire,Weapon,80,Masterwork,1386
 35478,Mighty Bandit Slicer,Weapon,15,Masterwork,250
+35479,Vigorous Bandit Slicer,Weapon,25,Masterwork,367
 35480,Vigorous Bandit Slicer,Weapon,35,Masterwork,501
+35481,Vigorous Bandit Slicer,Weapon,45,Masterwork,617
+35482,Vigorous Bandit Slicer,Weapon,55,Masterwork,751
+35483,Soldier's Bandit Slicer,Weapon,65,Masterwork,885
 35484,Soldier's Bandit Slicer,Weapon,75,Masterwork,1002
+35485,Soldier's Bandit Slicer,Weapon,80,Masterwork,1068
 35486,Mighty Bandit Torch,Weapon,15,Masterwork,175
 35487,Vigorous Bandit Torch,Weapon,25,Masterwork,256
 35488,Vigorous Bandit Torch,Weapon,35,Masterwork,350
+35489,Vigorous Bandit Torch,Weapon,45,Masterwork,431
 35490,Vigorous Bandit Torch,Weapon,55,Masterwork,525
+35491,Soldier's Bandit Torch,Weapon,65,Masterwork,618
+35492,Soldier's Bandit Torch,Weapon,75,Masterwork,700
+35493,Soldier's Bandit Torch,Weapon,80,Masterwork,746
 35494,Mighty Black Earth Trident,Weapon,15,Masterwork,325
 35495,Vigorous Black Earth Trident,Weapon,25,Masterwork,476
 35496,Vigorous Black Earth Trident,Weapon,35,Masterwork,650
 35497,Vigorous Black Earth Trident,Weapon,45,Masterwork,801
 35498,Vigorous Black Earth Trident,Weapon,55,Masterwork,975
+35499,Soldier's Black Earth Trident,Weapon,65,Masterwork,1148
+35500,Soldier's Black Earth Trident,Weapon,75,Masterwork,1300
+35501,Soldier's Black Earth Trident,Weapon,80,Masterwork,1386
+35502,Mighty Bandit Bugle,Weapon,15,Masterwork,175
 35503,Vigorous Bandit Bugle,Weapon,25,Masterwork,256
 35504,Vigorous Bandit Bugle,Weapon,35,Masterwork,350
 35505,Vigorous Bandit Bugle,Weapon,45,Masterwork,431
 35506,Vigorous Bandit Bugle,Weapon,55,Masterwork,525
 35507,Soldier's Bandit Bugle,Weapon,65,Masterwork,618
+35508,Soldier's Bandit Bugle,Weapon,75,Masterwork,700
 35509,Soldier's Bandit Bugle,Weapon,80,Masterwork,746
 35510,Badge of Honor,Consumable,0,Basic,0
 35511,Top Half of the Mistwrought Key,Trophy,0,Basic,0
@@ -38833,7 +38852,6 @@ id,name,type,level,rarity,vendor_value
 53436,Survivor's Eagle's Perch,Weapon,20,Masterwork,78
 53437,Survivor's Leopard's Bite,Weapon,20,Masterwork,52
 53438,Survivor's Honor of Njal,Weapon,20,Masterwork,52
-53439,Survivor's Skaaldsinger,Weapon,20,Masterwork,52
 53440,Survivor's Francisca,Weapon,23,Masterwork,56
 53441,Survivor's Elkslayer,Weapon,23,Masterwork,84
 53442,Survivor's Deerchaser,Weapon,23,Masterwork,84
@@ -38847,7 +38865,6 @@ id,name,type,level,rarity,vendor_value
 53450,Survivor's Yew Rod,Weapon,23,Masterwork,56
 53451,Survivor's Dun Targe,Weapon,23,Masterwork,56
 53452,Survivor's Eagle's Perch,Weapon,23,Masterwork,84
-53453,Survivor's Leopard's Bite,Weapon,23,Masterwork,56
 53454,Survivor's Honor of Njal,Weapon,23,Masterwork,56
 53455,Survivor's Skaaldsinger,Weapon,23,Masterwork,56
 53456,Survivor's Francisca,Weapon,26,Masterwork,60
@@ -38887,7 +38904,6 @@ id,name,type,level,rarity,vendor_value
 53490,Survivor's Deerchaser,Weapon,31,Masterwork,99
 53491,Survivor's Scramasax,Weapon,31,Masterwork,66
 53492,Survivor's Stagsign,Weapon,31,Masterwork,66
-53493,Survivor's Oxenblade,Weapon,31,Masterwork,99
 53494,Survivor's Great Sledge,Weapon,31,Masterwork,99
 53495,Survivor's Eye of Astrix,Weapon,31,Masterwork,66
 53496,Survivor's Griffoncrack,Weapon,31,Masterwork,66
@@ -38910,7 +38926,6 @@ id,name,type,level,rarity,vendor_value
 53513,Survivor's Thunderbluss,Weapon,34,Masterwork,105
 53514,Survivor's Yew Rod,Weapon,34,Masterwork,70
 53515,Survivor's Dun Targe,Weapon,34,Masterwork,70
-53516,Survivor's Eagle's Perch,Weapon,34,Masterwork,105
 53517,Survivor's Leopard's Bite,Weapon,34,Masterwork,70
 53518,Survivor's Honor of Njal,Weapon,34,Masterwork,70
 53519,Survivor's Skaaldsinger,Weapon,34,Masterwork,70
@@ -38964,7 +38979,6 @@ id,name,type,level,rarity,vendor_value
 53567,Deserter's Charr Alarm Clock,Weapon,39,Rare,117
 53568,Vagabond's Francisca,Weapon,39,Rare,117
 53569,Vagabond's Elkslayer,Weapon,39,Rare,176
-53570,Vagabond's Deerchaser,Weapon,39,Rare,176
 53571,Vagabond's Scramasax,Weapon,39,Rare,117
 53572,Vagabond's Stagsign,Weapon,39,Rare,117
 53573,Vagabond's Oxenblade,Weapon,39,Rare,176
