@@ -39201,6 +39201,7 @@ id,name,type,level,rarity,vendor_value
 53785,Vagabond's Yew Rod,Weapon,60,Rare,162
 53786,Vagabond's Dun Targe,Weapon,60,Rare,162
 53787,Vagabond's Eagle's Perch,Weapon,60,Rare,243
+53788,Vagabond's Leopard's Bite,Weapon,60,Rare,162
 53789,Vagabond's Honor of Njal,Weapon,60,Rare,162
 53790,Vagabond's Skaaldsinger,Weapon,60,Rare,162
 53791,Survivor's Francisca,Weapon,36,Rare,111
@@ -39212,7 +39213,9 @@ id,name,type,level,rarity,vendor_value
 53797,Survivor's Great Sledge,Weapon,36,Rare,167
 53798,Survivor's Eye of Astrix,Weapon,36,Rare,111
 53799,Survivor's Griffoncrack,Weapon,36,Rare,111
+53800,Survivor's Thunderbluss,Weapon,36,Rare,167
 53801,Survivor's Yew Rod,Weapon,36,Rare,111
+53802,Survivor's Dun Targe,Weapon,36,Rare,111
 53803,Survivor's Eagle's Perch,Weapon,36,Rare,167
 53804,Survivor's Leopard's Bite,Weapon,36,Rare,111
 53805,Survivor's Honor of Njal,Weapon,36,Rare,111
@@ -39231,46 +39234,68 @@ id,name,type,level,rarity,vendor_value
 53818,Vagabond's Dun Targe,Weapon,36,Rare,111
 53819,Vagabond's Eagle's Perch,Weapon,36,Rare,167
 53820,Vagabond's Leopard's Bite,Weapon,36,Rare,111
+53821,Vagabond's Honor of Njal,Weapon,36,Rare,111
 53822,Vagabond's Skaaldsinger,Weapon,36,Rare,111
 53823,Survivor's Francisca,Weapon,39,Rare,117
 53824,Vagabond's Grawlgrinder,Weapon,36,Rare,111
+53825,Vagabond's Chromecurve,Weapon,36,Rare,167
 53826,Vagabond's Pulleybow,Weapon,36,Rare,167
 53827,Vagabond's Serrated Fate,Weapon,36,Rare,111
 53828,Vagabond's Bent Circuit,Weapon,36,Rare,111
 53829,Vagabond's Problem Solver,Weapon,36,Rare,167
 53830,Vagabond's Steamsmash,Weapon,36,Rare,167
 53831,Vagabond's War Auger,Weapon,36,Rare,111
+53832,Vagabond's Boregun,Weapon,36,Rare,111
 53833,Vagabond's Bombard,Weapon,36,Rare,167
 53834,Vagabond's Gladium Prod,Weapon,36,Rare,111
 53835,Vagabond's Geared Maw,Weapon,36,Rare,111
 53836,Vagabond's Impulse Spire,Weapon,36,Rare,167
+53837,Vagabond's Chainblade,Weapon,36,Rare,111
 53838,Vagabond's Legion's Light,Weapon,36,Rare,111
+53839,Vagabond's Charr Alarm Clock,Weapon,36,Rare,111
+53840,Vagabond's Grawlgrinder,Weapon,39,Rare,117
 53841,Vagabond's Chromecurve,Weapon,39,Rare,176
+53842,Vagabond's Pulleybow,Weapon,39,Rare,176
+53843,Vagabond's Serrated Fate,Weapon,39,Rare,117
 53844,Vagabond's Bent Circuit,Weapon,39,Rare,117
 53845,Vagabond's Problem Solver,Weapon,39,Rare,176
+53846,Vagabond's Steamsmash,Weapon,39,Rare,176
 53847,Vagabond's War Auger,Weapon,39,Rare,117
 53848,Vagabond's Boregun,Weapon,39,Rare,117
 53849,Vagabond's Bombard,Weapon,39,Rare,176
 53850,Vagabond's Gladium Prod,Weapon,39,Rare,117
+53851,Vagabond's Geared Maw,Weapon,39,Rare,117
+53852,Vagabond's Impulse Spire,Weapon,39,Rare,176
+53853,Vagabond's Chainblade,Weapon,39,Rare,117
+53854,Vagabond's Legion's Light,Weapon,39,Rare,117
 53855,Vagabond's Charr Alarm Clock,Weapon,39,Rare,117
+53856,Vagabond's Grawlgrinder,Weapon,44,Rare,126
 53857,Vagabond's Chromecurve,Weapon,44,Rare,189
 53858,Vagabond's Pulleybow,Weapon,44,Rare,189
+53859,Vagabond's Serrated Fate,Weapon,44,Rare,126
 53860,Vagabond's Bent Circuit,Weapon,44,Rare,126
+53861,Vagabond's Problem Solver,Weapon,44,Rare,189
 53862,Vagabond's Steamsmash,Weapon,44,Rare,189
 53863,Vagabond's War Auger,Weapon,44,Rare,126
 53864,Vagabond's Boregun,Weapon,44,Rare,126
+53865,Vagabond's Bombard,Weapon,44,Rare,189
 53866,Vagabond's Gladium Prod,Weapon,44,Rare,126
 53867,Vagabond's Geared Maw,Weapon,44,Rare,126
+53868,Vagabond's Impulse Spire,Weapon,44,Rare,189
 53869,Vagabond's Chainblade,Weapon,44,Rare,126
 53870,Vagabond's Legion's Light,Weapon,44,Rare,126
 53871,Vagabond's Charr Alarm Clock,Weapon,44,Rare,126
 53872,Vagabond's Grawlgrinder,Weapon,51,Rare,141
+53873,Vagabond's Chromecurve,Weapon,51,Rare,212
 53874,Vagabond's Pulleybow,Weapon,51,Rare,212
 53875,Vagabond's Serrated Fate,Weapon,51,Rare,141
 53876,Vagabond's Bent Circuit,Weapon,51,Rare,141
 53877,Vagabond's Problem Solver,Weapon,51,Rare,212
 53878,Vagabond's Steamsmash,Weapon,51,Rare,212
+53879,Vagabond's War Auger,Weapon,51,Rare,141
 53880,Vagabond's Boregun,Weapon,51,Rare,141
+53881,Vagabond's Bombard,Weapon,51,Rare,212
+53882,Vagabond's Gladium Prod,Weapon,51,Rare,141
 53883,Vagabond's Geared Maw,Weapon,51,Rare,141
 53884,Vagabond's Impulse Spire,Weapon,51,Rare,212
 53885,Vagabond's Chainblade,Weapon,51,Rare,141
@@ -39278,17 +39303,24 @@ id,name,type,level,rarity,vendor_value
 53887,Vagabond's Charr Alarm Clock,Weapon,51,Rare,141
 53888,Vagabond's Grawlgrinder,Weapon,55,Rare,150
 53889,Vagabond's Chromecurve,Weapon,55,Rare,225
+53890,Vagabond's Pulleybow,Weapon,55,Rare,225
+53891,Vagabond's Serrated Fate,Weapon,55,Rare,150
 53892,Vagabond's Bent Circuit,Weapon,55,Rare,150
 53893,Vagabond's Problem Solver,Weapon,55,Rare,225
 53894,Vagabond's Steamsmash,Weapon,55,Rare,225
 53895,Vagabond's War Auger,Weapon,55,Rare,150
 53896,Vagabond's Boregun,Weapon,55,Rare,150
 53897,Vagabond's Bombard,Weapon,55,Rare,225
+53898,Vagabond's Gladium Prod,Weapon,55,Rare,150
 53899,Vagabond's Geared Maw,Weapon,55,Rare,150
+53900,Vagabond's Impulse Spire,Weapon,55,Rare,225
 53901,Vagabond's Chainblade,Weapon,55,Rare,150
 53902,Vagabond's Legion's Light,Weapon,55,Rare,150
+53903,Vagabond's Charr Alarm Clock,Weapon,55,Rare,150
 53904,Vagabond's Grawlgrinder,Weapon,60,Rare,162
+53905,Vagabond's Chromecurve,Weapon,60,Rare,243
 53906,Vagabond's Pulleybow,Weapon,60,Rare,243
+53907,Vagabond's Serrated Fate,Weapon,60,Rare,162
 53908,Vagabond's Bent Circuit,Weapon,60,Rare,162
 53909,Vagabond's Problem Solver,Weapon,60,Rare,243
 53910,Vagabond's Steamsmash,Weapon,60,Rare,243
@@ -39296,11 +39328,15 @@ id,name,type,level,rarity,vendor_value
 53912,Vagabond's Boregun,Weapon,60,Rare,162
 53913,Vagabond's Bombard,Weapon,60,Rare,243
 53914,Vagabond's Gladium Prod,Weapon,60,Rare,162
+53915,Vagabond's Geared Maw,Weapon,60,Rare,162
 53916,Vagabond's Impulse Spire,Weapon,60,Rare,243
 53917,Vagabond's Chainblade,Weapon,60,Rare,162
+53918,Vagabond's Legion's Light,Weapon,60,Rare,162
+53919,Vagabond's Charr Alarm Clock,Weapon,60,Rare,162
 53920,Vagabond's Disputation,Weapon,36,Rare,111
 53921,Vagabond's Queen's Retort,Weapon,36,Rare,167
 53922,Vagabond's Prince's Praise,Weapon,36,Rare,167
+53923,Vagabond's Discretion,Weapon,36,Rare,111
 53924,Vagabond's Kessene Wreath,Weapon,36,Rare,111
 53925,Vagabond's Royal Barber,Weapon,36,Rare,167
 53926,Vagabond's Redeye Maul,Weapon,36,Rare,167
@@ -39308,10 +39344,14 @@ id,name,type,level,rarity,vendor_value
 53928,Vagabond's Obedience,Weapon,36,Rare,111
 53929,Vagabond's Cannon Law,Weapon,36,Rare,167
 53930,Vagabond's Majestic Hand,Weapon,36,Rare,111
+53931,Vagabond's Pride of Arms,Weapon,36,Rare,111
 53932,Vagabond's Concordance,Weapon,36,Rare,167
 53933,Vagabond's Dignity,Weapon,36,Rare,111
+53934,Vagabond's Hue,Weapon,36,Rare,111
 53935,Vagabond's Cry,Weapon,36,Rare,111
 53936,Vagabond's Disputation,Weapon,39,Rare,117
+53937,Vagabond's Queen's Retort,Weapon,39,Rare,176
+53938,Vagabond's Prince's Praise,Weapon,39,Rare,176
 53939,Vagabond's Discretion,Weapon,39,Rare,117
 53940,Vagabond's Kessene Wreath,Weapon,39,Rare,117
 53941,Vagabond's Royal Barber,Weapon,39,Rare,176
@@ -39319,13 +39359,23 @@ id,name,type,level,rarity,vendor_value
 53943,Vagabond's Flangeflare,Weapon,39,Rare,117
 53944,Vagabond's Obedience,Weapon,39,Rare,117
 53945,Vagabond's Cannon Law,Weapon,39,Rare,176
+53946,Vagabond's Majestic Hand,Weapon,39,Rare,117
 53947,Vagabond's Pride of Arms,Weapon,39,Rare,117
 53948,Vagabond's Concordance,Weapon,39,Rare,176
+53949,Vagabond's Dignity,Weapon,39,Rare,117
 53950,Vagabond's Hue,Weapon,39,Rare,117
+53951,Vagabond's Cry,Weapon,39,Rare,117
+53952,Vagabond's Disputation,Weapon,44,Rare,126
+53953,Vagabond's Queen's Retort,Weapon,44,Rare,189
+53954,Vagabond's Prince's Praise,Weapon,44,Rare,189
 53955,Vagabond's Discretion,Weapon,44,Rare,126
 53956,Vagabond's Kessene Wreath,Weapon,44,Rare,126
+53957,Vagabond's Royal Barber,Weapon,44,Rare,189
+53958,Vagabond's Redeye Maul,Weapon,44,Rare,189
 53959,Vagabond's Flangeflare,Weapon,44,Rare,126
 53960,Vagabond's Obedience,Weapon,44,Rare,126
+53961,Vagabond's Cannon Law,Weapon,44,Rare,189
+53962,Vagabond's Majestic Hand,Weapon,44,Rare,126
 53963,Vagabond's Pride of Arms,Weapon,44,Rare,126
 53964,Vagabond's Concordance,Weapon,44,Rare,189
 53965,Vagabond's Dignity,Weapon,44,Rare,126
@@ -39336,12 +39386,16 @@ id,name,type,level,rarity,vendor_value
 53970,Vagabond's Prince's Praise,Weapon,51,Rare,212
 53971,Vagabond's Discretion,Weapon,51,Rare,141
 53972,Vagabond's Kessene Wreath,Weapon,51,Rare,141
+53973,Vagabond's Royal Barber,Weapon,51,Rare,212
 53974,Vagabond's Redeye Maul,Weapon,51,Rare,212
+53975,Vagabond's Flangeflare,Weapon,51,Rare,141
 53976,Vagabond's Obedience,Weapon,51,Rare,141
 53977,Vagabond's Cannon Law,Weapon,51,Rare,212
+53978,Vagabond's Majestic Hand,Weapon,51,Rare,141
 53979,Vagabond's Pride of Arms,Weapon,51,Rare,141
 53980,Vagabond's Concordance,Weapon,51,Rare,212
 53981,Vagabond's Dignity,Weapon,51,Rare,141
+53982,Vagabond's Hue,Weapon,51,Rare,141
 53983,Vagabond's Cry,Weapon,51,Rare,141
 53984,Vagabond's Disputation,Weapon,55,Rare,150
 53985,Vagabond's Queen's Retort,Weapon,55,Rare,225
@@ -71186,11 +71240,14 @@ Balance",Gizmo,0,Basic,0
 106792,Black Lion Underwater Tranquil Fish Recipe,Consumable,0,Basic,0
 106795,Black Lion Underwater Anemone Recipe,Consumable,0,Basic,0
 106797,Party Hat Skin,Consumable,0,Masterwork,0
+106800,Southsun Waves T-Shirt Skin,Consumable,0,Masterwork,0
 106801,Black Lion Underwater Kelp Recipe,Consumable,0,Basic,0
 106806,Black Lion Underwater Solid Rock Recipe,Consumable,0,Basic,0
 106814,Asuran Conjured Doorway Skin,Consumable,0,Rare,0
 106815,Underwater Homestead Package,Container,0,Basic,0
+106817,Janthir Outdoors T-Shirt Skin,Consumable,0,Masterwork,0
 106818,Homestead Racetrack Starter Bundle,Container,0,Exotic,0
 106821,Black Lion Underwater Jellyfish Recipe,Consumable,0,Basic,0
+106823,Metrica Sports T-Shirt Skin,Consumable,0,Masterwork,0
 106824,Black Lion Stolen Goods,Consumable,0,Basic,0
 106825,Black Lion Underwater Porous Rock Recipe,Consumable,0,Basic,0
