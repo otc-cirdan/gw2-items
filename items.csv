@@ -36999,6 +36999,206 @@ id,name,type,level,rarity,vendor_value
 51518,Apostate's Melitta's Bloom,Weapon,71,Exotic,244
 51519,Apostate's Dawn Chorus,Weapon,71,Exotic,244
 51520,Forsaken Dolorous Axe,Weapon,62,Exotic,220
+51521,Forsaken Ulix's Stoutbow,Weapon,62,Exotic,330
+51522,Forsaken Artem's Needler,Weapon,62,Exotic,330
+51523,Forsaken Cherub's Claw,Weapon,62,Exotic,220
+51524,Forsaken Steelcharm,Weapon,62,Exotic,220
+51525,Forsaken Centaur's Doom,Weapon,62,Exotic,330
+51526,Forsaken Shieldbreaker,Weapon,62,Exotic,330
+51527,Forsaken Balt's Pillar,Weapon,62,Exotic,220
+51528,Forsaken Dutiful Armament,Weapon,62,Exotic,220
+51529,Forsaken Duma's Musket,Weapon,62,Exotic,330
+51530,Forsaken Chorister's Virge,Weapon,62,Exotic,220
+51531,Forsaken Sacred Circle,Weapon,62,Exotic,220
+51532,Forsaken Croisier Guardant,Weapon,62,Exotic,330
+51533,Forsaken Ayala's Rinblade,Weapon,62,Exotic,220
+51534,Forsaken Lambent Sconce,Weapon,62,Exotic,220
+51535,Forsaken Orison of Salma,Weapon,62,Exotic,220
+51536,Apostate's Dendritic Avenger,Weapon,62,Exotic,220
+51537,Apostate's Papillon,Weapon,62,Exotic,330
+51538,Apostate's Thornthrower,Weapon,62,Exotic,330
+51539,Apostate's Topiary Knife,Weapon,62,Exotic,220
+51540,Apostate's Primal Cultivar,Weapon,62,Exotic,220
+51541,Apostate's Verteth Edge,Weapon,62,Exotic,330
+51542,Apostate's Thundering Rhizome,Weapon,62,Exotic,330
+51543,Apostate's Tendril of Terror,Weapon,62,Exotic,220
+51544,Apostate's Bloomboom,Weapon,62,Exotic,220
+51545,Apostate's Chloroblaster,Weapon,62,Exotic,330
+51546,Apostate's Sacred Xylem,Weapon,62,Exotic,220
+51547,Apostate's Wyldwyng,Weapon,62,Exotic,220
+51548,Apostate's Branch of Oneiru,Weapon,62,Exotic,330
+51549,Apostate's Manbiter,Weapon,62,Exotic,220
+51550,Apostate's Melitta's Bloom,Weapon,62,Exotic,220
+51551,Apostate's Dawn Chorus,Weapon,62,Exotic,220
+51552,Apostate's Dendritic Avenger,Weapon,65,Exotic,228
+51553,Apostate's Papillon,Weapon,65,Exotic,342
+51554,Apostate's Thornthrower,Weapon,65,Exotic,342
+51555,Apostate's Topiary Knife,Weapon,65,Exotic,228
+51556,Apostate's Primal Cultivar,Weapon,65,Exotic,228
+51557,Apostate's Verteth Edge,Weapon,65,Exotic,342
+51558,Apostate's Thundering Rhizome,Weapon,65,Exotic,342
+51559,Apostate's Tendril of Terror,Weapon,65,Exotic,228
+51560,Apostate's Bloomboom,Weapon,65,Exotic,228
+51561,Apostate's Chloroblaster,Weapon,65,Exotic,342
+51562,Apostate's Sacred Xylem,Weapon,65,Exotic,228
+51563,Apostate's Wyldwyng,Weapon,65,Exotic,228
+51564,Apostate's Branch of Oneiru,Weapon,65,Exotic,342
+51565,Apostate's Manbiter,Weapon,65,Exotic,228
+51566,Apostate's Melitta's Bloom,Weapon,65,Exotic,228
+51567,Apostate's Dawn Chorus,Weapon,65,Exotic,228
+51568,Forsaken Dolorous Axe,Weapon,65,Exotic,228
+51569,Forsaken Ulix's Stoutbow,Weapon,65,Exotic,342
+51570,Forsaken Artem's Needler,Weapon,65,Exotic,342
+51571,Forsaken Cherub's Claw,Weapon,65,Exotic,228
+51572,Forsaken Steelcharm,Weapon,65,Exotic,228
+51573,Forsaken Centaur's Doom,Weapon,65,Exotic,342
+51574,Forsaken Shieldbreaker,Weapon,65,Exotic,342
+51575,Forsaken Balt's Pillar,Weapon,65,Exotic,228
+51576,Forsaken Dutiful Armament,Weapon,65,Exotic,228
+51577,Forsaken Duma's Musket,Weapon,65,Exotic,342
+51578,Forsaken Chorister's Virge,Weapon,65,Exotic,228
+51579,Forsaken Sacred Circle,Weapon,65,Exotic,228
+51580,Forsaken Croisier Guardant,Weapon,65,Exotic,342
+51581,Forsaken Ayala's Rinblade,Weapon,65,Exotic,228
+51582,Forsaken Lambent Sconce,Weapon,65,Exotic,228
+51583,Forsaken Orison of Salma,Weapon,65,Exotic,228
+51584,Apostate's Dendritic Avenger,Weapon,68,Exotic,236
+51585,Apostate's Papillon,Weapon,68,Exotic,354
+51586,Apostate's Thornthrower,Weapon,68,Exotic,354
+51587,Apostate's Topiary Knife,Weapon,68,Exotic,236
+51588,Apostate's Primal Cultivar,Weapon,68,Exotic,236
+51589,Apostate's Verteth Edge,Weapon,68,Exotic,354
+51590,Apostate's Thundering Rhizome,Weapon,68,Exotic,354
+51591,Apostate's Tendril of Terror,Weapon,68,Exotic,236
+51592,Apostate's Bloomboom,Weapon,68,Exotic,236
+51593,Apostate's Chloroblaster,Weapon,68,Exotic,354
+51594,Apostate's Sacred Xylem,Weapon,68,Exotic,236
+51595,Apostate's Wyldwyng,Weapon,68,Exotic,236
+51596,Apostate's Branch of Oneiru,Weapon,68,Exotic,354
+51597,Apostate's Manbiter,Weapon,68,Exotic,236
+51598,Apostate's Melitta's Bloom,Weapon,68,Exotic,236
+51599,Apostate's Dawn Chorus,Weapon,68,Exotic,236
+51600,Forsaken Dolorous Axe,Weapon,68,Exotic,236
+51601,Forsaken Ulix's Stoutbow,Weapon,68,Exotic,354
+51602,Forsaken Artem's Needler,Weapon,68,Exotic,354
+51603,Forsaken Cherub's Claw,Weapon,68,Exotic,236
+51604,Forsaken Steelcharm,Weapon,68,Exotic,236
+51605,Forsaken Centaur's Doom,Weapon,68,Exotic,354
+51606,Forsaken Shieldbreaker,Weapon,68,Exotic,354
+51607,Forsaken Balt's Pillar,Weapon,68,Exotic,236
+51608,Forsaken Dutiful Armament,Weapon,68,Exotic,236
+51609,Forsaken Duma's Musket,Weapon,68,Exotic,354
+51610,Forsaken Chorister's Virge,Weapon,68,Exotic,236
+51611,Forsaken Sacred Circle,Weapon,68,Exotic,236
+51612,Forsaken Croisier Guardant,Weapon,68,Exotic,354
+51613,Forsaken Ayala's Rinblade,Weapon,68,Exotic,236
+51614,Forsaken Lambent Sconce,Weapon,68,Exotic,236
+51615,Forsaken Orison of Salma,Weapon,68,Exotic,236
+51616,Apostate's Barnacle Scraper,Weapon,59,Exotic,212
+51617,Apostate's Short-Tailed Shot,Weapon,59,Exotic,318
+51618,Apostate's Spitespewer,Weapon,59,Exotic,318
+51619,Apostate's Darkdevoted Kris,Weapon,59,Exotic,212
+51620,Apostate's Rota Misfortuna,Weapon,59,Exotic,212
+51621,Apostate's Architeuthis,Weapon,59,Exotic,318
+51622,Apostate's Sorrowmaker,Weapon,59,Exotic,318
+51623,Apostate's Crowncrusher,Weapon,59,Exotic,212
+51624,Apostate's Weatherwrack,Weapon,59,Exotic,212
+51625,Apostate's Crack o' Red Dawn,Weapon,59,Exotic,318
+51626,Apostate's Ominous Egg,Weapon,59,Exotic,212
+51627,Apostate's Shell of Secrets,Weapon,59,Exotic,212
+51628,Apostate's Returner's Gaff,Weapon,59,Exotic,318
+51629,Apostate's Mournsword,Weapon,59,Exotic,212
+51630,Apostate's Lantern of the Lost,Weapon,59,Exotic,212
+51631,Apostate's Eerie Conch,Weapon,59,Exotic,212
+51632,Forsaken Barnacle Scraper,Weapon,59,Exotic,212
+51633,Forsaken Short-Tailed Shot,Weapon,59,Exotic,318
+51634,Forsaken Spitespewer,Weapon,59,Exotic,318
+51635,Forsaken Darkdevoted Kris,Weapon,59,Exotic,212
+51636,Forsaken Rota Misfortuna,Weapon,59,Exotic,212
+51637,Forsaken Architeuthis,Weapon,59,Exotic,318
+51638,Forsaken Sorrowmaker,Weapon,59,Exotic,318
+51639,Forsaken Crowncrusher,Weapon,59,Exotic,212
+51640,Forsaken Weatherwrack,Weapon,59,Exotic,212
+51641,Forsaken Crack o' Red Dawn,Weapon,59,Exotic,318
+51642,Forsaken Ominous Egg,Weapon,59,Exotic,212
+51643,Forsaken Shell of Secrets,Weapon,59,Exotic,212
+51644,Forsaken Returner's Gaff,Weapon,59,Exotic,318
+51645,Forsaken Mournsword,Weapon,59,Exotic,212
+51646,Forsaken Lantern of the Lost,Weapon,59,Exotic,212
+51647,Forsaken Eerie Conch,Weapon,59,Exotic,212
+51648,Apostate's Barnacle Scraper,Weapon,62,Exotic,220
+51649,Apostate's Short-Tailed Shot,Weapon,62,Exotic,330
+51650,Apostate's Spitespewer,Weapon,62,Exotic,330
+51651,Apostate's Darkdevoted Kris,Weapon,62,Exotic,220
+51652,Apostate's Rota Misfortuna,Weapon,62,Exotic,220
+51653,Apostate's Architeuthis,Weapon,62,Exotic,330
+51654,Apostate's Sorrowmaker,Weapon,62,Exotic,330
+51655,Apostate's Crowncrusher,Weapon,62,Exotic,220
+51656,Apostate's Weatherwrack,Weapon,62,Exotic,220
+51657,Apostate's Crack o' Red Dawn,Weapon,62,Exotic,330
+51658,Apostate's Ominous Egg,Weapon,62,Exotic,220
+51659,Apostate's Shell of Secrets,Weapon,62,Exotic,220
+51660,Apostate's Returner's Gaff,Weapon,62,Exotic,330
+51661,Apostate's Mournsword,Weapon,62,Exotic,220
+51662,Apostate's Lantern of the Lost,Weapon,62,Exotic,220
+51663,Apostate's Eerie Conch,Weapon,62,Exotic,220
+51664,Forsaken Barnacle Scraper,Weapon,62,Exotic,220
+51665,Forsaken Short-Tailed Shot,Weapon,62,Exotic,330
+51666,Forsaken Spitespewer,Weapon,62,Exotic,330
+51667,Forsaken Darkdevoted Kris,Weapon,62,Exotic,220
+51668,Forsaken Rota Misfortuna,Weapon,62,Exotic,220
+51669,Forsaken Architeuthis,Weapon,62,Exotic,330
+51670,Forsaken Sorrowmaker,Weapon,62,Exotic,330
+51671,Forsaken Crowncrusher,Weapon,62,Exotic,220
+51672,Forsaken Weatherwrack,Weapon,62,Exotic,220
+51673,Forsaken Crack o' Red Dawn,Weapon,62,Exotic,330
+51674,Forsaken Ominous Egg,Weapon,62,Exotic,220
+51675,Forsaken Shell of Secrets,Weapon,62,Exotic,220
+51676,Forsaken Returner's Gaff,Weapon,62,Exotic,330
+51677,Forsaken Mournsword,Weapon,62,Exotic,220
+51678,Forsaken Lantern of the Lost,Weapon,62,Exotic,220
+51679,Forsaken Eerie Conch,Weapon,62,Exotic,220
+51680,Apostate's Barnacle Scraper,Weapon,65,Exotic,228
+51681,Apostate's Short-Tailed Shot,Weapon,65,Exotic,342
+51682,Apostate's Spitespewer,Weapon,65,Exotic,342
+51683,Apostate's Darkdevoted Kris,Weapon,65,Exotic,228
+51684,Apostate's Rota Misfortuna,Weapon,65,Exotic,228
+51685,Apostate's Architeuthis,Weapon,65,Exotic,342
+51686,Apostate's Sorrowmaker,Weapon,65,Exotic,342
+51687,Apostate's Crowncrusher,Weapon,65,Exotic,228
+51688,Apostate's Weatherwrack,Weapon,65,Exotic,228
+51689,Apostate's Crack o' Red Dawn,Weapon,65,Exotic,342
+51690,Apostate's Ominous Egg,Weapon,65,Exotic,228
+51691,Apostate's Shell of Secrets,Weapon,65,Exotic,228
+51692,Apostate's Returner's Gaff,Weapon,65,Exotic,342
+51693,Apostate's Mournsword,Weapon,65,Exotic,228
+51694,Apostate's Lantern of the Lost,Weapon,65,Exotic,228
+51695,Apostate's Eerie Conch,Weapon,65,Exotic,228
+51696,Forsaken Barnacle Scraper,Weapon,65,Exotic,228
+51697,Forsaken Short-Tailed Shot,Weapon,65,Exotic,342
+51698,Forsaken Spitespewer,Weapon,65,Exotic,342
+51699,Forsaken Darkdevoted Kris,Weapon,65,Exotic,228
+51700,Forsaken Rota Misfortuna,Weapon,65,Exotic,228
+51701,Forsaken Architeuthis,Weapon,65,Exotic,342
+51702,Forsaken Sorrowmaker,Weapon,65,Exotic,342
+51703,Forsaken Crowncrusher,Weapon,65,Exotic,228
+51704,Forsaken Weatherwrack,Weapon,65,Exotic,228
+51705,Forsaken Crack o' Red Dawn,Weapon,65,Exotic,342
+51706,Forsaken Ominous Egg,Weapon,65,Exotic,228
+51707,Forsaken Shell of Secrets,Weapon,65,Exotic,228
+51708,Forsaken Returner's Gaff,Weapon,65,Exotic,342
+51709,Forsaken Mournsword,Weapon,65,Exotic,228
+51710,Forsaken Lantern of the Lost,Weapon,65,Exotic,228
+51711,Forsaken Eerie Conch,Weapon,65,Exotic,228
+51712,Apostate's Barnacle Scraper,Weapon,68,Exotic,236
+51713,Apostate's Short-Tailed Shot,Weapon,68,Exotic,354
+51714,Apostate's Spitespewer,Weapon,68,Exotic,354
+51715,Apostate's Darkdevoted Kris,Weapon,68,Exotic,236
+51716,Apostate's Rota Misfortuna,Weapon,68,Exotic,236
+51717,Apostate's Architeuthis,Weapon,68,Exotic,354
+51718,Apostate's Sorrowmaker,Weapon,68,Exotic,354
+51719,Apostate's Crowncrusher,Weapon,68,Exotic,236
+51720,Apostate's Weatherwrack,Weapon,68,Exotic,236
 51721,Apostate's Crack o' Red Dawn,Weapon,68,Exotic,354
 51722,Apostate's Ominous Egg,Weapon,68,Exotic,236
 51723,Apostate's Shell of Secrets,Weapon,68,Exotic,236
