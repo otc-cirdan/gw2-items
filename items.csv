@@ -55305,12 +55305,14 @@ id,name,type,level,rarity,vendor_value
 85080,Bounty Hunter's Cowl,Armor,80,Exotic,330
 85081,Warbeast Boots,Armor,80,Exotic,264
 85082,Boundary Marker for the Elon Riverlands,Consumable,0,Exotic,0
+85083,Nadijeh's Guise,Armor,80,Ascended,240
 85084,Illustrious Breastplate,Armor,80,Ascended,0
 85085,Recipe: Zehtuka's Wand,Consumable,0,Ascended,160
 85086,Pale Canyon Griffon Egg,Consumable,0,Rare,5000
 85089,Zehtuka's Epaulets,Armor,80,Ascended,240
 85090,Oasis Griffon Expert: Bronze,Container,0,Fine,0
 85092,The Twins' Grieving Insignia,CraftingMaterial,0,Ascended,30
+85093,The Twins' Greaves,Armor,80,Ascended,240
 85094,The Twins' Trident,Weapon,80,Ascended,10000
 85095,Recipe: Nadijeh's Trident,Consumable,0,Ascended,160
 85096,Boundary Marker for the Desolation,Consumable,0,Exotic,0
@@ -55395,6 +55397,7 @@ id,name,type,level,rarity,vendor_value
 85184,Desolation Griffon Expert: Bronze,Container,0,Fine,0
 85185,Recipe: Nadijeh's Shoulderguard,Consumable,0,Ascended,160
 85186,Recipe: Zehtuka's Spire,Consumable,0,Ascended,160
+85187,Nadijeh's Trident,Weapon,80,Ascended,10000
 85189,Bounty Hunter's Tassets,Armor,80,Exotic,370
 85191,Browned Coastal Griffon Egg,Consumable,0,Rare,5000
 85192,Trained Choya Hammer Skin,Consumable,0,Rare,0
