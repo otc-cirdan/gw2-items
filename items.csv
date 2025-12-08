@@ -34808,12 +34808,15 @@ id,name,type,level,rarity,vendor_value
 47526,Dire Ceremonial Pike of Rage,Weapon,80,Exotic,396
 47527,Dire Ceremonial Longbow of Blood,Weapon,62,Exotic,318
 47528,Dire Ceremonial Longbow of Vision,Weapon,70,Exotic,354
+47529,Dire Ceremonial Longbow of Accuracy,Weapon,78,Exotic,384
 47530,Dire Ceremonial Longbow of Rage,Weapon,80,Exotic,396
 47531,Dire Ceremonial Morning Star of Blood,Weapon,62,Exotic,212
 47532,Dire Ceremonial Morning Star of Vision,Weapon,70,Exotic,236
 47533,Dire Ceremonial Morning Star of Accuracy,Weapon,78,Exotic,256
+47534,Dire Ceremonial Morning Star of Rage,Weapon,80,Exotic,264
 47535,Dire Ceremonial Pistol of Blood,Weapon,62,Exotic,212
 47536,Dire Ceremonial Pistol of Vision,Weapon,70,Exotic,236
+47537,Dire Ceremonial Pistol of Accuracy,Weapon,78,Exotic,256
 47538,Dire Ceremonial Pistol of Rage,Weapon,80,Exotic,264
 47539,Dire Ceremonial Rifle of Blood,Weapon,62,Exotic,318
 47540,Dire Ceremonial Rifle of Vision,Weapon,70,Exotic,354
@@ -34825,22 +34828,27 @@ id,name,type,level,rarity,vendor_value
 47546,Dire Ceremonial Scepter of Rage,Weapon,80,Exotic,264
 47547,Dire Ceremonial Bulwark of Blood,Weapon,62,Exotic,212
 47548,Dire Ceremonial Bulwark of Vision,Weapon,70,Exotic,236
+47549,Dire Ceremonial Bulwark of Accuracy,Weapon,78,Exotic,256
 47550,Dire Ceremonial Bulwark of Rage,Weapon,80,Exotic,264
 47551,Dire Ceremonial Short Bow of Blood,Weapon,62,Exotic,318
 47552,Dire Ceremonial Short Bow of Vision,Weapon,70,Exotic,354
 47553,Dire Ceremonial Short Bow of Accuracy,Weapon,78,Exotic,384
 47554,Dire Ceremonial Short Bow of Rage,Weapon,80,Exotic,396
 47555,Dire Ceremonial Speargun of Blood,Weapon,62,Exotic,318
+47556,Dire Ceremonial Speargun of Vision,Weapon,70,Exotic,354
 47557,Dire Ceremonial Speargun of Accuracy,Weapon,78,Exotic,384
 47558,Dire Ceremonial Speargun of Rage,Weapon,80,Exotic,396
+47559,Dire Ceremonial Stave of Blood,Weapon,62,Exotic,318
 47560,Dire Ceremonial Stave of Vision,Weapon,70,Exotic,354
 47561,Dire Ceremonial Stave of Accuracy,Weapon,78,Exotic,384
 47562,Dire Ceremonial Stave of Rage,Weapon,80,Exotic,396
 47563,Dire Ceremonial Sabre of Blood,Weapon,62,Exotic,212
+47564,Dire Ceremonial Sabre of Vision,Weapon,70,Exotic,236
 47565,Dire Ceremonial Sabre of Accuracy,Weapon,78,Exotic,256
 47566,Dire Ceremonial Sabre of Rage,Weapon,80,Exotic,264
 47567,Dire Ceremonial Torch of Blood,Weapon,62,Exotic,212
 47568,Dire Ceremonial Torch of Vision,Weapon,70,Exotic,236
+47569,Dire Ceremonial Torch of Accuracy,Weapon,78,Exotic,256
 47570,Dire Ceremonial Torch of Rage,Weapon,80,Exotic,264
 47571,Dire Ceremonial Trident of Blood,Weapon,62,Exotic,318
 47572,Dire Ceremonial Trident of Vision,Weapon,70,Exotic,354
@@ -34851,26 +34859,37 @@ id,name,type,level,rarity,vendor_value
 47577,Dire Ceremonial Warhorn of Accuracy,Weapon,78,Exotic,256
 47578,Dire Ceremonial Warhorn of Rage,Weapon,80,Exotic,264
 47579,Dire Krytan Axe,Weapon,61,Fine,52
+47580,Dire Krytan Axe,Weapon,66,Fine,56
+47581,Dire Krytan Axe,Weapon,71,Fine,59
 47582,Dire Krytan Axe,Weapon,76,Fine,63
 47583,Dire Krytan Axe,Weapon,80,Fine,66
 47584,Dire Krytan Dagger,Weapon,61,Fine,52
 47585,Dire Krytan Dagger,Weapon,66,Fine,56
 47586,Dire Krytan Dagger,Weapon,71,Fine,59
+47587,Dire Krytan Dagger,Weapon,76,Fine,63
 47588,Dire Krytan Dagger,Weapon,80,Fine,66
 47589,Dire Krytan Focus,Weapon,61,Fine,52
+47590,Dire Krytan Focus,Weapon,66,Fine,56
+47591,Dire Krytan Focus,Weapon,71,Fine,59
+47592,Dire Krytan Focus,Weapon,76,Fine,63
 47593,Dire Krytan Focus,Weapon,80,Fine,66
 47594,Dire Krytan Greatsword,Weapon,61,Fine,78
 47595,Dire Krytan Greatsword,Weapon,66,Fine,84
 47596,Dire Krytan Greatsword,Weapon,71,Fine,89
 47597,Dire Krytan Greatsword,Weapon,76,Fine,95
 47598,Dire Krytan Greatsword,Weapon,80,Fine,99
+47599,Dire Krytan Warhammer,Weapon,61,Fine,78
 47600,Dire Krytan Warhammer,Weapon,66,Fine,84
 47601,Dire Krytan Warhammer,Weapon,71,Fine,89
+47602,Dire Krytan Warhammer,Weapon,76,Fine,95
 47603,Dire Krytan Warhammer,Weapon,80,Fine,99
 47604,Dire Krytan Spear,Weapon,61,Fine,78
 47605,Dire Krytan Spear,Weapon,66,Fine,84
+47606,Dire Krytan Spear,Weapon,71,Fine,89
 47607,Dire Krytan Spear,Weapon,76,Fine,95
 47608,Dire Krytan Spear,Weapon,80,Fine,99
+47609,Dire Krytan Bow,Weapon,61,Fine,78
+47610,Dire Krytan Bow,Weapon,66,Fine,84
 47611,Dire Krytan Bow,Weapon,71,Fine,89
 47612,Dire Krytan Bow,Weapon,76,Fine,95
 47613,Dire Krytan Bow,Weapon,80,Fine,99
@@ -34878,11 +34897,14 @@ id,name,type,level,rarity,vendor_value
 47615,Dire Krytan Mace,Weapon,66,Fine,56
 47616,Dire Krytan Mace,Weapon,71,Fine,59
 47617,Dire Krytan Mace,Weapon,76,Fine,63
+47618,Dire Krytan Mace,Weapon,80,Fine,66
 47619,Dire Krytan Pistol,Weapon,61,Fine,52
 47620,Dire Krytan Pistol,Weapon,66,Fine,56
 47621,Dire Krytan Pistol,Weapon,71,Fine,59
 47622,Dire Krytan Pistol,Weapon,76,Fine,63
+47623,Dire Krytan Pistol,Weapon,80,Fine,66
 47624,Dire Krytan Rifle,Weapon,61,Fine,78
+47625,Dire Krytan Rifle,Weapon,66,Fine,84
 47626,Dire Krytan Rifle,Weapon,71,Fine,89
 47627,Dire Krytan Rifle,Weapon,76,Fine,95
 47628,Dire Krytan Rifle,Weapon,80,Fine,99
@@ -34892,12 +34914,16 @@ id,name,type,level,rarity,vendor_value
 47632,Dire Krytan Scepter,Weapon,76,Fine,63
 47633,Dire Krytan Scepter,Weapon,80,Fine,66
 47634,Dire Krytan Shield,Weapon,61,Fine,52
+47635,Dire Krytan Shield,Weapon,66,Fine,56
 47636,Dire Krytan Shield,Weapon,71,Fine,59
 47637,Dire Krytan Shield,Weapon,76,Fine,63
 47638,Dire Krytan Shield,Weapon,80,Fine,66
+47639,Dire Krytan Short Bow,Weapon,61,Fine,78
 47640,Dire Krytan Short Bow,Weapon,66,Fine,84
 47641,Dire Krytan Short Bow,Weapon,71,Fine,89
 47642,Dire Krytan Short Bow,Weapon,76,Fine,95
+47643,Dire Krytan Short Bow,Weapon,80,Fine,99
+47644,Dire Krytan Speargun,Weapon,61,Fine,78
 47645,Dire Krytan Speargun,Weapon,66,Fine,84
 47646,Dire Krytan Speargun,Weapon,71,Fine,89
 47647,Dire Krytan Speargun,Weapon,76,Fine,95
@@ -34905,36 +34931,63 @@ id,name,type,level,rarity,vendor_value
 47649,Dire Krytan Staff,Weapon,61,Fine,78
 47650,Dire Krytan Staff,Weapon,66,Fine,84
 47651,Dire Krytan Staff,Weapon,71,Fine,89
+47652,Dire Krytan Staff,Weapon,76,Fine,95
 47653,Dire Krytan Staff,Weapon,80,Fine,99
+47654,Dire Krytan Sword,Weapon,61,Fine,52
+47655,Dire Krytan Sword,Weapon,66,Fine,56
+47656,Dire Krytan Sword,Weapon,71,Fine,59
 47657,Dire Krytan Sword,Weapon,76,Fine,63
 47658,Dire Krytan Sword,Weapon,80,Fine,66
 47659,Dire Krytan Torch,Weapon,61,Fine,52
 47660,Dire Krytan Torch,Weapon,66,Fine,56
+47661,Dire Krytan Torch,Weapon,71,Fine,59
 47662,Dire Krytan Torch,Weapon,76,Fine,63
 47663,Dire Krytan Torch,Weapon,80,Fine,66
 47664,Dire Krytan Trident,Weapon,61,Fine,78
+47665,Dire Krytan Trident,Weapon,66,Fine,84
 47666,Dire Krytan Trident,Weapon,71,Fine,89
 47667,Dire Krytan Trident,Weapon,76,Fine,95
+47668,Dire Krytan Trident,Weapon,80,Fine,99
 47669,Dire Krytan Warhorn,Weapon,61,Fine,52
+47670,Dire Krytan Warhorn,Weapon,66,Fine,56
+47671,Dire Krytan Warhorn,Weapon,71,Fine,59
 47672,Dire Krytan Warhorn,Weapon,76,Fine,63
 47673,Dire Krytan Warhorn,Weapon,80,Fine,66
+47674,Dire Krytan Axe of Agony,Weapon,62,Masterwork,106
 47675,Dire Krytan Axe of Air,Weapon,68,Masterwork,114
 47676,Dire Krytan Axe of Bloodlust,Weapon,74,Masterwork,122
 47677,Dire Krytan Axe of Earth,Weapon,80,Masterwork,132
+47678,Dire Krytan Dagger of Agony,Weapon,62,Masterwork,106
 47679,Dire Krytan Dagger of the Geomancer,Weapon,68,Masterwork,114
 47680,Dire Krytan Dagger of Bloodlust,Weapon,74,Masterwork,122
+47681,Dire Krytan Dagger of Earth,Weapon,80,Masterwork,132
 47682,Dire Krytan Focus of Agony,Weapon,62,Masterwork,106
+47683,Dire Krytan Focus of the Geomancer,Weapon,68,Masterwork,114
 47684,Dire Krytan Focus of Bloodlust,Weapon,74,Masterwork,122
+47685,Dire Krytan Focus of Earth,Weapon,80,Masterwork,132
+47686,Dire Krytan Greatsword of Agony,Weapon,62,Masterwork,159
+47687,Dire Krytan Greatsword of the Geomancer,Weapon,68,Masterwork,171
 47688,Dire Krytan Greatsword of Bloodlust,Weapon,74,Masterwork,183
 47689,Dire Krytan Greatsword of Earth,Weapon,80,Masterwork,198
 47690,Dire Krytan Warhammer of Agony,Weapon,62,Masterwork,159
 47691,Dire Krytan Warhammer of the Geomancer,Weapon,68,Masterwork,171
 47692,Dire Krytan Warhammer of Bloodlust,Weapon,74,Masterwork,183
+47693,Dire Krytan Warhammer of Earth,Weapon,80,Masterwork,198
+47694,Dire Krytan Spear of Agony,Weapon,62,Masterwork,159
 47695,Dire Krytan Spear of the Geomancer,Weapon,68,Masterwork,171
 47696,Dire Krytan Spear of Bloodlust,Weapon,74,Masterwork,183
+47697,Dire Krytan Spear of Earth,Weapon,80,Masterwork,198
+47698,Dire Krytan Bow of Agony,Weapon,62,Masterwork,159
 47699,Dire Krytan Bow of the Geomancer,Weapon,68,Masterwork,171
+47700,Dire Krytan Bow of Bloodlust,Weapon,74,Masterwork,183
+47701,Dire Krytan Bow of Earth,Weapon,80,Masterwork,198
+47702,Dire Krytan Mace of Agony,Weapon,62,Masterwork,106
 47703,Dire Krytan Mace of the Geomancer,Weapon,68,Masterwork,114
+47704,Dire Krytan Mace of Bloodlust,Weapon,74,Masterwork,122
+47705,Dire Krytan Mace of Earth,Weapon,80,Masterwork,132
+47706,Dire Krytan Pistol of Agony,Weapon,62,Masterwork,106
 47707,Dire Krytan Pistol of the Geomancer,Weapon,68,Masterwork,114
+47708,Dire Krytan Pistol of Bloodlust,Weapon,74,Masterwork,122
 47709,Dire Krytan Pistol of Earth,Weapon,80,Masterwork,132
 47710,Dire Krytan Rifle of Agony,Weapon,62,Masterwork,159
 47711,Dire Krytan Rifle of the Geomancer,Weapon,68,Masterwork,171
@@ -34942,6 +34995,7 @@ id,name,type,level,rarity,vendor_value
 47713,Dire Krytan Rifle of Earth,Weapon,80,Masterwork,198
 47714,Dire Krytan Scepter of Agony,Weapon,62,Masterwork,106
 47715,Dire Krytan Scepter of the Geomancer,Weapon,68,Masterwork,114
+47716,Dire Krytan Scepter of Bloodlust,Weapon,74,Masterwork,122
 47717,Dire Krytan Scepter of Earth,Weapon,80,Masterwork,132
 47718,Dire Krytan Shield of Agony,Weapon,62,Masterwork,106
 47719,Dire Krytan Shield of the Geomancer,Weapon,68,Masterwork,114
