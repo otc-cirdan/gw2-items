@@ -39199,19 +39199,15 @@ id,name,type,level,rarity,vendor_value
 53782,Vagabond's Eye of Astrix,Weapon,60,Rare,162
 53783,Vagabond's Griffoncrack,Weapon,60,Rare,162
 53784,Vagabond's Thunderbluss,Weapon,60,Rare,243
-53785,Vagabond's Yew Rod,Weapon,60,Rare,162
-53786,Vagabond's Dun Targe,Weapon,60,Rare,162
 53787,Vagabond's Eagle's Perch,Weapon,60,Rare,243
 53788,Vagabond's Leopard's Bite,Weapon,60,Rare,162
 53789,Vagabond's Honor of Njal,Weapon,60,Rare,162
 53790,Vagabond's Skaaldsinger,Weapon,60,Rare,162
-53791,Survivor's Francisca,Weapon,36,Rare,111
 53792,Survivor's Elkslayer,Weapon,36,Rare,167
 53793,Survivor's Deerchaser,Weapon,36,Rare,167
 53794,Survivor's Scramasax,Weapon,36,Rare,111
 53795,Survivor's Stagsign,Weapon,36,Rare,111
 53796,Survivor's Oxenblade,Weapon,36,Rare,167
-53797,Survivor's Great Sledge,Weapon,36,Rare,167
 53798,Survivor's Eye of Astrix,Weapon,36,Rare,111
 53799,Survivor's Griffoncrack,Weapon,36,Rare,111
 53800,Survivor's Thunderbluss,Weapon,36,Rare,167
@@ -39225,7 +39221,6 @@ id,name,type,level,rarity,vendor_value
 53808,Vagabond's Elkslayer,Weapon,36,Rare,167
 53809,Vagabond's Deerchaser,Weapon,36,Rare,167
 53810,Vagabond's Scramasax,Weapon,36,Rare,111
-53811,Vagabond's Stagsign,Weapon,36,Rare,111
 53812,Vagabond's Oxenblade,Weapon,36,Rare,167
 53813,Vagabond's Great Sledge,Weapon,36,Rare,167
 53814,Vagabond's Eye of Astrix,Weapon,36,Rare,111
@@ -39239,49 +39234,31 @@ id,name,type,level,rarity,vendor_value
 53822,Vagabond's Skaaldsinger,Weapon,36,Rare,111
 53823,Survivor's Francisca,Weapon,39,Rare,117
 53824,Vagabond's Grawlgrinder,Weapon,36,Rare,111
-53825,Vagabond's Chromecurve,Weapon,36,Rare,167
 53826,Vagabond's Pulleybow,Weapon,36,Rare,167
 53827,Vagabond's Serrated Fate,Weapon,36,Rare,111
 53828,Vagabond's Bent Circuit,Weapon,36,Rare,111
 53829,Vagabond's Problem Solver,Weapon,36,Rare,167
-53830,Vagabond's Steamsmash,Weapon,36,Rare,167
 53831,Vagabond's War Auger,Weapon,36,Rare,111
 53832,Vagabond's Boregun,Weapon,36,Rare,111
-53833,Vagabond's Bombard,Weapon,36,Rare,167
 53834,Vagabond's Gladium Prod,Weapon,36,Rare,111
-53835,Vagabond's Geared Maw,Weapon,36,Rare,111
-53836,Vagabond's Impulse Spire,Weapon,36,Rare,167
 53837,Vagabond's Chainblade,Weapon,36,Rare,111
 53838,Vagabond's Legion's Light,Weapon,36,Rare,111
 53839,Vagabond's Charr Alarm Clock,Weapon,36,Rare,111
 53840,Vagabond's Grawlgrinder,Weapon,39,Rare,117
 53841,Vagabond's Chromecurve,Weapon,39,Rare,176
-53842,Vagabond's Pulleybow,Weapon,39,Rare,176
 53843,Vagabond's Serrated Fate,Weapon,39,Rare,117
 53844,Vagabond's Bent Circuit,Weapon,39,Rare,117
 53845,Vagabond's Problem Solver,Weapon,39,Rare,176
-53846,Vagabond's Steamsmash,Weapon,39,Rare,176
 53847,Vagabond's War Auger,Weapon,39,Rare,117
 53848,Vagabond's Boregun,Weapon,39,Rare,117
 53849,Vagabond's Bombard,Weapon,39,Rare,176
 53850,Vagabond's Gladium Prod,Weapon,39,Rare,117
 53851,Vagabond's Geared Maw,Weapon,39,Rare,117
-53852,Vagabond's Impulse Spire,Weapon,39,Rare,176
-53853,Vagabond's Chainblade,Weapon,39,Rare,117
-53854,Vagabond's Legion's Light,Weapon,39,Rare,117
-53855,Vagabond's Charr Alarm Clock,Weapon,39,Rare,117
 53856,Vagabond's Grawlgrinder,Weapon,44,Rare,126
 53857,Vagabond's Chromecurve,Weapon,44,Rare,189
-53858,Vagabond's Pulleybow,Weapon,44,Rare,189
-53859,Vagabond's Serrated Fate,Weapon,44,Rare,126
-53860,Vagabond's Bent Circuit,Weapon,44,Rare,126
-53861,Vagabond's Problem Solver,Weapon,44,Rare,189
 53862,Vagabond's Steamsmash,Weapon,44,Rare,189
-53863,Vagabond's War Auger,Weapon,44,Rare,126
 53864,Vagabond's Boregun,Weapon,44,Rare,126
 53865,Vagabond's Bombard,Weapon,44,Rare,189
-53866,Vagabond's Gladium Prod,Weapon,44,Rare,126
-53867,Vagabond's Geared Maw,Weapon,44,Rare,126
 53868,Vagabond's Impulse Spire,Weapon,44,Rare,189
 53869,Vagabond's Chainblade,Weapon,44,Rare,126
 53870,Vagabond's Legion's Light,Weapon,44,Rare,126
@@ -39289,85 +39266,54 @@ id,name,type,level,rarity,vendor_value
 53872,Vagabond's Grawlgrinder,Weapon,51,Rare,141
 53873,Vagabond's Chromecurve,Weapon,51,Rare,212
 53874,Vagabond's Pulleybow,Weapon,51,Rare,212
-53875,Vagabond's Serrated Fate,Weapon,51,Rare,141
 53876,Vagabond's Bent Circuit,Weapon,51,Rare,141
-53877,Vagabond's Problem Solver,Weapon,51,Rare,212
 53878,Vagabond's Steamsmash,Weapon,51,Rare,212
-53879,Vagabond's War Auger,Weapon,51,Rare,141
 53880,Vagabond's Boregun,Weapon,51,Rare,141
-53881,Vagabond's Bombard,Weapon,51,Rare,212
-53882,Vagabond's Gladium Prod,Weapon,51,Rare,141
-53883,Vagabond's Geared Maw,Weapon,51,Rare,141
-53884,Vagabond's Impulse Spire,Weapon,51,Rare,212
-53885,Vagabond's Chainblade,Weapon,51,Rare,141
 53886,Vagabond's Legion's Light,Weapon,51,Rare,141
 53887,Vagabond's Charr Alarm Clock,Weapon,51,Rare,141
 53888,Vagabond's Grawlgrinder,Weapon,55,Rare,150
-53889,Vagabond's Chromecurve,Weapon,55,Rare,225
 53890,Vagabond's Pulleybow,Weapon,55,Rare,225
-53891,Vagabond's Serrated Fate,Weapon,55,Rare,150
 53892,Vagabond's Bent Circuit,Weapon,55,Rare,150
 53893,Vagabond's Problem Solver,Weapon,55,Rare,225
-53894,Vagabond's Steamsmash,Weapon,55,Rare,225
 53895,Vagabond's War Auger,Weapon,55,Rare,150
 53896,Vagabond's Boregun,Weapon,55,Rare,150
-53897,Vagabond's Bombard,Weapon,55,Rare,225
-53898,Vagabond's Gladium Prod,Weapon,55,Rare,150
-53899,Vagabond's Geared Maw,Weapon,55,Rare,150
 53900,Vagabond's Impulse Spire,Weapon,55,Rare,225
 53901,Vagabond's Chainblade,Weapon,55,Rare,150
-53902,Vagabond's Legion's Light,Weapon,55,Rare,150
 53903,Vagabond's Charr Alarm Clock,Weapon,55,Rare,150
-53904,Vagabond's Grawlgrinder,Weapon,60,Rare,162
-53905,Vagabond's Chromecurve,Weapon,60,Rare,243
 53906,Vagabond's Pulleybow,Weapon,60,Rare,243
-53907,Vagabond's Serrated Fate,Weapon,60,Rare,162
 53908,Vagabond's Bent Circuit,Weapon,60,Rare,162
 53909,Vagabond's Problem Solver,Weapon,60,Rare,243
 53910,Vagabond's Steamsmash,Weapon,60,Rare,243
 53911,Vagabond's War Auger,Weapon,60,Rare,162
 53912,Vagabond's Boregun,Weapon,60,Rare,162
 53913,Vagabond's Bombard,Weapon,60,Rare,243
-53914,Vagabond's Gladium Prod,Weapon,60,Rare,162
-53915,Vagabond's Geared Maw,Weapon,60,Rare,162
 53916,Vagabond's Impulse Spire,Weapon,60,Rare,243
 53917,Vagabond's Chainblade,Weapon,60,Rare,162
 53918,Vagabond's Legion's Light,Weapon,60,Rare,162
-53919,Vagabond's Charr Alarm Clock,Weapon,60,Rare,162
 53920,Vagabond's Disputation,Weapon,36,Rare,111
 53921,Vagabond's Queen's Retort,Weapon,36,Rare,167
 53922,Vagabond's Prince's Praise,Weapon,36,Rare,167
-53923,Vagabond's Discretion,Weapon,36,Rare,111
 53924,Vagabond's Kessene Wreath,Weapon,36,Rare,111
 53925,Vagabond's Royal Barber,Weapon,36,Rare,167
-53926,Vagabond's Redeye Maul,Weapon,36,Rare,167
 53927,Vagabond's Flangeflare,Weapon,36,Rare,111
 53928,Vagabond's Obedience,Weapon,36,Rare,111
 53929,Vagabond's Cannon Law,Weapon,36,Rare,167
 53930,Vagabond's Majestic Hand,Weapon,36,Rare,111
-53931,Vagabond's Pride of Arms,Weapon,36,Rare,111
 53932,Vagabond's Concordance,Weapon,36,Rare,167
 53933,Vagabond's Dignity,Weapon,36,Rare,111
 53934,Vagabond's Hue,Weapon,36,Rare,111
 53935,Vagabond's Cry,Weapon,36,Rare,111
 53936,Vagabond's Disputation,Weapon,39,Rare,117
 53937,Vagabond's Queen's Retort,Weapon,39,Rare,176
-53938,Vagabond's Prince's Praise,Weapon,39,Rare,176
 53939,Vagabond's Discretion,Weapon,39,Rare,117
-53940,Vagabond's Kessene Wreath,Weapon,39,Rare,117
-53941,Vagabond's Royal Barber,Weapon,39,Rare,176
 53942,Vagabond's Redeye Maul,Weapon,39,Rare,176
 53943,Vagabond's Flangeflare,Weapon,39,Rare,117
 53944,Vagabond's Obedience,Weapon,39,Rare,117
 53945,Vagabond's Cannon Law,Weapon,39,Rare,176
-53946,Vagabond's Majestic Hand,Weapon,39,Rare,117
-53947,Vagabond's Pride of Arms,Weapon,39,Rare,117
 53948,Vagabond's Concordance,Weapon,39,Rare,176
-53949,Vagabond's Dignity,Weapon,39,Rare,117
 53950,Vagabond's Hue,Weapon,39,Rare,117
 53951,Vagabond's Cry,Weapon,39,Rare,117
 53952,Vagabond's Disputation,Weapon,44,Rare,126
-53953,Vagabond's Queen's Retort,Weapon,44,Rare,189
 53954,Vagabond's Prince's Praise,Weapon,44,Rare,189
 53955,Vagabond's Discretion,Weapon,44,Rare,126
 53956,Vagabond's Kessene Wreath,Weapon,44,Rare,126
@@ -39382,23 +39328,18 @@ id,name,type,level,rarity,vendor_value
 53965,Vagabond's Dignity,Weapon,44,Rare,126
 53966,Vagabond's Hue,Weapon,44,Rare,126
 53967,Vagabond's Cry,Weapon,44,Rare,126
-53968,Vagabond's Disputation,Weapon,51,Rare,141
 53969,Vagabond's Queen's Retort,Weapon,51,Rare,212
 53970,Vagabond's Prince's Praise,Weapon,51,Rare,212
 53971,Vagabond's Discretion,Weapon,51,Rare,141
 53972,Vagabond's Kessene Wreath,Weapon,51,Rare,141
-53973,Vagabond's Royal Barber,Weapon,51,Rare,212
 53974,Vagabond's Redeye Maul,Weapon,51,Rare,212
 53975,Vagabond's Flangeflare,Weapon,51,Rare,141
-53976,Vagabond's Obedience,Weapon,51,Rare,141
 53977,Vagabond's Cannon Law,Weapon,51,Rare,212
-53978,Vagabond's Majestic Hand,Weapon,51,Rare,141
 53979,Vagabond's Pride of Arms,Weapon,51,Rare,141
 53980,Vagabond's Concordance,Weapon,51,Rare,212
 53981,Vagabond's Dignity,Weapon,51,Rare,141
 53982,Vagabond's Hue,Weapon,51,Rare,141
 53983,Vagabond's Cry,Weapon,51,Rare,141
-53984,Vagabond's Disputation,Weapon,55,Rare,150
 53985,Vagabond's Queen's Retort,Weapon,55,Rare,225
 53986,Vagabond's Prince's Praise,Weapon,55,Rare,225
 53987,Vagabond's Discretion,Weapon,55,Rare,150
@@ -60970,7 +60911,7 @@ id,name,type,level,rarity,vendor_value
 92611,Black Lion Wintersday Weapons Selection,Container,0,Rare,0
 92612,Mythic Greatsword Skin,Consumable,0,Rare,0
 92613,Frostfire Glider,Consumable,0,Masterwork,0
-92614,Festive Sweater,Container,0,Exotic,256
+92614,Festive Sweater Box,Container,0,Exotic,256
 92615,Peppermint Arrow,Consumable,0,Basic,0
 92616,Bringer's Rimed Verdant Hammer of Ice,Weapon,80,Exotic,396
 92617,Mythic Scepter Skin,Consumable,0,Rare,0
@@ -62355,7 +62296,7 @@ id,name,type,level,rarity,vendor_value
 94419,Shimmering Aurora Focus Skin,Consumable,0,Rare,0
 94420,Giver's Candy Cane Hammer of Concentration,Weapon,80,Exotic,396
 94421,Shrine Guardian Glider Skin,Consumable,0,Masterwork,0
-94422,Festive Winter Hood,Container,0,Exotic,0
+94422,Festive Winter Hood Box,Container,0,Exotic,0
 94423,Giver's Wintergreen Shield of Chilling,Weapon,80,Exotic,264
 94424,Giver's Candy Cane Axe of Concentration,Weapon,80,Exotic,264
 94425,Shimmering Aurora Dagger Skin,Consumable,0,Rare,0
@@ -69348,6 +69289,7 @@ Balance",Gizmo,0,Basic,0
 104092,Plush Greatsword,Weapon,80,Exotic,396
 104093,Dragon Essence Sword Skin,Consumable,0,Rare,0
 104094,Plush Staff,Weapon,80,Exotic,396
+104095,"Homestead Recipe Book: Wintersday, Volume 10",Consumable,0,Exotic,0
 104096,Plush Torch,Weapon,80,Exotic,264
 104097,"Homestead Recipe Book: Wintersday, Volume 5",Consumable,0,Exotic,0
 104098,Eternal Tides Gown Outfit,Consumable,0,Rare,0
@@ -70377,6 +70319,7 @@ Balance",Gizmo,0,Basic,0
 105380,Unchained Shield,Weapon,80,Exotic,264
 105381,Lunatic Jester's Trouser Trove,Container,0,Exotic,0
 105382,Unchained Greatsword,Weapon,80,Exotic,396
+105383,Plush Jorms Backpack,Back,80,Exotic,8888
 105384,Graveyard Straight Stone Path Recipe,Consumable,0,Basic,0
 105386,Graveyard Tombstone Recipe,Consumable,0,Basic,0
 105387,Box of Deathly Avian Shoulder Skins,Container,0,Masterwork,0
@@ -70696,7 +70639,7 @@ Balance",Gizmo,0,Basic,0
 105875,Gift of Insight,CraftingMaterial,0,Legendary,0
 105876,Track 13: Otherworldly Threats,Consumable,0,Exotic,0
 105878,Alliance Field Operative's Coat Box,Container,0,Exotic,0
-105879,Janthir Fishing Reward,Container,0,Legendary,640
+105879,Castora Fishing Reward,Container,0,Legendary,640
 105880,Track 34: An Old Forgotten Place,Consumable,0,Exotic,0
 105881,Tattered Note,Gizmo,0,Exotic,0
 105882,Track 8: Flesh and Fever,Consumable,0,Exotic,0
@@ -71254,3 +71197,53 @@ Balance",Gizmo,0,Basic,0
 106823,Metrica Sports T-Shirt Skin,Consumable,0,Masterwork,0
 106824,Black Lion Stolen Goods,Consumable,0,Basic,0
 106825,Black Lion Underwater Porous Rock Recipe,Consumable,0,Basic,0
+106826,Sugardrift Longbow,Weapon,80,Exotic,396
+106827,Steam-Powered Legwear (Left) Skin,Consumable,0,Masterwork,0
+106828,Sugardrift Mace,Weapon,80,Exotic,264
+106829,Sugardrift Shield,Weapon,80,Exotic,264
+106830,Sugardrift Spear,Weapon,80,Exotic,396
+106832,Black Lion Gingerbread Window Recipe,Consumable,0,Basic,0
+106833,Sugardrift Scepter,Weapon,80,Exotic,264
+106834,Jorms Plush,Consumable,0,Basic,0
+106835,Sugardrift Hammer,Weapon,80,Exotic,396
+106836,Sugardrift Warhorn,Weapon,80,Exotic,264
+106837,Steam-Powered Legwear (Right) Skin,Consumable,0,Masterwork,0
+106838,Recipe: Jorms Plush,Consumable,0,Basic,50
+106839,Black Lion Gingerbread Door Recipe,Consumable,0,Basic,0
+106842,Raptor Mount Unlock,Consumable,0,Exotic,0
+106843,Sugardrift Rifle,Weapon,80,Exotic,396
+106844,Mini Plush Tiger,MiniPet,0,Exotic,50
+106845,Black Lion Gingerbread Wall Recipe,Consumable,0,Basic,0
+106847,Sugardrift Axe,Weapon,80,Exotic,264
+106848,Trader's Plush Chest,Container,0,Exotic,256
+106849,Winter Snow Goggles,Armor,80,Exotic,330
+106850,Sugardrift Short Bow,Weapon,80,Exotic,396
+106851,Sugardrift Greatsword,Weapon,80,Exotic,396
+106852,Sugardrift Staff,Weapon,80,Exotic,396
+106854,Winter Snow Goggles,Armor,80,Exotic,330
+106856,Sugardrift Dagger,Weapon,80,Exotic,264
+106857,Sugardrift Focus,Weapon,80,Exotic,264
+106858,Black Lion Gingerbread Candy Bush Recipe,Consumable,0,Basic,0
+106859,Sugardrift Sword,Weapon,80,Exotic,264
+106860,Black Lion Gingerbread Friend Recipe,Consumable,0,Basic,0
+106861,Black Lion Satchel and Bag Slot Expansion,Container,0,Exotic,256
+106862,Recipe: Snow Diamond Ornament,Consumable,70,Masterwork,57
+106863,Sugardrift Chest,Container,0,Exotic,256
+106865,Recipe: Light-Blue Wintersday Gift,Consumable,0,Basic,50
+106866,Winter Snow Goggles,Armor,80,Exotic,330
+106867,Gift Barrel,Consumable,0,Basic,0
+106868,Black Lion Gingerbread Doorway Recipe,Consumable,0,Basic,0
+106869,Black Lion Gingerbread Frosting Trim Recipe,Consumable,0,Basic,0
+106871,Steam-Powered Legwear Package,Container,0,Masterwork,0
+106872,Basic Glider Unlock,Consumable,0,Exotic,0
+106873,Recipe: Gift Barrel,Consumable,0,Basic,50
+106874,Light-Blue Wintersday Gift,Consumable,0,Basic,0
+106876,Black Lion Gingerbread Roof Recipe,Consumable,0,Basic,0
+106877,Winter Snow Goggles Box,Container,0,Exotic,256
+106878,Sugardrift Pistol,Weapon,80,Exotic,264
+106879,Sugardrift Torch,Weapon,80,Exotic,264
+106880,Snow Diamond Ornament,Consumable,1,Exotic,0
+106881,Recipe: Gift Levitator,Consumable,0,Basic,50
+106882,Gingerbread Homestead Package,Container,0,Basic,0
+106883,Black Lion Gingerbread Gable Recipe,Consumable,0,Basic,0
+106884,Snowdrift Spear,Weapon,80,Exotic,396
