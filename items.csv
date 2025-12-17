@@ -23965,6 +23965,7 @@ id,name,type,level,rarity,vendor_value
 32133,Wooden Focus,Weapon,0,Fine,7
 32134,Avenger's Longsword,Weapon,8,Fine,20
 32135,Mace,Weapon,0,Basic,3
+32136,Pistol,Weapon,0,Basic,4
 32138,Wooden Rod,Weapon,0,Basic,3
 32139,Buckler,Weapon,0,Fine,7
 32141,Shortsword,Weapon,0,Basic,3
@@ -37561,6 +37562,7 @@ id,name,type,level,rarity,vendor_value
 52098,Apostate's Little Smirk,Weapon,59,Exotic,318
 52099,Apostate's Razor Shard,Weapon,59,Exotic,212
 52104,Apostate's Glaukon's Greeting,Weapon,59,Exotic,212
+52105,Apostate's Gritted Bayonet,Weapon,59,Exotic,318
 52106,Apostate's Smodur's Charge,Weapon,59,Exotic,212
 52107,Apostate's Chiminea Ward,Weapon,59,Exotic,212
 52108,Apostate's Radiance,Weapon,59,Exotic,318
@@ -40394,6 +40396,7 @@ id,name,type,level,rarity,vendor_value
 61042,Fury Unleashed,Container,0,Exotic,0
 61044,Forge Gavel,Container,0,Exotic,0
 61045,Glaukon's Greeting,Container,0,Exotic,0
+61046,Gritted Bayonet,Container,0,Exotic,0
 61047,Smodur's Charge,Container,0,Exotic,0
 61048,Chiminea Ward,Container,0,Exotic,0
 61049,Radiance,Container,0,Exotic,0
@@ -71260,6 +71263,7 @@ Balance",Gizmo,0,Basic,0
 106828,Sugardrift Mace,Weapon,80,Exotic,264
 106829,Sugardrift Shield,Weapon,80,Exotic,264
 106830,Sugardrift Spear,Weapon,80,Exotic,396
+106831,Metal Legion Logging Tool,Gathering,0,Rare,192
 106832,Black Lion Gingerbread Window Recipe,Consumable,0,Basic,0
 106833,Sugardrift Scepter,Weapon,80,Exotic,264
 106834,Jorms Plush,Consumable,0,Basic,0
@@ -71268,6 +71272,7 @@ Balance",Gizmo,0,Basic,0
 106837,Steam-Powered Legwear (Right) Skin,Consumable,0,Masterwork,0
 106838,Recipe: Jorms Plush,Consumable,0,Basic,50
 106839,Black Lion Gingerbread Door Recipe,Consumable,0,Basic,0
+106841,Metal Legion Harvesting Tool,Gathering,0,Rare,192
 106842,Raptor Mount Unlock,Consumable,0,Exotic,0
 106843,Sugardrift Rifle,Weapon,80,Exotic,396
 106844,Mini Plush Tiger,MiniPet,0,Exotic,50
@@ -71291,6 +71296,7 @@ Balance",Gizmo,0,Basic,0
 106867,Gift Barrel,Consumable,0,Basic,0
 106868,Black Lion Gingerbread Doorway Recipe,Consumable,0,Basic,0
 106869,Black Lion Gingerbread Frosting Trim Recipe,Consumable,0,Basic,0
+106870,Metal Legion Mining Tool,Gathering,0,Rare,192
 106871,Steam-Powered Legwear Package,Container,0,Masterwork,0
 106872,Basic Glider Unlock,Consumable,0,Exotic,0
 106873,Recipe: Gift Barrel,Consumable,0,Basic,50
