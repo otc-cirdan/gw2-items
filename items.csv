@@ -24855,6 +24855,7 @@ id,name,type,level,rarity,vendor_value
 33040,Orrian Spear of Vision,Weapon,70,Exotic,354
 33044,Orrian Bow of Vision,Weapon,70,Exotic,354
 33045,Orrian Bow of Accuracy,Weapon,78,Exotic,384
+33049,Orrian Mace of Accuracy,Weapon,78,Exotic,256
 33050,Orrian Mace of Rage,Weapon,80,Exotic,264
 33052,Orrian Pistol of Vision,Weapon,70,Exotic,236
 33053,Orrian Pistol of Accuracy,Weapon,78,Exotic,256
@@ -24867,6 +24868,7 @@ id,name,type,level,rarity,vendor_value
 33069,Orrian Short Bow of Accuracy,Weapon,78,Exotic,384
 33070,Orrian Short Bow of Rage,Weapon,80,Exotic,396
 33072,Orrian Speargun of Vision,Weapon,70,Exotic,354
+33073,Orrian Speargun of Accuracy,Weapon,78,Exotic,384
 33074,Orrian Speargun of Rage,Weapon,80,Exotic,396
 33077,Orrian Staff of Accuracy,Weapon,78,Exotic,384
 33078,Orrian Staff of Rage,Weapon,80,Exotic,396
@@ -24875,6 +24877,8 @@ id,name,type,level,rarity,vendor_value
 33084,Orrian Torch of Vision,Weapon,70,Exotic,236
 33085,Orrian Torch of Accuracy,Weapon,78,Exotic,256
 33086,Orrian Torch of Rage,Weapon,80,Exotic,264
+33089,Orrian Trident of Accuracy,Weapon,78,Exotic,384
+33093,Orrian Warhorn of Accuracy,Weapon,78,Exotic,256
 33094,Orrian Warhorn of Rage,Weapon,80,Exotic,264
 33096,Orrian Axe,Weapon,66,Fine,56
 33098,Orrian Axe,Weapon,76,Fine,63
@@ -25038,6 +25042,7 @@ id,name,type,level,rarity,vendor_value
 33368,Ceremonial Dagger of Accuracy,Weapon,78,Exotic,256
 33377,Ceremonial Scimitar of Rage,Weapon,80,Exotic,396
 33389,Ceremonial Longbow of Rage,Weapon,80,Exotic,396
+33392,Ceremonial Morning Star of Accuracy,Weapon,78,Exotic,256
 33396,Ceremonial Pistol of Accuracy,Weapon,78,Exotic,256
 33397,Ceremonial Pistol of Rage,Weapon,80,Exotic,264
 33399,Ceremonial Rifle of Vision,Weapon,70,Exotic,354
@@ -25049,7 +25054,9 @@ id,name,type,level,rarity,vendor_value
 33421,Ceremonial Stave of Rage,Weapon,80,Exotic,396
 33424,Ceremonial Sabre of Accuracy,Weapon,78,Exotic,256
 33425,Ceremonial Sabre of Rage,Weapon,80,Exotic,264
+33428,Ceremonial Torch of Accuracy,Weapon,78,Exotic,256
 33429,Ceremonial Torch of Rage,Weapon,80,Exotic,264
+33436,Ceremonial Warhorn of Accuracy,Weapon,78,Exotic,256
 33438,Resilient Krytan Axe,Weapon,0,Fine,6
 33439,Resilient Krytan Axe,Weapon,6,Fine,11
 33440,Resilient Krytan Axe,Weapon,11,Fine,16
