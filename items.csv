@@ -23449,6 +23449,7 @@ id,name,type,level,rarity,vendor_value
 31221,Alpine Maul,Weapon,80,Exotic,396
 31224,Alpine Club,Weapon,80,Exotic,264
 31225,Alpine Handcannon,Weapon,80,Exotic,264
+31226,Alpine Arquebus,Weapon,80,Exotic,396
 31227,Alpine Wand,Weapon,80,Exotic,264
 31228,Alpine Shield,Weapon,80,Exotic,264
 31229,Alpine Short Bow,Weapon,80,Exotic,396
@@ -23513,6 +23514,7 @@ id,name,type,level,rarity,vendor_value
 31306,Gatling Harpoon Gun,Weapon,80,Exotic,396
 31307,Geararm,Weapon,80,Exotic,396
 31308,Grearstaff,Weapon,80,Exotic,396
+31309,Legionnaire Axe,Weapon,80,Exotic,264
 31310,Legionnaire Dagger,Weapon,80,Exotic,264
 31311,Legionnaire Symbol,Weapon,80,Exotic,264
 31312,Legionnaire Greatsword,Weapon,80,Exotic,396
@@ -23718,6 +23720,7 @@ id,name,type,level,rarity,vendor_value
 31689,Norn Scepter,Weapon,80,Exotic,264
 31690,Norn Shield,Weapon,80,Exotic,264
 31692,Norn Harpoon Gun,Weapon,80,Exotic,396
+31693,Norn Staff,Weapon,80,Exotic,396
 31695,Norn Torch,Weapon,80,Exotic,264
 31696,Norn Trident,Weapon,80,Exotic,396
 31697,Norn Warhorn,Weapon,80,Exotic,264
