@@ -61230,7 +61230,7 @@ id,name,type,level,rarity,vendor_value
 92919,Warlord's Legguards,Armor,80,Exotic,0
 92920,Warlord's Leggings,Armor,80,Exotic,0
 92922,Mighty Seeger's Union,Weapon,10,Fine,27
-92923,Warlord's Armor Box,Container,0,Exotic,0
+92923,Warlord's Armor Box,Gizmo,0,Exotic,0
 92924,Homespun Espadrilles,Armor,5,Fine,13
 92925,Warlord's Footgear,Armor,80,Exotic,0
 92926,Maguuma's Mantle Skin,Consumable,0,Masterwork,0
@@ -63652,7 +63652,7 @@ id,name,type,level,rarity,vendor_value
 95913,Transcendent Crystal,Trophy,0,Legendary,640
 95914,Recipe: Jade Tech Skirt,Consumable,0,Exotic,6000
 95915,Ritualist's Ancient Tahkayun Vambraces,Armor,80,Exotic,238
-95916,Canthan Champion Weapon Box,Container,0,Basic,0
+95916,Canthan Champion Weapon Box,Gizmo,0,Basic,0
 95919,Sheaf of Recipes: Dragon's Argument,Consumable,0,Ascended,160
 95920,Dragon's Weight,Weapon,80,Exotic,0
 95922,Gift of Aurene's Breath,Trophy,0,Legendary,640
@@ -63986,7 +63986,7 @@ id,name,type,level,rarity,vendor_value
 96366,Recipe: Tier 1 Core,Consumable,0,Exotic,128
 96367,Elon Tetra,Container,0,Fine,64
 96368,Master Harbinger's Ring (Infused),Trinket,80,Ascended,495
-96372,Spindrift Weapon Box,Container,0,Basic,0
+96372,Spindrift Weapon Box,Gizmo,0,Basic,0
 96373,Mystic Remora,Container,0,Exotic,256
 96375,Endless Minister of Security Combat Tonic,Gizmo,0,Exotic,0
 96376,Recipe: Jade Tech Longbow,Consumable,0,Exotic,128
@@ -65599,7 +65599,7 @@ id,name,type,level,rarity,vendor_value
 98897,New Kaineng Pistol Skin,Consumable,0,Rare,0
 98902,Decade's Saga Skin,Consumable,0,Exotic,0
 98903,New Kaineng Dagger Skin,Consumable,0,Rare,0
-98904,War Machine Weapon Skin Selection,Container,1,Exotic,264
+98904,War Machine Weapon Skin Selection,Gizmo,1,Exotic,264
 98905,Volume Completion Award: Volume Four,Consumable,0,Basic,0
 98906,New Kaineng Longbow Skin,Consumable,0,Rare,0
 98907,Adventure Experience Award: Volume One,Consumable,0,Basic,0
@@ -66381,7 +66381,7 @@ id,name,type,level,rarity,vendor_value
 99789,Mistwalker Infusion,UpgradeComponent,0,Exotic,0
 99790,Mistwalker Infusion,UpgradeComponent,0,Exotic,0
 99791,Candy-Packed Dragon Mace,Weapon,80,Exotic,264
-99792,Officer's Remnant Cache,Container,0,Exotic,0
+99792,Officer's Remnant Cache,Gizmo,0,Exotic,0
 99793,Officer's Remnant Axe,Weapon,80,Exotic,264
 99794,Mists-Infused Spherified Peppercorn-Spiced Oyster Soup,Consumable,80,Ascended,165
 99795,Anguish Dye,Consumable,0,Rare,5
@@ -66708,7 +66708,7 @@ Unsworn",Gizmo,0,Basic,0
 100186,Recipe: Relic of the Water,Consumable,0,Exotic,128
 100188,Berserker's Shattered Hammer,Weapon,80,Exotic,396
 100189,Recipe: Relic of the Deadeye,Consumable,0,Exotic,128
-100192,Skyforged Weapon Box,Container,0,Rare,0
+100192,Skyforged Weapon Box,Gizmo,0,Rare,0
 100193,Amnytas: Hero's Choice Chest,Container,0,Exotic,0
 100194,Relic of the Weaver,Relic,60,Exotic,200
 100195,Skyscale Target Practice: Bronze,Container,0,Fine,0
@@ -66884,7 +66884,7 @@ Balance",Gizmo,0,Basic,0
 100417,Forged Cache,Container,0,Basic,0
 100419,Infernal Envoy Outfit,Consumable,0,Rare,0
 100420,Magi's Skyforged Sword,Weapon,80,Rare,198
-100421,Eagle Eye Weapon Chest,Container,0,Rare,0
+100421,Eagle Eye Weapon Chest,Gizmo,0,Rare,0
 100422,Scrap of Secrets of the Obscure Mastery,Consumable,0,Masterwork,0
 100423,Fractured Constellation,Consumable,0,Exotic,0
 100424,Rabid Skyscale Pistol,Weapon,80,Ascended,330
@@ -68641,7 +68641,7 @@ Balance",Gizmo,0,Basic,0
 102899,Ring of the Crustacean,Trinket,80,Ascended,495
 102901,Gift of Klobjarne Geirr,CraftingMaterial,0,Legendary,0
 102902,"Homestead Recipe Book: Plants, Volume 2",Consumable,0,Exotic,0
-102904,Moon-Etched Weapon Box,Container,0,Rare,0
+102904,Moon-Etched Weapon Box,Gizmo,0,Rare,0
 102905,Janthir Syntri Adventure: Silver,Container,0,Masterwork,0
 102907,Woad Medium Leggings,Armor,80,Exotic,370
 102908,Recipe: Gold Statue of Grenth Trophy,Consumable,0,Basic,50
@@ -68781,7 +68781,7 @@ Balance",Gizmo,0,Basic,0
 103246,Recipe: Chak Gerent Eye,Consumable,0,Basic,50
 103247,Homestead Upgrade: Ore Trade Capacity,Consumable,0,Exotic,0
 103249,Woad Light Gloves,Armor,80,Exotic,238
-103253,Ursan Weapon Chest,Container,0,Rare,0
+103253,Ursan Weapon Chest,Gizmo,0,Rare,0
 103254,Recipe: Titanplate Light Mantle,Consumable,0,Exotic,6000
 103255,Known Track 02,Gizmo,0,Basic,0
 103257,Valkyrie Bearkin War Helm,Armor,80,Exotic,330
@@ -69121,7 +69121,7 @@ Balance",Gizmo,0,Basic,0
 103804,Homestead Recipe Book: Tables and Chairs,Consumable,0,Exotic,0
 103805,Natural Razor,Weapon,80,Ascended,10000
 103806,Blood Moon Greatsword of Blood,Weapon,80,Exotic,396
-103807,Blood Moon Weapon Box,Container,0,Exotic,0
+103807,Blood Moon Weapon Box,Gizmo,0,Exotic,0
 103808,The Stormpiercer Spear Skin,Consumable,0,Rare,0
 103809,Proof of Siege Expertise,Consumable,0,Basic,0
 103810,Natural Leggings,Armor,80,Ascended,240
@@ -69674,7 +69674,7 @@ Balance",Gizmo,0,Basic,0
 104499,Recipe: Relic of the Ogre,Consumable,0,Exotic,128
 104500,"Homestead Recipe Book: Misc. Items, Volume 4",Consumable,0,Exotic,0
 104501,Relic of Fire,Relic,60,Exotic,200
-104502,Scavenged Obsidian Weapon Box,Container,0,Rare,0
+104502,Scavenged Obsidian Weapon Box,Gizmo,0,Rare,0
 104503,Kurzick Tree Singer's Short Bow,Weapon,80,Exotic,396
 104504,Wisteria Arborscale Skyscale Skin,Consumable,0,Exotic,0
 104505,Upgrade: Business Hours (Nocturnal),Consumable,0,Exotic,0
@@ -69690,7 +69690,7 @@ Balance",Gizmo,0,Basic,0
 104515,Kurzick Tree Singer's Torch,Weapon,80,Exotic,264
 104516,Kurzick Tree Singer's Hammer,Weapon,80,Exotic,396
 104518,Upgrade: Waiter (Jade Bot Gamma),Consumable,0,Exotic,0
-104519,Kurzick Weapon Chest,Container,0,Exotic,0
+104519,Kurzick Weapon Chest,Gizmo,0,Exotic,0
 104520,Dungeon Weapon Container,Container,0,Basic,0
 104522,Upgrade: Souvenir (Attractive Feathers),Consumable,0,Exotic,0
 104523,Upgrade: Souvenir (Attached Bell),Consumable,0,Exotic,0
@@ -70052,7 +70052,7 @@ Balance",Gizmo,0,Basic,0
 104979,Slumbering Lightborne Pistol,Weapon,80,Rare,198
 104980,Woodland Kodan Leather Shoulders,Armor,80,Exotic,291
 104981,Orrax Manifested Backpack and Glider Combo,Consumable,0,Masterwork,0
-104983,Slumbering Lightborne Weapon Box,Container,0,Exotic,0
+104983,Slumbering Lightborne Weapon Box,Gizmo,0,Exotic,0
 104984,Convergence Challenge Mode: Bronze,Container,0,Fine,0
 104986,Recipe: Lightborne Axe,Consumable,0,Exotic,128
 104987,Letter from Lutze,Consumable,0,Junk,10
@@ -70832,7 +70832,7 @@ Balance",Gizmo,0,Basic,0
 106082,Track 15: Peitha's Flame,Consumable,0,Exotic,0
 106083,Alliance Field Operative's Light Gloves,Armor,80,Exotic,238
 106084,Seer-Enchanted Axe,Weapon,80,Exotic,264
-106086,Restless Captain's Armor Chest,Container,0,Exotic,0
+106086,Restless Captain's Armor Chest,Gizmo,0,Exotic,0
 106087,Galleon Hull (Middle),Consumable,0,Basic,0
 106088,Track 34: Dirge of the Father King,Consumable,0,Exotic,0
 106091,Track 5: Reins of the Raptor,Consumable,0,Exotic,0
@@ -70914,7 +70914,7 @@ Balance",Gizmo,0,Basic,0
 106208,Roped Fence,Consumable,0,Basic,0
 106212,Track 34: An Old Forgotten Place,Consumable,0,Exotic,0
 106213,Priory's Historical Glaive,Weapon,80,Rare,4500
-106214,Extremis Armor Chest,Container,0,Exotic,0
+106214,Extremis Armor Chest,Gizmo,0,Exotic,0
 106215,Skimmer Ley-Line Adventure: Silver,Container,0,Fine,0
 106218,Island Pitcher Plant Patch,Consumable,0,Basic,0
 106220,Track 11: Rhythms of War,Consumable,0,Exotic,0
@@ -71324,3 +71324,13 @@ Balance",Gizmo,0,Basic,0
 106882,Gingerbread Homestead Package,Container,0,Basic,0
 106883,Black Lion Gingerbread Gable Recipe,Consumable,0,Basic,0
 106884,Snowdrift Spear,Weapon,80,Exotic,396
+106885,Woad Armor Chest,Gizmo,0,Exotic,0
+106886,Black Lion Plush Bunny Pal Recipe,Consumable,0,Basic,0
+106887,Black Lion Plush Chick Pal Recipe,Consumable,0,Basic,0
+106888,Rift Hunter Armor Box,Gizmo,0,Exotic,0
+106889,Vermilion Staff Skin,Consumable,0,Rare,0
+106891,Black Lion Plush Cuckoo Pal Recipe,Consumable,0,Basic,0
+106892,Plush Pals 2 Homestead Package,Container,0,Basic,0
+106893,Fractal Rush Trophy,Trophy,0,Rare,0
+106894,Black Lion Plush Raptor Pal Recipe,Consumable,0,Basic,0
+106897,Black Lion Plush Vulpine Pal Recipe,Consumable,0,Basic,0
