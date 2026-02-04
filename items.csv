@@ -60724,11 +60724,11 @@ id,name,type,level,rarity,vendor_value
 92230,Restored Boreal Hammer,Weapon,80,Exotic,396
 92234,Bear Flank,Trophy,0,Basic,500
 92235,Ancient Boreal Shield Skin,Consumable,80,Exotic,0
-92236,Strike Mission: Lost Small Chest of Vigilance,Container,0,Fine,0
+92236,Raid Encounter: Lost Small Chest of Vigilance,Container,0,Fine,0
 92237,Essence Manipulation Letter,Gizmo,0,Exotic,160
 92240,Recipe: Illuminated Boreal Warhorn,Consumable,0,Exotic,128
 92241,Ancient Boreal Weapon Skin Container,Container,0,Rare,0
-92242,Strike Mission: Lost Medium Chest of Vigilance,Container,0,Masterwork,0
+92242,Raid Encounter: Lost Medium Chest of Vigilance,Container,0,Masterwork,0
 92243,A Burden,Gizmo,0,Basic,0
 92244,Restored Boreal Scepter,Weapon,80,Exotic,264
 92246,Boneskinner Flank,Trophy,0,Basic,500
@@ -60740,7 +60740,7 @@ id,name,type,level,rarity,vendor_value
 92254,Recipe: Illuminated Boreal Sword,Consumable,0,Exotic,128
 92255,Prize of the Boneskinner Skin,Consumable,0,Rare,0
 92256,Dragonrender Light Helm,Armor,80,Exotic,25000
-92257,Strike Mission: Lost Small Chest of Resilience,Container,0,Fine,0
+92257,Raid Encounter: Lost Small Chest of Resilience,Container,0,Fine,0
 92260,Ancient Boreal Rifle Skin,Consumable,80,Exotic,0
 92261,Restored Boreal Shield,Weapon,80,Exotic,264
 92262,Recipe: Restored Boreal Hammer,Consumable,0,Exotic,128
@@ -60781,13 +60781,13 @@ id,name,type,level,rarity,vendor_value
 92312,Fine Black Lion Dye Canister—Blue,Gizmo,0,Fine,0
 92313,Masterwork Black Lion Dye Canister—Blue,Gizmo,0,Masterwork,0
 92314,"Story Unlock: ""Whisper in the Dark""",Consumable,0,Fine,4
-92316,Strike Mission: Lost Small Chest of Valor,Container,0,Fine,0
+92316,Raid Encounter: Lost Small Chest of Valor,Container,0,Fine,0
 92317,Eitrite Ingot,CraftingMaterial,0,Exotic,64
 92321,Mini Almorra Soulkeeper,MiniPet,0,Rare,50
 92322,Ancient Boreal Sword Skin,Consumable,80,Exotic,0
 92324,Recipe: Restored Boreal Scepter,Consumable,0,Exotic,128
 92327,Endless Boneskinner Tonic,Gizmo,0,Exotic,0
-92330,Strike Mission: Lost Medium Chest of Valor,Container,0,Masterwork,0
+92330,Raid Encounter: Lost Medium Chest of Valor,Container,0,Masterwork,0
 92331,Restored Boreal Dagger,Weapon,80,Exotic,264
 92333,Recipe: Eitrite Ingot,Consumable,0,Exotic,10
 92338,Chest of the Raven's Hero,Container,0,Exotic,0
@@ -60817,7 +60817,7 @@ id,name,type,level,rarity,vendor_value
 92366,Recipe: Illuminated Boreal Dagger,Consumable,0,Exotic,128
 92367,Restored Boreal Focus,Weapon,80,Exotic,264
 92368,Raven's Eye,Weapon,80,Exotic,9000
-92369,Strike Mission: Lost Medium Chest of Resilience,Container,0,Masterwork,0
+92369,Raid Encounter: Lost Medium Chest of Resilience,Container,0,Masterwork,0
 92370,Ancient Boreal Axe Skin,Consumable,80,Exotic,0
 92371,Recipe: Illuminated Boreal Axe,Consumable,0,Exotic,128
 92372,Recipe: Restored Boreal Short Bow,Consumable,0,Exotic,128
@@ -61062,7 +61062,7 @@ id,name,type,level,rarity,vendor_value
 92694,Icebrood Saga Portal Tome,Gizmo,80,Ascended,320
 92695,Illuminated Boreal Longbow,Weapon,80,Exotic,396
 92696,Raven Ceremonial Bracers,Armor,80,Rare,179
-92697,Strike Mission: Lost Large Chest of Valor,Container,0,Masterwork,0
+92697,Raid Encounter: Lost Large Chest of Valor,Container,0,Masterwork,0
 92699,Mini Corrupted Ox Spirit,MiniPet,0,Rare,50
 92701,Raven Ceremonial Sandals,Armor,80,Rare,198
 92702,Illuminated Boreal Dagger,Weapon,80,Exotic,264
@@ -61115,10 +61115,10 @@ id,name,type,level,rarity,vendor_value
 92768,Raven Ceremonial Gown,Armor,80,Rare,278
 92770,Corrupted Eagle Shrine Token,Gizmo,0,Basic,0
 92771,Illuminated Boreal Mace,Weapon,80,Exotic,264
-92772,Strike Mission: Lost Large Chest of Vigilance,Container,0,Masterwork,0
+92772,Raid Encounter: Lost Large Chest of Vigilance,Container,0,Masterwork,0
 92773,Endless Cloudseeker Tonic Container,Container,0,Rare,0
 92774,Raven Ceremonial Hood,Armor,80,Rare,248
-92775,Strike Mission: Lost Large Chest of Resilience,Container,0,Masterwork,0
+92775,Raid Encounter: Lost Large Chest of Resilience,Container,0,Masterwork,0
 92777,Mini Whisper of Jormag,MiniPet,0,Rare,50
 92779,Ice Golem's Helmet,Armor,80,Exotic,330
 92780,Raven Ceremonial Hood,Armor,80,Rare,248
@@ -69162,6 +69162,7 @@ Balance",Gizmo,0,Basic,0
 103844,Sea-Glass Wave Focus,Weapon,80,Ascended,330
 103845,Flame Ram Mechanism,Consumable,0,Basic,0
 103846,Discounted Shard of Janthir Syntri,Container,0,Legendary,640
+103847,Legendary Weapon Starter Key—Set 10,Gizmo,0,Legendary,640
 103848,Magnificent Convergence Extraction,Container,0,Exotic,256
 103851,Pile of Recycled Arrow Carts,Consumable,0,Basic,0
 103852,Recipe: Decima's Token,Consumable,0,Basic,50
@@ -69272,6 +69273,7 @@ Balance",Gizmo,0,Basic,0
 103986,No Reward,Consumable,0,Rare,92
 103987,Blood Moon Spear of Blood,Weapon,80,Exotic,396
 103988,Woodland Kodan Light Boots,Armor,80,Exotic,264
+103989,Legendary Weapon Starter Key—Set 10,Container,0,Legendary,640
 103990,Alabaster Spider's Mace Skin,Consumable,0,Rare,0
 103991,Discounted Shard of Lowland Shore,Container,0,Legendary,640
 103993,Infinite Ballista Blueprint,Gizmo,0,Ascended,1
@@ -69598,7 +69600,7 @@ Balance",Gizmo,0,Basic,0
 104384,Abyss Stalker Spear Skin,Consumable,0,Rare,0
 104386,Bloodstone Infusion,UpgradeComponent,80,Exotic,10000
 104388,Ward Knight's Coat Skin,Consumable,0,Masterwork,0
-104389,Fashion Poses Emote Tome,Container,0,Basic,0
+104389,Fashion Poses Emote Tome,Container,0,Exotic,0
 104390,Relic of the Holosmith,Relic,80,Legendary,640
 104391,True Sight Heavy Shoulders,Armor,80,Exotic,291
 104392,Forest Wisp,Trinket,80,Ascended,413
@@ -70364,6 +70366,7 @@ Balance",Gizmo,0,Basic,0
 105338,Title: Push Contender,Consumable,0,Legendary,0
 105340,Mini Black and Cyan Turtle Hatchling,MiniPet,0,Rare,50
 105341,Celestial Trickster's Vest of Divinity,Armor,80,Exotic,1
+105343,Plush Mordy Backpack,Back,80,Exotic,8888
 105345,Unchained Longbow,Weapon,80,Exotic,396
 105348,Unchained Focus,Weapon,80,Exotic,264
 105349,Box of Deathly Bull's Shoulder Skins,Container,0,Masterwork,0
@@ -70488,6 +70491,7 @@ Balance",Gizmo,0,Basic,0
 105521,Track 51: Where Calamity Began,Consumable,0,Exotic,0
 105524,Track 12: The Lowland Kodan,Consumable,0,Exotic,0
 105525,Seneschal's Chest,Container,0,Exotic,264
+105527,Carrion Tribal Bident of Rage,Weapon,80,Exotic,396
 105528,Large Seer Cache,Container,0,Exotic,264
 105529,Track 25: Battle in Draconis Mons,Consumable,0,Exotic,0
 105530,Ship Windmill,Consumable,0,Basic,0
@@ -70515,6 +70519,7 @@ Balance",Gizmo,0,Basic,0
 105565,Track 22: Courage and Regret,Consumable,0,Exotic,0
 105566,Fanned Island Fern Patch,Consumable,0,Basic,0
 105567,Track 1: End of Dragons,Consumable,0,Exotic,0
+105568,Berserker's Warden Pike,Weapon,80,Rare,297
 105569,Blazing Glider,Consumable,0,Masterwork,0
 105570,Track 27: Left to Fester,Consumable,0,Exotic,0
 105571,Track 6: The Beast Emerges,Consumable,0,Exotic,0
@@ -70575,6 +70580,7 @@ Balance",Gizmo,0,Basic,0
 105652,Relic of Castora,Relic,60,Exotic,200
 105653,Ancora Pax,Weapon,80,Legendary,100000
 105654,Track 18: Elegy of the Elders,Consumable,0,Exotic,0
+105656,Seaside Scholar's Robes Skin,Consumable,0,Masterwork,0
 105657,Seer-Enchanted Weapon Chest,Container,0,Rare,0
 105660,Track 16: To Fell a King,Consumable,0,Exotic,0
 105661,Berserker's Bronze Javelin,Weapon,80,Rare,297
@@ -70584,6 +70590,7 @@ Balance",Gizmo,0,Basic,0
 105671,Track 6: Roar of the Delta,Consumable,0,Exotic,0
 105672,Track 58: A World Without You,Consumable,0,Exotic,0
 105674,Extremis Medium Boots,Armor,80,Exotic,264
+105675,Berserker's Peacemaker's Javelin,Weapon,80,Rare,297
 105676,Aquabreather Piece,Consumable,0,Basic,0
 105677,Track 19: Mortals Are Little Flames,Consumable,0,Exotic,0
 105678,Illustrious Opah,Container,0,Exotic,256
@@ -70648,7 +70655,9 @@ Balance",Gizmo,0,Basic,0
 105768,Track 11: Auric Wilds,Consumable,0,Exotic,0
 105769,Ethereal Sea-Life Infusion,UpgradeComponent,80,Exotic,10000
 105770,Track 21: Thick Dark Water,Consumable,0,Exotic,0
+105772,Mini Dancing Crab,MiniPet,0,Exotic,50
 105774,Track 34: Dirge of the Father King,Consumable,0,Exotic,0
+105776,Mini Kela,MiniPet,0,Exotic,50
 105777,Track 7: Elona Reach,Consumable,0,Exotic,0
 105778,Calligrapher's Torch Skin,Consumable,0,Rare,0
 105779,Track 5: The Empire of Dragons,Consumable,0,Exotic,0
@@ -70710,6 +70719,7 @@ Balance",Gizmo,0,Basic,0
 105868,Track 27: March of the Awakened,Consumable,0,Exotic,0
 105869,,Consumable,0,Junk,10
 105870,Seer-Enchanted Dagger,Weapon,80,Exotic,264
+105871,Seaside Scholar's Bracelets Skin,Consumable,0,Masterwork,0
 105873,Track 9: This Mountain Before Us,Consumable,0,Exotic,0
 105874,Alliance Field Operative's Heavy Leggings,Armor,80,Exotic,370
 105875,Gift of Insight,CraftingMaterial,0,Legendary,0
@@ -70748,6 +70758,7 @@ Balance",Gizmo,0,Basic,0
 105932,Wooden Beam Corner (30 x 240 x 30),Consumable,0,Basic,0
 105933,Patron of the Magical Arts Plaque,CraftingMaterial,0,Exotic,0
 105934,Track 19: Mortals Are Little Flames,Consumable,0,Exotic,0
+105936,Orrian Glaive of Rage,Weapon,80,Exotic,396
 105937,Deactivated Chrysalis Backpiece,Back,80,Exotic,264
 105938,Island Fern (Varied),Consumable,0,Basic,0
 105939,Restless Captain's Heavy Boots,Armor,80,Exotic,264
@@ -70839,6 +70850,7 @@ Balance",Gizmo,0,Basic,0
 106087,Galleon Hull (Middle),Consumable,0,Basic,0
 106088,Track 34: Dirge of the Father King,Consumable,0,Exotic,0
 106091,Track 5: Reins of the Raptor,Consumable,0,Exotic,0
+106094,Mini Sebb,MiniPet,0,Exotic,50
 106096,Track 32: The Petrified Forest,Consumable,0,Exotic,0
 106099,Great Choya Race: Silver,Container,0,Fine,0
 106100,Mini Captain Leo the Relentless,MiniPet,0,Exotic,50
@@ -70975,12 +70987,14 @@ Balance",Gizmo,0,Basic,0
 106307,Track 4: Army of the War God,Consumable,0,Exotic,0
 106310,Vigil's Honor Spear,Weapon,80,Rare,4500
 106311,Track 13: Highland Hares,Consumable,0,Exotic,0
+106312,Berserker's Pearl Halberd,Weapon,80,Exotic,396
 106315,Heroic Dragonsblood Impaler,Weapon,80,Ascended,495
 106316,Track 14: Malaise,Consumable,0,Exotic,0
 106317,Galleon Hull (Stern),Consumable,0,Basic,0
 106319,Feathered Inquest Helm Skin,Consumable,0,Masterwork,0
 106323,Wiley's Note,Gizmo,0,Exotic,0
 106325,Glimmering Arches Grand Prix: Bronze,Container,0,Fine,0
+106326,Seaside Scholar's Sash Skin,Consumable,0,Masterwork,0
 106327,Track 12: Golden Heights,Consumable,0,Exotic,0
 106330,Restless Captain's Heavy Leggings,Armor,80,Exotic,370
 106332,Track 41: Kestrel's Watch,Consumable,0,Exotic,0
@@ -70996,6 +71010,7 @@ Balance",Gizmo,0,Basic,0
 106343,Bonus Cache,Container,0,Exotic,264
 106346,Glimmering Arches Grand Prix: Silver,Container,0,Fine,0
 106348,Track 29: Bava Nisos,Consumable,0,Exotic,0
+106349,Berserker's Verdant Glaive,Weapon,80,Rare,297
 106352,Track 12: These Ancient Halls,Consumable,0,Exotic,0
 106355,Relic of the Scoundrel,Relic,60,Exotic,200
 106357,Endless Tropical Crab Tonic,Gizmo,0,Exotic,104
@@ -71231,6 +71246,7 @@ Balance",Gizmo,0,Basic,0
 106720,Castoran Freebooter Treasure Box,Container,0,Basic,0
 106724,Track 2: Mist Connections,Consumable,0,Exotic,0
 106725,Hanging Brazier,Consumable,0,Basic,0
+106726,"Berserker's Pirate ""Fork""",Weapon,80,Rare,297
 106727,Ethereal Sea-Life Infusion,UpgradeComponent,80,Exotic,10000
 106729,Rare Aetherlocation Treasure,Container,0,Exotic,0
 106731,Track 51: Where Calamity Began,Consumable,0,Exotic,0
@@ -71340,3 +71356,225 @@ Balance",Gizmo,0,Basic,0
 106895,Inquest Skimmer Skin,Consumable,0,Rare,0
 106896,Inquest Raptor Skin,Consumable,0,Rare,0
 106897,Black Lion Plush Vulpine Pal Recipe,Consumable,0,Basic,0
+106899,Toxinshell Longbow Skin,Consumable,0,Rare,0
+106902,Bleeding Edge Inquest Warhorn,Weapon,80,Ascended,330
+106903,Lucky Horse Lantern,Back,65,Rare,888
+106904,Spiked Inquest Gloves Skin,Consumable,0,Masterwork,0
+106905,Recipe: Horse Statue,Consumable,0,Basic,50
+106908,Wall Gable 360 x 200,Consumable,0,Basic,0
+106909,Icebrood Saga Raid Encounter Coffer,Container,0,Basic,0
+106910,Void's Magnificent Coffer,Container,0,Exotic,0
+106911,Painter's Brilliance Longbow Skin,Consumable,0,Rare,0
+106912,Painter's Brilliance Spear Skin,Consumable,0,Rare,0
+106916,Relic of Shackles,Relic,60,Exotic,200
+106920,Relic of the Nautical Beast,Relic,60,Exotic,200
+106922,Roof Piece,Consumable,0,Basic,0
+106924,Coralheart Stake,Weapon,80,Ascended,330
+106925,Toxinshell Dagger Skin,Consumable,0,Rare,0
+106926,Recipe: Largos Platform,Consumable,0,Basic,50
+106927,Mini Matthias Gabrel,MiniPet,0,Exotic,50
+106928,Recipe: Stable Fence,Consumable,0,Basic,50
+106929,Recipe: Mordy Plush,Consumable,0,Basic,50
+106930,Celestial's Firework Rifle,Weapon,80,Exotic,396
+106933,Wizard's Box of Crafting Materials,Container,0,Masterwork,0
+106934,Decima's Magnificent Coffer,Container,0,Exotic,0
+106935,Mai Trin's Magnificent Coffer,Container,0,Exotic,0
+106938,Ura's Magnificent Coffer,Container,0,Exotic,0
+106939,White Mantle Statue,Consumable,0,Basic,0
+106940,Dagda's Magnificent Coffer,Container,0,Exotic,0
+106943,Earth Elemental Right Hand,Consumable,0,Basic,0
+106945,Celestial's Firework Focus,Weapon,80,Exotic,264
+106948,Toxinshell Pistol Skin,Consumable,0,Rare,0
+106950,Roof 720 x 200 x 240,Consumable,0,Basic,0
+106951,Assault Knights' Coffer,Container,0,Exotic,0
+106952,Hardlight Claws,Weapon,80,Ascended,330
+106953,Celestial's Firework Shield,Weapon,80,Exotic,264
+106954,Ankka's Coffer,Container,0,Exotic,0
+106955,Celestial's Firework Short Bow,Weapon,80,Exotic,396
+106956,Void's Coffer,Container,0,Exotic,0
+106957,Core Relic Chest,Gizmo,0,Basic,0
+106959,Castoran Coral Quest License,Container,0,Ascended,320
+106960,Celestial's Firework Longbow,Weapon,80,Exotic,396
+106961,Unlock Huntsman's Station,Consumable,0,Exotic,0
+106962,Celestial Hoofed Shoes,Armor,80,Exotic,264
+106963,Unlock Tailor Station,Consumable,0,Exotic,0
+106964,Tropical Leaf Cape Set,Container,80,Exotic,264
+106966,Celestial Hoofed Shoes,Armor,80,Exotic,264
+106969,Aetherblade Hideout Banner,Consumable,0,Basic,0
+106972,Unlock Leatherworking Station,Consumable,0,Exotic,0
+106973,Proof of Hall of Chains Completion,Consumable,0,Basic,0
+106974,Proof of the Key of Ahdashim Completion,Consumable,0,Basic,0
+106975,Gift of Infused Gems,CraftingMaterial,0,Legendary,0
+106978,Painter's Brilliance Rifle Skin,Consumable,0,Rare,0
+106980,Proof of Salvation Pass Completion,Consumable,0,Basic,0
+106981,Recipe: Golden Horse Statue,Consumable,0,Basic,50
+106982,Elixir of Janthir Wilds Mastery,Consumable,0,Masterwork,1000
+106983,Ship Stern,Consumable,0,Basic,0
+106986,Gift of the Hylek,CraftingMaterial,0,Legendary,0
+106987,Firework Spear,Weapon,80,Exotic,396
+106990,Deimos Statue,Consumable,0,Basic,0
+106991,Trader's Lantern Chest,Container,0,Exotic,256
+106993,Bleeding Edge Inquest Staff,Weapon,80,Ascended,495
+106994,Kela's Coffer,Container,0,Exotic,0
+106996,Fashion Template Expansion,Consumable,0,Masterwork,0
+106998,Coralheart Pillar,Weapon,80,Ascended,495
+106999,Ankka's Magnificent Coffer,Container,0,Exotic,0
+107000,Recipe: Stable Pen,Consumable,0,Basic,50
+107002,Masterful Writ Container,Container,0,Basic,0
+107003,Dance Platform Chair,Gizmo,0,Rare,0
+107004,Jungle Plant,Consumable,0,Basic,0
+107005,Toxinshell Mace Skin,Consumable,0,Rare,0
+107006,Toxinshell Focus Skin,Consumable,0,Rare,0
+107007,Shard of Zintl,Consumable,0,Basic,0
+107011,Toxinshell Scepter Skin,Consumable,0,Rare,0
+107012,Shard of Zintl,Consumable,0,Basic,0
+107013,Painter's Brilliance Sword Skin,Consumable,0,Rare,0
+107015,Toxinshell Rifle Skin,Consumable,0,Rare,0
+107017,Recipe: Resurrection Tablet,Consumable,0,Basic,50
+107018,Dance Platform Glider,Consumable,0,Masterwork,0
+107019,Weekly Quickplay Raid Cache,Container,0,Exotic,0
+107020,Unlock Jeweling Station,Consumable,0,Exotic,0
+107021,Celestial's Firework Spear,Weapon,80,Exotic,396
+107022,Endless Summer,Trinket,80,Legendary,990
+107023,Bleeding Edge Inquest Dagger,Weapon,80,Ascended,330
+107024,Painter's Brilliance Staff Skin,Consumable,0,Rare,0
+107025,Unlock Cooking Station,Consumable,0,Exotic,0
+107026,Minister Li's Coffer,Container,0,Exotic,0
+107027,Recipe: Maddening Tower,Consumable,0,Basic,50
+107028,Minister Li's Magnificent Coffer,Container,0,Exotic,0
+107029,Jungle Log,Consumable,0,Basic,0
+107030,Relic of Fog,Relic,60,Exotic,200
+107031,Elixir of Secrets of the Obscure Mastery,Consumable,0,Masterwork,1000
+107032,Proof of Mount Balrior Completion,Consumable,0,Basic,0
+107033,Sandcastle,Consumable,0,Basic,0
+107035,Mini Eye of Judgment,MiniPet,0,Exotic,50
+107036,Toxinshell Sword Skin,Consumable,0,Rare,0
+107038,Painter's Brilliance Axe Skin,Consumable,0,Rare,0
+107039,Visions of Eternity Relic Set 2 Container,Container,0,Exotic,0
+107040,Gift of Rays,CraftingMaterial,0,Legendary,0
+107042,Recipe: Fancy Desert Sofa,Consumable,0,Basic,50
+107043,Recipe: New Year Rice Cake,Consumable,70,Masterwork,57
+107044,Infinite Utility Primer,Gizmo,0,Exotic,200
+107046,Bleeding Edge Inquest Hammer,Weapon,80,Ascended,495
+107047,White Mantle Turret,Consumable,0,Basic,0
+107049,Golden Horse Statue,Consumable,0,Basic,0
+107050,Painter's Brilliance Dagger Skin,Consumable,0,Rare,0
+107051,Mythwright Gambit Pillar,Consumable,0,Basic,0
+107052,Spiked Inquest Greaves Skin,Consumable,0,Masterwork,0
+107053,Recipe: Decima Shard,Consumable,0,Basic,50
+107055,Tropical Sand Throne,Gizmo,0,Exotic,0
+107057,Painter's Brilliance Short Bow Skin,Consumable,0,Rare,0
+107059,Stained Glass,Consumable,0,Basic,0
+107060,Bleeding Edge Inquest Axe,Weapon,80,Ascended,330
+107061,Relic of the Coral Heart,Relic,60,Exotic,200
+107062,Celestial's Firework Torch,Weapon,80,Exotic,264
+107063,Elixir of Visions of Eternity Mastery,Consumable,0,Masterwork,1000
+107065,Cerus's Magnificent Coffer,Container,0,Exotic,0
+107066,Golden Horse Figurine,Trophy,0,Junk,8888
+107067,Mai Trin's Coffer,Container,0,Exotic,0
+107068,Ship Bow,Consumable,0,Basic,0
+107069,Celestial's Firework Warhorn,Weapon,80,Exotic,264
+107071,Dance Platform Package,Consumable,0,Masterwork,0
+107072,Celestial's Firework Sword,Weapon,80,Exotic,264
+107073,Mini Light Thief,MiniPet,0,Exotic,50
+107076,Dragonfly Steaks,Consumable,0,Basic,0
+107078,Visage of the Great Horse Fireworks,Consumable,0,Exotic,0
+107081,Toxinshell Shield Skin,Consumable,0,Rare,0
+107085,Recipe: Earth Elemental Left Hand,Consumable,0,Basic,50
+107086,Celestial's Firework Greatsword,Weapon,80,Exotic,396
+107087,Dagda's Coffer,Container,0,Exotic,0
+107089,Proof of Spirit Vale Completion,Consumable,0,Basic,0
+107091,Toxinshell Short Bow Skin,Consumable,0,Rare,0
+107093,Resurrection Tablet,Consumable,0,Basic,0
+107094,Painter's Brilliance Mace Skin,Consumable,0,Rare,0
+107095,"""/HappyDance"" Emote Tome",Consumable,0,Exotic,0
+107096,Unlock Mystic Forge,Consumable,0,Exotic,0
+107097,Celestial's Firework Scepter,Weapon,80,Exotic,264
+107100,Vale Guardian Pylon,Consumable,0,Basic,0
+107101,New Year Rice Cake,Consumable,1,Exotic,0
+107105,Recipe: Mythwright Gambit Pillar,Consumable,0,Basic,50
+107106,Season 4 Material Chest,Container,0,Basic,0
+107107,Painter's Brilliance Scepter Skin,Consumable,0,Rare,0
+107108,Bleeding Edge Inquest Short Bow,Weapon,80,Ascended,495
+107109,Recipe: Sandcastle,Consumable,0,Basic,50
+107110,Toxinshell Hammer Skin,Consumable,0,Rare,0
+107112,Painter's Brilliance Pistol Skin,Consumable,0,Rare,0
+107113,Proof of Bastion of the Penitent Completion,Consumable,0,Basic,0
+107114,Cerus's Coffer,Container,0,Exotic,0
+107117,Toxinshell Greatsword Skin,Consumable,0,Rare,0
+107118,Bleeding Edge Inquest Focus,Weapon,80,Ascended,330
+107119,Bleeding Edge Inquest Spear,Weapon,80,Ascended,495
+107121,Painter's Brilliance Focus Skin,Consumable,0,Rare,0
+107122,Recipe: Samarog's Door,Consumable,0,Basic,50
+107123,Toxinshell Warhorn Skin,Consumable,0,Rare,0
+107124,Relic of the Forest Dweller,Relic,60,Exotic,200
+107125,Recipe: Vale Guardian Pylon,Consumable,0,Basic,50
+107126,Celestial's Firework Axe,Weapon,80,Exotic,264
+107127,Celestial's Firework Mace,Weapon,80,Exotic,264
+107132,Assault Knights' Magnificent Coffer,Container,0,Exotic,0
+107133,Largos Platform,Consumable,0,Basic,0
+107134,Celestial's Firework Hammer,Weapon,80,Exotic,396
+107136,Gift of the Sun,CraftingMaterial,0,Legendary,0
+107137,Glorious Raiders Cache,Container,0,Basic,0
+107138,Bleeding Edge Inquest Scepter,Weapon,80,Ascended,330
+107139,Infinite Metabolic Primer,Gizmo,0,Exotic,0
+107140,Spiked Inquest Helm Skin,Consumable,0,Masterwork,0
+107141,Bleeding Edge Inquest Sword,Weapon,80,Ascended,330
+107143,Toxinshell Torch Skin,Consumable,0,Rare,0
+107144,Stable Pen,Consumable,0,Basic,0
+107147,Bleeding Edge Inquest Mace,Weapon,80,Ascended,330
+107150,Recipe: Slothasor Blue Mushroom,Consumable,0,Basic,50
+107151,Painter's Brilliance Shield Skin,Consumable,0,Rare,0
+107152,Mini Eater of Souls,MiniPet,0,Exotic,50
+107153,Toxinshell Spear Skin,Consumable,0,Rare,0
+107154,Painter's Brilliance Warhorn Skin,Consumable,0,Rare,0
+107156,Celestial's Firework Pistol,Weapon,80,Exotic,264
+107158,Recipe: Deimos Statue,Consumable,0,Basic,50
+107160,Bleeding Edge Inquest Greatsword,Weapon,80,Ascended,495
+107161,Mini Twisted Spirit,MiniPet,0,Exotic,50
+107163,Painter's Brilliance Torch Skin,Consumable,0,Rare,0
+107164,Magnetite Shard Catalyst,Trophy,0,Exotic,0
+107165,Toxinshell Axe Skin,Consumable,0,Rare,0
+107166,Recipe: White Mantle Turret,Consumable,0,Basic,50
+107170,Mini Reaper of the Ice Wastes,MiniPet,0,Exotic,50
+107171,Greer's Magnificent Coffer,Container,0,Exotic,0
+107172,Celestial Hoofed Shoes,Armor,80,Exotic,264
+107173,Recipe: Stained Glass,Consumable,0,Basic,50
+107175,Recipe: Earth Elemental Right Hand,Consumable,0,Basic,50
+107176,Raid Expert's Portable Magnetite Shard Exchange,Gizmo,0,Exotic,0
+107177,Earth Elemental Left Hand,Consumable,0,Basic,0
+107178,Slothasor Blue Mushroom,Consumable,0,Basic,0
+107179,Desert Sofa,Consumable,0,Basic,0
+107180,Bleeding Edge Inquest Torch,Weapon,80,Ascended,330
+107181,Recipe: Desert Sofa,Consumable,0,Basic,50
+107182,Proof of Mythwright Gambit Completion,Consumable,0,Basic,0
+107187,Mini Horse-Gourdon,MiniPet,0,Exotic,0
+107189,Toxinshell Staff Skin,Consumable,0,Rare,0
+107190,Recipe: White Mantle Statue,Consumable,0,Basic,50
+107192,Relic of the Alliance,Relic,60,Exotic,200
+107193,Mini Hall of Chains Minotaur,MiniPet,0,Exotic,50
+107197,Proof of Stronghold of the Faithful Completion,Consumable,0,Basic,0
+107198,Painter's Brilliance Greatsword Skin,Consumable,0,Rare,0
+107199,Recipe: Aetherblade Hideout Banner,Consumable,0,Basic,50
+107200,Hoofed Shoes Box,Container,0,Exotic,0
+107201,Gift of the Beach,CraftingMaterial,0,Legendary,0
+107204,Roof 720 x 200 x 480,Consumable,0,Basic,0
+107206,Unlock Armorsmithing Station,Consumable,0,Exotic,0
+107207,Jungle Bush,Consumable,0,Basic,0
+107209,Celestial's Firework Chest,Container,0,Exotic,256
+107212,Painter's Brilliance Hammer Skin,Consumable,0,Rare,0
+107214,Tropical Leaf Cape Skin,Consumable,0,Masterwork,0
+107215,Unlock Weaponsmithing Station,Consumable,0,Exotic,0
+107216,Tropical Leaf Shoulders Skin,Consumable,0,Masterwork,0
+107218,Recovered Inquest Note,Gizmo,0,Exotic,0
+107219,Unlock Artificing Station,Consumable,0,Exotic,0
+107220,Bleeding Edge Inquest Rifle,Weapon,80,Ascended,495
+107221,Toxinshell Selection Box,Container,0,Rare,0
+107222,Lucky Great Horse Lantern,Back,80,Exotic,8888
+107223,Wall Gable 360 x 200 Mirror,Consumable,0,Basic,0
+107224,Mini Illusionary Xera,MiniPet,0,Exotic,50
+107226,Celestial's Firework Dagger,Weapon,80,Exotic,264
+107228,Celestial's Firework Staff,Weapon,80,Exotic,396
+107231,Recipe: Qadim Pylon,Consumable,0,Basic,50
+107233,Recipe: Dhuum's Torch,Consumable,0,Basic,50
+107234,Mordy Plush,Consumable,0,Basic,0
