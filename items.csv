@@ -71376,13 +71376,16 @@ Balance",Gizmo,0,Basic,0
 106928,Recipe: Stable Fence,Consumable,0,Basic,50
 106929,Recipe: Mordy Plush,Consumable,0,Basic,50
 106930,Celestial's Firework Rifle,Weapon,80,Exotic,396
+106932,Castoran Islet Deed,Container,0,Exotic,0
 106933,Wizard's Box of Crafting Materials,Container,0,Masterwork,0
 106934,Decima's Magnificent Coffer,Container,0,Exotic,0
 106935,Mai Trin's Magnificent Coffer,Container,0,Exotic,0
 106938,Ura's Magnificent Coffer,Container,0,Exotic,0
 106939,White Mantle Statue,Consumable,0,Basic,0
 106940,Dagda's Magnificent Coffer,Container,0,Exotic,0
+106942,Raid Conqueror's Stave,Weapon,0,Ascended,495
 106943,Earth Elemental Right Hand,Consumable,0,Basic,0
+106944,Proof of Raid Boss Mastery,Consumable,0,Basic,0
 106945,Celestial's Firework Focus,Weapon,80,Exotic,264
 106948,Toxinshell Pistol Skin,Consumable,0,Rare,0
 106950,Roof 720 x 200 x 240,Consumable,0,Basic,0
@@ -71492,6 +71495,7 @@ Balance",Gizmo,0,Basic,0
 107097,Celestial's Firework Scepter,Weapon,80,Exotic,264
 107100,Vale Guardian Pylon,Consumable,0,Basic,0
 107101,New Year Rice Cake,Consumable,1,Exotic,0
+107104,Bleeding Edge Inquest Shield,Weapon,80,Ascended,330
 107105,Recipe: Mythwright Gambit Pillar,Consumable,0,Basic,50
 107106,Season 4 Material Chest,Container,0,Basic,0
 107107,Painter's Brilliance Scepter Skin,Consumable,0,Rare,0
@@ -71562,10 +71566,12 @@ Balance",Gizmo,0,Basic,0
 107206,Unlock Armorsmithing Station,Consumable,0,Exotic,0
 107207,Jungle Bush,Consumable,0,Basic,0
 107209,Celestial's Firework Chest,Container,0,Exotic,256
+107211,Bleeding Edge Inquest Longbow,Weapon,80,Ascended,495
 107212,Painter's Brilliance Hammer Skin,Consumable,0,Rare,0
 107214,Tropical Leaf Cape Skin,Consumable,0,Masterwork,0
 107215,Unlock Weaponsmithing Station,Consumable,0,Exotic,0
 107216,Tropical Leaf Shoulders Skin,Consumable,0,Masterwork,0
+107217,Bleeding Edge Inquest Pistol,Weapon,80,Ascended,330
 107218,Recovered Inquest Note,Gizmo,0,Exotic,0
 107219,Unlock Artificing Station,Consumable,0,Exotic,0
 107220,Bleeding Edge Inquest Rifle,Weapon,80,Ascended,495
@@ -71573,6 +71579,7 @@ Balance",Gizmo,0,Basic,0
 107222,Lucky Great Horse Lantern,Back,80,Exotic,8888
 107223,Wall Gable 360 x 200 Mirror,Consumable,0,Basic,0
 107224,Mini Illusionary Xera,MiniPet,0,Exotic,50
+107225,Mimosa Tree,Consumable,0,Basic,0
 107226,Celestial's Firework Dagger,Weapon,80,Exotic,264
 107228,Celestial's Firework Staff,Weapon,80,Exotic,396
 107231,Recipe: Qadim Pylon,Consumable,0,Basic,50
