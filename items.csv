@@ -34999,206 +34999,6 @@ id,name,type,level,rarity,vendor_value
 47705,Dire Krytan Mace of Earth,Weapon,80,Masterwork,132
 47706,Dire Krytan Pistol of Agony,Weapon,62,Masterwork,106
 47707,Dire Krytan Pistol of the Geomancer,Weapon,68,Masterwork,114
-47708,Dire Krytan Pistol of Bloodlust,Weapon,74,Masterwork,122
-47709,Dire Krytan Pistol of Earth,Weapon,80,Masterwork,132
-47710,Dire Krytan Rifle of Agony,Weapon,62,Masterwork,159
-47711,Dire Krytan Rifle of the Geomancer,Weapon,68,Masterwork,171
-47712,Dire Krytan Rifle of Bloodlust,Weapon,74,Masterwork,183
-47713,Dire Krytan Rifle of Earth,Weapon,80,Masterwork,198
-47714,Dire Krytan Scepter of Agony,Weapon,62,Masterwork,106
-47715,Dire Krytan Scepter of the Geomancer,Weapon,68,Masterwork,114
-47716,Dire Krytan Scepter of Bloodlust,Weapon,74,Masterwork,122
-47717,Dire Krytan Scepter of Earth,Weapon,80,Masterwork,132
-47718,Dire Krytan Shield of Agony,Weapon,62,Masterwork,106
-47719,Dire Krytan Shield of the Geomancer,Weapon,68,Masterwork,114
-47720,Dire Krytan Shield of Bloodlust,Weapon,74,Masterwork,122
-47721,Dire Krytan Shield of Earth,Weapon,80,Masterwork,132
-47722,Dire Krytan Short Bow of Agony,Weapon,62,Masterwork,159
-47723,Dire Krytan Short Bow of the Geomancer,Weapon,68,Masterwork,171
-47724,Dire Krytan Short Bow of Bloodlust,Weapon,74,Masterwork,183
-47725,Dire Krytan Short Bow of Earth,Weapon,80,Masterwork,198
-47726,Dire Krytan Speargun of Agony,Weapon,62,Masterwork,159
-47727,Dire Krytan Speargun of the Geomancer,Weapon,68,Masterwork,171
-47728,Dire Krytan Speargun of Bloodlust,Weapon,74,Masterwork,183
-47729,Dire Krytan Speargun of Earth,Weapon,80,Masterwork,198
-47730,Dire Krytan Staff of Agony,Weapon,62,Masterwork,159
-47731,Dire Krytan Staff of the Geomancer,Weapon,68,Masterwork,171
-47732,Dire Krytan Staff of Bloodlust,Weapon,74,Masterwork,183
-47733,Dire Krytan Staff of Earth,Weapon,80,Masterwork,198
-47734,Dire Krytan Sword of Agony,Weapon,62,Masterwork,106
-47735,Dire Krytan Sword of the Geomancer,Weapon,68,Masterwork,114
-47736,Dire Krytan Sword of Bloodlust,Weapon,74,Masterwork,122
-47737,Dire Krytan Sword of Earth,Weapon,80,Masterwork,132
-47738,Dire Krytan Torch of Agony,Weapon,62,Masterwork,106
-47739,Dire Krytan Torch of the Geomancer,Weapon,68,Masterwork,114
-47740,Dire Krytan Torch of Bloodlust,Weapon,74,Masterwork,122
-47741,Dire Krytan Torch of Earth,Weapon,80,Masterwork,132
-47742,Dire Krytan Trident of Agony,Weapon,62,Masterwork,159
-47743,Dire Krytan Trident of the Geomancer,Weapon,68,Masterwork,171
-47744,Dire Krytan Trident of Bloodlust,Weapon,74,Masterwork,183
-47745,Dire Krytan Trident of Earth,Weapon,80,Masterwork,198
-47746,Dire Krytan Warhorn of Agony,Weapon,62,Masterwork,106
-47747,Dire Krytan Warhorn of the Geomancer,Weapon,68,Masterwork,114
-47748,Dire Krytan Warhorn of Bloodlust,Weapon,74,Masterwork,122
-47749,Dire Krytan Warhorn of Earth,Weapon,80,Masterwork,132
-47750,Dire Aureate Axe of Water,Weapon,60,Rare,156
-47751,Dire Aureate Axe of Corruption,Weapon,67,Rare,168
-47752,Dire Aureate Axe of Energy,Weapon,74,Rare,183
-47753,Dire Aureate Axe of Air,Weapon,80,Rare,198
-47754,Dire Aureate Dirk of Water,Weapon,60,Rare,156
-47755,Dire Aureate Dirk of Corruption,Weapon,67,Rare,168
-47756,Dire Aureate Dirk of Energy,Weapon,74,Rare,183
-47757,Dire Aureate Dirk of Air,Weapon,80,Rare,198
-47758,Dire Aureate Charm of Water,Weapon,60,Rare,156
-47759,Dire Aureate Charm of Corruption,Weapon,67,Rare,168
-47760,Dire Aureate Charm of Energy,Weapon,74,Rare,183
-47761,Dire Aureate Charm of Air,Weapon,80,Rare,198
-47762,Dire Aureate Highlander Greatsword of Water,Weapon,60,Rare,234
-47763,Dire Aureate Highlander Greatsword of Corruption,Weapon,67,Rare,252
-47764,Dire Aureate Highlander Greatsword of Energy,Weapon,74,Rare,275
-47765,Dire Aureate Highlander Greatsword of Air,Weapon,80,Rare,297
-47766,Dire Aureate Warhammer of Water,Weapon,60,Rare,234
-47767,Dire Aureate Warhammer of Corruption,Weapon,67,Rare,252
-47768,Dire Aureate Warhammer of Energy,Weapon,74,Rare,275
-47769,Dire Aureate Warhammer of Air,Weapon,80,Rare,297
-47770,Dire Aureate Spear of Water,Weapon,60,Rare,234
-47771,Dire Aureate Spear of Corruption,Weapon,67,Rare,252
-47772,Dire Aureate Spear of Energy,Weapon,74,Rare,275
-47773,Dire Aureate Spear of Air,Weapon,80,Rare,297
-47774,Dire Aureate Longbow of Water,Weapon,60,Rare,234
-47775,Dire Aureate Longbow of Corruption,Weapon,67,Rare,252
-47776,Dire Aureate Longbow of Energy,Weapon,74,Rare,275
-47777,Dire Aureate Longbow of Air,Weapon,80,Rare,297
-47778,Dire Aureate Mace of Water,Weapon,60,Rare,156
-47779,Dire Aureate Mace of Corruption,Weapon,67,Rare,168
-47780,Dire Aureate Mace of Energy,Weapon,74,Rare,183
-47781,Dire Aureate Mace of Air,Weapon,80,Rare,198
-47782,Dire Aureate Pistol of Water,Weapon,60,Rare,156
-47783,Dire Aureate Pistol of Corruption,Weapon,67,Rare,168
-47784,Dire Aureate Pistol of Energy,Weapon,74,Rare,183
-47785,Dire Aureate Pistol of Air,Weapon,80,Rare,198
-47786,Dire Aureate Musket of Water,Weapon,60,Rare,234
-47787,Dire Aureate Musket of Corruption,Weapon,67,Rare,252
-47788,Dire Aureate Musket of Energy,Weapon,74,Rare,275
-47789,Dire Aureate Musket of Air,Weapon,80,Rare,297
-47790,Dire Aureate Virge of Water,Weapon,60,Rare,156
-47791,Dire Aureate Virge of Corruption,Weapon,67,Rare,168
-47792,Dire Aureate Virge of Energy,Weapon,74,Rare,183
-47793,Dire Aureate Virge of Air,Weapon,80,Rare,198
-47794,Dire Aureate Targe of Water,Weapon,60,Rare,156
-47795,Dire Aureate Targe of Corruption,Weapon,67,Rare,168
-47796,Dire Aureate Targe of Energy,Weapon,74,Rare,183
-47797,Dire Aureate Targe of Air,Weapon,80,Rare,198
-47798,Dire Aureate Short Bow of Water,Weapon,60,Rare,234
-47799,Dire Aureate Short Bow of Corruption,Weapon,67,Rare,252
-47800,Dire Aureate Short Bow of Energy,Weapon,74,Rare,275
-47801,Dire Aureate Short Bow of Air,Weapon,80,Rare,297
-47802,Dire Aureate Speargun of Water,Weapon,60,Rare,234
-47803,Dire Aureate Speargun of Corruption,Weapon,67,Rare,252
-47804,Dire Aureate Speargun of Energy,Weapon,74,Rare,275
-47805,Dire Aureate Speargun of Air,Weapon,80,Rare,297
-47806,Dire Aureate Staff of Water,Weapon,60,Rare,234
-47807,Dire Aureate Staff of Corruption,Weapon,67,Rare,252
-47808,Dire Aureate Staff of Energy,Weapon,74,Rare,275
-47809,Dire Aureate Staff of Air,Weapon,80,Rare,297
-47810,Dire Aureate Rinblade of Water,Weapon,60,Rare,156
-47811,Dire Aureate Rinblade of Corruption,Weapon,67,Rare,168
-47812,Dire Aureate Rinblade of Energy,Weapon,74,Rare,183
-47813,Dire Aureate Rinblade of Air,Weapon,80,Rare,198
-47814,Dire Aureate Sconce of Water,Weapon,60,Rare,156
-47815,Dire Aureate Sconce of Corruption,Weapon,67,Rare,168
-47816,Dire Aureate Sconce of Energy,Weapon,74,Rare,183
-47817,Dire Aureate Sconce of Air,Weapon,80,Rare,198
-47818,Dire Aureate Trident of Water,Weapon,60,Rare,234
-47819,Dire Aureate Trident of Corruption,Weapon,67,Rare,252
-47820,Dire Aureate Trident of Energy,Weapon,74,Rare,275
-47821,Dire Aureate Trident of Air,Weapon,80,Rare,297
-47822,Dire Aureate Warhorn of Water,Weapon,60,Rare,156
-47823,Dire Aureate Warhorn of Corruption,Weapon,67,Rare,168
-47824,Dire Aureate Warhorn of Energy,Weapon,74,Rare,183
-47825,Dire Aureate Warhorn of Air,Weapon,80,Rare,198
-47833,Dragon Chest,Container,0,Fine,0
-47834,Dragon Chest,Container,0,Masterwork,0
-47835,Dragon Chest,Container,0,Rare,0
-47836,Dragon Chest,Container,0,Exotic,0
-47841,Mini Risen Thrall,MiniPet,0,Masterwork,50
-47842,Mini Risen Brute,MiniPet,0,Masterwork,50
-47843,Mini Risen Plague Carrier,MiniPet,0,Masterwork,50
-47844,Mini Risen Abomination,MiniPet,0,Exotic,50
-47845,Mini Risen Hylek,MiniPet,0,Exotic,50
-47846,Mini Tequatl the Sunless,MiniPet,0,Exotic,50
-47848,Wings of the Sunless,Back,80,Rare,198
-47849,Wings of the Sunless,Consumable,0,Rare,250
-47851,Reaver of the Sunless,Weapon,80,Ascended,330
-47852,Razor of the Sunless,Weapon,80,Ascended,330
-47853,Artifact of the Sunless,Weapon,80,Ascended,330
-47854,Claymore of the Sunless,Weapon,80,Ascended,495
-47855,Warhammer of the Sunless,Weapon,80,Ascended,495
-47856,Impaler of the Sunless,Weapon,80,Ascended,495
-47857,Greatbow of the Sunless,Weapon,80,Ascended,495
-47858,Flanged Mace of the Sunless,Weapon,80,Ascended,330
-47859,Revolver of the Sunless,Weapon,80,Ascended,330
-47860,Musket of the Sunless,Weapon,80,Ascended,495
-47861,Wand of the Sunless,Weapon,80,Ascended,330
-47862,Bastion of the Sunless,Weapon,80,Ascended,330
-47863,Short Bow of the Sunless,Weapon,80,Ascended,495
-47864,Harpoon Gun of the Sunless,Weapon,80,Ascended,495
-47865,Spire of the Sunless,Weapon,80,Ascended,495
-47866,Blade of the Sunless,Weapon,80,Ascended,330
-47867,Brazier of the Sunless,Weapon,80,Ascended,330
-47868,Trident of the Sunless,Weapon,80,Ascended,495
-47869,Herald of the Sunless,Weapon,80,Ascended,330
-47870,Tequatl's Hoard,Container,0,Ascended,0
-47871,Bone Fragments of Tequatl,Trinket,80,Exotic,330
-47872,Fang of Tequatl,Trinket,80,Exotic,330
-47873,Soldier's Benthic Hydrobreather of the Afflicted,Armor,80,Rare,248
-47874,Soldier's Benthic Aquabreather of the Afflicted,Armor,80,Rare,248
-47875,Soldier's Benthic Waterbreather of the Afflicted,Armor,80,Rare,248
-47879,Limited-Use Vigil Megalaser Finisher,Consumable,0,Basic,0
-47880,Permanent Vigil Megalaser Finisher,Consumable,0,Rare,0
-47881,Heavy Stag Helm,Armor,0,Masterwork,0
-47883,Stag Helm Skin,Consumable,0,Masterwork,0
-47888,Heavy Grenth Hood,Armor,0,Masterwork,0
-47890,Grenth Hood Skin,Consumable,0,Masterwork,0
-47891,Light Grenth Hood,Armor,0,Masterwork,0
-47892,Light Grenth Hood,Armor,0,Exotic,0
-47893,Medium Grenth Hood,Armor,0,Masterwork,0
-47895,Limited-Use Snow Globe Finisher,Consumable,0,Basic,0
-47896,Permanent Snow Globe Finisher,Consumable,0,Rare,0
-47897,Watchwork Mining Pick,Gathering,0,Rare,192
-47899,Permanent Great Jungle Wurm Finisher,Consumable,0,Rare,0
-47900,Metallurgic Dye Kit,Container,0,Masterwork,0
-47901,Swampblack Dye,Consumable,0,Rare,5
-47902,Caustic Dye,Consumable,0,Rare,5
-47903,Toxin Dye,Consumable,0,Rare,5
-47904,Algae Dye,Consumable,0,Rare,5
-47905,Acid Dye,Consumable,0,Rare,5
-47906,Acrid Dye,Consumable,0,Rare,5
-47907,Scarlet's Champions Mini 3-Pack,Container,0,Masterwork,0
-47908,Superior Rune of the Sunless,UpgradeComponent,60,Exotic,216
-47909,Candy Corn Cob,Trophy,0,Exotic,16
-47910,Beigarth's Shoulderguard,Armor,80,Ascended,240
-47911,Beigarth's Leggings,Armor,80,Ascended,240
-47912,Beigarth's Visage,Armor,80,Ascended,240
-47913,Beigarth's Grips,Armor,80,Ascended,240
-47914,Beigarth's Guise,Armor,80,Ascended,240
-47915,Beigarth's Striders,Armor,80,Ascended,240
-47916,Beigarth's Epaulets,Armor,80,Ascended,240
-47917,Beigarth's Breeches,Armor,80,Ascended,240
-47918,Beigarth's Masque,Armor,80,Ascended,240
-47919,Beigarth's Wristguards,Armor,80,Ascended,240
-47920,Beigarth's Doublet,Armor,80,Ascended,240
-47921,Beigarth's Footwear,Armor,80,Ascended,240
-47922,Beigarth's Pauldrons,Armor,80,Ascended,240
-47923,Beigarth's Tassets,Armor,80,Ascended,240
-47924,Beigarth's Visor,Armor,80,Ascended,240
-47925,Beigarth's Warfists,Armor,80,Ascended,240
-47926,Beigarth's Breastplate,Armor,80,Ascended,240
-47927,Beigarth's Greaves,Armor,80,Ascended,240
-47928,Wupwup Greaves,Armor,80,Ascended,240
-47929,Wupwup Breastplate,Armor,80,Ascended,240
-47930,Wupwup Warfists,Armor,80,Ascended,240
-47931,Wupwup Visor,Armor,80,Ascended,240
 47932,Wupwup Tassets,Armor,80,Ascended,240
 47933,Wupwup Pauldrons,Armor,80,Ascended,240
 47934,Wupwup Footwear,Armor,80,Ascended,240
@@ -71387,6 +71187,7 @@ Balance",Gizmo,0,Basic,0
 106943,Earth Elemental Right Hand,Consumable,0,Basic,0
 106944,Proof of Raid Boss Mastery,Consumable,0,Basic,0
 106945,Celestial's Firework Focus,Weapon,80,Exotic,264
+106947,Cute Poses Emote Tome,Container,0,Exotic,0
 106948,Toxinshell Pistol Skin,Consumable,0,Rare,0
 106950,Roof 720 x 200 x 240,Consumable,0,Basic,0
 106951,Assault Knights' Coffer,Container,0,Exotic,0
@@ -71413,6 +71214,7 @@ Balance",Gizmo,0,Basic,0
 106981,Recipe: Golden Horse Statue,Consumable,0,Basic,50
 106982,Elixir of Janthir Wilds Mastery,Consumable,0,Masterwork,1000
 106983,Ship Stern,Consumable,0,Basic,0
+106984,"""/PoseHeart"" Emote Tome",Consumable,0,Exotic,0
 106986,Gift of the Hylek,CraftingMaterial,0,Legendary,0
 106987,Firework Spear,Weapon,80,Exotic,396
 106990,Deimos Statue,Consumable,0,Basic,0
@@ -71488,6 +71290,7 @@ Balance",Gizmo,0,Basic,0
 107087,Dagda's Coffer,Container,0,Exotic,0
 107089,Proof of Spirit Vale Completion,Consumable,0,Basic,0
 107091,Toxinshell Short Bow Skin,Consumable,0,Rare,0
+107092,"""/PosePeace"" Emote Tome",Consumable,0,Exotic,0
 107093,Resurrection Tablet,Consumable,0,Basic,0
 107094,Painter's Brilliance Mace Skin,Consumable,0,Rare,0
 107095,"""/HappyDance"" Emote Tome",Consumable,0,Exotic,0
@@ -71526,12 +71329,14 @@ Balance",Gizmo,0,Basic,0
 107141,Bleeding Edge Inquest Sword,Weapon,80,Ascended,330
 107143,Toxinshell Torch Skin,Consumable,0,Rare,0
 107144,Stable Pen,Consumable,0,Basic,0
+107145,"""/PoseShy"" Emote Tome",Consumable,0,Exotic,0
 107147,Bleeding Edge Inquest Mace,Weapon,80,Ascended,330
 107150,Recipe: Slothasor Blue Mushroom,Consumable,0,Basic,50
 107151,Painter's Brilliance Shield Skin,Consumable,0,Rare,0
 107152,Mini Eater of Souls,MiniPet,0,Exotic,50
 107153,Toxinshell Spear Skin,Consumable,0,Rare,0
 107154,Painter's Brilliance Warhorn Skin,Consumable,0,Rare,0
+107155,"""/PoseSassy"" Emote Tome",Consumable,0,Exotic,0
 107156,Celestial's Firework Pistol,Weapon,80,Exotic,264
 107158,Recipe: Deimos Statue,Consumable,0,Basic,50
 107160,Bleeding Edge Inquest Greatsword,Weapon,80,Ascended,495
