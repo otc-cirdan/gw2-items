@@ -71421,6 +71421,7 @@ Balance",Gizmo,0,Basic,0
 106987,Firework Spear,Weapon,80,Exotic,396
 106990,Deimos Statue,Consumable,0,Basic,0
 106991,Trader's Lantern Chest,Container,0,Exotic,256
+106992,Double-Edge Greatsword,Weapon,80,Ascended,495
 106993,Bleeding Edge Inquest Staff,Weapon,80,Ascended,495
 106994,Kela's Coffer,Container,0,Exotic,0
 106996,Fashion Template Expansion,Consumable,0,Masterwork,0
@@ -71604,8 +71605,10 @@ Balance",Gizmo,0,Basic,0
 107242,Wei Qi's Shoulderguard,Armor,80,Ascended,240
 107243,Grizzlemouth's Reaver,Weapon,80,Ascended,10000
 107245,Mathilde's Greatbow,Weapon,80,Ascended,10000
+107246,Stonecleaver's Harpoon Gun,Weapon,80,Ascended,10000
 107247,Zintl Warfists,Armor,80,Ascended,240
 107249,Endless Ocean Weapon Box,Container,0,Rare,0
+107252,Verata's Wristguards,Armor,80,Ascended,240
 107254,Saphir's Leggings,Armor,80,Ascended,240
 107255,Theodosus's Flanged Mace,Weapon,80,Ascended,10000
 107256,Beigarth's Artifact,Weapon,80,Ascended,10000
@@ -71618,8 +71621,10 @@ Balance",Gizmo,0,Basic,0
 107264,Suun's Bastion,Weapon,80,Ascended,10000
 107265,Leftpaw's Breeches,Armor,80,Ascended,240
 107266,Zehtuka's Razor,Weapon,80,Ascended,10000
+107268,Zehtuka's Greatbow,Weapon,80,Ascended,10000
 107270,Leftpaw's Brazier,Weapon,80,Ascended,10000
 107271,Occam's Artifact,Weapon,80,Ascended,10000
+107272,Coalforge's Brazier,Weapon,80,Ascended,10000
 107273,Zojja's Claymore,Weapon,80,Ascended,10000
 107274,Theodosus's Reaver,Weapon,80,Ascended,10000
 107275,Beigarth's Revolver,Weapon,80,Ascended,10000
@@ -71628,10 +71633,12 @@ Balance",Gizmo,0,Basic,0
 107278,Svaard's Masque,Armor,80,Ascended,240
 107279,Tixx's Wand,Weapon,80,Ascended,10000
 107280,Verata's Razor,Weapon,80,Ascended,10000
+107281,Yassith's Artifact,Weapon,80,Ascended,10000
 107284,Zintl Impaler,Weapon,80,Ascended,10000
 107285,Chorben's Impaler,Weapon,80,Ascended,10000
 107286,Leftpaw's Musket,Weapon,80,Ascended,10000
 107287,Zehtuka's Epaulets,Armor,80,Ascended,240
+107288,Togo's Striders,Armor,80,Ascended,240
 107290,Tateos's Greaves,Armor,80,Ascended,240
 107291,The Twins' Spire,Weapon,80,Ascended,10000
 107293,Wupwup Blade,Weapon,80,Ascended,10000
@@ -71649,10 +71656,12 @@ Balance",Gizmo,0,Basic,0
 107312,Yassith's Blade,Weapon,80,Ascended,10000
 107314,Wupwup Wristguards,Armor,80,Ascended,240
 107318,Forgemaster's Leggings,Armor,80,Ascended,240
+107319,Tixx's Impaler,Weapon,80,Ascended,10000
 107320,Ferratus's Wristguards,Armor,80,Ascended,240
 107321,Zojja's Spire,Weapon,80,Ascended,10000
 107322,Maklain's Blade,Weapon,80,Ascended,10000
 107324,Soros's Reaver,Weapon,80,Ascended,10000
+107325,Verata's Leggings,Armor,80,Ascended,240
 107327,Steelstar's Tassets,Armor,80,Ascended,240
 107328,Tormented Weapon Box,Container,0,Rare,0
 107329,Dwayna's Weapon Box,Container,0,Rare,0
@@ -71664,6 +71673,7 @@ Balance",Gizmo,0,Basic,0
 107335,Leftpaw's Blade,Weapon,80,Ascended,10000
 107337,Occam's Greatbow,Weapon,80,Ascended,10000
 107340,Yassith's Pauldrons,Armor,80,Ascended,240
+107341,Suun's Blade,Weapon,80,Ascended,10000
 107342,Mathilde's Claymore,Weapon,80,Ascended,10000
 107344,Leftpaw's Greatbow,Weapon,80,Ascended,10000
 107345,The Twins' Guise,Armor,80,Ascended,240
@@ -71677,6 +71687,7 @@ Balance",Gizmo,0,Basic,0
 107358,Ebonmane's Spire,Weapon,80,Ascended,10000
 107359,Ruka's Spire,Weapon,80,Ascended,10000
 107360,Tateos's Visor,Armor,80,Ascended,240
+107362,Keeper's Spire,Weapon,80,Ascended,10000
 107363,Ferratus's Guise,Armor,80,Ascended,240
 107364,Suun's Pauldrons,Armor,80,Ascended,240
 107366,Hronk's Warfists,Armor,80,Ascended,240
@@ -71688,14 +71699,18 @@ Balance",Gizmo,0,Basic,0
 107375,Svaard's Pauldrons,Armor,80,Ascended,240
 107376,The Twins' Breeches,Armor,80,Ascended,240
 107377,Maklain's Herald,Weapon,80,Ascended,10000
+107378,Veldrunner Visage,Armor,80,Ascended,240
 107379,Yassith's Breastplate,Armor,80,Ascended,240
 107382,Desert King Weapon Box,Container,0,Rare,0
 107383,Tateos's Breeches,Armor,80,Ascended,240
 107384,Ventari's Brazier,Weapon,80,Ascended,10000
 107385,Ferratus's Grips,Armor,80,Ascended,240
 107387,The Twins' Claymore,Weapon,80,Ascended,10000
+107388,Tonn's Artifact,Weapon,80,Ascended,10000
 107389,Zintl Brazier,Weapon,80,Ascended,10000
 107390,Mathilde's Short Bow,Weapon,80,Ascended,10000
+107392,Keeper's Reaver,Weapon,80,Ascended,10000
+107394,Tixx's Pauldrons,Armor,80,Ascended,240
 107395,Soros's Short Bow,Weapon,80,Ascended,10000
 107396,Pahua's Shoulderguard,Armor,80,Ascended,240
 107398,Angchu Breeches,Armor,80,Ascended,240
@@ -71704,10 +71719,13 @@ Balance",Gizmo,0,Basic,0
 107402,Verata's Footwear,Armor,80,Ascended,240
 107404,Hronk's Grips,Armor,80,Ascended,240
 107406,Hronk's Reaver,Weapon,80,Ascended,10000
+107409,Veldrunner Grips,Armor,80,Ascended,240
+107410,Togo's Trident,Weapon,80,Ascended,10000
 107411,Ruka's Tassets,Armor,80,Ascended,240
 107412,Angchu Musket,Weapon,80,Ascended,10000
 107416,Togo's Brazier,Weapon,80,Ascended,10000
 107417,Forgemaster's Striders,Armor,80,Ascended,240
+107418,Verata's Reaver,Weapon,80,Ascended,10000
 107419,Ferratus's Breastplate,Armor,80,Ascended,240
 107420,The Twins' Wristguards,Armor,80,Ascended,240
 107422,Grizzlemouth's Razor,Weapon,80,Ascended,10000
@@ -71721,9 +71739,13 @@ Balance",Gizmo,0,Basic,0
 107433,Svaard's Impaler,Weapon,80,Ascended,10000
 107435,Zojja's Brazier,Weapon,80,Ascended,10000
 107436,Occam's Guise,Armor,80,Ascended,240
+107438,Wei Qi's Striders,Armor,80,Ascended,240
+107439,Nerashi's Footwear,Armor,80,Ascended,240
 107440,Saphir's Guise,Armor,80,Ascended,240
+107441,Wei Qi's Breeches,Armor,80,Ascended,240
 107442,Gallant Weapon Box,Container,0,Rare,0
 107443,Zintl Trident,Weapon,80,Ascended,10000
+107444,Occam's Striders,Armor,80,Ascended,240
 107447,Ossa's Musket,Weapon,80,Ascended,10000
 107448,Zintl Reaver,Weapon,80,Ascended,10000
 107449,Maklain's Spire,Weapon,80,Ascended,10000
@@ -71737,7 +71759,10 @@ Balance",Gizmo,0,Basic,0
 107458,Morbach's Masque,Armor,80,Ascended,240
 107459,Ferratus's Tassets,Armor,80,Ascended,240
 107464,Wintersday Weapon Box,Container,0,Rare,0
+107465,Tixx's Tassets,Armor,80,Ascended,240
 107466,Zojja's Striders,Armor,80,Ascended,240
+107468,Verata's Guise,Armor,80,Ascended,240
+107469,Yassith's Leather Breather,Armor,80,Ascended,240
 107470,Ruka's Pauldrons,Armor,80,Ascended,240
 107471,Glittering Weapon Box,Container,0,Rare,0
 107474,Wei Qi's Warfists,Armor,80,Ascended,240
@@ -71754,6 +71779,7 @@ Balance",Gizmo,0,Basic,0
 107493,Wupwup Breastplate,Armor,80,Ascended,240
 107494,Tonn's Reaver,Weapon,80,Ascended,10000
 107495,Hronk's Visage,Armor,80,Ascended,240
+107496,Tixx's Warfists,Armor,80,Ascended,240
 107497,Occam's Wand,Weapon,80,Ascended,10000
 107498,Infinite Utility Primer,Gizmo,0,Exotic,200
 107500,Leftpaw's Visor,Armor,80,Ascended,240
@@ -71774,6 +71800,7 @@ Balance",Gizmo,0,Basic,0
 107523,Togo's Visage,Armor,80,Ascended,240
 107526,Beigarth's Grips,Armor,80,Ascended,240
 107527,Maklain's Artifact,Weapon,80,Ascended,10000
+107529,Ruka's Short Bow,Weapon,80,Ascended,10000
 107530,Forgemaster's Wristguards,Armor,80,Ascended,240
 107531,Maklain's Wristguards,Armor,80,Ascended,240
 107534,Leftpaw's Pauldrons,Armor,80,Ascended,240
@@ -71794,6 +71821,7 @@ Balance",Gizmo,0,Basic,0
 107555,Zintl Wand,Weapon,80,Ascended,10000
 107556,Chorben's Revolver,Weapon,80,Ascended,10000
 107558,Ebonmane's Brazier,Weapon,80,Ascended,10000
+107559,Tateos's Pauldrons,Armor,80,Ascended,240
 107560,Ossa's Leather Breather,Armor,80,Ascended,240
 107564,Veldrunner Breastplate,Armor,80,Ascended,240
 107565,Yassith's Herald,Weapon,80,Ascended,10000
@@ -71813,7 +71841,9 @@ Balance",Gizmo,0,Basic,0
 107587,Yassith's Visage,Armor,80,Ascended,240
 107588,Morbach's Pauldrons,Armor,80,Ascended,240
 107589,Occam's Brazier,Weapon,80,Ascended,10000
+107594,Coalforge's Musket,Weapon,80,Ascended,10000
 107595,Tateos's Guise,Armor,80,Ascended,240
+107596,Steelstar's Visor,Armor,80,Ascended,240
 107598,Tateos's Striders,Armor,80,Ascended,240
 107599,Coalforge's Trident,Weapon,80,Ascended,10000
 107601,Stonecleaver's Wand,Weapon,80,Ascended,10000
@@ -71822,13 +71852,18 @@ Balance",Gizmo,0,Basic,0
 107605,Keepsake Weapon Box,Container,0,Rare,0
 107608,Kela's Magnificent Coffer,Container,0,Exotic,0
 107610,Veldrunner Striders,Armor,80,Ascended,240
+107611,Ossa's Tassets,Armor,80,Ascended,240
 107612,Occam's Leggings,Armor,80,Ascended,240
+107613,Tateos's Epaulets,Armor,80,Ascended,240
 107614,Zojja's Leggings,Armor,80,Ascended,240
+107615,Yassith's Claymore,Weapon,80,Ascended,10000
 107616,Occam's Greaves,Armor,80,Ascended,240
 107617,Tateos's Breastplate,Armor,80,Ascended,240
+107620,Leftpaw's Doublet,Armor,80,Ascended,240
 107622,Occam's Trident,Weapon,80,Ascended,10000
 107623,Angchu Short Bow,Weapon,80,Ascended,10000
 107624,Steelstar's Musket,Weapon,80,Ascended,10000
+107625,Forgemaster's Breeches,Armor,80,Ascended,240
 107628,Soros's Bastion,Weapon,80,Ascended,10000
 107630,Gobrech's Tassets,Armor,80,Ascended,240
 107633,Tizlak's Visor,Armor,80,Ascended,240
@@ -71855,6 +71890,7 @@ Balance",Gizmo,0,Basic,0
 107668,Zehtuka's Pauldrons,Armor,80,Ascended,240
 107670,Suun's Visor,Armor,80,Ascended,240
 107672,Maklain's Visage,Armor,80,Ascended,240
+107674,Nerashi's Brazier,Weapon,80,Ascended,10000
 107675,Tixx's Musket,Weapon,80,Ascended,10000
 107676,Pahua's Revolver,Weapon,80,Ascended,10000
 107678,Beigarth's Warfists,Armor,80,Ascended,240
@@ -71929,8 +71965,10 @@ Balance",Gizmo,0,Basic,0
 107766,Tizlak's Musket,Weapon,80,Ascended,10000
 107769,Tateos's Wristguards,Armor,80,Ascended,240
 107771,Suun's Flanged Mace,Weapon,80,Ascended,10000
+107773,Ruka's Footwear,Armor,80,Ascended,240
 107774,Steelstar's Flanged Mace,Weapon,80,Ascended,10000
 107776,Svaard's Wristguards,Armor,80,Ascended,240
+107777,Verata's Striders,Armor,80,Ascended,240
 107778,Tixx's Shoulderguard,Armor,80,Ascended,240
 107779,Zehtuka's Reaver,Weapon,80,Ascended,10000
 107781,Beigarth's Razor,Weapon,80,Ascended,10000
@@ -71964,15 +72002,18 @@ Balance",Gizmo,0,Basic,0
 107823,Zojja's Warhammer,Weapon,80,Ascended,10000
 107824,Zojja's Grips,Armor,80,Ascended,240
 107825,Pact Fleet Weapon Box,Container,0,Rare,0
+107826,Pahua's Blade,Weapon,80,Ascended,10000
 107827,Stonecleaver's Musket,Weapon,80,Ascended,10000
 107828,Pahua's Warfists,Armor,80,Ascended,240
 107829,Zojja's Musket,Weapon,80,Ascended,10000
+107831,Verata's Impaler,Weapon,80,Ascended,10000
 107832,Ahamid's Masque,Armor,80,Ascended,240
 107834,Sclerite Weapon Box,Container,0,Rare,0
 107835,Maklain's Wand,Weapon,80,Ascended,10000
 107836,Zehtuka's Flanged Mace,Weapon,80,Ascended,10000
 107837,Occam's Claymore,Weapon,80,Ascended,10000
 107840,Suun's Tassets,Armor,80,Ascended,240
+107841,Pahua's Herald,Weapon,80,Ascended,10000
 107842,Pahua's Guise,Armor,80,Ascended,240
 107843,Svaard's Bastion,Weapon,80,Ascended,10000
 107845,The Twins' Visor,Armor,80,Ascended,240
@@ -71980,8 +72021,10 @@ Balance",Gizmo,0,Basic,0
 107847,Bloodstone Weapon Box,Container,0,Rare,0
 107848,Stonecleaver's Artifact,Weapon,80,Ascended,10000
 107849,Veldrunner Leggings,Armor,80,Ascended,240
+107850,Tixx's Greaves,Armor,80,Ascended,240
 107851,Tixx's Visor,Armor,80,Ascended,240
 107852,Beigarth's Warhammer,Weapon,80,Ascended,10000
+107853,Steelstar's Leggings,Armor,80,Ascended,240
 107854,Steelstar's Breastplate,Armor,80,Ascended,240
 107855,Morbach's Shoulderguard,Armor,80,Ascended,240
 107857,Zintl Flanged Mace,Weapon,80,Ascended,10000
@@ -72000,6 +72043,7 @@ Balance",Gizmo,0,Basic,0
 107872,Theodosus's Razor,Weapon,80,Ascended,10000
 107874,Theodosus's Trident,Weapon,80,Ascended,10000
 107875,Hronk's Wand,Weapon,80,Ascended,10000
+107876,Verata's Visage,Armor,80,Ascended,240
 107877,Zehtuka's Warhammer,Weapon,80,Ascended,10000
 107878,Occam's Harpoon Gun,Weapon,80,Ascended,10000
 107881,Soros's Revolver,Weapon,80,Ascended,10000
@@ -72042,7 +72086,9 @@ Balance",Gizmo,0,Basic,0
 107930,Beigarth's Wristguards,Armor,80,Ascended,240
 107931,Angchu Leggings,Armor,80,Ascended,240
 107932,Wupwup Footwear,Armor,80,Ascended,240
+107934,Occam's Pauldrons,Armor,80,Ascended,240
 107937,Wei Qi's Guise,Armor,80,Ascended,240
+107938,Veldrunner Pauldrons,Armor,80,Ascended,240
 107939,Occam's Impaler,Weapon,80,Ascended,10000
 107942,The Twins' Reaver,Weapon,80,Ascended,10000
 107943,Beigarth's Brazier,Weapon,80,Ascended,10000
@@ -72062,6 +72108,7 @@ Balance",Gizmo,0,Basic,0
 107963,Chorben's Short Bow,Weapon,80,Ascended,10000
 107964,Svaard's Harpoon Gun,Weapon,80,Ascended,10000
 107965,Infinite Metabolic Primer,Gizmo,0,Exotic,0
+107966,Tixx's Revolver,Weapon,80,Ascended,10000
 107967,Zojja's Razor,Weapon,80,Ascended,10000
 107970,Zintl Wristguards,Armor,80,Ascended,240
 107972,Grizzlemouth's Harpoon Gun,Weapon,80,Ascended,10000
@@ -72082,19 +72129,25 @@ Balance",Gizmo,0,Basic,0
 107995,Beigarth's Leggings,Armor,80,Ascended,240
 107996,Grizzlemouth's Warhammer,Weapon,80,Ascended,10000
 107999,Grizzlemouth's Greatbow,Weapon,80,Ascended,10000
+108002,Zojja's Metal Breather,Armor,80,Ascended,240
+108004,Steelstar's Impaler,Weapon,80,Ascended,10000
 108005,Maklain's Impaler,Weapon,80,Ascended,10000
 108007,Steelstar's Guise,Armor,80,Ascended,240
 108008,Chorben's Artifact,Weapon,80,Ascended,10000
+108009,Nerashi's Wristguards,Armor,80,Ascended,240
 108010,Improvised Weapon Box,Container,0,Rare,0
 108011,The Twins' Impaler,Weapon,80,Ascended,10000
 108013,Pahua's Reaver,Weapon,80,Ascended,10000
 108014,Gargoyle Weapon Box,Container,0,Rare,0
 108015,Maklain's Musket,Weapon,80,Ascended,10000
 108017,Wupwup Visor,Armor,80,Ascended,240
+108020,Occam's Warfists,Armor,80,Ascended,240
 108021,Hronk's Wristguards,Armor,80,Ascended,240
 108023,Embellished Weapon Box,Container,0,Rare,0
 108024,Yassith's Tassets,Armor,80,Ascended,240
 108025,Hronk's Pauldrons,Armor,80,Ascended,240
+108026,Pahua's Tassets,Armor,80,Ascended,240
+108027,Giftbringer's Visage,Armor,80,Ascended,240
 108028,Ebonmane's Reaver,Weapon,80,Ascended,10000
 108029,Nerashi's Blade,Weapon,80,Ascended,10000
 108030,Veldrunner Shoulderguard,Armor,80,Ascended,240
@@ -72103,6 +72156,7 @@ Balance",Gizmo,0,Basic,0
 108034,Angchu Grips,Armor,80,Ascended,240
 108035,Svaard's Revolver,Weapon,80,Ascended,10000
 108036,Gobrech's Shoulderguard,Armor,80,Ascended,240
+108037,Tixx's Reaver,Weapon,80,Ascended,10000
 108038,Coalforge's Herald,Weapon,80,Ascended,10000
 108039,Forgemaster's Epaulets,Armor,80,Ascended,240
 108040,Beigarth's Wand,Weapon,80,Ascended,10000
@@ -72110,14 +72164,17 @@ Balance",Gizmo,0,Basic,0
 108042,Leftpaw's Leggings,Armor,80,Ascended,240
 108043,Angchu Greaves,Armor,80,Ascended,240
 108044,Ahamid's Pauldrons,Armor,80,Ascended,240
+108046,Svaard's Metal Breather,Armor,80,Ascended,240
 108048,The Twins' Masque,Armor,80,Ascended,240
 108049,Ahamid's Breastplate,Armor,80,Ascended,240
 108050,Ebonmane's Blade,Weapon,80,Ascended,10000
+108051,Keeper's Trident,Weapon,80,Ascended,10000
 108052,Wupwup Short Bow,Weapon,80,Ascended,10000
 108054,Tempest Weapon Box,Container,0,Rare,0
 108055,Verata's Doublet,Armor,80,Ascended,240
 108056,Wei Qi's Tassets,Armor,80,Ascended,240
 108057,Zintl Spire,Weapon,80,Ascended,10000
+108059,Leftpaw's Epaulets,Armor,80,Ascended,240
 108060,The Twins' Trident,Weapon,80,Ascended,10000
 108061,Grizzlemouth's Claymore,Weapon,80,Ascended,10000
 108064,Shifting Sands Weapon Box,Container,0,Rare,0
@@ -72126,9 +72183,12 @@ Balance",Gizmo,0,Basic,0
 108069,Tonn's Blade,Weapon,80,Ascended,10000
 108070,Mathilde's Musket,Weapon,80,Ascended,10000
 108071,Crimson Lion Weapon Box,Container,0,Rare,0
+108072,Nerashi's Masque,Armor,80,Ascended,240
 108075,Angchu Wand,Weapon,80,Ascended,10000
+108076,Gobrech's Grips,Armor,80,Ascended,240
 108077,Zojja's Revolver,Weapon,80,Ascended,10000
 108078,Svaard's Warfists,Armor,80,Ascended,240
+108079,Tizlak's Warhammer,Weapon,80,Ascended,10000
 108081,Theodosus's Blade,Weapon,80,Ascended,10000
 108082,Ahamid's Warfists,Armor,80,Ascended,240
 108083,Saphir's Visage,Armor,80,Ascended,240
@@ -72156,12 +72216,15 @@ Balance",Gizmo,0,Basic,0
 108117,Verata's Shoulderguard,Armor,80,Ascended,240
 108118,The Twins' Breastplate,Armor,80,Ascended,240
 108119,Soros's Harpoon Gun,Weapon,80,Ascended,10000
+108121,Angchu Epaulets,Armor,80,Ascended,240
 108122,Ferratus's Doublet,Armor,80,Ascended,240
 108124,Saphir's Wristguards,Armor,80,Ascended,240
 108125,Mathilde's Razor,Weapon,80,Ascended,10000
 108126,Branded Weapon Box,Container,0,Rare,0
+108127,Nerashi's Epaulets,Armor,80,Ascended,240
 108128,Yassith's Grips,Armor,80,Ascended,240
 108129,Forgemaster's Visage,Armor,80,Ascended,240
+108130,Ferratus's Leather Breather,Armor,80,Ascended,240
 108132,Gobrech's Leggings,Armor,80,Ascended,240
 108133,Dreamthistle Weapon Box,Container,0,Rare,0
 108134,Leftpaw's Warhammer,Weapon,80,Ascended,10000
@@ -72172,12 +72235,14 @@ Balance",Gizmo,0,Basic,0
 108142,Ruka's Blade,Weapon,80,Ascended,10000
 108143,Leftpaw's Reaver,Weapon,80,Ascended,10000
 108144,Ferratus's Leggings,Armor,80,Ascended,240
+108146,Pahua's Visor,Armor,80,Ascended,240
 108147,Veldrunner Wristguards,Armor,80,Ascended,240
 108149,Coalforge's Flanged Mace,Weapon,80,Ascended,10000
 108150,Gobrech's Breastplate,Armor,80,Ascended,240
 108152,Svaard's Striders,Armor,80,Ascended,240
 108153,Stonecleaver's Warhammer,Weapon,80,Ascended,10000
 108154,Acclaimed Militia Leggings Skin,Consumable,0,Masterwork,0
+108155,Beigarth's Breeches,Armor,80,Ascended,240
 108156,Zintl Revolver,Weapon,80,Ascended,10000
 108157,Mathilde's Revolver,Weapon,80,Ascended,10000
 108158,Angchu Warhammer,Weapon,80,Ascended,10000
@@ -72187,6 +72252,7 @@ Balance",Gizmo,0,Basic,0
 108164,Tonn's Warhammer,Weapon,80,Ascended,10000
 108165,Zintl Tassets,Armor,80,Ascended,240
 108166,Dragon's Jade Weapon Box,Container,0,Rare,0
+108167,Beigarth's Shoulderguard,Armor,80,Ascended,240
 108169,Soros's Flanged Mace,Weapon,80,Ascended,10000
 108171,Ossa's Razor,Weapon,80,Ascended,10000
 108172,Leftpaw's Wand,Weapon,80,Ascended,10000
@@ -72195,11 +72261,13 @@ Balance",Gizmo,0,Basic,0
 108176,Leftpaw's Impaler,Weapon,80,Ascended,10000
 108177,Yassith's Spire,Weapon,80,Ascended,10000
 108178,Yassith's Shoulderguard,Armor,80,Ascended,240
+108179,Togo's Razor,Weapon,80,Ascended,10000
 108181,Pahua's Short Bow,Weapon,80,Ascended,10000
 108183,Zintl Herald,Weapon,80,Ascended,10000
 108184,Forgemaster's Warfists,Armor,80,Ascended,240
 108185,Saphir's Masque,Armor,80,Ascended,240
 108187,Svaard's Shoulderguard,Armor,80,Ascended,240
+108188,Gobrech's Striders,Armor,80,Ascended,240
 108189,Togo's Pauldrons,Armor,80,Ascended,240
 108192,Hronk's Musket,Weapon,80,Ascended,10000
 108194,Theodosus's Claymore,Weapon,80,Ascended,10000
@@ -72214,6 +72282,7 @@ Balance",Gizmo,0,Basic,0
 108210,Yassith's Wand,Weapon,80,Ascended,10000
 108211,Veldrunner Warfists,Armor,80,Ascended,240
 108212,Angchu Razor,Weapon,80,Ascended,10000
+108213,Keeper's Impaler,Weapon,80,Ascended,10000
 108214,Forgemaster's Footwear,Armor,80,Ascended,240
 108216,Ebonmane's Revolver,Weapon,80,Ascended,10000
 108217,Yassith's Doublet,Armor,80,Ascended,240
@@ -72223,6 +72292,7 @@ Balance",Gizmo,0,Basic,0
 108223,Zintl Breeches,Armor,80,Ascended,240
 108224,Tixx's Short Bow,Weapon,80,Ascended,10000
 108227,Svaard's Footwear,Armor,80,Ascended,240
+108229,Tixx's Breastplate,Armor,80,Ascended,240
 108230,Beigarth's Guise,Armor,80,Ascended,240
 108231,Yassith's Flanged Mace,Weapon,80,Ascended,10000
 108232,Hronk's Bastion,Weapon,80,Ascended,10000
@@ -72247,6 +72317,7 @@ Balance",Gizmo,0,Basic,0
 108257,Yassith's Leggings,Armor,80,Ascended,240
 108259,Zojja's Shoulderguard,Armor,80,Ascended,240
 108261,Mordrem Weapon Box,Container,0,Rare,0
+108264,Steelstar's Visage,Armor,80,Ascended,240
 108265,Caladbolg Iridi Skin,Consumable,0,Rare,0
 108266,Wupwup Revolver,Weapon,80,Ascended,10000
 108268,Morbach's Breastplate,Armor,80,Ascended,240
@@ -72258,6 +72329,7 @@ Balance",Gizmo,0,Basic,0
 108277,Grizzlemouth's Spire,Weapon,80,Ascended,10000
 108278,Yassith's Greaves,Armor,80,Ascended,240
 108279,Suun's Revolver,Weapon,80,Ascended,10000
+108280,Steelstar's Warhammer,Weapon,80,Ascended,10000
 108281,Ebonmane's Herald,Weapon,80,Ascended,10000
 108282,Ruka's Visor,Armor,80,Ascended,240
 108283,Maklain's Visor,Armor,80,Ascended,240
@@ -72267,8 +72339,11 @@ Balance",Gizmo,0,Basic,0
 108287,Pahua's Spire,Weapon,80,Ascended,10000
 108289,Soros's Blade,Weapon,80,Ascended,10000
 108290,Svaard's Blade,Weapon,80,Ascended,10000
+108291,Maklain's Warhammer,Weapon,80,Ascended,10000
+108292,Forgemaster's Visor,Armor,80,Ascended,240
 108293,Tixx's Footwear,Armor,80,Ascended,240
 108296,Phoenix Weapon Box,Container,0,Rare,0
+108297,Steelstar's Claymore,Weapon,80,Ascended,10000
 108298,Occam's Doublet,Armor,80,Ascended,240
 108299,Hronk's Harpoon Gun,Weapon,80,Ascended,10000
 108300,Wei Qi's Wristguards,Armor,80,Ascended,240
@@ -72299,6 +72374,8 @@ Balance",Gizmo,0,Basic,0
 108338,Tonn's Spire,Weapon,80,Ascended,10000
 108340,Steelstar's Breeches,Armor,80,Ascended,240
 108341,Pahua's Pauldrons,Armor,80,Ascended,240
+108342,Zehtuka's Brazier,Weapon,80,Ascended,10000
+108344,Nerashi's Wand,Weapon,80,Ascended,10000
 108346,Tateos's Footwear,Armor,80,Ascended,240
 108348,Inquest Mark II Weapon Box,Container,0,Rare,0
 108349,Pahua's Trident,Weapon,80,Ascended,10000
@@ -72377,6 +72454,7 @@ Balance",Gizmo,0,Basic,0
 108463,Zintl Pauldrons,Armor,80,Ascended,240
 108464,Steelstar's Razor,Weapon,80,Ascended,10000
 108465,The Twins' Greatbow,Weapon,80,Ascended,10000
+108466,Zehtuka's Short Bow,Weapon,80,Ascended,10000
 108467,Stonecleaver's Revolver,Weapon,80,Ascended,10000
 108468,Yassith's Impaler,Weapon,80,Ascended,10000
 108469,Beigarth's Striders,Armor,80,Ascended,240
@@ -72392,6 +72470,7 @@ Balance",Gizmo,0,Basic,0
 108489,Togo's Leggings,Armor,80,Ascended,240
 108490,Ossa's Impaler,Weapon,80,Ascended,10000
 108491,Theodosus's Spire,Weapon,80,Ascended,10000
+108492,Svaard's Trident,Weapon,80,Ascended,10000
 108494,Yassith's Footwear,Armor,80,Ascended,240
 108496,Ahamid's Doublet,Armor,80,Ascended,240
 108497,Yassith's Warfists,Armor,80,Ascended,240
@@ -72407,6 +72486,7 @@ Balance",Gizmo,0,Basic,0
 108511,Hronk's Shoulderguard,Armor,80,Ascended,240
 108513,Maklain's Flanged Mace,Weapon,80,Ascended,10000
 108514,Zojja's Visage,Armor,80,Ascended,240
+108515,Steelstar's Short Bow,Weapon,80,Ascended,10000
 108519,War God's Weapon Box,Container,0,Rare,0
 108522,Veldrunner Visor,Armor,80,Ascended,240
 108523,Chorben's Razor,Weapon,80,Ascended,10000
@@ -72417,6 +72497,7 @@ Balance",Gizmo,0,Basic,0
 108535,Leftpaw's Razor,Weapon,80,Ascended,10000
 108536,Wupwup Visage,Armor,80,Ascended,240
 108539,Coalforge's Spire,Weapon,80,Ascended,10000
+108540,Nerashi's Doublet,Armor,80,Ascended,240
 108541,Zojja's Reaver,Weapon,80,Ascended,10000
 108542,Beigarth's Claymore,Weapon,80,Ascended,10000
 108543,Ahamid's Visage,Armor,80,Ascended,240
@@ -72432,6 +72513,7 @@ Balance",Gizmo,0,Basic,0
 108556,Suun's Visage,Armor,80,Ascended,240
 108557,Zintl Razor,Weapon,80,Ascended,10000
 108558,Shadow Weapon Box,Container,0,Rare,0
+108559,Ahamid's Epaulets,Armor,80,Ascended,240
 108560,Beigarth's Flanged Mace,Weapon,80,Ascended,10000
 108561,Zojja's Guise,Armor,80,Ascended,240
 108563,The Twins' Flanged Mace,Weapon,80,Ascended,10000
@@ -72446,6 +72528,7 @@ Balance",Gizmo,0,Basic,0
 108575,Hronk's Doublet,Armor,80,Ascended,240
 108576,Leftpaw's Visage,Armor,80,Ascended,240
 108580,Winter's Weapon Box,Container,0,Rare,0
+108581,Steelstar's Pauldrons,Armor,80,Ascended,240
 108582,Tonn's Musket,Weapon,80,Ascended,10000
 108583,The Twins' Blade,Weapon,80,Ascended,10000
 108584,Zintl Guise,Armor,80,Ascended,240
@@ -72470,6 +72553,7 @@ Balance",Gizmo,0,Basic,0
 108608,Beigarth's Tassets,Armor,80,Ascended,240
 108609,Tonn's Harpoon Gun,Weapon,80,Ascended,10000
 108610,Ahamid's Shoulderguard,Armor,80,Ascended,240
+108611,Coalforge's Harpoon Gun,Weapon,80,Ascended,10000
 108612,Wei Qi's Greaves,Armor,80,Ascended,240
 108613,Pahua's Metal Breather,Armor,80,Ascended,240
 108614,Wupwup Reaver,Weapon,80,Ascended,10000
@@ -72508,17 +72592,22 @@ Balance",Gizmo,0,Basic,0
 108663,Maklain's Epaulets,Armor,80,Ascended,240
 108664,Maklain's Breeches,Armor,80,Ascended,240
 108665,Svaard's Flanged Mace,Weapon,80,Ascended,10000
+108667,Stonecleaver's Spire,Weapon,80,Ascended,10000
 108668,Scientific Weapon Box,Container,0,Rare,0
 108669,Occam's Wristguards,Armor,80,Ascended,240
 108670,Leftpaw's Greaves,Armor,80,Ascended,240
 108672,Angchu Breastplate,Armor,80,Ascended,240
 108674,Angchu Shoulderguard,Armor,80,Ascended,240
+108675,Nerashi's Breeches,Armor,80,Ascended,240
+108676,Steelstar's Striders,Armor,80,Ascended,240
+108677,Keeper's Flanged Mace,Weapon,80,Ascended,10000
 108680,Yassith's Reaver,Weapon,80,Ascended,10000
 108681,Hronk's Blade,Weapon,80,Ascended,10000
 108682,Ruka's Grips,Armor,80,Ascended,240
 108683,Beigarth's Visor,Armor,80,Ascended,240
 108685,Veldrunner Epaulets,Armor,80,Ascended,240
 108686,Soros's Brazier,Weapon,80,Ascended,10000
+108687,Pahua's Brazier,Weapon,80,Ascended,10000
 108688,The Twins' Warhammer,Weapon,80,Ascended,10000
 108689,Yassith's Epaulets,Armor,80,Ascended,240
 108690,Veldrunner Guise,Armor,80,Ascended,240
@@ -72527,6 +72616,7 @@ Balance",Gizmo,0,Basic,0
 108699,Saphir's Visor,Armor,80,Ascended,240
 108700,Suun's Leggings,Armor,80,Ascended,240
 108701,Chorben's Harpoon Gun,Weapon,80,Ascended,10000
+108702,Leftpaw's Footwear,Armor,80,Ascended,240
 108705,Nerashi's Herald,Weapon,80,Ascended,10000
 108706,Zojja's Bastion,Weapon,80,Ascended,10000
 108707,Zintl Grips,Armor,80,Ascended,240
@@ -72536,8 +72626,10 @@ Balance",Gizmo,0,Basic,0
 108711,Wupwup Shoulderguard,Armor,80,Ascended,240
 108712,Ferratus's Warfists,Armor,80,Ascended,240
 108713,Yassith's Brazier,Weapon,80,Ascended,10000
+108714,Ossa's Visor,Armor,80,Ascended,240
 108715,Tonn's Razor,Weapon,80,Ascended,10000
 108716,Ossa's Breastplate,Armor,80,Ascended,240
+108717,Tonn's Wand,Weapon,80,Ascended,10000
 108718,Suun's Razor,Weapon,80,Ascended,10000
 108719,Keeper's Wand,Weapon,80,Ascended,10000
 108720,Leftpaw's Breastplate,Armor,80,Ascended,240
@@ -72567,6 +72659,7 @@ Balance",Gizmo,0,Basic,0
 108758,Leftpaw's Trident,Weapon,80,Ascended,10000
 108763,Occam's Breeches,Armor,80,Ascended,240
 108765,Wei Qi's Leggings,Armor,80,Ascended,240
+108766,Togo's Shoulderguard,Armor,80,Ascended,240
 108767,Zintl Musket,Weapon,80,Ascended,10000
 108768,Tonn's Bastion,Weapon,80,Ascended,10000
 108769,Wupwup Tassets,Armor,80,Ascended,240
