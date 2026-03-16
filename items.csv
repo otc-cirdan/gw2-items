@@ -25658,6 +25658,7 @@ id,name,type,level,rarity,vendor_value
 34092,Aureate Targe of Energy,Weapon,74,Rare,183
 34093,Aureate Targe of Air,Weapon,80,Rare,198
 34094,Aureate Short Bow of Water,Weapon,60,Rare,234
+34097,Aureate Short Bow of Air,Weapon,80,Rare,297
 34098,Aureate Speargun of Water,Weapon,60,Rare,234
 34099,Aureate Speargun of Corruption,Weapon,67,Rare,252
 34101,Aureate Speargun of Air,Weapon,80,Rare,297
@@ -71682,6 +71683,7 @@ Balance",Gizmo,0,Basic,0
 107323,Inverted Blade Wings Glider,Consumable,0,Masterwork,0
 107324,Soros's Reaver,Weapon,80,Ascended,10000
 107325,Verata's Leggings,Armor,80,Ascended,240
+107326,Ventari's Reaver,Weapon,80,Ascended,10000
 107327,Steelstar's Tassets,Armor,80,Ascended,240
 107328,Tormented Weapon Box,Container,0,Rare,0
 107329,Dwayna's Weapon Box,Container,0,Rare,0
@@ -71952,8 +71954,10 @@ Balance",Gizmo,0,Basic,0
 107642,Hronk's Masque,Armor,80,Ascended,240
 107643,Ahamid's Striders,Armor,80,Ascended,240
 107644,Chorben's Musket,Weapon,80,Ascended,10000
+107645,Laranthir's Visor,Armor,80,Ascended,240
 107648,Saphir's Breastplate,Armor,80,Ascended,240
 107649,Inverted Blade Wings Backpack,Consumable,0,Masterwork,0
+107650,Laranthir's Tassets,Armor,80,Ascended,240
 107651,Maklain's Footwear,Armor,80,Ascended,240
 107652,Occam's Tassets,Armor,80,Ascended,240
 107653,Tateos's Leggings,Armor,80,Ascended,240
@@ -72098,10 +72102,12 @@ Balance",Gizmo,0,Basic,0
 107809,Suun's Trident,Weapon,80,Ascended,10000
 107812,Hronk's Razor,Weapon,80,Ascended,10000
 107813,Svaard's Artifact,Weapon,80,Ascended,10000
+107814,Occam's Metal Breather,Armor,80,Ascended,240
 107815,Zintl Visor,Armor,80,Ascended,240
 107816,Ferratus's Masque,Armor,80,Ascended,240
 107817,Eternal Forged Weapon Box,Container,0,Rare,0
 107818,Defiant Glass Weapon Box,Container,0,Rare,0
+107819,Laranthir's Greatbow,Weapon,80,Ascended,10000
 107820,Hronk's Trident,Weapon,80,Ascended,10000
 107821,The Twins' Visage,Armor,80,Ascended,240
 107822,Ebonmane's Short Bow,Weapon,80,Ascended,10000
@@ -72121,6 +72127,7 @@ Balance",Gizmo,0,Basic,0
 107836,Zehtuka's Flanged Mace,Weapon,80,Ascended,10000
 107837,Occam's Claymore,Weapon,80,Ascended,10000
 107838,Nerashi's Visor,Armor,80,Ascended,240
+107839,Verata's Leather Breather,Armor,80,Ascended,240
 107840,Suun's Tassets,Armor,80,Ascended,240
 107841,Pahua's Herald,Weapon,80,Ascended,10000
 107842,Pahua's Guise,Armor,80,Ascended,240
@@ -72474,6 +72481,7 @@ Balance",Gizmo,0,Basic,0
 108238,Pahua's Footwear,Armor,80,Ascended,240
 108239,Togo's Short Bow,Weapon,80,Ascended,10000
 108240,Togo's Reaver,Weapon,80,Ascended,10000
+108241,Ventari's Warhammer,Weapon,80,Ascended,10000
 108242,Angchu Masque,Armor,80,Ascended,240
 108243,Soros's Trident,Weapon,80,Ascended,10000
 108244,Beigarth's Footwear,Armor,80,Ascended,240
@@ -72578,6 +72586,7 @@ Balance",Gizmo,0,Basic,0
 108356,Wupwup Leggings,Armor,80,Ascended,240
 108357,Tizlak's Flanged Mace,Weapon,80,Ascended,10000
 108358,Beigarth's Doublet,Armor,80,Ascended,240
+108359,Laranthir's Greaves,Armor,80,Ascended,240
 108360,Tonn's Greatbow,Weapon,80,Ascended,10000
 108361,Ahamid's Footwear,Armor,80,Ascended,240
 108363,Tizlak's Breeches,Armor,80,Ascended,240
@@ -72694,6 +72703,7 @@ Balance",Gizmo,0,Basic,0
 108491,Theodosus's Spire,Weapon,80,Ascended,10000
 108492,Svaard's Trident,Weapon,80,Ascended,10000
 108494,Yassith's Footwear,Armor,80,Ascended,240
+108495,Ventari's Revolver,Weapon,80,Ascended,10000
 108496,Ahamid's Doublet,Armor,80,Ascended,240
 108497,Yassith's Warfists,Armor,80,Ascended,240
 108498,Ossa's Visage,Armor,80,Ascended,240
@@ -72779,6 +72789,7 @@ Balance",Gizmo,0,Basic,0
 108592,Suun's Impaler,Weapon,80,Ascended,10000
 108593,Veldrunner Breeches,Armor,80,Ascended,240
 108594,The Twins' Epaulets,Armor,80,Ascended,240
+108595,Ruka's Leggings,Armor,80,Ascended,240
 108596,Zehtuka's Breastplate,Armor,80,Ascended,240
 108597,Mathilde's Reaver,Weapon,80,Ascended,10000
 108598,Beigarth's Impaler,Weapon,80,Ascended,10000
@@ -72893,6 +72904,7 @@ Balance",Gizmo,0,Basic,0
 108723,Black Lion Verdant Wall Recipe,Consumable,0,Basic,0
 108724,Ebonmane's Harpoon Gun,Weapon,80,Ascended,10000
 108725,Theodosus's Greatbow,Weapon,80,Ascended,10000
+108726,Saphir's Metal Breather,Armor,80,Ascended,240
 108727,Forgemaster's Grips,Armor,80,Ascended,240
 108728,Zojja's Greatbow,Weapon,80,Ascended,10000
 108729,Pahua's Claymore,Weapon,80,Ascended,10000
