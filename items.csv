@@ -36579,7 +36579,7 @@ id,name,type,level,rarity,vendor_value
 49926,Sentry Turret,Consumable,0,Basic,0
 49927,Air-Strike Grenade,Consumable,0,Basic,0
 49929,Singed Golem Parts,Trophy,0,Basic,0
-49930,Boxing Gloves,Gizmo,0,Masterwork,0
+49930,Brawling Gloves,Gizmo,0,Masterwork,0
 49931,Riding Broom,Gizmo,0,Masterwork,0
 49932,Enchanted Broom,Gizmo,0,Rare,0
 49933,Bouquet of Roses,Gizmo,0,Masterwork,0
@@ -53003,7 +53003,7 @@ id,name,type,level,rarity,vendor_value
 81382,Mistforged Hero's Staff,Weapon,80,Ascended,0
 81385,Decoration: Guild Catapult,Gizmo,0,Basic,0
 81386,Triumphant Hero's Legguards,Armor,80,Ascended,0
-81395,Improvement and Tactic Pack,Container,0,Rare,0
+81395,Improvement and Tactic Pack,Gizmo,0,Rare,0
 81397,Mistforged Triumphant Hero's Leggings,Armor,80,Ascended,0
 81399,Mistforged Hero's Spear,Weapon,80,Ascended,0
 81400,Mistforged Hero's Scepter,Weapon,80,Ascended,0
@@ -71411,6 +71411,7 @@ Balance",Gizmo,0,Basic,0
 106964,Tropical Leaf Cape Set,Container,80,Exotic,264
 106966,Celestial Hoofed Shoes,Armor,80,Exotic,264
 106969,Aetherblade Hideout Banner,Consumable,0,Basic,0
+106970,Reins of the Dhuumscale,Consumable,0,Exotic,0
 106972,Unlock Leatherworking Station,Consumable,0,Exotic,0
 106973,Proof of Hall of Chains Completion,Consumable,0,Basic,0
 106974,Proof of the Key of Ahdashim Completion,Consumable,0,Basic,0
@@ -71423,6 +71424,7 @@ Balance",Gizmo,0,Basic,0
 106984,"""/PoseHeart"" Emote Tome",Consumable,0,Exotic,0
 106986,Gift of the Hylek,CraftingMaterial,0,Legendary,0
 106987,Firework Spear,Weapon,80,Exotic,396
+106989,Double-Edge Sword,Weapon,80,Ascended,330
 106990,Deimos Statue,Consumable,0,Basic,0
 106991,Trader's Lantern Chest,Container,0,Exotic,256
 106992,Double-Edge Greatsword,Weapon,80,Ascended,495
@@ -71841,6 +71843,7 @@ Balance",Gizmo,0,Basic,0
 107505,Angchu Metal Breather,Armor,80,Ascended,240
 107506,Beigarth's Visage,Armor,80,Ascended,240
 107507,Svaard's Visor,Armor,80,Ascended,240
+107508,Thackeray's Greaves,Armor,80,Ascended,240
 107509,Laranthir's Breeches,Armor,80,Ascended,240
 107510,Grizzlemouth's Revolver,Weapon,80,Ascended,10000
 107511,Suun's Warhammer,Weapon,80,Ascended,10000
@@ -72289,6 +72292,7 @@ Balance",Gizmo,0,Basic,0
 108014,Gargoyle Weapon Box,Container,0,Rare,0
 108015,Maklain's Musket,Weapon,80,Ascended,10000
 108017,Wupwup Visor,Armor,80,Ascended,240
+108018,Verata's Visor,Armor,80,Ascended,240
 108019,Giftbringer's Bastion,Weapon,80,Ascended,10000
 108020,Occam's Warfists,Armor,80,Ascended,240
 108021,Hronk's Wristguards,Armor,80,Ascended,240
@@ -72379,6 +72383,7 @@ Balance",Gizmo,0,Basic,0
 108120,Nadijeh's Harpoon Gun,Weapon,80,Ascended,10000
 108121,Angchu Epaulets,Armor,80,Ascended,240
 108122,Ferratus's Doublet,Armor,80,Ascended,240
+108123,Giftbringer's Greaves,Armor,80,Ascended,240
 108124,Saphir's Wristguards,Armor,80,Ascended,240
 108125,Mathilde's Razor,Weapon,80,Ascended,10000
 108126,Branded Weapon Box,Container,0,Rare,0
@@ -72591,6 +72596,7 @@ Balance",Gizmo,0,Basic,0
 108359,Laranthir's Greaves,Armor,80,Ascended,240
 108360,Tonn's Greatbow,Weapon,80,Ascended,10000
 108361,Ahamid's Footwear,Armor,80,Ascended,240
+108362,Verata's Breastplate,Armor,80,Ascended,240
 108363,Tizlak's Breeches,Armor,80,Ascended,240
 108364,Pahua's Greaves,Armor,80,Ascended,240
 108365,The Twins' Herald,Weapon,80,Ascended,10000
@@ -72735,11 +72741,13 @@ Balance",Gizmo,0,Basic,0
 108525,Dominator Weapon Box,Container,0,Rare,0
 108529,Zehtuka's Herald,Weapon,80,Ascended,10000
 108530,Hronk's Impaler,Weapon,80,Ascended,10000
+108531,Giftbringer's Visor,Armor,80,Ascended,240
 108532,Ventari's Footwear,Armor,80,Ascended,240
 108533,Zintl Artifact,Weapon,80,Ascended,10000
 108534,Ventari's Tassets,Armor,80,Ascended,240
 108535,Leftpaw's Razor,Weapon,80,Ascended,10000
 108536,Wupwup Visage,Armor,80,Ascended,240
+108538,Verata's Tassets,Armor,80,Ascended,240
 108539,Coalforge's Spire,Weapon,80,Ascended,10000
 108540,Nerashi's Doublet,Armor,80,Ascended,240
 108541,Zojja's Reaver,Weapon,80,Ascended,10000
@@ -72771,6 +72779,7 @@ Balance",Gizmo,0,Basic,0
 108568,Suun's Herald,Weapon,80,Ascended,10000
 108569,Mathilde's Trident,Weapon,80,Ascended,10000
 108570,Tizlak's Impaler,Weapon,80,Ascended,10000
+108571,Steelstar's Reaver,Weapon,80,Ascended,10000
 108572,Occam's Breastplate,Armor,80,Ascended,240
 108573,Gobrech's Masque,Armor,80,Ascended,240
 108574,Zojja's Artifact,Weapon,80,Ascended,10000
@@ -72979,3 +72988,7 @@ Balance",Gizmo,0,Basic,0
 108809,Yassith's Greatbow,Weapon,80,Ascended,10000
 108810,Leftpaw's Claymore,Weapon,80,Ascended,10000
 108811,Keeper's Greatbow,Weapon,80,Ascended,10000
+108814,Flower Corsage Shoulder Skin,Consumable,0,Masterwork,0
+108822,Portable Portal Backpack Skin,Consumable,0,Masterwork,0
+108824,Flower Eyepatch Skin,Consumable,0,Masterwork,0
+108828,Boxing Gloves Skin,Consumable,0,Masterwork,0
