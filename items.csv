@@ -71496,6 +71496,7 @@ Balance",Gizmo,0,Basic,0
 107076,Dragonfly Steaks,Consumable,0,Basic,0
 107078,Visage of the Great Horse Fireworks,Consumable,0,Exotic,0
 107081,Toxinshell Shield Skin,Consumable,0,Rare,0
+107083,Demonic Infusion,UpgradeComponent,80,Exotic,10000
 107085,Recipe: Earth Elemental Left Hand,Consumable,0,Basic,50
 107086,Celestial's Firework Greatsword,Weapon,80,Exotic,396
 107087,Dagda's Coffer,Container,0,Exotic,0
@@ -72794,6 +72795,7 @@ Balance",Gizmo,0,Basic,0
 108559,Ahamid's Epaulets,Armor,80,Ascended,240
 108560,Beigarth's Flanged Mace,Weapon,80,Ascended,10000
 108561,Zojja's Guise,Armor,80,Ascended,240
+108562,Tixx's Harpoon Gun,Weapon,80,Ascended,10000
 108563,The Twins' Flanged Mace,Weapon,80,Ascended,10000
 108564,Pahua's Bastion,Weapon,80,Ascended,10000
 108565,Ruka's Flanged Mace,Weapon,80,Ascended,10000
@@ -73013,7 +73015,11 @@ Balance",Gizmo,0,Basic,0
 108809,Yassith's Greatbow,Weapon,80,Ascended,10000
 108810,Leftpaw's Claymore,Weapon,80,Ascended,10000
 108811,Keeper's Greatbow,Weapon,80,Ascended,10000
+108812,Dynamics Streetwear Outfit,Consumable,0,Rare,0
 108814,Flower Corsage Shoulder Skin,Consumable,0,Masterwork,0
+108817,Dynamics Hoverboard Glider,Consumable,0,Masterwork,0
+108818,Dynamics Hoverboard Backpack,Consumable,0,Masterwork,0
 108822,Portable Portal Backpack Skin,Consumable,0,Masterwork,0
 108824,Flower Eyepatch Skin,Consumable,0,Masterwork,0
+108827,Dynamics Hoverboard Chair,Gizmo,0,Rare,0
 108828,Boxing Gloves Skin,Consumable,0,Masterwork,0
