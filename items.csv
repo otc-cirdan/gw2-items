@@ -72402,6 +72402,7 @@ Balance",Gizmo,0,Basic,0
 108109,Zojja's Impaler,Weapon,80,Ascended,10000
 108111,Nerashi's Claymore,Weapon,80,Ascended,10000
 108113,Caladbolg Urtica Skin,Consumable,0,Rare,0
+108114,Forgemaster's Cloth Breather,Armor,80,Ascended,240
 108115,Nadijeh's Leggings,Armor,80,Ascended,240
 108116,Hronk's Spire,Weapon,80,Ascended,10000
 108117,Verata's Shoulderguard,Armor,80,Ascended,240
@@ -72869,6 +72870,7 @@ Balance",Gizmo,0,Basic,0
 108622,The Twins' Bastion,Weapon,80,Ascended,10000
 108623,Steelstar's Doublet,Armor,80,Ascended,240
 108624,Coalforge's Greatbow,Weapon,80,Ascended,10000
+108625,Nadijeh's Impaler,Weapon,80,Ascended,10000
 108626,Leftpaw's Grips,Armor,80,Ascended,240
 108627,Hronk's Flanged Mace,Weapon,80,Ascended,10000
 108628,Morbach's Wristguards,Armor,80,Ascended,240
@@ -73034,10 +73036,18 @@ Balance",Gizmo,0,Basic,0
 108810,Leftpaw's Claymore,Weapon,80,Ascended,10000
 108811,Keeper's Greatbow,Weapon,80,Ascended,10000
 108812,Dynamics Streetwear Outfit,Consumable,0,Rare,0
+108813,Choice Unburdener Elixir,Consumable,0,Exotic,128
 108814,Flower Corsage Shoulder Skin,Consumable,0,Masterwork,0
+108815,Celestial Masked Cat Hat,Armor,80,Exotic,330
+108816,Fool's Loot Box,Container,0,Masterwork,0
 108817,Dynamics Hoverboard Glider,Consumable,0,Masterwork,0
 108818,Dynamics Hoverboard Backpack,Consumable,0,Masterwork,0
+108819,Celestial Masked Cat Hat,Armor,80,Exotic,330
+108820,Celestial Masked Cat Hat,Armor,80,Exotic,330
+108821,Extra Chatoyant Lens,Trinket,80,Ascended,413
 108822,Portable Portal Backpack Skin,Consumable,0,Masterwork,0
 108824,Flower Eyepatch Skin,Consumable,0,Masterwork,0
+108826,Masked Cat Hat Box,Container,0,Exotic,256
 108827,Dynamics Hoverboard Chair,Gizmo,0,Rare,0
 108828,Boxing Gloves Skin,Consumable,0,Masterwork,0
+108829,Fool's Ocular Tonic,Consumable,2,Exotic,128
