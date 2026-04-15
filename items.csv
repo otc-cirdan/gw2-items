@@ -56447,7 +56447,7 @@ id,name,type,level,rarity,vendor_value
 86451,Giftbringer's Flanged Mace,Weapon,80,Ascended,10000
 86452,Guaranteed Weapon Unlock,Consumable,5,Rare,0
 86453,Moto's Unstable Bauble Infusion: Red,UpgradeComponent,80,Ascended,10000
-86454,Obsidian Weapon Box,Container,0,Exotic,0
+86454,Obsidian Weapon Box,Gizmo,0,Exotic,0
 86457,Recipe: Giftbringer's Revolver,Consumable,0,Ascended,160
 86458,Tixx's Giver's Inscription,CraftingMaterial,80,Ascended,30
 86459,Recipe: Giftbringer's Footwear,Consumable,0,Ascended,160
@@ -68336,7 +68336,7 @@ Balance",Gizmo,0,Basic,0
 102182,Elonian Bazaar Shade,Consumable,0,Basic,0
 102183,Sandswept Pistol,Weapon,80,Exotic,264
 102184,Corrupted Hero Pistol,Weapon,80,Exotic,264
-102185,Corrupted Hero Weapon Locker,Container,0,Exotic,0
+102185,Corrupted Hero Weapon Locker,Gizmo,0,Exotic,0
 102186,Beach House Spiral Stairs,Consumable,0,Basic,0
 102187,Recipe: Bronze Mordremoth Trophy,Consumable,0,Basic,50
 102188,Recipe: Titanplate Heavy Pauldrons,Consumable,0,Exotic,6000
@@ -69799,6 +69799,7 @@ Balance",Gizmo,0,Basic,0
 104625,Super Pagoda Long Roof,Consumable,0,Basic,0
 104626,Valkyrie Powered Boots,Armor,80,Exotic,264
 104628,Super Pagoda Pond,Consumable,0,Basic,0
+104629,"Homestead Recipe Book: Super Adventure Box, Volume 10",Consumable,0,Exotic,0
 104630,Magical Spear Skin,Consumable,0,Rare,0
 104631,Valkyrie Powered Boots,Armor,80,Exotic,264
 104632,Super Pagoda Floor,Consumable,0,Basic,0
@@ -70374,6 +70375,7 @@ Balance",Gizmo,0,Basic,0
 105340,Mini Black and Cyan Turtle Hatchling,MiniPet,0,Rare,50
 105341,Celestial Trickster's Vest of Divinity,Armor,80,Exotic,1
 105343,Plush Mordy Backpack,Back,80,Exotic,8888
+105344,Plush Ess Backpack,Back,80,Exotic,8888
 105345,Unchained Longbow,Weapon,80,Exotic,396
 105348,Unchained Focus,Weapon,80,Exotic,264
 105349,Box of Deathly Bull's Shoulder Skins,Container,0,Masterwork,0
@@ -73084,3 +73086,109 @@ Balance",Gizmo,0,Basic,0
 108827,Dynamics Hoverboard Chair,Gizmo,0,Rare,0
 108828,Boxing Gloves Skin,Consumable,0,Masterwork,0
 108829,Fool's Ocular Tonic,Consumable,2,Exotic,128
+108830,Recipe: Super Rapids Flowing Water,Consumable,0,Basic,50
+108831,Track 5: Town Shop,Consumable,0,Exotic,0
+108832,Forged-Light Warhorn,Weapon,80,Exotic,264
+108833,Forged-Light Shield,Weapon,80,Exotic,264
+108836,Soundtrack Single—Super Adventure Box,Container,0,Exotic,0
+108837,Track 21: Hillbilly Hoedown,Consumable,0,Exotic,0
+108839,Super Sharpening Polygon,Consumable,1,Exotic,0
+108841,Hardlight Spear,Weapon,80,Exotic,396
+108842,Forged-Light Focus,Weapon,80,Exotic,264
+108843,Track 20: Sub Hub,Consumable,0,Exotic,0
+108844,Track 4: Sunny Glade,Consumable,0,Exotic,0
+108846,Track 14: Bonus Stage,Consumable,0,Exotic,0
+108847,Accelerated Edge Axe Skin,Consumable,0,Rare,0
+108848,Track 21: Hillbilly Hoedown,Consumable,0,Exotic,0
+108849,Recipe: Super Rapids Plateau,Consumable,0,Basic,50
+108851,Track 17: Rytlock's Critter Rampage,Consumable,0,Exotic,0
+108852,Forged-Light Dagger,Weapon,80,Exotic,264
+108854,Recipe: Super Sharpening Polygon,Consumable,70,Masterwork,57
+108855,Track 31: Deep Depths,Consumable,0,Exotic,0
+108856,Forged-Light Short Bow,Weapon,80,Exotic,396
+108857,Accelerated Edge Dagger Skin,Consumable,0,Rare,0
+108858,Forged-Light Axe,Weapon,80,Exotic,264
+108859,Forged-Light Longbow,Weapon,80,Exotic,396
+108861,Forged-Light Torch,Weapon,80,Exotic,264
+108862,Track 9: Cave,Consumable,0,Exotic,0
+108863,Track 13: Victory!,Consumable,0,Exotic,0
+108864,Track 18: Commercial Music,Consumable,0,Exotic,0
+108865,Dynamics Extractor Logging Tool,Gathering,0,Rare,192
+108866,Retro-Forged Weapon Chest,Container,0,Exotic,0
+108867,Recipe: Plush Ess,Consumable,0,Basic,50
+108869,Track 23: Shortcut Eagle,Consumable,0,Exotic,0
+108871,Forged-Light Spear,Weapon,80,Exotic,396
+108873,Track 2: World Hub,Consumable,0,Exotic,0
+108874,Track 30: BOSS BATTLE! Yellow Ooze Cake,Consumable,0,Exotic,0
+108875,Valkyrie Powered Vest,Armor,80,Exotic,396
+108877,Track 15: River Rapids Preview,Consumable,0,Exotic,0
+108878,Track 22: Pain Cliffs,Consumable,0,Exotic,0
+108879,Track 11: Kingdom of Fungus v2,Consumable,0,Exotic,0
+108880,Accelerated Edge Package,Container,0,Rare,0
+108881,Dynamics Extractor Mining Tool,Gathering,0,Rare,192
+108882,Track 19: Commercial Music 8-Bit Version,Consumable,0,Exotic,0
+108883,Track 10: Kingdom of Fungus,Consumable,0,Exotic,0
+108884,Track 24: Storm Top,Consumable,0,Exotic,0
+108885,Track 12: King Toad Boss,Consumable,0,Exotic,0
+108886,Track 26: Super Adventure Run,Consumable,0,Exotic,0
+108887,Track 30: BOSS BATTLE! Yellow Ooze Cake,Consumable,0,Exotic,0
+108889,Forged-Light Mace,Weapon,80,Exotic,264
+108890,Forged-Light Sword,Weapon,80,Exotic,264
+108891,Track 15: River Rapids Preview,Consumable,0,Exotic,0
+108892,Track 11: Kingdom of Fungus v2,Consumable,0,Exotic,0
+108893,Forged-Light Rifle,Weapon,80,Exotic,396
+108895,"Track 29: Bake the Cake, Chef!",Consumable,0,Exotic,0
+108896,Plush Ess,Consumable,0,Basic,0
+108897,Dynamics Extractor Harvesting Tool,Gathering,0,Rare,192
+108899,Track 5: Town Shop,Consumable,0,Exotic,0
+108900,Track 23: Shortcut Eagle,Consumable,0,Exotic,0
+108901,Track 10: Kingdom of Fungus,Consumable,0,Exotic,0
+108902,Track 13: Victory!,Consumable,0,Exotic,0
+108904,Track 8: Warp Worm,Consumable,0,Exotic,0
+108905,Track 3: Rescue the Princess,Consumable,0,Exotic,0
+108909,Track 17: Rytlock's Critter Rampage,Consumable,0,Exotic,0
+108910,Mini Super Red Ooze,MiniPet,0,Exotic,50
+108911,Forged-Light Staff,Weapon,80,Exotic,396
+108913,Retro-Forged Focus,Weapon,80,Exotic,264
+108914,Track 12: King Toad Boss,Consumable,0,Exotic,0
+108915,Track 22: Pain Cliffs,Consumable,0,Exotic,0
+108916,Track 25: Wizard of Storms,Consumable,0,Exotic,0
+108917,Track 1: Main Theme,Consumable,0,Exotic,0
+108918,Track 1: Main Theme,Consumable,0,Exotic,0
+108919,Powered Vest Box,Container,0,Exotic,256
+108920,Track 2: World Hub,Consumable,0,Exotic,0
+108921,Track 27: Underground,Consumable,0,Exotic,0
+108922,Track 25: Wizard of Storms,Consumable,0,Exotic,0
+108923,Track 16: Moto's Continue Room of Death,Consumable,0,Exotic,0
+108924,Forged-Light Chest,Container,0,Exotic,256
+108925,Track 8: Warp Worm,Consumable,0,Exotic,0
+108926,Track 9: Cave,Consumable,0,Exotic,0
+108927,Recipe: Super Rapids Pillar,Consumable,0,Basic,50
+108928,Track 4: Sunny Glade,Consumable,0,Exotic,0
+108929,Forged-Light Pistol,Weapon,80,Exotic,264
+108932,Track 26: Super Adventure Run,Consumable,0,Exotic,0
+108933,Accelerated Edge Focus Skin,Consumable,0,Rare,0
+108934,"Track 29: Bake the Cake, Chef!",Consumable,0,Exotic,0
+108936,Recipe: Super Bridge Plank,Consumable,0,Basic,50
+108937,Forged-Light Greatsword,Weapon,80,Exotic,396
+108938,Track 7: Dark Woods 2,Consumable,0,Exotic,0
+108939,Valkyrie Powered Vest,Armor,80,Exotic,396
+108940,Track 3: Rescue the Princess,Consumable,0,Exotic,0
+108941,Track 14: Bonus Stage,Consumable,0,Exotic,0
+108943,Track 28: Loading Screen,Consumable,0,Exotic,0
+108944,Track 16: Moto's Continue Room of Death,Consumable,0,Exotic,0
+108945,Track 28: Loading Screen,Consumable,0,Exotic,0
+108946,Forged-Light Scepter,Weapon,80,Exotic,264
+108947,Track 24: Storm Top,Consumable,0,Exotic,0
+108948,Valkyrie Powered Vest,Armor,80,Exotic,396
+108949,Track 6: Dark Woods 1,Consumable,0,Exotic,0
+108951,Track 6: Dark Woods 1,Consumable,0,Exotic,0
+108952,Track 19: Commercial Music 8-Bit Version,Consumable,0,Exotic,0
+108953,Track 18: Commercial Music,Consumable,0,Exotic,0
+108955,Forged-Light Hammer,Weapon,80,Exotic,396
+108956,Track 27: Underground,Consumable,0,Exotic,0
+108957,Track 20: Sub Hub,Consumable,0,Exotic,0
+108958,Retro-Forged Greatsword,Weapon,80,Exotic,396
+108959,Super Rainbow Cloud Weapons Locker,Container,0,Exotic,256
+108960,Retro-Forged Longbow,Weapon,80,Exotic,396
+108961,Track 7: Dark Woods 2,Consumable,0,Exotic,0
