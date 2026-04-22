@@ -72951,6 +72951,7 @@ Balance",Gizmo,0,Basic,0
 108669,Occam's Wristguards,Armor,80,Ascended,240
 108670,Leftpaw's Greaves,Armor,80,Ascended,240
 108672,Angchu Breastplate,Armor,80,Ascended,240
+108673,Togo's Warhammer,Weapon,80,Ascended,10000
 108674,Angchu Shoulderguard,Armor,80,Ascended,240
 108675,Nerashi's Breeches,Armor,80,Ascended,240
 108676,Steelstar's Striders,Armor,80,Ascended,240
@@ -73118,6 +73119,7 @@ Balance",Gizmo,0,Basic,0
 108857,Accelerated Edge Dagger Skin,Consumable,0,Rare,0
 108858,Forged-Light Axe,Weapon,80,Exotic,264
 108859,Forged-Light Longbow,Weapon,80,Exotic,396
+108860,Black Lion Super Lord Vanquish Brazier Recipe,Consumable,0,Basic,0
 108861,Forged-Light Torch,Weapon,80,Exotic,264
 108862,Track 9: Cave,Consumable,0,Exotic,0
 108863,Track 13: Victory!,Consumable,0,Exotic,0
@@ -73141,6 +73143,7 @@ Balance",Gizmo,0,Basic,0
 108885,Track 12: King Toad Boss,Consumable,0,Exotic,0
 108886,Track 26: Super Adventure Run,Consumable,0,Exotic,0
 108887,Track 30: BOSS BATTLE! Yellow Ooze Cake,Consumable,0,Exotic,0
+108888,Super Lord Vanquish Homestead Package,Container,0,Basic,0
 108889,Forged-Light Mace,Weapon,80,Exotic,264
 108890,Forged-Light Sword,Weapon,80,Exotic,264
 108891,Track 15: River Rapids Preview,Consumable,0,Exotic,0
@@ -73153,11 +73156,13 @@ Balance",Gizmo,0,Basic,0
 108900,Track 23: Shortcut Eagle,Consumable,0,Exotic,0
 108901,Track 10: Kingdom of Fungus,Consumable,0,Exotic,0
 108902,Track 13: Victory!,Consumable,0,Exotic,0
+108903,Black Lion Super Lord Vanquish Statue Recipe,Consumable,0,Basic,0
 108904,Track 8: Warp Worm,Consumable,0,Exotic,0
 108905,Track 3: Rescue the Princess,Consumable,0,Exotic,0
 108909,Track 17: Rytlock's Critter Rampage,Consumable,0,Exotic,0
 108910,Mini Super Red Ooze,MiniPet,0,Exotic,50
 108911,Forged-Light Staff,Weapon,80,Exotic,396
+108912,Black Lion Super Lord Vanquish Rug Recipe,Consumable,0,Basic,0
 108913,Retro-Forged Focus,Weapon,80,Exotic,264
 108914,Track 12: King Toad Boss,Consumable,0,Exotic,0
 108915,Track 22: Pain Cliffs,Consumable,0,Exotic,0
@@ -73175,15 +73180,18 @@ Balance",Gizmo,0,Basic,0
 108927,Recipe: Super Rapids Pillar,Consumable,0,Basic,50
 108928,Track 4: Sunny Glade,Consumable,0,Exotic,0
 108929,Forged-Light Pistol,Weapon,80,Exotic,264
+108930,Black Lion Super Lord Vanquish Thin Wall Recipe,Consumable,0,Basic,0
 108932,Track 26: Super Adventure Run,Consumable,0,Exotic,0
 108933,Accelerated Edge Focus Skin,Consumable,0,Rare,0
 108934,"Track 29: Bake the Cake, Chef!",Consumable,0,Exotic,0
+108935,Black Lion Super Lord Vanquish Banner Recipe,Consumable,0,Basic,0
 108936,Recipe: Super Bridge Plank,Consumable,0,Basic,50
 108937,Forged-Light Greatsword,Weapon,80,Exotic,396
 108938,Track 7: Dark Woods 2,Consumable,0,Exotic,0
 108939,Valkyrie Powered Vest,Armor,80,Exotic,396
 108940,Track 3: Rescue the Princess,Consumable,0,Exotic,0
 108941,Track 14: Bonus Stage,Consumable,0,Exotic,0
+108942,Black Lion Super Lord Vanquish Wall Recipe,Consumable,0,Basic,0
 108943,Track 28: Loading Screen,Consumable,0,Exotic,0
 108944,Track 16: Moto's Continue Room of Death,Consumable,0,Exotic,0
 108945,Track 28: Loading Screen,Consumable,0,Exotic,0
