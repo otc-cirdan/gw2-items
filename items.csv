@@ -53090,6 +53090,7 @@ id,name,type,level,rarity,vendor_value
 81537,Mini Elegant Gold Llama,MiniPet,0,Exotic,0
 81538,Large Potion of PvP Reward,Consumable,0,Fine,0
 81539,Mini Fancy Gold Llama,MiniPet,0,Exotic,0
+81542,Champion's Rest Pass (4 weeks),Gizmo,0,Exotic,0
 81544,Mini Lavish Silver Llama,MiniPet,0,Exotic,0
 81545,Jormag Dye Kit,Container,0,Masterwork,0
 81547,Dynamics Glider Module,Consumable,0,Masterwork,0
@@ -72361,6 +72362,7 @@ Balance",Gizmo,0,Basic,0
 108030,Veldrunner Shoulderguard,Armor,80,Ascended,240
 108031,Fused Weapon Box,Container,0,Rare,0
 108032,Stonecleaver's Impaler,Weapon,80,Ascended,10000
+108033,Ahamid's Leather Breather,Armor,80,Ascended,240
 108034,Angchu Grips,Armor,80,Ascended,240
 108035,Svaard's Revolver,Weapon,80,Ascended,10000
 108036,Gobrech's Shoulderguard,Armor,80,Ascended,240
@@ -72516,6 +72518,7 @@ Balance",Gizmo,0,Basic,0
 108196,Angchu Guise,Armor,80,Ascended,240
 108198,Zehtuka's Visage,Armor,80,Ascended,240
 108199,Nerashi's Leggings,Armor,80,Ascended,240
+108200,Ossa's Wristguards,Armor,80,Ascended,240
 108201,Yassith's Wristguards,Armor,80,Ascended,240
 108202,Caladbolg Orchida Skin,Consumable,0,Rare,0
 108203,Wupwup Metal Breather,Armor,80,Ascended,240
@@ -72808,6 +72811,7 @@ Balance",Gizmo,0,Basic,0
 108513,Maklain's Flanged Mace,Weapon,80,Ascended,10000
 108514,Zojja's Visage,Armor,80,Ascended,240
 108515,Steelstar's Short Bow,Weapon,80,Ascended,10000
+108516,Nadijeh's Greatbow,Weapon,80,Ascended,10000
 108517,Laranthir's Harpoon Gun,Weapon,80,Ascended,10000
 108518,Laranthir's Leggings,Armor,80,Ascended,240
 108519,War God's Weapon Box,Container,0,Rare,0
@@ -73118,6 +73122,7 @@ Balance",Gizmo,0,Basic,0
 108847,Accelerated Edge Axe Skin,Consumable,0,Rare,0
 108848,Track 21: Hillbilly Hoedown,Consumable,0,Exotic,0
 108849,Recipe: Super Rapids Plateau,Consumable,0,Basic,50
+108850,Black Lion Drum Set Recipe,Consumable,0,Basic,0
 108851,Track 17: Rytlock's Critter Rampage,Consumable,0,Exotic,0
 108852,Forged-Light Dagger,Weapon,80,Exotic,264
 108854,Recipe: Super Sharpening Polygon,Consumable,70,Masterwork,57
@@ -73169,6 +73174,7 @@ Balance",Gizmo,0,Basic,0
 108904,Track 8: Warp Worm,Consumable,0,Exotic,0
 108905,Track 3: Rescue the Princess,Consumable,0,Exotic,0
 108906,Track 31: Deep Depths,Consumable,0,Exotic,0
+108908,Black Lion Drum Set Chair,Gizmo,0,Rare,0
 108909,Track 17: Rytlock's Critter Rampage,Consumable,0,Exotic,0
 108910,Mini Super Red Ooze,MiniPet,0,Exotic,50
 108911,Forged-Light Staff,Weapon,80,Exotic,396
