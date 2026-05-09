@@ -71905,6 +71905,7 @@ Balance",Gizmo,0,Basic,0
 107543,Wupwup Breeches,Armor,80,Ascended,240
 107544,Ahamid's Grips,Armor,80,Ascended,240
 107545,Zojja's Pauldrons,Armor,80,Ascended,240
+107546,Verata's Greatbow,Weapon,80,Ascended,10000
 107547,Yassith's Breeches,Armor,80,Ascended,240
 107548,Wupwup Impaler,Weapon,80,Ascended,10000
 107549,Hronk's Guise,Armor,80,Ascended,240
@@ -72394,6 +72395,7 @@ Balance",Gizmo,0,Basic,0
 108063,Ruka's Brazier,Weapon,80,Ascended,10000
 108064,Shifting Sands Weapon Box,Container,0,Rare,0
 108065,Zintl Footwear,Armor,80,Ascended,240
+108066,Laranthir's Razor,Weapon,80,Ascended,10000
 108067,Verata's Brazier,Weapon,80,Ascended,10000
 108068,Pahua's Razor,Weapon,80,Ascended,10000
 108069,Tonn's Blade,Weapon,80,Ascended,10000
@@ -73113,8 +73115,11 @@ Balance",Gizmo,0,Basic,0
 108831,Track 5: Town Shop,Consumable,0,Exotic,0
 108832,Forged-Light Warhorn,Weapon,80,Exotic,264
 108833,Forged-Light Shield,Weapon,80,Exotic,264
+108834,Mistforged Hero's Weapon Chest,Gizmo,0,Basic,0
+108835,Salvaged Dredge Backpack,Back,80,Exotic,264
 108836,Soundtrack Single—Super Adventure Box,Container,0,Exotic,0
 108837,Track 21: Hillbilly Hoedown,Consumable,0,Exotic,0
+108838,WvW Weapons Locker,Container,0,Basic,0
 108839,Super Sharpening Polygon,Consumable,1,Exotic,0
 108841,Hardlight Spear,Weapon,80,Exotic,396
 108842,Forged-Light Focus,Weapon,80,Exotic,264
