@@ -57281,6 +57281,7 @@ id,name,type,level,rarity,vendor_value
 87518,Swim-Speed Infusion +11,UpgradeComponent,0,Ascended,40
 87519,Diver's Breather Box,Container,80,Ascended,330
 87521,Recipe: Mistcleaver,Consumable,0,Ascended,165
+87523,Swim-Speed Infusion +29,UpgradeComponent,0,Ascended,40
 87524,Exalted Gloves,Consumable,0,Masterwork,0
 87525,Swim-Speed Infusion +21,UpgradeComponent,0,Ascended,40
 87526,Swim-Speed Infusion +14,UpgradeComponent,0,Ascended,40
@@ -73275,6 +73276,7 @@ Balance",Gizmo,0,Basic,0
 108963,Picnic Blanket Chair,Gizmo,0,Rare,0
 108964,Gwyl Monarch's Greatsword Skin,Consumable,0,Rare,0
 108966,Track 8: Dragon Vigil,Consumable,0,Exotic,0
+108967,Track 68: Adelbern's Ghost,Consumable,0,Exotic,0
 108969,Track 43: Into the Dragon,Consumable,0,Exotic,0
 108970,Track 6: Forming a New Legion,Consumable,0,Exotic,0
 108971,Morph-o-Matic Weapon Box,Container,0,Exotic,0
@@ -73307,6 +73309,7 @@ Balance",Gizmo,0,Basic,0
 109013,Track 74: March of the Legions,Consumable,0,Exotic,0
 109015,Track 27: Ancient Mine Demolition Derby,Consumable,0,Exotic,0
 109016,Track 11: Storms of Winter I,Consumable,0,Exotic,0
+109017,Track 10: Battle with the Tamini,Consumable,0,Exotic,0
 109019,Track 7: Whispers in the Dark,Consumable,0,Exotic,0
 109020,Track 39: The Crystal Dragon Pt. 2,Consumable,0,Exotic,0
 109021,Track 25: TT6-B Devourer,Consumable,0,Exotic,0
@@ -73336,6 +73339,7 @@ Balance",Gizmo,0,Basic,0
 109057,Track 72: Malchor's Leap,Consumable,0,Exotic,0
 109058,Track 15: Episode 3: Long Live the Lich,Consumable,0,Exotic,0
 109059,Track 32: Michotl Battle March,Consumable,0,Exotic,0
+109060,Track 16: Ruins of an Empire,Consumable,0,Exotic,0
 109061,Track 4: Something Rotten in Grothmar,Consumable,0,Exotic,0
 109062,Track 3: Bangar's Office,Consumable,0,Exotic,0
 109063,Track 36: A Land Restored,Consumable,0,Exotic,0
@@ -73362,6 +73366,7 @@ Balance",Gizmo,0,Basic,0
 109089,Track 7: Whispers in the Dark,Consumable,0,Exotic,0
 109090,Seer Mirror Small,Consumable,0,Basic,0
 109091,Forge Guard's Medium Pauldron,Armor,80,Exotic,291
+109092,Track 26: Dawn in Shaemoor,Consumable,0,Exotic,0
 109096,Track 3: Joko,Consumable,0,Exotic,0
 109098,Forge Guard's Medium Gloves,Armor,80,Exotic,238
 109099,Track 46: Living World Season 4 Live Medley,Consumable,0,Exotic,0
@@ -73431,6 +73436,7 @@ Balance",Gizmo,0,Basic,0
 109173,Track 6: Heritage of Humanity,Consumable,0,Exotic,0
 109174,Track 40: The Crystal Dragon Pt. 3,Consumable,0,Exotic,0
 109176,Track 3: Drytop,Consumable,0,Exotic,0
+109179,Track 35: Racing Beetles,Consumable,0,Exotic,0
 109180,Track 66: Whispers in the Dark,Consumable,0,Exotic,0
 109183,Track 41: Champion of Jormag,Consumable,0,Exotic,0
 109184,Recipe: Glimmering Resin Longbow,Consumable,0,Exotic,128
@@ -73599,6 +73605,7 @@ Balance",Gizmo,0,Basic,0
 109408,Track 24: Zhaitan,Consumable,0,Exotic,0
 109409,Track 38: The Shiverpeaks,Consumable,0,Exotic,0
 109410,Small Seer Cache,Container,0,Exotic,264
+109411,Track 9: The Walls of Ebonhawke,Consumable,0,Exotic,0
 109413,Track 61: The Orders Unite,Consumable,0,Exotic,0
 109414,Gwyl Monarch's Spear Skin,Consumable,0,Rare,0
 109415,Track 40: United Legions II,Consumable,0,Exotic,0
@@ -73641,6 +73648,7 @@ Balance",Gizmo,0,Basic,0
 109460,Gwyl Monarch's Rifle Skin,Consumable,0,Rare,0
 109463,Gwyl Monarch's Warhorn Skin,Consumable,0,Rare,0
 109464,Forge Guard's Medium Cuirass,Armor,80,Exotic,396
+109465,Track 29: Zafirah,Consumable,0,Exotic,0
 109466,Track 53: Battle of the Vanguard,Consumable,0,Exotic,0
 109467,Ward Hunter's Boots Skin,Consumable,0,Masterwork,0
 109469,Gift of Galdra,CraftingMaterial,0,Legendary,0
@@ -73719,6 +73727,7 @@ Balance",Gizmo,0,Basic,0
 109586,Track 19: Drakkar,Consumable,0,Exotic,0
 109587,Soundtrack Single—Icebrood Saga,Container,0,Exotic,0
 109588,Track 4: Ember Bay,Consumable,0,Exotic,0
+109590,Track 13: Clash on the Sandswept Isles,Consumable,0,Exotic,0
 109591,Abyss Stalker Weapon Box,Container,0,Rare,0
 109593,Track 6: Attack on the Sunspears,Consumable,0,Exotic,0
 109596,Track 65: Of Tides and Quaggan,Consumable,0,Exotic,0
@@ -73819,8 +73828,10 @@ Balance",Gizmo,0,Basic,0
 109729,Track 6: Arid Vista 1,Consumable,0,Exotic,0
 109730,Mini Cyborg Spineshell,MiniPet,0,Exotic,50
 109731,Track 23: The Tengu Wall,Consumable,0,Exotic,0
+109732,Track 69: The Hammer Falls,Consumable,0,Exotic,0
 109736,Track 60: The Charr Triumphant,Consumable,0,Exotic,0
 109737,Track 50: Gendarran Fields,Consumable,0,Exotic,0
+109738,Track 34: Qadim Escapes,Consumable,0,Exotic,0
 109739,Track 4: The Arid Sands,Consumable,0,Exotic,0
 109740,Track 35: The Last of the Steel Band,Consumable,0,Exotic,0
 109741,Berserker's Glimmering Resin Hammer,Weapon,80,Exotic,396
