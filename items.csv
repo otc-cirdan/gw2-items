@@ -37004,7 +37004,6 @@ id,name,type,level,rarity,vendor_value
 51507,Apostate's Topiary Knife,Weapon,71,Exotic,244
 51508,Apostate's Primal Cultivar,Weapon,71,Exotic,244
 51509,Apostate's Verteth Edge,Weapon,71,Exotic,366
-51510,Apostate's Thundering Rhizome,Weapon,71,Exotic,366
 51511,Apostate's Tendril of Terror,Weapon,71,Exotic,244
 51512,Apostate's Bloomboom,Weapon,71,Exotic,244
 51513,Apostate's Chloroblaster,Weapon,71,Exotic,366
@@ -37076,7 +37075,6 @@ id,name,type,level,rarity,vendor_value
 51579,Forsaken Sacred Circle,Weapon,65,Exotic,228
 51580,Forsaken Croisier Guardant,Weapon,65,Exotic,342
 51581,Forsaken Ayala's Rinblade,Weapon,65,Exotic,228
-51582,Forsaken Lambent Sconce,Weapon,65,Exotic,228
 51583,Forsaken Orison of Salma,Weapon,65,Exotic,228
 51584,Apostate's Dendritic Avenger,Weapon,68,Exotic,236
 51585,Apostate's Papillon,Weapon,68,Exotic,354
@@ -37090,7 +37088,6 @@ id,name,type,level,rarity,vendor_value
 51593,Apostate's Chloroblaster,Weapon,68,Exotic,354
 51594,Apostate's Sacred Xylem,Weapon,68,Exotic,236
 51595,Apostate's Wyldwyng,Weapon,68,Exotic,236
-51596,Apostate's Branch of Oneiru,Weapon,68,Exotic,354
 51597,Apostate's Manbiter,Weapon,68,Exotic,236
 51598,Apostate's Melitta's Bloom,Weapon,68,Exotic,236
 51599,Apostate's Dawn Chorus,Weapon,68,Exotic,236
@@ -37117,7 +37114,6 @@ id,name,type,level,rarity,vendor_value
 51620,Apostate's Rota Misfortuna,Weapon,59,Exotic,212
 51621,Apostate's Architeuthis,Weapon,59,Exotic,318
 51622,Apostate's Sorrowmaker,Weapon,59,Exotic,318
-51623,Apostate's Crowncrusher,Weapon,59,Exotic,212
 51624,Apostate's Weatherwrack,Weapon,59,Exotic,212
 51625,Apostate's Crack o' Red Dawn,Weapon,59,Exotic,318
 51626,Apostate's Ominous Egg,Weapon,59,Exotic,212
@@ -37142,7 +37138,6 @@ id,name,type,level,rarity,vendor_value
 51645,Forsaken Mournsword,Weapon,59,Exotic,212
 51646,Forsaken Lantern of the Lost,Weapon,59,Exotic,212
 51647,Forsaken Eerie Conch,Weapon,59,Exotic,212
-51648,Apostate's Barnacle Scraper,Weapon,62,Exotic,220
 51649,Apostate's Short-Tailed Shot,Weapon,62,Exotic,330
 51650,Apostate's Spitespewer,Weapon,62,Exotic,330
 51651,Apostate's Darkdevoted Kris,Weapon,62,Exotic,220
@@ -37155,7 +37150,6 @@ id,name,type,level,rarity,vendor_value
 51658,Apostate's Ominous Egg,Weapon,62,Exotic,220
 51659,Apostate's Shell of Secrets,Weapon,62,Exotic,220
 51660,Apostate's Returner's Gaff,Weapon,62,Exotic,330
-51661,Apostate's Mournsword,Weapon,62,Exotic,220
 51662,Apostate's Lantern of the Lost,Weapon,62,Exotic,220
 51663,Apostate's Eerie Conch,Weapon,62,Exotic,220
 51664,Forsaken Barnacle Scraper,Weapon,62,Exotic,220
@@ -37183,7 +37177,6 @@ id,name,type,level,rarity,vendor_value
 51686,Apostate's Sorrowmaker,Weapon,65,Exotic,342
 51687,Apostate's Crowncrusher,Weapon,65,Exotic,228
 51688,Apostate's Weatherwrack,Weapon,65,Exotic,228
-51689,Apostate's Crack o' Red Dawn,Weapon,65,Exotic,342
 51690,Apostate's Ominous Egg,Weapon,65,Exotic,228
 51691,Apostate's Shell of Secrets,Weapon,65,Exotic,228
 51692,Apostate's Returner's Gaff,Weapon,65,Exotic,342
@@ -72191,6 +72184,7 @@ Balance",Gizmo,0,Basic,0
 107808,Togo's Visor,Armor,80,Ascended,240
 107809,Suun's Trident,Weapon,80,Ascended,10000
 107810,Nadijeh's Striders,Armor,80,Ascended,240
+107811,Giftbringer's Striders,Armor,80,Ascended,240
 107812,Hronk's Razor,Weapon,80,Ascended,10000
 107813,Svaard's Artifact,Weapon,80,Ascended,10000
 107814,Occam's Metal Breather,Armor,80,Ascended,240
@@ -72537,6 +72531,7 @@ Balance",Gizmo,0,Basic,0
 108172,Leftpaw's Wand,Weapon,80,Ascended,10000
 108173,Zehtuka's Breeches,Armor,80,Ascended,240
 108174,Forgemaster's Guise,Armor,80,Ascended,240
+108175,Giftbringer's Grips,Armor,80,Ascended,240
 108176,Leftpaw's Impaler,Weapon,80,Ascended,10000
 108177,Yassith's Spire,Weapon,80,Ascended,10000
 108178,Yassith's Shoulderguard,Armor,80,Ascended,240
@@ -72774,6 +72769,7 @@ Balance",Gizmo,0,Basic,0
 108427,Stonecleaver's Blade,Weapon,80,Ascended,10000
 108428,Saphir's Footwear,Armor,80,Ascended,240
 108429,Yassith's Short Bow,Weapon,80,Ascended,10000
+108430,Giftbringer's Shoulderguard,Armor,80,Ascended,240
 108431,Maklain's Razor,Weapon,80,Ascended,10000
 108432,Beigarth's Musket,Weapon,80,Ascended,10000
 108433,Togo's Flanged Mace,Weapon,80,Ascended,10000
@@ -73087,6 +73083,7 @@ Balance",Gizmo,0,Basic,0
 108756,Hronk's Claymore,Weapon,80,Ascended,10000
 108757,Nadijeh's Trident,Weapon,80,Ascended,10000
 108758,Leftpaw's Trident,Weapon,80,Ascended,10000
+108759,Giftbringer's Guise,Armor,80,Ascended,240
 108762,Togo's Claymore,Weapon,80,Ascended,10000
 108763,Occam's Breeches,Armor,80,Ascended,240
 108764,Steelstar's Greaves,Armor,80,Ascended,240
@@ -73300,6 +73297,7 @@ Balance",Gizmo,0,Basic,0
 108993,Track 16: The Newly Awakened,Consumable,0,Exotic,0
 108994,Berserker's Glimmering Resin Axe,Weapon,80,Exotic,264
 108995,Track 2: Assault on Amnoon,Consumable,0,Exotic,0
+108996,Track 41: Blighted Battleground,Consumable,0,Exotic,0
 108997,Track 1: Episode 1: Daybreak,Consumable,0,Exotic,0
 108998,Synergetics Scepter Skin,Consumable,0,Rare,0
 109000,Track 55: The Grand Gamble,Consumable,0,Exotic,0
@@ -73492,6 +73490,7 @@ Balance",Gizmo,0,Basic,0
 109239,Mote of Seer Transcendence,Container,0,Exotic,0
 109240,Track 62: Raven Speaks,Consumable,0,Exotic,0
 109241,Track 15: Crystal Oasis Redux,Consumable,0,Exotic,0
+109243,Seer Transcendence,UpgradeComponent,80,Exotic,10000
 109244,Track 12: Camp Resolve,Consumable,0,Exotic,0
 109245,Mini Apprentice Steward of Galdra,MiniPet,0,Exotic,50
 109246,Swiftwing Raptor Mount Skin,Consumable,0,Exotic,0
