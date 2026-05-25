@@ -37004,6 +37004,7 @@ id,name,type,level,rarity,vendor_value
 51507,Apostate's Topiary Knife,Weapon,71,Exotic,244
 51508,Apostate's Primal Cultivar,Weapon,71,Exotic,244
 51509,Apostate's Verteth Edge,Weapon,71,Exotic,366
+51510,Apostate's Thundering Rhizome,Weapon,71,Exotic,366
 51511,Apostate's Tendril of Terror,Weapon,71,Exotic,244
 51512,Apostate's Bloomboom,Weapon,71,Exotic,244
 51513,Apostate's Chloroblaster,Weapon,71,Exotic,366
@@ -37075,6 +37076,7 @@ id,name,type,level,rarity,vendor_value
 51579,Forsaken Sacred Circle,Weapon,65,Exotic,228
 51580,Forsaken Croisier Guardant,Weapon,65,Exotic,342
 51581,Forsaken Ayala's Rinblade,Weapon,65,Exotic,228
+51582,Forsaken Lambent Sconce,Weapon,65,Exotic,228
 51583,Forsaken Orison of Salma,Weapon,65,Exotic,228
 51584,Apostate's Dendritic Avenger,Weapon,68,Exotic,236
 51585,Apostate's Papillon,Weapon,68,Exotic,354
@@ -37088,6 +37090,7 @@ id,name,type,level,rarity,vendor_value
 51593,Apostate's Chloroblaster,Weapon,68,Exotic,354
 51594,Apostate's Sacred Xylem,Weapon,68,Exotic,236
 51595,Apostate's Wyldwyng,Weapon,68,Exotic,236
+51596,Apostate's Branch of Oneiru,Weapon,68,Exotic,354
 51597,Apostate's Manbiter,Weapon,68,Exotic,236
 51598,Apostate's Melitta's Bloom,Weapon,68,Exotic,236
 51599,Apostate's Dawn Chorus,Weapon,68,Exotic,236
@@ -37114,6 +37117,7 @@ id,name,type,level,rarity,vendor_value
 51620,Apostate's Rota Misfortuna,Weapon,59,Exotic,212
 51621,Apostate's Architeuthis,Weapon,59,Exotic,318
 51622,Apostate's Sorrowmaker,Weapon,59,Exotic,318
+51623,Apostate's Crowncrusher,Weapon,59,Exotic,212
 51624,Apostate's Weatherwrack,Weapon,59,Exotic,212
 51625,Apostate's Crack o' Red Dawn,Weapon,59,Exotic,318
 51626,Apostate's Ominous Egg,Weapon,59,Exotic,212
@@ -37138,6 +37142,7 @@ id,name,type,level,rarity,vendor_value
 51645,Forsaken Mournsword,Weapon,59,Exotic,212
 51646,Forsaken Lantern of the Lost,Weapon,59,Exotic,212
 51647,Forsaken Eerie Conch,Weapon,59,Exotic,212
+51648,Apostate's Barnacle Scraper,Weapon,62,Exotic,220
 51649,Apostate's Short-Tailed Shot,Weapon,62,Exotic,330
 51650,Apostate's Spitespewer,Weapon,62,Exotic,330
 51651,Apostate's Darkdevoted Kris,Weapon,62,Exotic,220
@@ -37150,6 +37155,7 @@ id,name,type,level,rarity,vendor_value
 51658,Apostate's Ominous Egg,Weapon,62,Exotic,220
 51659,Apostate's Shell of Secrets,Weapon,62,Exotic,220
 51660,Apostate's Returner's Gaff,Weapon,62,Exotic,330
+51661,Apostate's Mournsword,Weapon,62,Exotic,220
 51662,Apostate's Lantern of the Lost,Weapon,62,Exotic,220
 51663,Apostate's Eerie Conch,Weapon,62,Exotic,220
 51664,Forsaken Barnacle Scraper,Weapon,62,Exotic,220
@@ -37177,6 +37183,7 @@ id,name,type,level,rarity,vendor_value
 51686,Apostate's Sorrowmaker,Weapon,65,Exotic,342
 51687,Apostate's Crowncrusher,Weapon,65,Exotic,228
 51688,Apostate's Weatherwrack,Weapon,65,Exotic,228
+51689,Apostate's Crack o' Red Dawn,Weapon,65,Exotic,342
 51690,Apostate's Ominous Egg,Weapon,65,Exotic,228
 51691,Apostate's Shell of Secrets,Weapon,65,Exotic,228
 51692,Apostate's Returner's Gaff,Weapon,65,Exotic,342
@@ -70485,6 +70492,7 @@ Balance",Gizmo,0,Basic,0
 105490,Track 38: Fortune's Favor,Consumable,0,Exotic,0
 105492,Track 18: Minions of Kralkatorrik,Consumable,0,Exotic,0
 105493,Track 28: Ishan's Watch,Consumable,0,Exotic,0
+105494,Berserker's Dredge Halberd,Weapon,80,Rare,297
 105496,Track 17: Eparch's Finest,Consumable,0,Exotic,0
 105497,Aetheric Anchor,Container,0,Legendary,0
 105498,Track 2: Mist Connections,Consumable,0,Exotic,0
@@ -70725,6 +70733,7 @@ Balance",Gizmo,0,Basic,0
 105851,Fast Constructor's Torch,Weapon,80,Exotic,264
 105853,Track 18: Elegy of the Elders,Consumable,0,Exotic,0
 105854,Track 53: What Began Will Return,Consumable,0,Exotic,0
+105857,Berserker's Glyphic Javelin,Weapon,80,Rare,297
 105858,Ship Stairs,Consumable,0,Basic,0
 105859,Track 9: Sanctuary of Truth,Consumable,0,Exotic,0
 105860,Dragonsblood Spear Reforged,Weapon,80,Ascended,0
@@ -70934,6 +70943,7 @@ Balance",Gizmo,0,Basic,0
 106188,Pearlshell Torch Skin,Consumable,0,Rare,0
 106189,Wooden Beam (16 x 240 x 16),Consumable,0,Basic,0
 106190,Track 5: Memories Forgotten,Consumable,0,Exotic,0
+106191,Berserker's Aureate Partisan,Weapon,80,Rare,297
 106192,Bamboo Wall (240 x 240),Consumable,0,Basic,0
 106194,Track 39: Forsaken Nobility,Consumable,0,Exotic,0
 106195,Calligrapher's Focus Skin,Consumable,0,Rare,0
@@ -71271,6 +71281,7 @@ Balance",Gizmo,0,Basic,0
 106725,Hanging Brazier,Consumable,0,Basic,0
 106726,"Berserker's Pirate ""Fork""",Weapon,80,Rare,297
 106727,Ethereal Sea-Life Infusion,UpgradeComponent,80,Exotic,10000
+106728,Berserker's Beaded Spear,Weapon,80,Rare,297
 106729,Rare Aetherlocation Treasure,Container,0,Exotic,0
 106731,Track 51: Where Calamity Began,Consumable,0,Exotic,0
 106732,Chromatic Resin Box,Gizmo,0,Exotic,0
