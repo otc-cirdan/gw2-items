@@ -623,6 +623,7 @@ id,name,type,level,rarity,vendor_value
 672,Ravaging Reinforced Scale Boots of Vampirism,Armor,47,Rare,126
 673,Aidan's Pauldrons,Armor,80,Exotic,291
 674,Ravaging Magician Boots,Armor,32,Fine,32
+675,Ravaging Banded Greaves of Balthazar,Armor,54,Rare,141
 676,Shaman's Sneakthief Shoulderguards of the Flock,Armor,65,Exotic,242
 677,Ravaging Magician Boots,Armor,37,Fine,35
 678,Honed Country Boots,Armor,23,Fine,26
@@ -644,6 +645,7 @@ id,name,type,level,rarity,vendor_value
 694,Ravaging Magician Boots,Armor,34,Fine,33
 696,Berserker's Sneakthief Gloves of Vampirism,Armor,70,Exotic,213
 697,Ravaging Magician Boots,Armor,39,Fine,37
+698,Carrion Banded Greaves of the Flame Legion,Armor,80,Rare,198
 699,Errol's Pauldrons,Armor,80,Exotic,291
 700,Berserker's Sneakthief Shoulderguards of Dwayna,Armor,76,Exotic,278
 701,Strong Magician Boots,Armor,41,Fine,38
@@ -653,33 +655,50 @@ id,name,type,level,rarity,vendor_value
 705,Berserker's Sneakthief Gloves of Lyssa,Armor,78,Exotic,231
 706,Mighty Swindler Pauldrons,Armor,11,Fine,18
 707,Strong Magician Boots,Armor,51,Fine,45
+708,Honed Studded Boots,Armor,28,Fine,29
 709,Strong Magician Boots,Armor,56,Fine,49
 710,Rampager's Banded Greaves of the Pack,Armor,62,Rare,159
 711,Mighty Swindler Pauldrons,Armor,16,Fine,22
 712,Ravaging Magician Boots,Armor,42,Fine,39
+713,Honed Swindler Boots,Armor,33,Fine,33
 714,Nika's Gloves,Armor,80,Exotic,238
 715,Ravaging Magician Boots,Armor,47,Fine,42
 716,Rampager's Banded Greaves of Hoelbrak,Armor,69,Rare,174
 717,Precise Swindler Pauldrons,Armor,12,Fine,19
+718,Ravaging Magician Boots,Armor,52,Fine,46
 719,Precise Swindler Pauldrons,Armor,17,Fine,24
 720,Ravaging Magician Boots,Armor,57,Fine,49
 721,Vital Swindler Pauldrons,Armor,13,Fine,20
 722,Honed Magician Boots,Armor,43,Fine,40
 723,Rampager's Banded Greaves of Lyssa,Armor,76,Rare,189
+724,Vital Swindler Pauldrons,Armor,18,Fine,25
+725,Honed Magician Boots,Armor,48,Fine,43
 726,Malign Swindler Pauldrons,Armor,14,Fine,21
 727,Rampager's Banded Greaves of Balthazar,Armor,80,Rare,198
+728,Carrion Sneakthief Gloves of the Lich,Armor,63,Exotic,195
+729,Honed Magician Boots,Armor,53,Fine,47
 730,Shaman's Banded Greaves of the Eagle,Armor,70,Rare,177
+731,Malign Swindler Pauldrons,Armor,19,Fine,26
 732,Honed Magician Boots,Armor,58,Fine,50
 733,Carrion Sneakthief Gloves of Melandru,Armor,71,Exotic,213
+734,Strong Swindler Pauldrons,Armor,21,Fine,27
 735,Ravaging Magician Boots,Armor,44,Fine,40
+736,Honed Swindler Boots,Armor,38,Fine,36
+737,Ravaging Magician Boots,Armor,49,Fine,44
+738,Strong Swindler Pauldrons,Armor,26,Fine,31
 739,Shaman's Banded Greaves of Mercy,Armor,77,Rare,189
+740,Ravaging Magician Boots,Armor,54,Fine,47
+741,Carrion Sneakthief Gloves of Hoelbrak,Armor,79,Exotic,234
 742,Strong Swindler Pauldrons,Armor,31,Fine,35
 743,Ravaging Magician Boots,Armor,59,Fine,51
+744,Ravaging Studded Boots,Armor,24,Fine,26
 745,Shaman's Banded Greaves of the Eagle,Armor,80,Rare,198
+746,Strong Swindler Pauldrons,Armor,36,Fine,39
 747,Berserker's Cabalist Boots,Armor,61,Fine,52
 748,Berserker's Cabalist Boots,Armor,66,Fine,56
 749,Shiro's Gloves,Armor,80,Exotic,238
 750,Ravaging Swindler Pauldrons,Armor,22,Fine,28
+751,Cleric's Banded Greaves of Rata Sum,Armor,71,Rare,177
 752,Berserker's Cabalist Boots,Armor,71,Fine,59
 753,Ravaging Studded Boots,Armor,29,Fine,30
 754,Berserker's Cabalist Boots,Armor,76,Fine,63
@@ -690,7 +709,10 @@ id,name,type,level,rarity,vendor_value
 759,Carrion Cabalist Boots,Armor,62,Fine,53
 760,Ravaging Swindler Pauldrons,Armor,37,Fine,39
 761,Cleric's Banded Greaves of the Pack,Armor,80,Rare,198
+762,Carrion Cabalist Boots,Armor,67,Fine,56
+763,Rampager's Sneakthief Gloves of Lyssa,Armor,64,Exotic,195
 764,Carrion Cabalist Boots,Armor,72,Fine,60
+765,Honed Swindler Pauldrons,Armor,23,Fine,29
 766,Honed Swindler Pauldrons,Armor,28,Fine,32
 768,Carrion Cabalist Boots,Armor,77,Fine,63
 769,Rampager's Sneakthief Gloves of Scavenging,Armor,72,Exotic,216
@@ -700,12 +722,15 @@ id,name,type,level,rarity,vendor_value
 773,Honed Swindler Pauldrons,Armor,38,Fine,40
 774,Rampager's Cabalist Boots,Armor,63,Fine,54
 775,Aidan's Gloves,Armor,80,Exotic,238
+776,Ravaging Swindler Boots,Armor,34,Fine,33
 777,Banded Greaves of the Afflicted,Armor,80,Rare,198
+778,Ravaging Swindler Pauldrons,Armor,24,Fine,29
 779,Rampager's Cabalist Boots,Armor,68,Fine,57
 780,Rampager's Cabalist Boots,Armor,73,Fine,61
 781,Ravaging Swindler Pauldrons,Armor,29,Fine,33
 782,Rampager's Cabalist Boots,Armor,78,Fine,64
 783,Ravaging Swindler Boots,Armor,39,Fine,37
+784,Ravaging Swindler Pauldrons,Armor,34,Fine,37
 785,Shaman's Sneakthief Gloves of the Pack,Armor,65,Exotic,198
 786,Rampager's Cabalist Boots,Armor,80,Fine,66
 787,Ravaging Swindler Pauldrons,Armor,39,Fine,41
@@ -717,28 +742,38 @@ id,name,type,level,rarity,vendor_value
 793,Shaman's Cabalist Boots,Armor,74,Fine,61
 794,Strong Swindler Pauldrons,Armor,46,Fine,47
 795,Shaman's Cabalist Boots,Armor,79,Fine,65
+796,Strong Swindler Boots,Armor,41,Fine,38
 797,Strong Swindler Pauldrons,Armor,51,Fine,50
+798,Shaman's Cabalist Boots,Armor,80,Fine,66
 799,Strong Swindler Pauldrons,Armor,56,Fine,54
 800,Ravaging Swindler Pauldrons,Armor,42,Fine,43
+801,Berserker's Scallywag Greaves of Scavenging,Armor,62,Exotic,212
+802,Berserker's Scallywag Greaves of the Citadel,Armor,70,Exotic,236
 803,Cleric's Sneakthief Gloves of the Centaur,Armor,66,Exotic,202
 804,Strong Swindler Boots,Armor,46,Fine,42
 805,Ravaging Swindler Pauldrons,Armor,47,Fine,47
+806,Cleric's Sneakthief Gloves of Strength,Armor,74,Exotic,220
 807,Berserker's Scallywag Greaves of Vampirism,Armor,78,Exotic,256
+808,Ravaging Swindler Pauldrons,Armor,52,Fine,51
 809,Ravaging Swindler Pauldrons,Armor,57,Fine,54
 810,Devona's Greaves,Armor,80,Exotic,264
 811,Zho's Gloves,Armor,80,Exotic,238
 812,Honed Swindler Pauldrons,Armor,43,Fine,44
+813,Strong Swindler Boots,Armor,51,Fine,45
 814,Honed Swindler Pauldrons,Armor,48,Fine,48
 816,Honed Swindler Pauldrons,Armor,53,Fine,52
+817,Honed Swindler Pauldrons,Armor,58,Fine,55
 818,Ravaging Swindler Pauldrons,Armor,44,Fine,44
 819,Errol's Gloves,Armor,80,Exotic,238
 820,Carrion Scallywag Greaves of Lyssa,Armor,63,Exotic,216
 821,Strong Swindler Boots,Armor,56,Fine,49
+822,Ravaging Swindler Pauldrons,Armor,49,Fine,49
 823,Ravaging Swindler Pauldrons,Armor,54,Fine,52
 824,Berserker's Sneakthief Gloves of the Citadel,Armor,76,Exotic,227
 825,Vatlaaw's Gloves,Armor,80,Exotic,238
 826,Ravaging Swindler Pauldrons,Armor,59,Fine,57
 827,Carrion Scallywag Greaves of Dwayna,Armor,71,Exotic,236
+828,Berserker's Privateer Shoulders,Armor,61,Fine,58
 829,Berserker's Privateer Shoulders,Armor,66,Fine,62
 830,Carrion Scallywag Greaves of Lyssa,Armor,79,Exotic,260
 831,Ravaging Swindler Boots,Armor,42,Fine,39
@@ -746,16 +781,23 @@ id,name,type,level,rarity,vendor_value
 833,Mighty Studded Gloves,Armor,6,Fine,10
 834,Sheena's Greaves,Armor,80,Exotic,264
 835,Mighty Studded Gloves,Armor,11,Fine,15
+836,Berserker's Privateer Shoulders,Armor,76,Fine,70
 837,Berserker's Privateer Shoulders,Armor,80,Fine,73
 838,Carrion Privateer Shoulders,Armor,62,Fine,59
 839,Ravaging Swindler Boots,Armor,47,Fine,42
 840,Carrion Privateer Shoulders,Armor,67,Fine,62
 841,Rampager's Scallywag Greaves of the Dolyak,Armor,64,Exotic,216
+842,Mighty Studded Gloves,Armor,16,Fine,18
+843,Carrion Privateer Shoulders,Armor,72,Fine,66
 844,Carrion Privateer Shoulders,Armor,77,Fine,70
 845,Precise Studded Gloves,Armor,7,Fine,11
+846,Rampager's Scallywag Greaves of Infiltration,Armor,72,Exotic,240
+847,Precise Studded Gloves,Armor,12,Fine,16
 848,Koss' Greaves,Armor,80,Exotic,264
 849,Carrion Privateer Shoulders,Armor,80,Fine,73
 850,Mighty Magician Boots of the Flame Legion,Armor,14,Masterwork,38
+851,Rampager's Privateer Shoulders,Armor,63,Fine,60
+852,Ravaging Swindler Boots,Armor,52,Fine,46
 853,Shaman's Scallywag Greaves of Dwayna,Armor,65,Exotic,220
 854,Mighty Magician Boots of Hoelbrak,Armor,20,Masterwork,48
 855,Rampager's Privateer Shoulders,Armor,68,Fine,63
@@ -69818,6 +69860,7 @@ Balance",Gizmo,0,Basic,0
 104688,Stone-Growth Axe Skin,Consumable,0,Rare,0
 104690,Orrax Contained,Back,80,Ascended,330
 104691,Lightborne Mace,Weapon,80,Exotic,264
+104692,"Homestead Recipe Book: Dragon Bash, Volume 7",Consumable,0,Exotic,0
 104694,Brasswork Homestead Package,Container,0,Basic,0
 104695,Recipe: Norn Structure,Consumable,0,Basic,50
 104698,Norn Stair,Consumable,0,Basic,0
@@ -70360,6 +70403,7 @@ Balance",Gizmo,0,Basic,0
 105363,Recipe: Ominous Fortress Ruins—Right,Consumable,0,Basic,50
 105364,Unchained Axe,Weapon,80,Exotic,264
 105365,Box of Deathly Shoulder Skins,Container,0,Masterwork,0
+105367,Plush Primo Backpack,Back,80,Exotic,8888
 105368,Unchained Scepter,Weapon,80,Exotic,264
 105369,Graveyard Gate Recipe,Consumable,0,Basic,0
 105372,Unchained Hammer,Weapon,80,Exotic,396
@@ -72321,6 +72365,7 @@ Balance",Gizmo,0,Basic,0
 107981,Theodosus's Warhammer,Weapon,80,Ascended,10000
 107982,Stonecleaver's Brazier,Weapon,80,Ascended,10000
 107983,Ventari's Epaulets,Armor,80,Ascended,240
+107984,Nerashi's Greatbow,Weapon,80,Ascended,10000
 107985,Wei Qi's Masque,Armor,80,Ascended,240
 107986,Togo's Revolver,Weapon,80,Ascended,10000
 107988,Coalforge's Artifact,Weapon,80,Ascended,10000
@@ -73123,11 +73168,11 @@ Balance",Gizmo,0,Basic,0
 108831,Track 5: Town Shop,Consumable,0,Exotic,0
 108832,Forged-Light Warhorn,Weapon,80,Exotic,264
 108833,Forged-Light Shield,Weapon,80,Exotic,264
-108834,Mistforged Hero's Weapon Chest,Gizmo,0,Basic,0
+108834,Mistforged Hero's Weapon Chest,Gizmo,0,Exotic,0
 108835,Salvaged Dredge Backpack,Back,80,Exotic,264
 108836,Soundtrack Single—Super Adventure Box,Container,0,Exotic,0
 108837,Track 21: Hillbilly Hoedown,Consumable,0,Exotic,0
-108838,WvW Weapons Locker,Container,0,Basic,0
+108838,WvW Weapons Locker,Container,0,Exotic,0
 108839,Super Sharpening Polygon,Consumable,1,Exotic,0
 108840,Salvaged Dredge Inferno Backpack,Back,80,Ascended,330
 108841,Hardlight Spear,Weapon,80,Exotic,396
@@ -73670,6 +73715,7 @@ Balance",Gizmo,0,Basic,0
 109515,Track 23: Forging Steel,Consumable,0,Exotic,0
 109516,Track 55: The Grand Gamble,Consumable,0,Exotic,0
 109517,Track 1: Icebrood Saga Announcement Trailer,Consumable,0,Exotic,0
+109518,Seer Transcendence,UpgradeComponent,80,Exotic,10000
 109520,Track 19: Scarab Plague,Consumable,0,Exotic,0
 109521,Gwyl Monarch's Longbow Skin,Consumable,0,Rare,0
 109522,Relic of the Doyen,Relic,60,Exotic,200
@@ -73850,3 +73896,43 @@ Balance",Gizmo,0,Basic,0
 109765,Track 36: A Land Restored,Consumable,0,Exotic,0
 109766,Track 47: The War Eternal,Consumable,0,Exotic,0
 109768,Track 1: Icebrood Saga Announcement Trailer,Consumable,0,Exotic,0
+109769,Guild Warrior Cape Skin,Consumable,0,Masterwork,0
+109770,Icebone Scepter,Weapon,80,Exotic,264
+109771,Recipe: Leopard Totem,Consumable,0,Basic,50
+109772,Icebone Short Bow,Weapon,80,Exotic,396
+109773,Icebone Sword,Weapon,80,Exotic,264
+109774,Icebone Axe,Weapon,80,Exotic,264
+109775,Recipe: Wolf Totem,Consumable,0,Basic,50
+109776,Elder Draco-Pop,Consumable,1,Exotic,0
+109777,Icebone Mace,Weapon,80,Exotic,264
+109779,Mini Papillon,MiniPet,0,Exotic,50
+109780,Icebone Hammer,Weapon,80,Exotic,396
+109781,Bear-Blessed Visage,Armor,80,Exotic,330
+109782,Glittering Resin Weapon Cache,Container,0,Exotic,0
+109783,Icebone Spear,Weapon,80,Exotic,396
+109784,Recipe: Elder Draco-Pop,Consumable,70,Masterwork,57
+109785,Icebone Pistol,Weapon,80,Exotic,264
+109787,Bear-Blessed Visage,Armor,80,Exotic,330
+109788,Recipe: Bear Totem,Consumable,0,Basic,50
+109789,Bear Totem,Consumable,0,Basic,0
+109790,Leopard Totem,Consumable,0,Basic,0
+109791,Icebone Dagger,Weapon,80,Exotic,264
+109792,Forge Guard's Armor Box,Container,0,Exotic,0
+109793,Icebone Blunderbuss,Weapon,80,Exotic,396
+109794,Icebone Torch,Weapon,80,Exotic,264
+109796,Icebone Longbow,Weapon,80,Exotic,396
+109797,Icebone Shield,Weapon,80,Exotic,264
+109798,Icebone Chest,Container,0,Exotic,256
+109799,Icebone Greatsword,Weapon,80,Exotic,396
+109800,Bear-Blessed Visage Box,Container,0,Exotic,256
+109801,Bear-Blessed Visage,Armor,80,Exotic,330
+109802,"""/Transform"" Emote Tome",Consumable,0,Exotic,0
+109804,Recipe: Plush Primo,Consumable,0,Basic,50
+109805,Icebone Warhorn,Weapon,80,Exotic,264
+109806,Dragonbone Spear,Weapon,80,Exotic,396
+109807,Icebone Focus,Weapon,80,Exotic,264
+109808,Choya Piñata Conjured Doorway Skin,Consumable,0,Rare,0
+109810,Recipe: Raven Totem,Consumable,0,Basic,50
+109812,Icebone Staff,Weapon,80,Exotic,396
+109813,Guild Warrior Shoulders Skin,Consumable,0,Masterwork,0
+109815,Trader's Sacred Raven's Chest,Container,0,Exotic,256
