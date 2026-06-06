@@ -8399,6 +8399,206 @@ id,name,type,level,rarity,vendor_value
 10669,Valkyrie Barbaric Helm,Armor,80,Masterwork,80
 10670,Cleric's Barbaric Helm,Armor,80,Masterwork,80
 10671,Barbaric Helm,Armor,80,Masterwork,80
+10672,Berserker's Barbaric Helm,Armor,75,Fine,77
+10673,Cleric's Barbaric Helm,Armor,75,Fine,77
+10674,Valkyrie Barbaric Helm,Armor,70,Fine,72
+10675,Carrion Barbaric Helm,Armor,70,Fine,72
+10676,Knight's Barbaric Helm,Armor,70,Fine,72
+10677,Berserker's Barbaric Helm,Armor,80,Masterwork,80
+10678,Rampager's Barbaric Helm,Armor,75,Fine,77
+10679,Barbaric Helm,Armor,75,Fine,77
+10680,Rampager's Barbaric Helm,Armor,80,Masterwork,80
+10681,Carrion Draconic Helm,Armor,80,Exotic,240
+10682,Cleric's Draconic Helm,Armor,80,Exotic,240
+10683,Draconic Helm,Armor,80,Exotic,240
+10684,Berserker's Draconic Helm,Armor,80,Exotic,240
+10685,Rampager's Draconic Helm,Armor,80,Exotic,240
+10686,Knight's Draconic Helm,Armor,80,Exotic,240
+10687,Valkyrie Draconic Helm,Armor,80,Exotic,240
+10688,Carrion Gladiator Pauldrons,Armor,80,Rare,160
+10689,Cleric's Gladiator Pauldrons,Armor,80,Rare,160
+10690,Gladiator Pauldrons,Armor,80,Rare,160
+10691,Berserker's Gladiator Pauldrons,Armor,80,Rare,160
+10692,Rampager's Gladiator Pauldrons,Armor,80,Rare,160
+10693,Knight's Gladiator Pauldrons,Armor,80,Rare,160
+10694,Valkyrie Gladiator Pauldrons,Armor,80,Rare,160
+10695,Carrion Gladiator Legplates,Armor,80,Rare,160
+10696,Cleric's Gladiator Legplates,Armor,80,Rare,160
+10697,Gladiator Legplates,Armor,80,Rare,160
+10698,Berserker's Gladiator Legplates,Armor,80,Rare,160
+10699,Rampager's Gladiator Legplates,Armor,80,Rare,160
+10700,Knight's Gladiator Legplates,Armor,80,Rare,160
+10701,Valkyrie Gladiator Legplates,Armor,80,Rare,160
+10702,Carrion Gladiator Boots,Armor,80,Rare,160
+10703,Cleric's Gladiator Boots,Armor,80,Rare,160
+10704,Gladiator Boots,Armor,80,Rare,160
+10705,Berserker's Gladiator Boots,Armor,80,Rare,160
+10706,Rampager's Gladiator Boots,Armor,80,Rare,160
+10707,Knight's Gladiator Boots,Armor,80,Rare,160
+10708,Valkyrie Gladiator Boots,Armor,80,Rare,160
+10709,Carrion Gladiator Gauntlets,Armor,80,Rare,160
+10710,Cleric's Gladiator Gauntlets,Armor,80,Rare,160
+10711,Gladiator Gauntlets,Armor,80,Rare,160
+10712,Berserker's Gladiator Gauntlets,Armor,80,Rare,160
+10713,Rampager's Gladiator Gauntlets,Armor,80,Rare,160
+10714,Knight's Gladiator Gauntlets,Armor,80,Rare,160
+10715,Valkyrie Gladiator Gauntlets,Armor,80,Rare,160
+10716,Carrion Gladiator Chestplate,Armor,80,Rare,160
+10717,Cleric's Gladiator Chestplate,Armor,80,Rare,160
+10718,Gladiator Chestplate,Armor,80,Rare,160
+10719,Berserker's Gladiator Chestplate,Armor,80,Rare,160
+10720,Rampager's Gladiator Chestplate,Armor,80,Rare,160
+10721,Knight's Gladiator Chestplate,Armor,80,Rare,160
+10722,Valkyrie Gladiator Chestplate,Armor,80,Rare,160
+10723,Carrion Gladiator Helm,Armor,80,Rare,160
+10724,Cleric's Gladiator Helm,Armor,80,Rare,160
+10725,Gladiator Helm,Armor,80,Rare,160
+10726,Berserker's Gladiator Helm,Armor,80,Rare,160
+10727,Rampager's Gladiator Helm,Armor,80,Rare,160
+10728,Knight's Gladiator Helm,Armor,80,Rare,160
+10729,Valkyrie Gladiator Helm,Armor,80,Rare,160
+10730,Mighty Chain Legs,Armor,5,Fine,14
+10731,Mighty Chain Boots,Armor,5,Fine,10
+10732,Mighty Chain Gauntlets,Armor,5,Fine,9
+10733,Mighty Chain Coat,Armor,5,Fine,15
+10734,Rejuvenating Scale Pauldrons,Armor,30,Fine,35
+10735,Rejuvenating Scale Pauldrons,Armor,35,Masterwork,75
+10736,Rejuvenating Splint Pauldrons,Armor,45,Fine,46
+10737,Rejuvenating Splint Pauldrons,Armor,50,Masterwork,52
+10738,Rejuvenating Scale Legs,Armor,30,Fine,44
+10739,Rejuvenating Scale Legs,Armor,35,Masterwork,96
+10740,Rejuvenating Splint Legs,Armor,45,Fine,58
+10741,Rejuvenating Splint Legs,Armor,50,Masterwork,52
+10742,Rejuvenating Scale Boots,Armor,30,Fine,31
+10743,Rejuvenating Scale Boots,Armor,35,Masterwork,68
+10744,Rejuvenating Splint Greaves,Armor,45,Fine,41
+10745,Rejuvenating Splint Greaves,Armor,50,Masterwork,52
+10746,Rejuvenating Scale Gauntlets,Armor,30,Fine,28
+10747,Rejuvenating Scale Gauntlets,Armor,35,Masterwork,62
+10748,Rejuvenating Splint Gauntlets,Armor,45,Fine,37
+10749,Rejuvenating Splint Gauntlets,Armor,50,Masterwork,52
+10750,Rejuvenating Scale Coat,Armor,30,Fine,47
+10751,Rejuvenating Scale Coat,Armor,35,Masterwork,102
+10752,Rejuvenating Splint Coat,Armor,45,Fine,62
+10753,Rejuvenating Splint Coat,Armor,50,Masterwork,52
+10754,Rejuvenating Scale Helm,Armor,30,Fine,39
+10755,Rejuvenating Scale Helm,Armor,35,Masterwork,85
+10756,Rejuvenating Splint Helm,Armor,45,Fine,52
+10757,Rejuvenating Splint Helm,Armor,50,Masterwork,52
+10758,Ravaging Gladiator Pauldrons,Armor,35,Rare,113
+10759,Rejuvenating Gladiator Pauldrons,Armor,35,Rare,113
+10760,Honed Gladiator Pauldrons,Armor,35,Rare,113
+10761,Gladiator Pauldrons,Armor,35,Rare,113
+10762,Strong Gladiator Pauldrons,Armor,35,Rare,113
+10763,Vigorous Gladiator Pauldrons,Armor,35,Rare,113
+10764,Hearty Gladiator Pauldrons,Armor,35,Rare,113
+10765,Ravaging Gladiator Pauldrons,Armor,50,Rare,149
+10766,Rejuvenating Gladiator Pauldrons,Armor,50,Rare,149
+10767,Honed Gladiator Pauldrons,Armor,50,Rare,149
+10769,Strong Gladiator Pauldrons,Armor,50,Rare,149
+10770,Vigorous Gladiator Pauldrons,Armor,50,Rare,149
+10771,Hearty Gladiator Pauldrons,Armor,50,Rare,149
+10772,Carrion Gladiator Pauldrons,Armor,65,Rare,182
+10773,Cleric's Gladiator Pauldrons,Armor,65,Rare,182
+10774,Gladiator Pauldrons,Armor,65,Rare,182
+10775,Berserker's Gladiator Pauldrons,Armor,65,Rare,182
+10776,Valkyrie Gladiator Pauldrons,Armor,65,Rare,182
+10777,Rampager's Gladiator Pauldrons,Armor,65,Rare,182
+10778,Knight's Gladiator Pauldrons,Armor,65,Rare,182
+10779,Ravaging Gladiator Legplates,Armor,35,Rare,143
+10780,Rejuvenating Gladiator Legplates,Armor,35,Rare,143
+10781,Honed Gladiator Legplates,Armor,35,Rare,143
+10782,Gladiator Legplates,Armor,35,Rare,143
+10783,Strong Gladiator Legplates,Armor,35,Rare,143
+10784,Vigorous Gladiator Legplates,Armor,35,Rare,143
+10785,Hearty Gladiator Legplates,Armor,35,Rare,143
+10786,Ravaging Gladiator Legplates,Armor,50,Rare,189
+10787,Rejuvenating Gladiator Legplates,Armor,50,Rare,189
+10788,Honed Gladiator Legplates,Armor,50,Rare,189
+10790,Strong Gladiator Legplates,Armor,50,Rare,189
+10791,Vigorous Gladiator Legplates,Armor,50,Rare,189
+10792,Hearty Gladiator Legplates,Armor,50,Rare,189
+10793,Carrion Gladiator Legplates,Armor,65,Rare,231
+10794,Cleric's Gladiator Legplates,Armor,65,Rare,231
+10796,Berserker's Gladiator Legplates,Armor,65,Rare,231
+10797,Valkyrie Gladiator Legplates,Armor,65,Rare,231
+10798,Rampager's Gladiator Legplates,Armor,65,Rare,231
+10799,Knight's Gladiator Legplates,Armor,65,Rare,231
+10800,Ravaging Gladiator Boots,Armor,35,Rare,102
+10801,Rejuvenating Gladiator Boots,Armor,35,Rare,102
+10802,Honed Gladiator Boots,Armor,35,Rare,102
+10803,Gladiator Boots,Armor,35,Rare,102
+10804,Strong Gladiator Boots,Armor,35,Rare,102
+10805,Vigorous Gladiator Boots,Armor,35,Rare,102
+10806,Hearty Gladiator Boots,Armor,35,Rare,102
+10807,Ravaging Gladiator Boots,Armor,50,Rare,135
+10808,Rejuvenating Gladiator Boots,Armor,50,Rare,135
+10809,Honed Gladiator Boots,Armor,50,Rare,135
+10810,Gladiator Boots,Armor,50,Rare,135
+10811,Strong Gladiator Boots,Armor,50,Rare,135
+10812,Vigorous Gladiator Boots,Armor,50,Rare,135
+10813,Hearty Gladiator Boots,Armor,50,Rare,135
+10814,Carrion Gladiator Boots,Armor,65,Rare,165
+10815,Cleric's Gladiator Boots,Armor,65,Rare,165
+10817,Berserker's Gladiator Boots,Armor,65,Rare,165
+10818,Valkyrie Gladiator Boots,Armor,65,Rare,165
+10819,Rampager's Gladiator Boots,Armor,65,Rare,165
+10820,Knight's Gladiator Boots,Armor,65,Rare,165
+10821,Ravaging Gladiator Gauntlets,Armor,35,Rare,92
+10822,Rejuvenating Gladiator Gauntlets,Armor,35,Rare,92
+10823,Honed Gladiator Gauntlets,Armor,35,Rare,92
+10824,Gladiator Gauntlets,Armor,35,Rare,92
+10825,Strong Gladiator Gauntlets,Armor,35,Rare,92
+10826,Vigorous Gladiator Gauntlets,Armor,35,Rare,92
+10827,Hearty Gladiator Gauntlets,Armor,35,Rare,92
+10828,Ravaging Gladiator Gauntlets,Armor,50,Rare,122
+10829,Rejuvenating Gladiator Gauntlets,Armor,50,Rare,122
+10830,Honed Gladiator Gauntlets,Armor,50,Rare,122
+10831,Gladiator Gauntlets,Armor,50,Rare,122
+10832,Strong Gladiator Gauntlets,Armor,50,Rare,122
+10833,Vigorous Gladiator Gauntlets,Armor,50,Rare,122
+10834,Hearty Gladiator Gauntlets,Armor,50,Rare,122
+10835,Carrion Gladiator Gauntlets,Armor,65,Rare,149
+10836,Cleric's Gladiator Gauntlets,Armor,65,Rare,149
+10838,Berserker's Gladiator Gauntlets,Armor,65,Rare,149
+10839,Valkyrie Gladiator Gauntlets,Armor,65,Rare,149
+10840,Rampager's Gladiator Gauntlets,Armor,65,Rare,149
+10841,Knight's Gladiator Gauntlets,Armor,65,Rare,149
+10842,Ravaging Gladiator Chestplate,Armor,35,Rare,153
+10843,Rejuvenating Gladiator Chestplate,Armor,35,Rare,153
+10844,Honed Gladiator Chestplate,Armor,35,Rare,153
+10845,Gladiator Chestplate,Armor,35,Rare,153
+10846,Strong Gladiator Chestplate,Armor,35,Rare,153
+10847,Vigorous Gladiator Chestplate,Armor,35,Rare,153
+10848,Hearty Gladiator Chestplate,Armor,35,Rare,153
+10849,Ravaging Gladiator Chestplate,Armor,50,Rare,203
+10850,Rejuvenating Gladiator Chestplate,Armor,50,Rare,203
+10851,Honed Gladiator Chestplate,Armor,50,Rare,203
+10852,Gladiator Chestplate,Armor,50,Rare,203
+10853,Strong Gladiator Chestplate,Armor,50,Rare,203
+10854,Vigorous Gladiator Chestplate,Armor,50,Rare,203
+10855,Hearty Gladiator Chestplate,Armor,50,Rare,203
+10856,Carrion Gladiator Chestplate,Armor,65,Rare,248
+10857,Cleric's Gladiator Chestplate,Armor,65,Rare,248
+10859,Berserker's Gladiator Chestplate,Armor,65,Rare,248
+10860,Valkyrie Gladiator Chestplate,Armor,65,Rare,248
+10861,Rampager's Gladiator Chestplate,Armor,65,Rare,248
+10862,Knight's Gladiator Chestplate,Armor,65,Rare,248
+10863,Ravaging Gladiator Helm,Armor,35,Rare,128
+10864,Rejuvenating Gladiator Helm,Armor,35,Rare,128
+10865,Honed Gladiator Helm,Armor,35,Rare,128
+10866,Gladiator Helm,Armor,35,Rare,128
+10867,Strong Gladiator Helm,Armor,35,Rare,128
+10868,Vigorous Gladiator Helm,Armor,35,Rare,128
+10869,Hearty Gladiator Helm,Armor,35,Rare,128
+10870,Ravaging Gladiator Helm,Armor,50,Rare,169
+10871,Rejuvenating Gladiator Helm,Armor,50,Rare,169
+10872,Honed Gladiator Helm,Armor,50,Rare,169
+10873,Gladiator Helm,Armor,50,Rare,169
+10874,Strong Gladiator Helm,Armor,50,Rare,169
+10875,Vigorous Gladiator Helm,Armor,50,Rare,169
+10876,Hearty Gladiator Helm,Armor,50,Rare,169
+10877,Carrion Gladiator Helm,Armor,65,Rare,207
 10878,Cleric's Gladiator Helm,Armor,65,Rare,207
 10880,Berserker's Gladiator Helm,Armor,65,Rare,207
 10881,Valkyrie Gladiator Helm,Armor,65,Rare,207
