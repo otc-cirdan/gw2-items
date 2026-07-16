@@ -5141,6 +5141,7 @@ id,name,type,level,rarity,vendor_value
 5453,Worn Chain Legs,Armor,0,Exotic,0
 5454,Worn Chain Pauldrons,Armor,0,Exotic,0
 5455,Chainmail Footgear,Armor,0,Exotic,0
+5456,Chainmail Chestpiece,Armor,0,Exotic,0
 5458,Chainmail Helm,Armor,0,Exotic,0
 5460,Chainmail Shoulders,Armor,0,Exotic,0
 5461,Militia Boots,Armor,0,Exotic,0
@@ -23723,6 +23724,7 @@ id,name,type,level,rarity,vendor_value
 31690,Norn Shield,Weapon,80,Exotic,264
 31692,Norn Harpoon Gun,Weapon,80,Exotic,396
 31693,Norn Staff,Weapon,80,Exotic,396
+31694,Norn Blade,Weapon,80,Exotic,264
 31695,Norn Torch,Weapon,80,Exotic,264
 31696,Norn Trident,Weapon,80,Exotic,396
 31697,Norn Warhorn,Weapon,80,Exotic,264
@@ -25666,6 +25668,7 @@ id,name,type,level,rarity,vendor_value
 34102,Aureate Staff of Water,Weapon,60,Rare,234
 34103,Aureate Staff of Corruption,Weapon,67,Rare,252
 34105,Aureate Staff of Air,Weapon,80,Rare,297
+34106,Aureate Rinblade of Water,Weapon,60,Rare,156
 34107,Aureate Rinblade of Corruption,Weapon,67,Rare,168
 34109,Aureate Rinblade of Air,Weapon,80,Rare,198
 34110,Aureate Sconce of Water,Weapon,60,Rare,156
@@ -28356,6 +28359,7 @@ id,name,type,level,rarity,vendor_value
 37388,Cavalier's Soft Wood Longbow,Weapon,80,Rare,297
 37389,Soldier's Conjurer Mantle,Armor,80,Rare,218
 37395,Conjurer Gloves,Armor,80,Rare,179
+37397,Conjurer Mask,Armor,80,Rare,248
 37398,Conjurer Pants,Armor,80,Rare,278
 37399,Soldier's Soft Wood Longbow,Weapon,80,Masterwork,198
 37400,Conjurer Mantle,Armor,80,Rare,218
@@ -70232,6 +70236,7 @@ Balance",Gizmo,0,Basic,0
 105172,Commander's Duelist Pauldrons of Divinity,Armor,80,Rare,1
 105173,Pact Herald,Weapon,80,Rare,198
 105174,Commander's Tormented Spear of Force,Weapon,80,Exotic,396
+105175,Mists-Infused Magnanimous Maintenance Oil Station,Consumable,80,Masterwork,66
 105176,Shade-Touched Scepter Skin,Consumable,0,Rare,0
 105178,Commander's Tormented Focus of Force,Weapon,80,Exotic,264
 105179,Traveling Knight's Cape Skin,Consumable,0,Masterwork,6250
@@ -70294,6 +70299,7 @@ Balance",Gizmo,0,Basic,0
 105240,Incursion Weapon Token,Trophy,0,Exotic,0
 105242,Shade-Touched Pistol Skin,Consumable,0,Rare,0
 105243,Fractal Sheriff's Star,Trinket,80,Ascended,413
+105244,Mists-Infused Toxic Tuning Crystal Station,Consumable,80,Masterwork,66
 105245,Commander's Duelist Mask of Divinity,Armor,80,Rare,1
 105246,Community Chest,Container,0,Exotic,0
 105247,Shade-Touched Mace Skin,Consumable,0,Rare,0
@@ -71535,6 +71541,7 @@ Balance",Gizmo,0,Basic,0
 107073,Mini Light Thief,MiniPet,0,Exotic,50
 107076,Dragonfly Steaks,Consumable,0,Basic,0
 107078,Visage of the Great Horse Fireworks,Consumable,0,Exotic,0
+107079,Demonic Infusion,UpgradeComponent,80,Exotic,10000
 107081,Toxinshell Shield Skin,Consumable,0,Rare,0
 107082,Medium Castoran Explorer's Rebreather,Armor,80,Exotic,330
 107083,Demonic Infusion,UpgradeComponent,80,Exotic,10000
@@ -71700,6 +71707,7 @@ Balance",Gizmo,0,Basic,0
 107280,Verata's Razor,Weapon,80,Ascended,10000
 107281,Yassith's Artifact,Weapon,80,Ascended,10000
 107282,Giftbringer's Spire,Weapon,80,Ascended,10000
+107283,Thackeray's Metal Breather,Armor,80,Ascended,240
 107284,Zintl Impaler,Weapon,80,Ascended,10000
 107285,Chorben's Impaler,Weapon,80,Ascended,10000
 107286,Leftpaw's Musket,Weapon,80,Ascended,10000
@@ -71869,6 +71877,8 @@ Balance",Gizmo,0,Basic,0
 107457,Soros's Herald,Weapon,80,Ascended,10000
 107458,Morbach's Masque,Armor,80,Ascended,240
 107459,Ferratus's Tassets,Armor,80,Ascended,240
+107461,Ossa's Harpoon Gun,Weapon,80,Ascended,10000
+107462,Beigarth's Cloth Breather,Armor,80,Ascended,240
 107463,Veldrunner Cloth Breather,Armor,80,Ascended,240
 107464,Wintersday Weapon Box,Container,0,Rare,0
 107465,Tixx's Tassets,Armor,80,Ascended,240
@@ -71879,6 +71889,7 @@ Balance",Gizmo,0,Basic,0
 107470,Ruka's Pauldrons,Armor,80,Ascended,240
 107471,Glittering Weapon Box,Container,0,Rare,0
 107472,Ventari's Greatbow,Weapon,80,Ascended,10000
+107473,Giftbringer's Leggings,Armor,80,Ascended,240
 107474,Wei Qi's Warfists,Armor,80,Ascended,240
 107475,Maklain's Cloth Breather,Armor,80,Ascended,240
 107476,Theodosus's Revolver,Weapon,80,Ascended,10000
@@ -71986,6 +71997,7 @@ Balance",Gizmo,0,Basic,0
 107583,Coalforge's Wand,Weapon,80,Ascended,10000
 107584,Giftbringer's Blade,Weapon,80,Ascended,10000
 107585,Svaard's Grips,Armor,80,Ascended,240
+107586,Wei Qi's Leather Breather,Armor,80,Ascended,240
 107587,Yassith's Visage,Armor,80,Ascended,240
 107588,Morbach's Pauldrons,Armor,80,Ascended,240
 107589,Occam's Brazier,Weapon,80,Ascended,10000
@@ -72022,6 +72034,7 @@ Balance",Gizmo,0,Basic,0
 107623,Angchu Short Bow,Weapon,80,Ascended,10000
 107624,Steelstar's Musket,Weapon,80,Ascended,10000
 107625,Forgemaster's Breeches,Armor,80,Ascended,240
+107626,Thackeray's Visage,Armor,80,Ascended,240
 107628,Soros's Bastion,Weapon,80,Ascended,10000
 107629,Pahua's Artifact,Weapon,80,Ascended,10000
 107630,Gobrech's Tassets,Armor,80,Ascended,240
@@ -72110,6 +72123,7 @@ Balance",Gizmo,0,Basic,0
 107715,Ahamid's Greaves,Armor,80,Ascended,240
 107716,Ventari's Shoulderguard,Armor,80,Ascended,240
 107717,Stonecleaver's Razor,Weapon,80,Ascended,10000
+107718,Beigarth's Leather Breather,Armor,80,Ascended,240
 107719,Bioluminescent Weapon Box,Container,0,Rare,0
 107720,Beigarth's Masque,Armor,80,Ascended,240
 107721,Leftpaw's Bastion,Weapon,80,Ascended,10000
@@ -72267,6 +72281,7 @@ Balance",Gizmo,0,Basic,0
 107877,Zehtuka's Warhammer,Weapon,80,Ascended,10000
 107878,Occam's Harpoon Gun,Weapon,80,Ascended,10000
 107879,Ahamid's Metal Breather,Armor,80,Ascended,240
+107880,Giftbringer's Breeches,Armor,80,Ascended,240
 107881,Soros's Revolver,Weapon,80,Ascended,10000
 107882,Svaard's Herald,Weapon,80,Ascended,10000
 107883,Zintl Visage,Armor,80,Ascended,240
@@ -72360,6 +72375,7 @@ Balance",Gizmo,0,Basic,0
 107973,Thackeray's Slicer,Weapon,80,Ascended,10000
 107974,Leftpaw's Wristguards,Armor,80,Ascended,240
 107975,Tizlak's Bastion,Weapon,80,Ascended,10000
+107976,Thackeray's Focus,Weapon,80,Ascended,10000
 107977,Blood and Madness Weapon Box,Container,0,Rare,0
 107978,Suun's Wand,Weapon,80,Ascended,10000
 107979,Togo's Greaves,Armor,80,Ascended,240
@@ -72376,6 +72392,7 @@ Balance",Gizmo,0,Basic,0
 107991,Mathilde's Harpoon Gun,Weapon,80,Ascended,10000
 107992,Wupwup Flanged Mace,Weapon,80,Ascended,10000
 107993,Beigarth's Bastion,Weapon,80,Ascended,10000
+107994,Beigarth's Metal Breather,Armor,80,Ascended,240
 107995,Beigarth's Leggings,Armor,80,Ascended,240
 107996,Grizzlemouth's Warhammer,Weapon,80,Ascended,10000
 107997,Ruka's Impaler,Weapon,80,Ascended,10000
@@ -72431,6 +72448,7 @@ Balance",Gizmo,0,Basic,0
 108050,Ebonmane's Blade,Weapon,80,Ascended,10000
 108051,Keeper's Trident,Weapon,80,Ascended,10000
 108052,Wupwup Short Bow,Weapon,80,Ascended,10000
+108053,Ruka's Harpoon Gun,Weapon,80,Ascended,10000
 108054,Tempest Weapon Box,Container,0,Rare,0
 108055,Verata's Doublet,Armor,80,Ascended,240
 108056,Wei Qi's Tassets,Armor,80,Ascended,240
@@ -72487,6 +72505,7 @@ Balance",Gizmo,0,Basic,0
 108109,Zojja's Impaler,Weapon,80,Ascended,10000
 108110,Laranthir's Blade,Weapon,80,Ascended,10000
 108111,Nerashi's Claymore,Weapon,80,Ascended,10000
+108112,Gobrech's Leather Breather,Armor,80,Ascended,240
 108113,Caladbolg Urtica Skin,Consumable,0,Rare,0
 108114,Forgemaster's Cloth Breather,Armor,80,Ascended,240
 108115,Nadijeh's Leggings,Armor,80,Ascended,240
@@ -72563,11 +72582,13 @@ Balance",Gizmo,0,Basic,0
 108188,Gobrech's Striders,Armor,80,Ascended,240
 108189,Togo's Pauldrons,Armor,80,Ascended,240
 108190,Laranthir's Warhammer,Weapon,80,Ascended,10000
+108191,Thackeray's Cleaver,Weapon,80,Ascended,10000
 108192,Hronk's Musket,Weapon,80,Ascended,10000
 108193,Tixx's Warhammer,Weapon,80,Ascended,10000
 108194,Theodosus's Claymore,Weapon,80,Ascended,10000
 108195,Gobrech's Warfists,Armor,80,Ascended,240
 108196,Angchu Guise,Armor,80,Ascended,240
+108197,Thackeray's Pauldrons,Armor,80,Ascended,240
 108198,Zehtuka's Visage,Armor,80,Ascended,240
 108199,Nerashi's Leggings,Armor,80,Ascended,240
 108200,Ossa's Wristguards,Armor,80,Ascended,240
@@ -72681,6 +72702,7 @@ Balance",Gizmo,0,Basic,0
 108313,The Twins' Shoulderguard,Armor,80,Ascended,240
 108314,Tateos's Shoulderguard,Armor,80,Ascended,240
 108315,Hronk's Tassets,Armor,80,Ascended,240
+108316,Thackeray's Barbute,Armor,80,Ascended,240
 108317,Pahua's Striders,Armor,80,Ascended,240
 108318,Pahua's Harpoon Gun,Weapon,80,Ascended,10000
 108319,Nerashi's Bastion,Weapon,80,Ascended,10000
@@ -72693,6 +72715,7 @@ Balance",Gizmo,0,Basic,0
 108326,Leftpaw's Flanged Mace,Weapon,80,Ascended,10000
 108328,Grizzlemouth's Brazier,Weapon,80,Ascended,10000
 108329,Veldrunner Greaves,Armor,80,Ascended,240
+108330,Thackeray's Breastplate,Armor,80,Ascended,240
 108331,Maklain's Brazier,Weapon,80,Ascended,10000
 108332,Occam's Razor,Weapon,80,Ascended,10000
 108333,Tixx's Masque,Armor,80,Ascended,240
@@ -72857,6 +72880,7 @@ Balance",Gizmo,0,Basic,0
 108497,Yassith's Warfists,Armor,80,Ascended,240
 108498,Ossa's Visage,Armor,80,Ascended,240
 108499,Morbach's Doublet,Armor,80,Ascended,240
+108500,Verata's Harpoon Gun,Weapon,80,Ascended,10000
 108501,Ley Line Weapon Box,Container,0,Rare,0
 108502,Thackeray's Leather Breather,Armor,80,Ascended,240
 108503,Hronk's Breastplate,Armor,80,Ascended,240
@@ -72880,6 +72904,7 @@ Balance",Gizmo,0,Basic,0
 108523,Chorben's Razor,Weapon,80,Ascended,10000
 108524,Nerashi's Tassets,Armor,80,Ascended,240
 108525,Dominator Weapon Box,Container,0,Rare,0
+108527,Thackeray's Shoulderguard,Armor,80,Ascended,240
 108529,Zehtuka's Herald,Weapon,80,Ascended,10000
 108530,Hronk's Impaler,Weapon,80,Ascended,10000
 108531,Giftbringer's Visor,Armor,80,Ascended,240
@@ -73041,6 +73066,7 @@ Balance",Gizmo,0,Basic,0
 108689,Yassith's Epaulets,Armor,80,Ascended,240
 108690,Veldrunner Guise,Armor,80,Ascended,240
 108691,Tizlak's Greaves,Armor,80,Ascended,240
+108692,Thackeray's Gauntlets,Armor,80,Ascended,240
 108694,Zintl Claymore,Weapon,80,Ascended,10000
 108695,Steelstar's Harpoon Gun,Weapon,80,Ascended,10000
 108696,Gobrech's Greaves,Armor,80,Ascended,240
@@ -73104,6 +73130,7 @@ Balance",Gizmo,0,Basic,0
 108757,Nadijeh's Trident,Weapon,80,Ascended,10000
 108758,Leftpaw's Trident,Weapon,80,Ascended,10000
 108759,Giftbringer's Guise,Armor,80,Ascended,240
+108760,Thackeray's Boots,Armor,80,Ascended,240
 108762,Togo's Claymore,Weapon,80,Ascended,10000
 108763,Occam's Breeches,Armor,80,Ascended,240
 108764,Steelstar's Greaves,Armor,80,Ascended,240
@@ -73140,6 +73167,7 @@ Balance",Gizmo,0,Basic,0
 108796,Yassith's Visor,Armor,80,Ascended,240
 108797,Leftpaw's Spire,Weapon,80,Ascended,10000
 108798,Occam's Herald,Weapon,80,Ascended,10000
+108799,Thackeray's Tassets,Armor,80,Ascended,240
 108800,Zintl Epaulets,Armor,80,Ascended,240
 108801,The Twins' Grips,Armor,80,Ascended,240
 108802,Zojja's Trident,Weapon,80,Ascended,10000
@@ -73353,6 +73381,7 @@ Balance",Gizmo,0,Basic,0
 109040,Track 44: Journey through Caledon,Consumable,0,Exotic,0
 109041,Track 31: Zojja and Mr. Sparkles,Consumable,0,Exotic,0
 109042,Mini River Otter,MiniPet,0,Exotic,50
+109043,Track 3: Metal Legion: Fear the Metal Legion,Consumable,0,Exotic,0
 109044,Recipe: Glimmering Resin Greatsword,Consumable,0,Exotic,128
 109045,Track 56: Promenade of the Gods,Consumable,0,Exotic,0
 109046,Track 37: Explorers and Artifacts,Consumable,0,Exotic,0
@@ -73385,6 +73414,7 @@ Balance",Gizmo,0,Basic,0
 109080,Synergetics Shield Skin,Consumable,0,Rare,0
 109082,Kitshark Feeding: Silver,Container,0,Fine,0
 109083,Track 76: Scales of Issormir,Consumable,0,Exotic,0
+109084,Track 1: Metal Legion: Ballad of Soulkeeper,Consumable,0,Exotic,0
 109085,Seer Chest Large,Consumable,0,Basic,0
 109086,Track 67: The Pact,Consumable,0,Exotic,0
 109087,Track 40: The Crystal Dragon Pt. 3,Consumable,0,Exotic,0
@@ -73598,6 +73628,7 @@ Balance",Gizmo,0,Basic,0
 109352,Kitshark Feeding: Gold,Container,0,Fine,0
 109353,Track 3: Bear's Spirit,Consumable,0,Exotic,0
 109355,Track 13: Dark Forest,Consumable,0,Exotic,0
+109356,"""/Masterpiece"" Emote Tome",Consumable,0,Exotic,0
 109357,Track 3: Caudecus,Consumable,0,Exotic,0
 109358,Iron Door,Consumable,0,Basic,0
 109359,Track 64: Once Friends Now Enemies,Consumable,0,Exotic,0
@@ -73853,6 +73884,7 @@ Balance",Gizmo,0,Basic,0
 109696,Track 44: Heart to Heart,Consumable,0,Exotic,0
 109697,Gwyl Monarch's Dagger Skin,Consumable,0,Rare,0
 109698,Track 28: Steel Team Six,Consumable,0,Exotic,0
+109700,Track 28: Eir's Return,Consumable,0,Exotic,0
 109701,Track 22: Visions of the Past: Steel and Fire,Consumable,0,Exotic,0
 109702,Track 6: Heritage of Humanity,Consumable,0,Exotic,0
 109704,Track 4: The Arid Sands,Consumable,0,Exotic,0
@@ -73914,10 +73946,11 @@ Balance",Gizmo,0,Basic,0
 109779,Mini Papillon,MiniPet,0,Exotic,50
 109780,Icebone Hammer,Weapon,80,Exotic,396
 109781,Bear-Blessed Visage,Armor,80,Exotic,330
-109782,Glittering Resin Weapon Cache,Container,0,Exotic,0
+109782,Glimmering Resin Weapon Cache,Container,0,Exotic,0
 109783,Icebone Spear,Weapon,80,Exotic,396
 109784,Recipe: Elder Draco-Pop,Consumable,70,Masterwork,57
 109785,Icebone Pistol,Weapon,80,Exotic,264
+109786,Soul Eater Siege Turtle Skin,Consumable,0,Exotic,0
 109787,Bear-Blessed Visage,Armor,80,Exotic,330
 109788,Recipe: Bear Totem,Consumable,0,Basic,50
 109789,Bear Totem,Consumable,0,Basic,0
@@ -73926,6 +73959,7 @@ Balance",Gizmo,0,Basic,0
 109792,Forge Guard's Armor Box,Container,0,Exotic,0
 109793,Icebone Blunderbuss,Weapon,80,Exotic,396
 109794,Icebone Torch,Weapon,80,Exotic,264
+109795,Gradient Glasses (Up) Skin,Consumable,0,Masterwork,0
 109796,Icebone Longbow,Weapon,80,Exotic,396
 109797,Icebone Shield,Weapon,80,Exotic,264
 109798,Icebone Chest,Container,0,Exotic,256
@@ -73942,3 +73976,33 @@ Balance",Gizmo,0,Basic,0
 109812,Icebone Staff,Weapon,80,Exotic,396
 109813,Guild Warrior Shoulders Skin,Consumable,0,Masterwork,0
 109815,Trader's Sacred Raven's Chest,Container,0,Exotic,256
+109816,Gradient Glasses (Down) Skin,Consumable,0,Masterwork,0
+109818,Parasail Glider,Consumable,0,Masterwork,0
+109819,Summer Runner Gaiter Skin,Consumable,0,Masterwork,0
+109820,Summer Runner Package,Container,0,Rare,0
+109821,Black Lion Poolside Party Water Jet (Straight) Recipe,Consumable,0,Basic,0
+109823,Sleeveless Wetsuit Bottoms Skin,Consumable,0,Masterwork,0
+109824,Black Lion Poolside Party Umbrella Recipe,Consumable,0,Basic,0
+109827,Black Lion Poolside Party Water Jet (Fan) Recipe,Consumable,0,Basic,0
+109828,Black Lion Poolside Party Floor Recipe,Consumable,0,Basic,0
+109829,Summer Runner Shoes Skin,Consumable,0,Masterwork,0
+109830,Boosted Jetpack Glider,Consumable,0,Masterwork,0
+109831,Poolside Party Homestead Package,Container,0,Basic,0
+109832,Black Lion Poolside Party Crab Floaty Recipe,Consumable,0,Basic,0
+109833,Black Lion Poolside Party Table Recipe,Consumable,0,Basic,0
+109834,Summer Runner Bracelets Skin,Consumable,0,Masterwork,0
+109835,Black Lion Poolside Party Drink Stand Recipe,Consumable,0,Basic,0
+109837,Summer Runner Visor Skin,Consumable,0,Masterwork,0
+109838,Summer Runner Shorts Skin,Consumable,0,Masterwork,0
+109839,Boosted Jetpack Backpack and Glider Combo,Consumable,0,Masterwork,0
+109840,Summer Runner Vest Skin,Consumable,0,Masterwork,0
+109841,Boosted Jetpack Backpack,Consumable,0,Masterwork,0
+109842,Sleeveless Wetsuit Top Skin,Consumable,0,Masterwork,0
+109843,Black Lion Poolside Party Pool Recipe,Consumable,0,Basic,0
+109844,Sleeveless Wetsuit Package,Container,0,Rare,0
+109845,PvP Rush Champion Point,Trophy,0,Rare,0
+109846,Bubble Wand Sword and Dagger Package,Container,0,Rare,0
+109847,Bubble Wand Dagger Skin,Consumable,0,Rare,0
+109848,Bubble Wand Sword Skin,Consumable,0,Rare,0
+109853,Plaid Shorts (Long) Skin,Consumable,0,Masterwork,0
+109854,Plaid Shorts (Short) Skin,Consumable,0,Masterwork,0
