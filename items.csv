@@ -25056,6 +25056,7 @@ id,name,type,level,rarity,vendor_value
 33397,Ceremonial Pistol of Rage,Weapon,80,Exotic,264
 33399,Ceremonial Rifle of Vision,Weapon,70,Exotic,354
 33400,Ceremonial Rifle of Accuracy,Weapon,78,Exotic,384
+33404,Ceremonial Scepter of Accuracy,Weapon,78,Exotic,256
 33405,Ceremonial Scepter of Rage,Weapon,80,Exotic,264
 33409,Ceremonial Bulwark of Rage,Weapon,80,Exotic,264
 33410,Ceremonial Short Bow of Blood,Weapon,62,Exotic,318
@@ -72413,6 +72414,7 @@ Balance",Gizmo,0,Basic,0
 108013,Pahua's Reaver,Weapon,80,Ascended,10000
 108014,Gargoyle Weapon Box,Container,0,Rare,0
 108015,Maklain's Musket,Weapon,80,Ascended,10000
+108016,Laranthir's Musket,Weapon,80,Ascended,10000
 108017,Wupwup Visor,Armor,80,Ascended,240
 108018,Verata's Visor,Armor,80,Ascended,240
 108019,Giftbringer's Bastion,Weapon,80,Ascended,10000
