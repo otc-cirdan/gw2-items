@@ -8599,206 +8599,6 @@ id,name,type,level,rarity,vendor_value
 10874,Strong Gladiator Helm,Armor,50,Rare,169
 10875,Vigorous Gladiator Helm,Armor,50,Rare,169
 10876,Hearty Gladiator Helm,Armor,50,Rare,169
-10877,Carrion Gladiator Helm,Armor,65,Rare,207
-10878,Cleric's Gladiator Helm,Armor,65,Rare,207
-10880,Berserker's Gladiator Helm,Armor,65,Rare,207
-10881,Valkyrie Gladiator Helm,Armor,65,Rare,207
-10882,Rampager's Gladiator Helm,Armor,65,Rare,207
-10883,Knight's Gladiator Helm,Armor,65,Rare,207
-10884,Mighty Embroidered Coat,Armor,10,Fine,23
-10885,Vital Embroidered Coat,Armor,10,Fine,23
-10886,Mighty Embroidered Coat,Armor,20,Masterwork,72
-10887,Vital Embroidered Coat,Armor,20,Masterwork,72
-10888,Precise Embroidered Coat,Armor,15,Fine,30
-10889,Resilient Embroidered Coat,Armor,15,Fine,30
-10890,Precise Embroidered Coat,Armor,20,Masterwork,72
-10891,Resilient Embroidered Coat,Armor,20,Masterwork,72
-10892,Mighty Embroidered Sandals,Armor,10,Fine,15
-10893,Vital Embroidered Sandals,Armor,10,Fine,15
-10894,Mighty Embroidered Sandals,Armor,20,Masterwork,48
-10895,Vital Embroidered Sandals,Armor,20,Masterwork,48
-10896,Precise Embroidered Sandals,Armor,15,Fine,20
-10897,Resilient Embroidered Sandals,Armor,15,Fine,20
-10898,Precise Embroidered Sandals,Armor,20,Masterwork,48
-10899,Resilient Embroidered Sandals,Armor,20,Masterwork,48
-10900,Mighty Embroidered Wristguards,Armor,10,Fine,14
-10901,Vital Embroidered Wristguards,Armor,10,Fine,14
-10902,Mighty Embroidered Wristguards,Armor,20,Masterwork,44
-10903,Vital Embroidered Wristguards,Armor,20,Masterwork,44
-10904,Precise Embroidered Wristguards,Armor,15,Fine,18
-10905,Resilient Embroidered Wristguards,Armor,15,Fine,18
-10906,Precise Embroidered Wristguards,Armor,20,Masterwork,44
-10907,Resilient Embroidered Wristguards,Armor,20,Masterwork,44
-10908,Mighty Embroidered Pants,Armor,10,Fine,21
-10909,Vital Embroidered Pants,Armor,10,Fine,21
-10910,Mighty Embroidered Pants,Armor,20,Masterwork,68
-10911,Vital Embroidered Pants,Armor,20,Masterwork,68
-10912,Precise Embroidered Pants,Armor,15,Fine,28
-10913,Resilient Embroidered Pants,Armor,15,Fine,28
-10914,Precise Embroidered Pants,Armor,20,Masterwork,68
-10915,Resilient Embroidered Pants,Armor,20,Masterwork,68
-10916,Vigorous Student Shoes,Armor,35,Masterwork,68
-10917,Vigorous Student Coat,Armor,35,Masterwork,102
-10918,Vigorous Student Gloves,Armor,35,Masterwork,62
-10919,Vigorous Student Leggings,Armor,35,Masterwork,96
-10920,Vigorous Student Shoes,Armor,25,Fine,27
-10921,Vigorous Student Coat,Armor,25,Fine,41
-10922,Vigorous Student Gloves,Armor,25,Fine,25
-10923,Vigorous Student Leggings,Armor,25,Fine,38
-10924,Healing Embroidered Coat,Armor,15,Fine,30
-10925,Healing Embroidered Sandals,Armor,15,Fine,20
-10926,Healing Embroidered Wristguards,Armor,15,Fine,18
-10927,Healing Embroidered Pants,Armor,15,Fine,28
-10928,Student Shoes,Armor,35,Masterwork,68
-10929,Student Shoes,Armor,25,Fine,27
-10930,Honed Student Shoes,Armor,30,Fine,31
-10931,Strong Student Shoes,Armor,35,Masterwork,68
-10932,Strong Student Shoes,Armor,30,Fine,31
-10933,Hearty Student Shoes,Armor,30,Fine,31
-10934,Honed Student Shoes,Armor,35,Masterwork,68
-10936,Strong Student Coat,Armor,30,Fine,47
-10937,Student Coat,Armor,25,Fine,41
-10938,Honed Student Coat,Armor,30,Fine,47
-10939,Strong Student Coat,Armor,35,Masterwork,102
-10940,Hearty Student Coat,Armor,30,Fine,47
-10941,Honed Student Coat,Armor,35,Masterwork,102
-10942,Student Gloves,Armor,35,Masterwork,62
-10943,Strong Student Gloves,Armor,30,Fine,28
-10944,Student Gloves,Armor,25,Fine,25
-10945,Honed Student Gloves,Armor,30,Fine,28
-10946,Strong Student Gloves,Armor,35,Masterwork,62
-10947,Hearty Student Gloves,Armor,30,Fine,28
-10948,Honed Student Gloves,Armor,35,Masterwork,62
-10949,Student Leggings,Armor,35,Masterwork,96
-10950,Strong Student Leggings,Armor,30,Fine,44
-10951,Student Leggings,Armor,25,Fine,38
-10952,Honed Student Leggings,Armor,30,Fine,44
-10953,Strong Student Leggings,Armor,35,Masterwork,96
-10954,Hearty Student Leggings,Armor,30,Fine,44
-10955,Honed Student Leggings,Armor,35,Masterwork,96
-10956,Strong Acolyte Boots,Armor,50,Masterwork,52
-10957,Hearty Acolyte Boots,Armor,50,Masterwork,52
-10958,Honed Acolyte Boots,Armor,45,Fine,41
-10959,Acolyte Boots,Armor,40,Fine,38
-10960,Ravaging Acolyte Boots,Armor,40,Fine,38
-10961,Honed Acolyte Boots,Armor,50,Masterwork,52
-10962,Acolyte Boots,Armor,50,Masterwork,52
-10963,Ravaging Acolyte Boots,Armor,50,Masterwork,52
-10964,Strong Acolyte Boots,Armor,45,Fine,41
-10965,Hearty Acolyte Boots,Armor,45,Fine,41
-10966,Vigorous Acolyte Boots,Armor,40,Fine,38
-10967,Vigorous Acolyte Boots,Armor,50,Masterwork,52
-10968,Strong Acolyte Coat,Armor,50,Masterwork,52
-10969,Hearty Acolyte Coat,Armor,50,Masterwork,52
-10970,Honed Acolyte Coat,Armor,45,Fine,62
-10971,Acolyte Coat,Armor,40,Fine,57
-10972,Ravaging Acolyte Coat,Armor,40,Fine,57
-10973,Honed Acolyte Coat,Armor,50,Masterwork,52
-10974,Acolyte Coat,Armor,50,Masterwork,52
-10975,Ravaging Acolyte Coat,Armor,50,Masterwork,52
-10976,Strong Acolyte Coat,Armor,45,Fine,62
-10977,Hearty Acolyte Coat,Armor,45,Fine,62
-10978,Vigorous Acolyte Coat,Armor,40,Fine,57
-10979,Vigorous Acolyte Coat,Armor,50,Masterwork,52
-10980,Strong Acolyte Gloves,Armor,50,Masterwork,52
-10981,Hearty Acolyte Gloves,Armor,50,Masterwork,52
-10982,Honed Acolyte Gloves,Armor,45,Fine,37
-10983,Acolyte Gloves,Armor,40,Fine,35
-10984,Ravaging Acolyte Gloves,Armor,40,Fine,35
-10985,Honed Acolyte Gloves,Armor,50,Masterwork,52
-10986,Acolyte Gloves,Armor,50,Masterwork,52
-10987,Ravaging Acolyte Gloves,Armor,50,Masterwork,52
-10988,Strong Acolyte Gloves,Armor,45,Fine,37
-10989,Hearty Acolyte Gloves,Armor,45,Fine,37
-10990,Vigorous Acolyte Gloves,Armor,40,Fine,35
-10991,Vigorous Acolyte Gloves,Armor,50,Masterwork,52
-10992,Strong Acolyte Pants,Armor,50,Masterwork,52
-10993,Hearty Acolyte Pants,Armor,50,Masterwork,52
-10994,Honed Acolyte Pants,Armor,45,Fine,58
-10995,Acolyte Pants,Armor,40,Fine,54
-10996,Ravaging Acolyte Pants,Armor,40,Fine,54
-10997,Honed Acolyte Pants,Armor,50,Masterwork,52
-10998,Acolyte Pants,Armor,50,Masterwork,52
-10999,Ravaging Acolyte Pants,Armor,50,Masterwork,52
-11000,Strong Acolyte Pants,Armor,45,Fine,58
-11001,Hearty Acolyte Pants,Armor,45,Fine,58
-11002,Vigorous Acolyte Pants,Armor,40,Fine,54
-11003,Vigorous Acolyte Pants,Armor,50,Masterwork,52
-11004,Strong Acolyte Mantle,Armor,50,Masterwork,52
-11005,Hearty Acolyte Mantle,Armor,50,Masterwork,52
-11006,Honed Acolyte Mantle,Armor,45,Fine,46
-11007,Acolyte Mantle,Armor,40,Fine,42
-11008,Ravaging Acolyte Mantle,Armor,40,Fine,42
-11009,Honed Acolyte Mantle,Armor,50,Masterwork,52
-11010,Acolyte Mantle,Armor,50,Masterwork,52
-11011,Ravaging Acolyte Mantle,Armor,50,Masterwork,52
-11012,Strong Acolyte Mantle,Armor,45,Fine,46
-11013,Hearty Acolyte Mantle,Armor,45,Fine,46
-11014,Vigorous Acolyte Mantle,Armor,40,Fine,42
-11015,Vigorous Acolyte Mantle,Armor,50,Masterwork,52
-11016,Malign Embroidered Coat,Armor,10,Fine,23
-11017,Malign Embroidered Coat,Armor,20,Masterwork,72
-11018,Healing Embroidered Coat,Armor,20,Masterwork,72
-11019,Malign Embroidered Sandals,Armor,10,Fine,15
-11020,Malign Embroidered Sandals,Armor,20,Masterwork,48
-11021,Healing Embroidered Sandals,Armor,20,Masterwork,48
-11022,Malign Embroidered Wristguards,Armor,10,Fine,14
-11023,Malign Embroidered Wristguards,Armor,20,Masterwork,44
-11024,Healing Embroidered Wristguards,Armor,20,Masterwork,44
-11025,Malign Embroidered Pants,Armor,10,Fine,21
-11026,Malign Embroidered Pants,Armor,20,Masterwork,68
-11027,Healing Embroidered Pants,Armor,20,Masterwork,68
-11028,Hearty Student Shoes,Armor,35,Masterwork,68
-11029,Ravaging Student Shoes,Armor,35,Masterwork,68
-11030,Ravaging Student Shoes,Armor,25,Fine,27
-11031,Hearty Student Coat,Armor,35,Masterwork,102
-11032,Ravaging Student Coat,Armor,35,Masterwork,102
-11033,Ravaging Student Coat,Armor,25,Fine,41
-11034,Hearty Student Gloves,Armor,35,Masterwork,62
-11035,Ravaging Student Gloves,Armor,35,Masterwork,62
-11036,Ravaging Student Gloves,Armor,25,Fine,25
-11037,Hearty Student Leggings,Armor,35,Masterwork,96
-11038,Ravaging Student Leggings,Armor,35,Masterwork,96
-11039,Ravaging Student Leggings,Armor,25,Fine,38
-11040,Malign Embroidered Mask,Armor,15,Fine,25
-11041,Mighty Embroidered Mask,Armor,15,Fine,25
-11042,Vital Embroidered Mask,Armor,15,Fine,25
-11043,Healing Embroidered Mask,Armor,15,Fine,25
-11044,Precise Embroidered Mask,Armor,15,Fine,25
-11045,Resilient Embroidered Mask,Armor,15,Fine,25
-11046,Malign Embroidered Mask,Armor,20,Masterwork,60
-11047,Healing Embroidered Mask,Armor,20,Masterwork,60
-11048,Mighty Embroidered Mask,Armor,20,Masterwork,60
-11049,Precise Embroidered Mask,Armor,20,Masterwork,60
-11050,Resilient Embroidered Mask,Armor,20,Masterwork,60
-11051,Vital Embroidered Mask,Armor,20,Masterwork,60
-11052,Malign Embroidered Mantle,Armor,20,Fine,27
-11053,Mighty Embroidered Mantle,Armor,20,Fine,27
-11054,Vital Embroidered Mantle,Armor,20,Fine,27
-11055,Healing Embroidered Mantle,Armor,20,Fine,27
-11056,Precise Embroidered Mantle,Armor,20,Fine,27
-11057,Resilient Embroidered Mantle,Armor,20,Fine,27
-11058,Malign Embroidered Mantle,Armor,20,Masterwork,53
-11059,Healing Embroidered Mantle,Armor,20,Masterwork,53
-11060,Mighty Embroidered Mantle,Armor,20,Masterwork,53
-11061,Precise Embroidered Mantle,Armor,20,Masterwork,53
-11062,Resilient Embroidered Mantle,Armor,20,Masterwork,53
-11063,Vital Embroidered Mantle,Armor,20,Masterwork,53
-11064,Ravaging Student Circlet,Armor,25,Fine,34
-11065,Student Circlet,Armor,25,Fine,34
-11066,Vigorous Student Circlet,Armor,25,Fine,34
-11067,Strong Student Circlet,Armor,30,Fine,39
-11068,Honed Student Circlet,Armor,30,Fine,39
-11069,Hearty Student Circlet,Armor,30,Fine,39
-11070,Ravaging Student Circlet,Armor,35,Masterwork,85
-11071,Student Circlet,Armor,35,Masterwork,85
-11072,Vigorous Student Circlet,Armor,35,Masterwork,85
-11073,Strong Student Circlet,Armor,35,Masterwork,85
-11074,Honed Student Circlet,Armor,35,Masterwork,85
-11075,Hearty Student Circlet,Armor,35,Masterwork,85
-11076,Ravaging Student Mantle,Armor,25,Fine,30
-11077,Student Mantle,Armor,25,Fine,30
-11078,Vigorous Student Mantle,Armor,25,Fine,30
 11079,Strong Student Mantle,Armor,30,Fine,35
 11080,Honed Student Mantle,Armor,30,Fine,35
 11081,Hearty Student Mantle,Armor,30,Fine,35
@@ -41799,206 +41599,6 @@ id,name,type,level,rarity,vendor_value
 62932,Elegant Tailor's Backpack,Back,78,Exotic,256
 62933,Elegant Weaponsmith's Backpack,Back,78,Exotic,256
 62934,Simple Tailor's Backpack,Back,1,Fine,13
-62935,Sturdy Weaponsmith's Backpack,Back,15,Masterwork,52
-62936,Sturdy Tailor's Backpack,Back,15,Masterwork,52
-62937,Intricate Weaponsmith's Backpack,Back,45,Rare,150
-62938,Elegant Weaponsmith's Backpack,Back,78,Exotic,256
-62939,Simple Weaponsmith's Backpack,Back,1,Fine,13
-62940,Ornate Weaponsmith's Backpack,Back,60,Exotic,244
-62942,Crafter's Backpack Frame,CraftingMaterial,0,Basic,2
-62943,Simple Artificer's Tools,CraftingMaterial,0,Basic,2
-62944,Sturdy Huntsman's Tools,CraftingMaterial,0,Fine,6
-62945,Practical Huntsman's Tools,CraftingMaterial,0,Masterwork,17
-62946,Intricate Huntsman's Tools,CraftingMaterial,0,Rare,33
-62947,Ornate Huntsman's Tools,CraftingMaterial,0,Exotic,54
-62948,Elegant Huntsman's Tools,CraftingMaterial,0,Exotic,64
-62949,Simple Weaponsmith's Tools,CraftingMaterial,0,Basic,2
-62950,Sturdy Weaponsmith's Tools,CraftingMaterial,0,Fine,6
-62951,Practical Weaponsmith's Tools,CraftingMaterial,0,Masterwork,17
-62952,Intricate Weaponsmith's Tools,CraftingMaterial,0,Rare,33
-62953,Ornate Weaponsmith's Tools,CraftingMaterial,0,Exotic,54
-62954,Elegant Weaponsmith's Tools,CraftingMaterial,0,Exotic,64
-62955,Practical Leatherworker's Tools,CraftingMaterial,0,Masterwork,17
-62956,Sturdy Leatherworker's Tools,CraftingMaterial,0,Fine,6
-62957,Simple Leatherworker's Tools,CraftingMaterial,0,Basic,2
-62958,Intricate Leatherworker's Tools,CraftingMaterial,0,Rare,33
-62959,Ornate Leatherworker's Tools,CraftingMaterial,0,Exotic,54
-62960,Elegant Leatherworker's Tools,CraftingMaterial,0,Exotic,64
-62961,Simple Armorsmith's Tools,CraftingMaterial,0,Basic,2
-62962,Sturdy Armorsmith's Tools,CraftingMaterial,0,Fine,6
-62963,Practical Armorsmith's Tools,CraftingMaterial,0,Masterwork,17
-62964,Intricate Armorsmith's Tools,CraftingMaterial,0,Rare,33
-62965,Ornate Armorsmith's Tools,CraftingMaterial,0,Exotic,54
-62966,Elegant Armorsmith's Tools,CraftingMaterial,0,Exotic,64
-62967,Simple Huntsman's Tools,CraftingMaterial,0,Basic,2
-62968,Sturdy Artificer's Tools,CraftingMaterial,0,Fine,6
-62969,Practical Artificer's Tools,CraftingMaterial,0,Masterwork,17
-62970,Intricate Artificer's Tools,CraftingMaterial,0,Rare,33
-62971,Ornate Artificer's Tools,CraftingMaterial,0,Exotic,54
-62972,Elegant Artificer's Tools,CraftingMaterial,0,Exotic,64
-62973,Simple Tailor's Tools,CraftingMaterial,0,Basic,2
-62974,Sturdy Tailor's Tools,CraftingMaterial,0,Fine,6
-62975,Practical Tailor's Tools,CraftingMaterial,0,Masterwork,17
-62976,Intricate Tailor's Tools,CraftingMaterial,0,Rare,33
-62977,Ornate Tailor's Tools,CraftingMaterial,0,Exotic,54
-62978,Elegant Tailor's Tools,CraftingMaterial,0,Exotic,64
-62979,Simple Jeweler's Tools,CraftingMaterial,0,Basic,2
-62980,Sturdy Jeweler's Tools,CraftingMaterial,0,Fine,6
-62981,Practical Jeweler's Tools,CraftingMaterial,0,Masterwork,17
-62982,Intricate Jeweler's Tools,CraftingMaterial,0,Rare,33
-62983,Ornate Jeweler's Tools,CraftingMaterial,0,Exotic,54
-62984,Elegant Jeweler's Tools,CraftingMaterial,0,Exotic,64
-62985,Simple Chef's Tools,CraftingMaterial,0,Basic,2
-62986,Basic Chef's Tools,CraftingMaterial,0,Fine,6
-62987,Savory Chef's Tools,CraftingMaterial,0,Masterwork,17
-62988,Hearty Chef's Tools,CraftingMaterial,0,Rare,33
-62989,Gourmet Chef's Tools,CraftingMaterial,0,Exotic,54
-62990,Ambrosial Chef's Tools,CraftingMaterial,0,Exotic,64
-63268,Vigil's Honor Pistol,Weapon,30,Masterwork,4500
-63269,Mentor's Kit,Container,0,Rare,198
-63270,Hero's Chest,Container,0,Rare,198
-63272,Pact Weapon Container,Container,0,Rare,198
-63273,Navy Badge,Trinket,80,Rare,396
-63274,Army Badge,Trinket,80,Rare,396
-63275,Aviator Badge,Trinket,80,Rare,396
-63276,Rampagers Spineguard of Coral,Back,80,Rare,198
-63277,Berserkers Spineguard of Ruby,Back,80,Rare,198
-63278,Clerics Spineguard of Sapphire,Back,80,Rare,198
-63279,Assassin's Elder Staff,Weapon,70,Rare,266
-63280,Apothecary's Elder Short Bow,Weapon,70,Rare,266
-63281,Cleric's Elder Staff,Weapon,70,Rare,266
-63282,Rampager's Mithril Greatsword,Weapon,70,Rare,266
-63283,Knight's Mithril Hammer,Weapon,70,Rare,266
-63284,Berserker's Elder Longbow,Weapon,70,Rare,266
-63286,Berserker's Mithril Rifle,Weapon,70,Rare,266
-63287,Cleric's Mithril Rifle,Weapon,70,Rare,266
-63288,Berserker's Elder Short Bow,Weapon,70,Rare,266
-63289,Commando's Pauldrons,Armor,70,Rare,195
-63290,Outrider's Pauldrons,Armor,70,Rare,195
-63291,Trooper's Pauldrons,Armor,70,Rare,195
-63292,Commando's Mantle,Armor,70,Rare,195
-63293,Outrider's Mantle,Armor,70,Rare,195
-63294,Trooper's Mantle,Armor,70,Rare,195
-63295,Commando's Shoulderguards,Armor,70,Rare,195
-63296,Outrider's Shoulderguards,Armor,70,Rare,195
-63297,Trooper's Shoulderguards,Armor,70,Rare,195
-63298,Commando's Helm,Armor,80,Rare,248
-63299,Outrider's Helm,Armor,80,Rare,248
-63300,Trooper's Helm,Armor,80,Rare,248
-63301,Commando's Mask,Armor,80,Rare,248
-63302,Outrider's Mask,Armor,80,Rare,248
-63303,Trooper's Mask,Armor,80,Rare,248
-63304,Commando's Bandanna,Armor,80,Rare,248
-63305,Outrider's Cap,Armor,80,Rare,248
-63306,Trooper's Mark,Armor,80,Rare,248
-63307,Stalwart's Gauntlets,Armor,80,Rare,179
-63308,Slayer's Gauntlets,Armor,80,Rare,179
-63309,Inquisitor's Gauntlets,Armor,80,Rare,179
-63310,Stalwart's Gloves,Armor,80,Rare,179
-63311,Slayers Gloves,Armor,80,Rare,179
-63312,Inquisitor's Gloves,Armor,80,Rare,179
-63313,Stalwart's Bracers,Armor,80,Rare,179
-63314,Slayer's Bracers,Armor,80,Rare,179
-63315,Inquisitor's Bracers,Armor,80,Rare,179
-63316,Commando's Pauldrons,Armor,80,Rare,218
-63317,Outrider's Pauldrons,Armor,80,Rare,218
-63318,Trooper's Pauldrons,Armor,80,Rare,218
-63319,Commando's Mantle,Armor,80,Rare,218
-63320,Outrider's Mantle,Armor,80,Rare,218
-63321,Trooper's Mantle,Armor,80,Rare,218
-63322,Commando's Shoulderguards,Armor,80,Rare,218
-63323,Outrider's Shoulderguards,Armor,80,Rare,218
-63324,Trooper's Shoulderguards,Armor,80,Rare,218
-63325,Commando's Hauberk,Armor,80,Rare,297
-63326,Outrider's Armor,Armor,80,Rare,297
-63327,Trooper's Armor,Armor,80,Rare,297
-63328,Commando's Coat,Armor,80,Rare,297
-63329,Outrider's Coat,Armor,80,Rare,297
-63330,Trooper's Coat,Armor,80,Rare,297
-63331,Commando's Jacket,Armor,80,Rare,297
-63332,Outrider's Vest,Armor,80,Rare,297
-63333,Trooper's Jerkin,Armor,80,Rare,297
-63334,Commando's Chausses,Armor,80,Rare,278
-63335,Outrider's Chausses,Armor,80,Rare,278
-63336,Trooper's Chausses,Armor,80,Rare,278
-63337,Commando's Leggings,Armor,80,Rare,278
-63338,Outrider's Leggings,Armor,80,Rare,278
-63339,Trooper's Leggings,Armor,80,Rare,278
-63340,Commando's Pants,Armor,80,Rare,278
-63341,Outrider's Pants,Armor,80,Rare,278
-63342,Trooper's Pants,Armor,80,Rare,278
-63343,Carrion Hard Trident,Weapon,80,Rare,297
-63345,Cleric's Hard Trident,Weapon,80,Rare,297
-63346,Assassin's Darksteel Spear,Weapon,80,Rare,297
-63347,Rampager's Darksteel Spear,Weapon,80,Rare,297
-63348,Assassin's Hard Harpoon Gun,Weapon,80,Rare,297
-63349,Carrion Hard Harpoon Gun,Weapon,80,Rare,297
-63350,Assassin's Darksteel Sword,Weapon,80,Rare,198
-63351,Valkyrie Hard Staff,Weapon,80,Rare,297
-63352,Cleric's Hard Scepter,Weapon,80,Rare,198
-63353,Berserker's Darksteel Pistol,Weapon,80,Rare,198
-63354,Cleric's Darksteel Pistol,Weapon,80,Rare,198
-63355,Carrion Darksteel Pistol,Weapon,80,Rare,198
-63356,Carrion Darksteel Mace,Weapon,80,Rare,198
-63357,Carrion Darksteel Greatsword,Weapon,80,Rare,297
-63358,Rampager's Darksteel Dagger,Weapon,80,Rare,198
-63359,Carrion Darksteel Axe,Weapon,80,Rare,198
-63360,Strong Student Mantle,Armor,30,Masterwork,69
-63366,,UpgradeComponent,60,Exotic,65
-63378,Scroll of Knowledge,Consumable,0,Masterwork,0
-63379,Bag of Loot,Container,0,Fine,66
-63383,Avenger's Staff,Weapon,20,Masterwork,72
-63384,Avenger's Longbow,Weapon,20,Masterwork,72
-63385,Avenger's Short Bow,Weapon,20,Masterwork,72
-63386,Avenger's Longbow,Weapon,20,Masterwork,72
-63387,Avenger's Short Bow,Weapon,20,Masterwork,72
-63388,Caretaker's Short Bow,Weapon,20,Masterwork,72
-63389,Avenger's Longsword,Weapon,20,Masterwork,72
-63390,Avenger's Hammer,Weapon,20,Masterwork,72
-63391,Caretaker's Rifle,Weapon,20,Masterwork,72
-63392,Avenger's Rifle,Weapon,20,Masterwork,72
-63393,Avenger's Staff,Weapon,20,Masterwork,72
-63394,Caretaker's Staff,Weapon,20,Masterwork,72
-63395,Avenger's Longbow,Weapon,20,Masterwork,72
-63396,Avenger's Short Bow,Weapon,20,Masterwork,72
-63397,Caretaker's Short Bow,Weapon,20,Masterwork,72
-63398,Avenger's Longsword,Weapon,20,Masterwork,72
-63399,Avenger's Hammer,Weapon,20,Masterwork,72
-63400,Caretaker's Rifle,Weapon,20,Masterwork,72
-63401,Avenger's Rifle,Weapon,20,Masterwork,72
-63402,Avenger's Staff,Weapon,20,Masterwork,72
-63403,Caretaker's Staff,Weapon,20,Masterwork,72
-63404,Avenger's Longbow,Weapon,20,Masterwork,72
-63405,Avenger's Short Bow,Weapon,20,Masterwork,72
-63406,Caretaker's Short Bow,Weapon,20,Masterwork,72
-63407,Avenger's Longsword,Weapon,20,Masterwork,72
-63408,Avenger's Hammer,Weapon,20,Masterwork,72
-63409,Caretaker's Rifle,Weapon,20,Masterwork,72
-63410,Avenger's Rifle,Weapon,20,Masterwork,72
-63411,Avenger's Staff,Weapon,20,Masterwork,72
-63412,Caretaker's Staff,Weapon,20,Masterwork,72
-63413,Avenger's Longbow,Weapon,20,Masterwork,72
-63414,Avenger's Short Bow,Weapon,20,Masterwork,72
-63415,Caretaker's Short Bow,Weapon,20,Masterwork,72
-63416,Avenger's Longsword,Weapon,20,Masterwork,72
-63417,Avenger's Hammer,Weapon,20,Masterwork,72
-63418,Caretaker's Rifle,Weapon,20,Masterwork,72
-63419,Avenger's Rifle,Weapon,20,Masterwork,72
-63420,Defender's Short Bow,Weapon,20,Masterwork,72
-63421,Caretaker's Staff,Weapon,20,Masterwork,72
-63422,Defender's Staff,Weapon,20,Masterwork,72
-63423,Defender's Staff,Weapon,20,Masterwork,72
-63424,Defender's Rifle,Weapon,20,Masterwork,72
-63425,Defender's Rifle,Weapon,20,Masterwork,72
-63426,Caretaker's Short Bow,Weapon,20,Masterwork,72
-63427,Avenger's Longsword,Weapon,20,Masterwork,72
-63428,Avenger's Hammer,Weapon,20,Masterwork,72
-63429,Caretaker's Rifle,Weapon,20,Masterwork,72
-63430,Avenger's Rifle,Weapon,20,Masterwork,72
-63431,Avenger's Staff,Weapon,20,Masterwork,72
-63432,Caretaker's Staff,Weapon,20,Masterwork,72
-63433,Defender's Rifle,Weapon,20,Masterwork,72
-63434,Defender's Short Bow,Weapon,20,Masterwork,72
 63435,Defender's Short Bow,Weapon,20,Masterwork,72
 63436,Defender's Rifle,Weapon,20,Masterwork,72
 63437,Defender's Rifle,Weapon,20,Masterwork,72
@@ -45599,6 +45199,206 @@ id,name,type,level,rarity,vendor_value
 71026,Wondrous Compass,Trophy,0,Exotic,264
 71028,Unethical Test Results,Trophy,0,Exotic,264
 71029,Recipe: Vigilant Pearl Handcannon,Consumable,0,Exotic,132
+71031,Recipe: Commander's Intricate Gossamer Insignia,Consumable,0,Exotic,132
+71034,Noxious Seed Pod,Container,0,Fine,29
+71035,Crusader Emblazoned Helm,Armor,80,Exotic,240
+71036,Essence of Fish,CraftingMaterial,0,Exotic,66
+71037,Wanderer's Pearl Shell,Weapon,80,Exotic,264
+71038,Recipe: Commander's Emblazoned Boots,Consumable,0,Exotic,132
+71039,Omadd's Lost Notes,Trophy,0,Exotic,264
+71040,Berserker's Auric Greatsword,Weapon,80,Exotic,396
+71041,Veteran Erico the Brown Dolyak Loot Box,Container,0,Basic,0
+71042,Recipe: Commander's Pearl Shell,Consumable,0,Exotic,132
+71043,North Tarir Commendation,Trophy,0,Rare,192
+71044,Marauder Auric Hammer,Weapon,80,Exotic,396
+71046,Chak Enzyme,Trophy,0,Basic,0
+71048,Soggorsort Friendship Bracelet,Trophy,0,Exotic,264
+71049,Resonating Core,CraftingMaterial,0,Basic,7
+71050,Vigil's Honor Trident,Weapon,80,Rare,297
+71052,Crab Legs,Trophy,0,Exotic,264
+71053,Wanderer's Exalted Gloves,Armor,80,Exotic,240
+71054,Phantom Restraint,Trophy,0,Exotic,264
+71056,The Predator Vol. 2,Trophy,0,Exotic,264
+71057,Recipe: Ornate Guild Gauntlets,Consumable,0,Exotic,132
+71058,Recipe: Maklain's Breeches,Consumable,0,Ascended,160
+71059,Recipe: Superior Rune of the Daredevil,Consumable,0,Exotic,108
+71060,Mistward Boot Casing,Trophy,0,Rare,1000
+71061,Summit Banner,Consumable,0,Basic,0
+71062,Yellow Balloon,Consumable,0,Basic,0
+71063,Wanderer's Auric Staff,Weapon,80,Exotic,396
+71065,Attuned Mellaggan's Whorl (Infused),Trinket,80,Ascended,495
+71067,Oola's Data Crystal,Trinket,80,Exotic,330
+71068,Minstrel's Draconic Gauntlets,Armor,80,Exotic,240
+71069,Piece of Mother-of-Pearl,CraftingMaterial,0,Rare,37
+71070,Seasoned Wood Pen,CraftingMaterial,0,Fine,4
+71071,Thesis on Learned Malice,Consumable,60,Fine,28
+71072,Corrupted Ice Shard,Trophy,0,Exotic,264
+71073,Viper's Exalted Mantle,Armor,80,Exotic,240
+71074,Recipe: Tizlak's Wristguards,Consumable,0,Ascended,160
+71075,Viper's Exalted Pants,Armor,80,Exotic,240
+71076,Recipe: Yassith's Visage,Consumable,0,Ascended,160
+71077,Basic Table,Gizmo,0,Basic,0
+71078,The Hunter Experiment,Weapon,80,Exotic,396
+71079,Glyphic Speargun,Weapon,80,Rare,297
+71081,Concentrated Maguuma Bacteria,Trophy,0,Exotic,264
+71082,Underground Facility Challenge Mote,Trophy,0,Basic,1000
+71083,Wanderer's Auric Focus,Weapon,80,Exotic,264
+71085,Flying Circus: Gold,Container,0,Rare,0
+71086,Guild Crafting Boost,Consumable,0,Basic,0
+71087,Basic Elder Staff,Trophy,0,Exotic,264
+71088,Star Chart: Great Spirit Snow Leopard,Gizmo,0,Exotic,264
+71089,Resilient Backpack Belt,Consumable,0,Rare,0
+71090,Mistward Gloves Lining,Trophy,0,Rare,1000
+71091,Fine Armor Stand,Consumable,0,Basic,0
+71092,Recipe: Trailblazer's Draconic Pauldrons,Consumable,0,Exotic,132
+71094,Ruka's Guise,Armor,80,Ascended,240
+71095,Veteran Judah the Brown Deer Loot Box,Container,0,Basic,0
+71096,Chest of Anomaly,Container,0,Exotic,264
+71097,Chronomancer's Shield,Weapon,80,Exotic,0
+71098,Oiled Orichalcum Spear Head,CraftingMaterial,0,Basic,8
+71099,Basic Mithril Rifle,Trophy,0,Exotic,264
+71100,Kudzu Vol. 3,Trophy,0,Exotic,264
+71101,Guild Magic Find,Consumable,0,Basic,0
+71104,Recipe: Sharkfin Soup,Consumable,0,Rare,96
+71105,Assassinate Stravig the Defender,Trophy,0,Exotic,264
+71108,Nevermore Vol. 2,Trophy,0,Exotic,264
+71109,Plated Axe,Weapon,80,Rare,0
+71110,Experimental Harpoon Gun Stock,CraftingMaterial,0,Exotic,66
+71111,Weighted Trident Head,Trophy,0,Exotic,264
+71112,Sheet of Medium Sandpaper,CraftingMaterial,0,Fine,8
+71114,Ruka's Greatbow,Weapon,80,Ascended,10000
+71116,Maklain's Herald,Weapon,80,Ascended,10000
+71117,Tizlak's Herald,Weapon,80,Ascended,10000
+71118,Corrupted Jar,Gizmo,0,Exotic,264
+71119,Recipe: Wanderer's Orichalcum Imbued Inscription,Consumable,0,Exotic,132
+71120,Trailblazer's Pearl Needler,Weapon,80,Exotic,396
+71121,Damaged Reactor Housing,Trophy,0,Exotic,264
+71122,Recipe: Glacial Imbued Jar,Consumable,0,Exotic,132
+71123,Gift of Bones,CraftingMaterial,0,Exotic,66
+71125,Steam Shield,Weapon,80,Rare,198
+71126,Balanced Torch Handle,Trophy,0,Exotic,264
+71128,Rabsovich's Locker Key,Trophy,0,Basic,0
+71129,Box of Recipes: Carcharias (First Tier),Consumable,0,Exotic,132
+71130,Superior Sigil of Ruthlessness,UpgradeComponent,60,Exotic,216
+71131,Recipe: Ornate Guild Boots,Consumable,0,Exotic,132
+71132,Svaard's Marauder Insignia,CraftingMaterial,0,Ascended,30
+71134,Perfected Hammer,Weapon,80,Exotic,396
+71136,Sheet of Quality Paper,CraftingMaterial,0,Fine,13
+71137,Infinitely Spiraled Device,CraftingMaterial,0,Exotic,66
+71139,Minstrel's Exalted Boots,Armor,80,Exotic,240
+71144,Scrapper's Inscription,Trinket,80,Exotic,330
+71146,Fine Finishing Kit,CraftingMaterial,0,Fine,4
+71147,Old Ascalonian Relic,Trophy,0,Exotic,264
+71148,Sheet of Premium Paper,CraftingMaterial,0,Fine,16
+71149,Bladed Gloves,Armor,80,Exotic,238
+71150,Assassin's Auric Scepter,Weapon,80,Exotic,264
+71153,Carrion Auric Longbow,Weapon,80,Exotic,396
+71154,Attuned Adelbern's Royal Signet Ring,Trinket,80,Ascended,495
+71155,Oiled Hardened String,CraftingMaterial,0,Basic,8
+71157,Apothecary's Auric Scepter,Weapon,80,Exotic,264
+71158,Charged Clump of Swamp Moss,Trophy,0,Basic,1000
+71159,Mithril Craftsman's Hammer,CraftingMaterial,0,Fine,4
+71160,Malchor's Notes,Trophy,0,Exotic,264
+71161,Laranthir's Brazier,Weapon,80,Ascended,10000
+71162,Trailblazer's Draconic Coat,Armor,80,Exotic,240
+71163,Essence of Mischief,CraftingMaterial,0,Exotic,66
+71164,Gold Fractal Rifle,Weapon,80,Exotic,6900
+71165,Burning Frozen Core,Trophy,0,Basic,1000
+71166,Grawl Devotion,Trophy,0,Exotic,264
+71167,Tenebrous Shield,Weapon,80,Exotic,264
+71168,Ossa's Crusader Insignia,CraftingMaterial,0,Ascended,30
+71170,Box of Recipes: Storm (Second Tier),Consumable,0,Exotic,132
+71171,Fine Ink Set,CraftingMaterial,0,Fine,4
+71173,Gift of the Raven Spirit,CraftingMaterial,0,Exotic,66
+71174,Recipe: Jerk Poultry and Nopal Flatbread Sandwich,Consumable,0,Masterwork,66
+71175,"Aetherium Production Boost (10,000 Influence)",Consumable,0,Basic,0
+71176,Pile of Pink Sand,Consumable,80,Exotic,132
+71177,Charged Pistol Barrel,Trophy,80,Rare,100
+71178,Crusader Emblazoned Pants,Armor,80,Exotic,240
+71179,Recipe: Svaard's Warhammer,Consumable,0,Ascended,160
+71181,Shiny Orb,Trophy,0,Exotic,264
+71182,Goop-Covered Satchel,Container,0,Rare,162
+71183,Guardian's Cache,Container,0,Exotic,0
+71184,Black Rabbit Loot Box,Container,0,Basic,0
+71185,Recipe: Ossa's Striders,Consumable,0,Ascended,160
+71186,Scrap Rifle Field Test: Bronze,Container,0,Fine,0
+71188,Nan's Candy Corn Cookie,Consumable,0,Rare,0
+71189,Elonian Breather Padding,CraftingMaterial,0,Basic,7
+71190,Recipe: Ahamid's Metal Breather,Consumable,0,Ascended,45
+71192,Ley-Line Hub Radiation,Gizmo,0,Exotic,264
+71193,Recipe: Spirit Containment Unit,Consumable,0,Exotic,132
+71194,Essence of Mordremoth,Gizmo,0,Exotic,264
+71195,Oiled Gossamer Pant Panel,CraftingMaterial,0,Basic,8
+71196,Charged Scepter Core,Trophy,80,Rare,100
+71199,Orsippus Friendship Bracelet,Trophy,0,Exotic,264
+71200,Dream of Badazar,Trophy,0,Exotic,264
+71201,Boar Bristle,CraftingMaterial,0,Exotic,66
+71202,Recipe: Nesting Materials,Consumable,0,Exotic,132
+71203,Spirit of the Spark Experiment,CraftingMaterial,0,Exotic,66
+71205,Saphir's Cloth Breather,Armor,80,Ascended,240
+71206,Dierdre's Garden,Trophy,0,Exotic,264
+71207,Potion of Tangled Attunement,Consumable,0,Masterwork,0
+71208,Counterweighting Mechanism,CraftingMaterial,0,Exotic,66
+71209,Timeworn Forgotten Tablet,Trophy,0,Exotic,264
+71210,Red Throw Pillow,Consumable,0,Basic,0
+71212,Malchor's Demise,Trophy,0,Exotic,264
+71213,Rune Bag,Container,0,Rare,0
+71214,Reaper's Auric Sharpening Stone,Trophy,0,Rare,0
+71215,Reclaimed Hammer,Weapon,80,Rare,297
+71216,Dream of Melandru,Trophy,0,Exotic,264
+71217,Viper's Weapon Recipe Book,Container,0,Rare,0
+71218,The Haivoissen Star Fragment,Trophy,0,Exotic,264
+71219,Tizlak's Musket,Weapon,80,Ascended,10000
+71220,Minor Sigil of Agility,UpgradeComponent,0,Masterwork,16
+71221,Recipe: Tizlak's Striders,Consumable,0,Ascended,160
+71223,Recipe: Morbach's Cloth Breather,Consumable,0,Ascended,45
+71224,Mordrem Deer Finisher,Consumable,0,Rare,0
+71225,Wool Patch,CraftingMaterial,0,Basic,3
+71226,Trailblazer's Exalted Mantle,Armor,80,Exotic,240
+71227,Improvised Short Bow Skin,Consumable,0,Rare,0
+71229,Rune of the Chronomancer,UpgradeComponent,0,Exotic,0
+71230,Elegant Square Pillar,Consumable,0,Basic,0
+71231,Brooloonu Friendship Bracelet,Trophy,0,Exotic,264
+71232,Gold Fractal Focus,Weapon,80,Exotic,4500
+71233,Pilfered Inquest Research,Trophy,0,Exotic,264
+71234,Recipe: Bowl of Tapioca Pudding,Consumable,0,Masterwork,66
+71235,Tarnished Seal,Trophy,0,Rare,192
+71236,Compost,Trophy,0,Exotic,264
+71237,Wanderer's Leystone Tassets,Armor,80,Exotic,370
+71239,Marauder Pearl Brazier,Weapon,80,Exotic,264
+71241,Dream of Grenth,Trophy,0,Exotic,264
+71242,Ruka's Footwear,Armor,80,Ascended,240
+71243,Recipe: Wanderer's Emblazoned Shoulders,Consumable,0,Exotic,132
+71244,Wrathwave Deeps Talisman,Trophy,0,Exotic,264
+71245,Mordrem Dragon Finisher,Consumable,0,Rare,0
+71247,Omnomberry Seeds,Trophy,0,Exotic,264
+71248,Recipe: Wanderer's Pearl Rod,Consumable,0,Exotic,132
+71249,Tizlak's Tassets,Armor,80,Ascended,240
+71250,Goop-Covered Satchel,Container,0,Exotic,256
+71252,Orichalcum Reinforcing Plate,CraftingMaterial,0,Masterwork,7
+71253,Auric Shield Shielding,Trophy,80,Rare,100
+71254,Recipe: Svaard's Pauldrons,Consumable,0,Ascended,160
+71255,Basic Tree,Gizmo,0,Basic,0
+71256,Morbach's Leather Breather,Armor,80,Ascended,240
+71258,Mini Blademaster Diarmid,MiniPet,0,Exotic,50
+71259,Minstrel's Pearl Sabre,Weapon,80,Exotic,264
+71260,Essence of Dreams,CraftingMaterial,0,Exotic,66
+71262,Commander's Intricate Gossamer Insignia,CraftingMaterial,0,Exotic,64
+71264,Greater Potion of Verdant Attunement,Consumable,0,Rare,0
+71266,Kamohoali'i Kotaki Vol. 1,Consumable,0,Exotic,0
+71268,The Dreamer Vol. 3,Trophy,0,Exotic,264
+71269,Vial of Healing Breath,Gizmo,0,Exotic,264
+71270,Ley-Line Pistol Core,Trophy,80,Rare,100
+71271,Vigil's Honor Sword,Weapon,80,Rare,198
+71272,Commander's Exalted Coat,Armor,80,Exotic,240
+71273,Recipe: Yassith's Doublet,Consumable,0,Ascended,160
+71274,Illuminated Overcharged Quartz,Trophy,0,Exotic,264
+71276,Superior Rune of the Scrapper,UpgradeComponent,60,Exotic,65
+71277,Expertise in Harpoon Gun Crafting,Trophy,0,Exotic,264
+71278,Basic Boulder,Gizmo,0,Basic,0
+71279,Mistward Pauldron Casing,Trophy,0,Rare,1000
+71280,Recipe: Vigilant Pearl Reaver,Consumable,0,Exotic,132
+71281,Aetherblade Recruitment Form,Trophy,0,Rare,2000
 71283,Recruit's Pack,Back,80,Rare,198
 71287,Purple Potato,CraftingMaterial,80,Exotic,66
 71289,Berserker's Auric Short Bow,Weapon,80,Exotic,396
