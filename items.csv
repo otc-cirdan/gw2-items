@@ -10399,206 +10399,6 @@ id,name,type,level,rarity,vendor_value
 12712,Pot of Poultry and Leek Soup,Consumable,75,Masterwork,66
 12713,Pot of Butternut Squash Soup,Consumable,75,Masterwork,66
 12714,Pot of Spicy Meat Chili,Consumable,75,Masterwork,66
-12715,Pot of Spicy Veggie Chili,Consumable,75,Masterwork,66
-12716,Pot of Artichoke Soup,Consumable,75,Masterwork,66
-12717,Pot of Meat and Winter Vegetable Stew,Consumable,75,Masterwork,66
-12718,Pot of Poultry and Winter Vegetable Soup,Consumable,75,Masterwork,66
-12719,Pot of Snow Truffle Soup,Consumable,75,Masterwork,66
-12720,Pot of Curry Butternut Squash Soup,Consumable,80,Masterwork,66
-12721,Pot of Curry Pumpkin Soup,Consumable,80,Masterwork,66
-12722,Pot of Fancy Potato and Leek Soup,Consumable,80,Masterwork,66
-12723,Pot of Fire Meat Chili,Consumable,80,Masterwork,66
-12724,Pot of Fire Veggie Chili,Consumable,80,Masterwork,66
-12725,Pot of Lemongrass Poultry Soup,Consumable,80,Masterwork,66
-12726,Pot of Orrian Truffle and Meat Stew,Consumable,80,Masterwork,66
-12727,Pot of Orrian Truffle Soup,Consumable,80,Masterwork,66
-12728,Pot of Saffron-scented Poultry Soup,Consumable,80,Masterwork,66
-12729,Bowl of Basic Vegetable Soup,Consumable,10,Fine,10
-12730,Bowl of Onion Soup,Consumable,15,Fine,12
-12731,Bowl of Basic Poultry Soup,Consumable,5,Fine,8
-12732,Bowl of Green Bean Stew,Consumable,10,Fine,10
-12733,Slice of Cinnamon Toast,Consumable,10,Fine,10
-12734,Cinnamon Pinwheel,Consumable,0,Basic,2
-12735,Bowl of Sauteed Carrots,Consumable,5,Fine,8
-12736,Onion Ring,Consumable,0,Fine,5
-12737,Grilled Steak,Consumable,0,Fine,5
-12738,Lemon Tart,Consumable,5,Fine,8
-12739,Triktiki Omelet,Consumable,33,Fine,18
-12740,Unidentified Blue Dye,Container,0,Rare,0
-12741,Unidentified Brown Dye,Container,0,Rare,0
-12742,Unidentified Gray Dye,Container,0,Rare,0
-12743,Unidentified Green Dye,Container,0,Rare,0
-12744,Unidentified Orange Dye,Container,0,Rare,0
-12745,Unidentified Purple Dye,Container,0,Rare,0
-12746,Unidentified Red Dye,Container,0,Rare,0
-12747,Unidentified Yellow Dye,Container,0,Rare,0
-12748,Unidentified Blue Dye,Container,0,Masterwork,0
-12749,Unidentified Brown Dye,Container,0,Masterwork,0
-12750,Unidentified Gray Dye,Container,0,Masterwork,0
-12751,Unidentified Green Dye,Container,0,Masterwork,0
-12752,Unidentified Orange Dye,Container,0,Masterwork,0
-12753,Unidentified Purple Dye,Container,0,Masterwork,0
-12754,Unidentified Red Dye,Container,0,Masterwork,0
-12755,Unidentified Yellow Dye,Container,0,Masterwork,0
-12756,Unidentified Blue Dye,Container,0,Fine,0
-12757,Unidentified Brown Dye,Container,0,Fine,0
-12758,Unidentified Gray Dye,Container,0,Fine,0
-12759,Unidentified Green Dye,Container,0,Fine,0
-12760,Unidentified Orange Dye,Container,0,Fine,0
-12761,Unidentified Purple Dye,Container,0,Fine,0
-12762,Unidentified Red Dye,Container,0,Fine,0
-12763,Unidentified Yellow Dye,Container,0,Fine,0
-12764,Sour Cream in Bulk,Container,0,Basic,11
-12765,Almonds in Bulk,Container,0,Basic,11
-12766,Avocados in Bulk,Container,0,Basic,11
-12767,Cherries in Bulk,Container,0,Basic,11
-12768,Ginger Root in Bulk,Container,0,Basic,11
-12769,Limes in Bulk,Container,0,Basic,11
-12770,Eggplants in Bulk,Container,0,Basic,22
-12771,Peaches in Bulk,Container,0,Basic,22
-12772,Mangos in Bulk,Container,0,Basic,29
-12773,Bananas in Bulk,Container,0,Basic,7
-12774,Basil Leaves in Bulk,Container,0,Basic,7
-12775,Bay Leaves in Bulk,Container,0,Basic,4
-12776,Bell Peppers in Bulk,Container,0,Basic,7
-12777,Black Beans in Bulk,Container,0,Basic,7
-12778,Kidney Beans in Bulk,Container,0,Basic,7
-12779,Walnuts in Bulk,Container,0,Basic,4
-12780,Rice in Bulk,Container,0,Fine,7
-12781,Chickpeas in Bulk,Container,0,Basic,16
-12782,Coconuts in Bulk,Container,0,Basic,16
-12783,Horseradish Root in Bulk,Container,0,Basic,16
-12784,Oranges in Bulk,Container,0,Basic,5
-12785,Pears in Bulk,Container,0,Basic,16
-12786,Pinenuts in Bulk,Container,0,Basic,16
-12787,Shallots in Bulk,Container,0,Basic,16
-12788,Apples in Bulk,Container,0,Basic,5
-12789,Black Peppercorns in Bulk,Container,0,Basic,3
-12790,Celery Stalks in Bulk,Container,0,Basic,5
-12791,Chili Peppers in Bulk,Container,0,Basic,3
-12792,Cinnamon Sticks in Bulk,Container,0,Basic,3
-12793,Cumin in Bulk,Container,0,Basic,5
-12794,Green Beans in Bulk,Container,0,Basic,5
-12795,Lemons in Bulk,Container,0,Basic,5
-12796,Nutmeg Seeds in Bulk,Container,0,Basic,5
-12798,Tomatoes in Bulk,Container,0,Basic,5
-12799,Vanilla Beans in Bulk,Container,0,Basic,3
-12800,Butter in Bulk,Container,0,Basic,3
-12801,Buttermilk in Bulk,Container,0,Basic,5
-12802,Cheese Wedges in Bulk,Container,0,Basic,5
-12803,Eggs in Bulk,Container,0,Basic,3
-12804,Yeast in Bulk,Container,0,Basic,5
-12805,Chocolate Bars in Bulk,Container,0,Basic,4
-12806,Copper Hook,CraftingMaterial,0,Basic,2
-12807,Gold Hook,CraftingMaterial,0,Basic,6
-12808,Mithril Hook,CraftingMaterial,0,Basic,8
-12809,Orichalcum Hook,CraftingMaterial,0,Basic,8
-12810,Platinum Hook,CraftingMaterial,0,Basic,7
-12811,Silver Hook,CraftingMaterial,0,Basic,5
-12812,Copper Setting,CraftingMaterial,0,Basic,2
-12813,Gold Setting,CraftingMaterial,0,Basic,6
-12814,Mithril Setting,CraftingMaterial,0,Basic,8
-12815,Orichalcum Setting,CraftingMaterial,0,Basic,8
-12816,Platinum Setting,CraftingMaterial,0,Basic,7
-12817,Silver Setting,CraftingMaterial,0,Basic,5
-12818,Copper Chain,CraftingMaterial,0,Basic,2
-12819,Gold Chain,CraftingMaterial,0,Basic,6
-12820,Mithril Chain,CraftingMaterial,0,Basic,8
-12821,Orichalcum Chain,CraftingMaterial,0,Basic,8
-12822,Platinum Chain,CraftingMaterial,0,Basic,7
-12823,Silver Chain,CraftingMaterial,0,Basic,5
-12824,Copper Band,CraftingMaterial,0,Basic,2
-12825,Gold Band,CraftingMaterial,0,Basic,6
-12826,Mithril Band,CraftingMaterial,0,Basic,8
-12827,Orichalcum Band,CraftingMaterial,0,Basic,8
-12828,Platinum Band,CraftingMaterial,0,Basic,7
-12829,Silver Band,CraftingMaterial,0,Basic,5
-12830,Copper Filigree,CraftingMaterial,0,Basic,2
-12831,Silver Filigree,CraftingMaterial,0,Basic,5
-12832,Gold Filigree,CraftingMaterial,0,Basic,6
-12833,Mithril Filigree,CraftingMaterial,0,Basic,8
-12834,Orichalcum Filigree,CraftingMaterial,0,Basic,8
-12835,Platinum Filigree,CraftingMaterial,0,Basic,7
-12836,Bronze Greatsword Blade,CraftingMaterial,0,Basic,4
-12837,Darksteel Greatsword Blade,CraftingMaterial,0,Basic,8
-12838,Iron Greatsword Blade,CraftingMaterial,0,Basic,4
-12839,Mithril Greatsword Blade,CraftingMaterial,0,Basic,8
-12840,Orichalcum Greatsword Blade,CraftingMaterial,0,Basic,8
-12841,Steel Greatsword Blade,CraftingMaterial,0,Basic,5
-12842,Bronze Sword Hilt,CraftingMaterial,0,Basic,4
-12843,Darksteel Sword Hilt,CraftingMaterial,0,Basic,8
-12844,Iron Sword Hilt,CraftingMaterial,0,Basic,4
-12845,Mithril Sword Hilt,CraftingMaterial,0,Basic,8
-12846,Orichalcum Sword Hilt,CraftingMaterial,0,Basic,8
-12847,Steel Sword Hilt,CraftingMaterial,0,Basic,5
-12848,Bronze Axe Blade,CraftingMaterial,0,Basic,4
-12849,Darksteel Axe Blade,CraftingMaterial,0,Basic,8
-12850,Iron Axe Blade,CraftingMaterial,0,Basic,4
-12851,Mithril Axe Blade,CraftingMaterial,0,Basic,8
-12852,Orichalcum Axe Blade,CraftingMaterial,0,Basic,8
-12853,Steel Axe Blade,CraftingMaterial,0,Basic,5
-12854,Bronze Dagger Blade,CraftingMaterial,0,Basic,4
-12855,Darksteel Dagger Blade,CraftingMaterial,0,Basic,8
-12856,Iron Dagger Blade,CraftingMaterial,0,Basic,4
-12857,Mithril Dagger Blade,CraftingMaterial,0,Basic,8
-12858,Orichalcum Dagger Blade,CraftingMaterial,0,Basic,8
-12859,Steel Dagger Blade,CraftingMaterial,0,Basic,5
-12860,Bronze Hammer Head,CraftingMaterial,0,Basic,4
-12861,Darksteel Hammer Head,CraftingMaterial,0,Basic,8
-12862,Iron Hammer Head,CraftingMaterial,0,Basic,4
-12863,Mithril Hammer Head,CraftingMaterial,0,Basic,8
-12864,Orichalcum Hammer Head,CraftingMaterial,0,Basic,8
-12865,Steel Hammer Head,CraftingMaterial,0,Basic,5
-12866,Bronze Sword Blade,CraftingMaterial,0,Basic,4
-12867,Darksteel Sword Blade,CraftingMaterial,0,Basic,8
-12868,Iron Sword Blade,CraftingMaterial,0,Basic,4
-12869,Mithril Sword Blade,CraftingMaterial,0,Basic,8
-12870,Orichalcum Sword Blade,CraftingMaterial,0,Basic,8
-12871,Steel Sword Blade,CraftingMaterial,0,Basic,5
-12872,Bronze Mace Head,CraftingMaterial,0,Basic,4
-12873,Darksteel Mace Head,CraftingMaterial,0,Basic,8
-12874,Iron Mace Head,CraftingMaterial,0,Basic,4
-12875,Mithril Mace Head,CraftingMaterial,0,Basic,8
-12876,Orichalcum Mace Head,CraftingMaterial,0,Basic,8
-12877,Steel Mace Head,CraftingMaterial,0,Basic,5
-12878,Bronze Dagger Hilt,CraftingMaterial,0,Basic,4
-12879,Darksteel Dagger Hilt,CraftingMaterial,0,Basic,8
-12880,Iron Dagger Hilt,CraftingMaterial,0,Basic,4
-12881,Mithril Dagger Hilt,CraftingMaterial,0,Basic,8
-12882,Orichalcum Dagger Hilt,CraftingMaterial,0,Basic,8
-12883,Steel Dagger Hilt,CraftingMaterial,0,Basic,5
-12884,Bronze Greatsword Hilt,CraftingMaterial,0,Basic,4
-12885,Darksteel Greatsword Hilt,CraftingMaterial,0,Basic,8
-12886,Iron Greatsword Hilt,CraftingMaterial,0,Basic,4
-12887,Mithril Greatsword Hilt,CraftingMaterial,0,Basic,8
-12888,Orichalcum Greatsword Hilt,CraftingMaterial,0,Basic,8
-12889,Steel Greatsword Hilt,CraftingMaterial,0,Basic,5
-12890,Small Soft Haft,CraftingMaterial,0,Basic,4
-12891,Small Green Haft,CraftingMaterial,0,Basic,2
-12892,Small Ancient Haft,CraftingMaterial,0,Basic,8
-12893,Small Seasoned Haft,CraftingMaterial,0,Basic,4
-12894,Small Elder Haft,CraftingMaterial,0,Basic,8
-12895,Small Hard Haft,CraftingMaterial,0,Basic,5
-12896,Large Elder Haft,CraftingMaterial,0,Basic,8
-12897,Large Green Haft,CraftingMaterial,0,Basic,2
-12898,Large Hard Haft,CraftingMaterial,0,Basic,5
-12899,Large Ancient Haft,CraftingMaterial,0,Basic,8
-12900,Large Soft Haft,CraftingMaterial,0,Basic,4
-12901,Large Seasoned Haft,CraftingMaterial,0,Basic,4
-12902,Bronze Shield Backing,CraftingMaterial,0,Basic,4
-12903,Darksteel Shield Backing,CraftingMaterial,0,Basic,8
-12904,Iron Shield Backing,CraftingMaterial,0,Basic,4
-12905,Mithril Shield Backing,CraftingMaterial,0,Basic,8
-12906,Orichalcum Shield Backing,CraftingMaterial,0,Basic,8
-12907,Steel Shield Backing,CraftingMaterial,0,Basic,5
-12908,Bronze Shield Boss,CraftingMaterial,0,Basic,4
-12909,Darksteel Shield Boss,CraftingMaterial,0,Basic,8
-12910,Iron Shield Boss,CraftingMaterial,0,Basic,4
-12911,Mithril Shield Boss,CraftingMaterial,0,Basic,8
-12912,Orichalcum Shield Boss,CraftingMaterial,0,Basic,8
-12913,Steel Shield Boss,CraftingMaterial,0,Basic,5
-12914,Bronze Rifle Barrel,CraftingMaterial,0,Basic,2
-12915,Darksteel Rifle Barrel,CraftingMaterial,0,Basic,6
 12916,Iron Rifle Barrel,CraftingMaterial,0,Basic,4
 12917,Mithril Rifle Barrel,CraftingMaterial,0,Basic,8
 12918,Orichalcum Rifle Barrel,CraftingMaterial,0,Basic,8
@@ -12199,206 +11999,6 @@ id,name,type,level,rarity,vendor_value
 14578,Rampager's Pearl Handcannon,Weapon,80,Exotic,264
 14579,Knight's Pearl Handcannon,Weapon,80,Exotic,264
 14580,Valkyrie Pearl Handcannon,Weapon,80,Exotic,264
-14581,Carrion Mithril Pistol,Weapon,70,Fine,59
-14582,Knight's Mithril Pistol,Weapon,70,Fine,59
-14583,Valkyrie Mithril Pistol,Weapon,70,Fine,59
-14584,Cleric's Mithril Pistol,Weapon,75,Fine,62
-14585,Mithril Pistol,Weapon,75,Fine,62
-14586,Berserker's Mithril Pistol,Weapon,75,Fine,62
-14587,Rampager's Mithril Pistol,Weapon,75,Fine,62
-14588,Carrion Mithril Pistol,Weapon,80,Masterwork,132
-14589,Cleric's Mithril Pistol,Weapon,80,Masterwork,132
-14591,Berserker's Mithril Pistol,Weapon,80,Masterwork,132
-14592,Rampager's Mithril Pistol,Weapon,80,Masterwork,132
-14593,Knight's Mithril Pistol,Weapon,80,Masterwork,132
-14594,Valkyrie Mithril Pistol,Weapon,80,Masterwork,132
-14595,Carrion Krait Handgun,Weapon,80,Rare,198
-14596,Cleric's Krait Handgun,Weapon,80,Rare,198
-14597,Krait Handgun,Weapon,80,Rare,198
-14598,Berserker's Krait Handgun,Weapon,80,Rare,198
-14599,Rampager's Krait Handgun,Weapon,80,Rare,198
-14600,Knight's Krait Handgun,Weapon,80,Rare,198
-14601,Valkyrie Krait Handgun,Weapon,80,Rare,198
-14602,Carrion Darksteel Pistol,Weapon,55,Fine,48
-14603,Knight's Darksteel Pistol,Weapon,55,Fine,48
-14604,Valkyrie Darksteel Pistol,Weapon,55,Fine,48
-14605,Cleric's Darksteel Pistol,Weapon,60,Fine,52
-14606,Darksteel Pistol,Weapon,60,Fine,52
-14607,Berserker's Darksteel Pistol,Weapon,60,Fine,52
-14608,Rampager's Darksteel Pistol,Weapon,60,Fine,52
-14609,Rampager's Darksteel Pistol,Weapon,65,Masterwork,110
-14610,Knight's Darksteel Pistol,Weapon,65,Masterwork,110
-14611,Valkyrie Darksteel Pistol,Weapon,65,Masterwork,110
-14612,Carrion Darksteel Pistol,Weapon,65,Masterwork,110
-14613,Cleric's Darksteel Pistol,Weapon,65,Masterwork,110
-14614,Darksteel Pistol,Weapon,65,Masterwork,110
-14615,Berserker's Darksteel Pistol,Weapon,65,Masterwork,110
-14616,Carrion Darksteel Rifle,Weapon,55,Fine,72
-14617,Knight's Darksteel Rifle,Weapon,55,Fine,72
-14618,Valkyrie Darksteel Rifle,Weapon,55,Fine,72
-14619,Cleric's Darksteel Rifle,Weapon,60,Fine,78
-14620,Darksteel Rifle,Weapon,60,Fine,78
-14621,Berserker's Darksteel Rifle,Weapon,60,Fine,78
-14622,Rampager's Darksteel Rifle,Weapon,60,Fine,78
-14623,Rampager's Darksteel Rifle,Weapon,65,Masterwork,165
-14624,Knight's Darksteel Rifle,Weapon,65,Masterwork,165
-14625,Valkyrie Darksteel Rifle,Weapon,65,Masterwork,165
-14626,Carrion Darksteel Rifle,Weapon,65,Masterwork,165
-14627,Cleric's Darksteel Rifle,Weapon,65,Masterwork,165
-14628,Darksteel Rifle,Weapon,65,Masterwork,165
-14629,Berserker's Darksteel Rifle,Weapon,65,Masterwork,165
-14630,Carrion Mithril Rifle,Weapon,70,Fine,89
-14631,Knight's Mithril Rifle,Weapon,70,Fine,89
-14632,Valkyrie Mithril Rifle,Weapon,70,Fine,89
-14633,Cleric's Mithril Rifle,Weapon,75,Fine,93
-14634,Mithril Rifle,Weapon,75,Fine,93
-14635,Berserker's Mithril Rifle,Weapon,75,Fine,93
-14636,Rampager's Mithril Rifle,Weapon,75,Fine,93
-14637,Carrion Mithril Rifle,Weapon,80,Masterwork,198
-14638,Cleric's Mithril Rifle,Weapon,80,Masterwork,198
-14640,Berserker's Mithril Rifle,Weapon,80,Masterwork,198
-14641,Rampager's Mithril Rifle,Weapon,80,Masterwork,198
-14642,Knight's Mithril Rifle,Weapon,80,Masterwork,198
-14643,Valkyrie Mithril Rifle,Weapon,80,Masterwork,198
-14644,Carrion Krait Shooter,Weapon,80,Rare,297
-14645,Cleric's Krait Shooter,Weapon,80,Rare,297
-14646,Krait Shooter,Weapon,80,Rare,297
-14647,Berserker's Krait Shooter,Weapon,80,Rare,297
-14648,Rampager's Krait Shooter,Weapon,80,Rare,297
-14649,Knight's Krait Shooter,Weapon,80,Rare,297
-14650,Valkyrie Krait Shooter,Weapon,80,Rare,297
-14651,Carrion Pearl Blunderbuss,Weapon,80,Exotic,396
-14652,Cleric's Pearl Blunderbuss,Weapon,80,Exotic,396
-14653,Pearl Blunderbuss,Weapon,80,Exotic,396
-14654,Berserker's Pearl Blunderbuss,Weapon,80,Exotic,396
-14655,Rampager's Pearl Blunderbuss,Weapon,80,Exotic,396
-14656,Knight's Pearl Blunderbuss,Weapon,80,Exotic,396
-14657,Valkyrie Pearl Blunderbuss,Weapon,80,Exotic,396
-14658,Carrion Pearl Speargun,Weapon,80,Exotic,396
-14659,Cleric's Pearl Speargun,Weapon,80,Exotic,396
-14660,Pearl Speargun,Weapon,80,Exotic,396
-14661,Berserker's Pearl Speargun,Weapon,80,Exotic,396
-14662,Rampager's Pearl Speargun,Weapon,80,Exotic,396
-14663,Knight's Pearl Speargun,Weapon,80,Exotic,396
-14664,Valkyrie Pearl Speargun,Weapon,80,Exotic,396
-14665,Carrion Elder Wood Harpoon Gun,Weapon,70,Fine,89
-14666,Knight's Elder Wood Harpoon Gun,Weapon,70,Fine,89
-14667,Valkyrie Elder Wood Harpoon Gun,Weapon,70,Fine,89
-14668,Cleric's Elder Wood Harpoon Gun,Weapon,75,Fine,93
-14669,Elder Wood Harpoon Gun,Weapon,75,Fine,93
-14670,Berserker's Elder Wood Harpoon Gun,Weapon,75,Fine,93
-14671,Rampager's Elder Wood Harpoon Gun,Weapon,75,Fine,93
-14672,Carrion Elder Wood Harpoon Gun,Weapon,80,Masterwork,198
-14673,Cleric's Elder Wood Harpoon Gun,Weapon,80,Masterwork,198
-14675,Berserker's Elder Wood Harpoon Gun,Weapon,80,Masterwork,198
-14676,Rampager's Elder Wood Harpoon Gun,Weapon,80,Masterwork,198
-14677,Knight's Elder Wood Harpoon Gun,Weapon,80,Masterwork,198
-14678,Valkyrie Elder Wood Harpoon Gun,Weapon,80,Masterwork,198
-14679,Carrion Krait Harpoon Gun,Weapon,80,Rare,297
-14680,Cleric's Krait Harpoon Gun,Weapon,80,Rare,297
-14681,Krait Harpoon Gun,Weapon,80,Rare,297
-14682,Berserker's Krait Harpoon Gun,Weapon,80,Rare,297
-14683,Rampager's Krait Harpoon Gun,Weapon,80,Rare,297
-14684,Knight's Krait Harpoon Gun,Weapon,80,Rare,297
-14685,Valkyrie Krait Harpoon Gun,Weapon,80,Rare,297
-14686,Carrion Hard Wood Harpoon Gun,Weapon,55,Fine,72
-14687,Knight's Hard Wood Harpoon Gun,Weapon,55,Fine,72
-14688,Valkyrie Hard Wood Harpoon Gun,Weapon,55,Fine,72
-14689,Cleric's Hard Wood Harpoon Gun,Weapon,60,Fine,78
-14690,Hard Wood Harpoon Gun,Weapon,60,Fine,78
-14691,Berserker's Hard Wood Harpoon Gun,Weapon,60,Fine,78
-14692,Rampager's Hard Wood Harpoon Gun,Weapon,60,Fine,78
-14693,Rampager's Hard Wood Harpoon Gun,Weapon,65,Masterwork,165
-14694,Knight's Hard Wood Harpoon Gun,Weapon,65,Masterwork,165
-14695,Valkyrie Hard Wood Harpoon Gun,Weapon,65,Masterwork,165
-14696,Carrion Hard Wood Harpoon Gun,Weapon,65,Masterwork,165
-14697,Cleric's Hard Wood Harpoon Gun,Weapon,65,Masterwork,165
-14698,Hard Wood Harpoon Gun,Weapon,65,Masterwork,165
-14699,Berserker's Hard Wood Harpoon Gun,Weapon,65,Masterwork,165
-14700,Mighty Green Wood Short Bow,Weapon,5,Fine,15
-14701,Mighty Green Wood Warhorn,Weapon,5,Fine,10
-14702,Mighty Green Wood Torch,Weapon,5,Fine,10
-14703,Mighty Green Wood Longbow,Weapon,5,Fine,15
-14704,Mighty Bronze Pistol,Weapon,5,Fine,10
-14705,Mighty Bronze Rifle,Weapon,5,Fine,15
-14706,Mighty Green Wood Harpoon Gun,Weapon,5,Fine,15
-14707,Rejuvenating Soft Wood Short Bow,Weapon,30,Fine,47
-14708,Rejuvenating Soft Wood Short Bow,Weapon,35,Masterwork,102
-14709,Rejuvenating Seasoned Wood Short Bow,Weapon,45,Fine,62
-14710,Rejuvenating Seasoned Wood Short Bow,Weapon,50,Masterwork,135
-14711,Rejuvenating Soft Wood Warhorn,Weapon,30,Fine,31
-14712,Rejuvenating Soft Wood Warhorn,Weapon,35,Masterwork,68
-14713,Rejuvenating Seasoned Wood Warhorn,Weapon,45,Fine,41
-14714,Rejuvenating Seasoned Wood Warhorn,Weapon,50,Masterwork,90
-14715,Rejuvenating Soft Wood Torch,Weapon,30,Fine,31
-14716,Rejuvenating Soft Wood Torch,Weapon,35,Masterwork,68
-14717,Rejuvenating Seasoned Wood Torch,Weapon,45,Fine,41
-14718,Rejuvenating Seasoned Wood Torch,Weapon,50,Masterwork,90
-14719,Rejuvenating Soft Wood Longbow,Weapon,30,Fine,47
-14720,Rejuvenating Soft Wood Longbow,Weapon,35,Masterwork,102
-14721,Rejuvenating Seasoned Wood Longbow,Weapon,45,Fine,62
-14722,Rejuvenating Seasoned Wood Longbow,Weapon,50,Masterwork,135
-14723,Rejuvenating Iron Pistol,Weapon,30,Fine,31
-14724,Rejuvenating Iron Pistol,Weapon,35,Masterwork,68
-14725,Rejuvenating Steel Pistol,Weapon,45,Fine,41
-14726,Rejuvenating Steel Pistol,Weapon,50,Masterwork,90
-14727,Rejuvenating Iron Rifle,Weapon,30,Fine,47
-14728,Rejuvenating Iron Rifle,Weapon,35,Masterwork,102
-14729,Rejuvenating Steel Rifle,Weapon,45,Fine,62
-14730,Rejuvenating Steel Rifle,Weapon,50,Masterwork,135
-14731,Rejuvenating Soft Wood Harpoon Gun,Weapon,30,Fine,47
-14732,Rejuvenating Soft Wood Harpoon Gun,Weapon,35,Masterwork,102
-14733,Rejuvenating Seasoned Wood Harpoon Gun,Weapon,45,Fine,62
-14734,Rejuvenating Seasoned Wood Harpoon Gun,Weapon,50,Masterwork,135
-14735,Ravaging Bandit Short Bow,Weapon,35,Rare,153
-14736,Rejuvenating Bandit Short Bow,Weapon,35,Rare,153
-14737,Honed Bandit Short Bow,Weapon,35,Rare,153
-14738,Bandit Short Bow,Weapon,35,Rare,153
-14739,Strong Bandit Short Bow,Weapon,35,Rare,153
-14740,Vigorous Bandit Short Bow,Weapon,35,Rare,153
-14741,Hearty Bandit Short Bow,Weapon,35,Rare,153
-14742,Ravaging Dredge Short Bow,Weapon,50,Rare,203
-14743,Rejuvenating Dredge Short Bow,Weapon,50,Rare,203
-14744,Honed Dredge Short Bow,Weapon,50,Rare,203
-14745,Dredge Short Bow,Weapon,50,Rare,203
-14746,Strong Dredge Short Bow,Weapon,50,Rare,203
-14747,Vigorous Dredge Short Bow,Weapon,50,Rare,203
-14748,Hearty Dredge Short Bow,Weapon,50,Rare,203
-14749,Carrion Ogre Short Bow,Weapon,65,Rare,248
-14750,Cleric's Ogre Short Bow,Weapon,65,Rare,248
-14752,Valkyrie Ogre Short Bow,Weapon,65,Rare,248
-14753,Berserker's Ogre Short Bow,Weapon,65,Rare,248
-14754,Rampager's Ogre Short Bow,Weapon,65,Rare,248
-14755,Knight's Ogre Short Bow,Weapon,65,Rare,248
-14756,Ravaging Bandit Bugle,Weapon,35,Rare,102
-14757,Rejuvenating Bandit Bugle,Weapon,35,Rare,102
-14758,Honed Bandit Bugle,Weapon,35,Rare,102
-14760,Strong Bandit Bugle,Weapon,35,Rare,102
-14761,Vigorous Bandit Bugle,Weapon,35,Rare,102
-14762,Hearty Bandit Bugle,Weapon,35,Rare,102
-14763,Ravaging Dredge Double Horn,Weapon,50,Rare,135
-14764,Rejuvenating Dredge Double Horn,Weapon,50,Rare,135
-14765,Honed Dredge Double Horn,Weapon,50,Rare,135
-14767,Strong Dredge Double Horn,Weapon,50,Rare,135
-14768,Vigorous Dredge Double Horn,Weapon,50,Rare,135
-14769,Hearty Dredge Double Horn,Weapon,50,Rare,135
-14770,Carrion Ogre Harbinger,Weapon,65,Rare,165
-14771,Cleric's Ogre Harbinger,Weapon,65,Rare,165
-14773,Valkyrie Ogre Harbinger,Weapon,65,Rare,165
-14774,Berserker's Ogre Harbinger,Weapon,65,Rare,165
-14775,Rampager's Ogre Harbinger,Weapon,65,Rare,165
-14776,Knight's Ogre Harbinger,Weapon,65,Rare,165
-14777,Ravaging Bandit Torch,Weapon,35,Rare,102
-14778,Rejuvenating Bandit Torch,Weapon,35,Rare,102
-14779,Honed Bandit Torch,Weapon,35,Rare,102
-14781,Strong Bandit Torch,Weapon,35,Rare,102
-14782,Vigorous Bandit Torch,Weapon,35,Rare,102
-14783,Hearty Bandit Torch,Weapon,35,Rare,102
-14784,Ravaging Dredge Lamp,Weapon,50,Rare,135
-14785,Rejuvenating Dredge Lamp,Weapon,50,Rare,135
-14786,Honed Dredge Lamp,Weapon,50,Rare,135
-14787,Dredge Lamp,Weapon,50,Rare,135
-14788,Strong Dredge Lamp,Weapon,50,Rare,135
 14789,Vigorous Dredge Lamp,Weapon,50,Rare,135
 14790,Hearty Dredge Lamp,Weapon,50,Rare,135
 14791,Carrion Ogre Blaze,Weapon,65,Rare,165
@@ -24399,6 +23999,206 @@ id,name,type,level,rarity,vendor_value
 32564,Carrion Steam Axe,Weapon,66,Fine,56
 32565,Carrion Steam Axe,Weapon,71,Fine,59
 32566,Carrion Steam Axe,Weapon,76,Fine,63
+32567,Carrion Steam Axe,Weapon,80,Fine,66
+32568,Carrion Steam Dagger,Weapon,61,Fine,52
+32569,Carrion Steam Dagger,Weapon,66,Fine,56
+32570,Carrion Steam Dagger,Weapon,71,Fine,59
+32571,Carrion Steam Dagger,Weapon,76,Fine,63
+32572,Carrion Steam Dagger,Weapon,80,Fine,66
+32573,Carrion Steam Gizmo,Weapon,61,Fine,52
+32574,Carrion Steam Gizmo,Weapon,66,Fine,56
+32575,Carrion Steam Gizmo,Weapon,71,Fine,59
+32576,Carrion Steam Gizmo,Weapon,76,Fine,63
+32577,Carrion Steam Gizmo,Weapon,80,Fine,66
+32578,Carrion Great Steamblade,Weapon,61,Fine,78
+32579,Carrion Great Steamblade,Weapon,66,Fine,84
+32580,Carrion Great Steamblade,Weapon,71,Fine,89
+32581,Carrion Great Steamblade,Weapon,76,Fine,95
+32582,Carrion Great Steamblade,Weapon,80,Fine,99
+32583,Carrion Steam Hammer,Weapon,61,Fine,78
+32584,Carrion Steam Hammer,Weapon,66,Fine,84
+32585,Carrion Steam Hammer,Weapon,71,Fine,89
+32586,Carrion Steam Hammer,Weapon,76,Fine,95
+32587,Carrion Steam Hammer,Weapon,80,Fine,99
+32588,Carrion Steam Spear,Weapon,61,Fine,78
+32589,Carrion Steam Spear,Weapon,66,Fine,84
+32590,Carrion Steam Spear,Weapon,71,Fine,89
+32591,Carrion Steam Spear,Weapon,76,Fine,95
+32592,Carrion Steam Spear,Weapon,80,Fine,99
+32593,Carrion Steam Bow,Weapon,61,Fine,78
+32594,Carrion Steam Bow,Weapon,66,Fine,84
+32595,Carrion Steam Bow,Weapon,71,Fine,89
+32596,Carrion Steam Bow,Weapon,76,Fine,95
+32597,Carrion Steam Bow,Weapon,80,Fine,99
+32598,Carrion Steam Mace,Weapon,61,Fine,52
+32599,Carrion Steam Mace,Weapon,66,Fine,56
+32600,Carrion Steam Mace,Weapon,71,Fine,59
+32601,Carrion Steam Mace,Weapon,76,Fine,63
+32602,Carrion Steam Mace,Weapon,80,Fine,66
+32603,Carrion Steam Pistol,Weapon,61,Fine,52
+32604,Carrion Steam Pistol,Weapon,66,Fine,56
+32605,Carrion Steam Pistol,Weapon,71,Fine,59
+32606,Carrion Steam Pistol,Weapon,76,Fine,63
+32607,Carrion Steam Pistol,Weapon,80,Fine,66
+32608,Carrion Steam Rifle,Weapon,61,Fine,78
+32609,Carrion Steam Rifle,Weapon,66,Fine,84
+32610,Carrion Steam Rifle,Weapon,71,Fine,89
+32611,Carrion Steam Rifle,Weapon,76,Fine,95
+32612,Carrion Steam Rifle,Weapon,80,Fine,99
+32613,Carrion Steam Scepter,Weapon,61,Fine,52
+32614,Carrion Steam Scepter,Weapon,66,Fine,56
+32615,Carrion Steam Scepter,Weapon,71,Fine,59
+32616,Carrion Steam Scepter,Weapon,76,Fine,63
+32617,Carrion Steam Scepter,Weapon,80,Fine,66
+32618,Carrion Steam Shield,Weapon,61,Fine,52
+32619,Carrion Steam Shield,Weapon,66,Fine,56
+32620,Carrion Steam Shield,Weapon,71,Fine,59
+32621,Carrion Steam Shield,Weapon,76,Fine,63
+32622,Carrion Steam Shield,Weapon,80,Fine,66
+32623,Carrion Steam Short Bow,Weapon,61,Fine,78
+32624,Carrion Steam Short Bow,Weapon,66,Fine,84
+32625,Carrion Steam Short Bow,Weapon,71,Fine,89
+32626,Carrion Steam Short Bow,Weapon,76,Fine,95
+32627,Carrion Steam Short Bow,Weapon,80,Fine,99
+32628,Carrion Steam Speargun,Weapon,61,Fine,78
+32629,Carrion Steam Speargun,Weapon,66,Fine,84
+32630,Carrion Steam Speargun,Weapon,71,Fine,89
+32631,Carrion Steam Speargun,Weapon,76,Fine,95
+32632,Carrion Steam Speargun,Weapon,80,Fine,99
+32633,Carrion Steam Staff,Weapon,61,Fine,78
+32634,Carrion Steam Staff,Weapon,66,Fine,84
+32635,Carrion Steam Staff,Weapon,71,Fine,89
+32636,Carrion Steam Staff,Weapon,76,Fine,95
+32637,Carrion Steam Staff,Weapon,80,Fine,99
+32638,Carrion Steamblade,Weapon,61,Fine,52
+32639,Carrion Steamblade,Weapon,66,Fine,56
+32640,Carrion Steamblade,Weapon,71,Fine,59
+32641,Carrion Steamblade,Weapon,76,Fine,63
+32642,Carrion Steamblade,Weapon,80,Fine,66
+32643,Carrion Steam Brand,Weapon,61,Fine,52
+32644,Carrion Steam Brand,Weapon,66,Fine,56
+32645,Carrion Steam Brand,Weapon,71,Fine,59
+32646,Carrion Steam Brand,Weapon,76,Fine,63
+32647,Carrion Steam Brand,Weapon,80,Fine,66
+32648,Carrion Steam Trident,Weapon,61,Fine,78
+32649,Carrion Steam Trident,Weapon,66,Fine,84
+32650,Carrion Steam Trident,Weapon,71,Fine,89
+32651,Carrion Steam Trident,Weapon,76,Fine,95
+32652,Carrion Steam Trident,Weapon,80,Fine,99
+32653,Carrion Steamcaller,Weapon,61,Fine,52
+32654,Carrion Steamcaller,Weapon,66,Fine,56
+32655,Carrion Steamcaller,Weapon,71,Fine,59
+32656,Carrion Steamcaller,Weapon,76,Fine,63
+32657,Carrion Steamcaller,Weapon,80,Fine,66
+32658,Malign Steam Axe of Agony,Weapon,14,Masterwork,38
+32659,Malign Steam Axe of Force,Weapon,20,Masterwork,48
+32660,Malign Steam Dagger of Agony,Weapon,14,Masterwork,38
+32661,Malign Steam Dagger of Force,Weapon,20,Masterwork,48
+32662,Malign Steam Gizmo of Agony,Weapon,14,Masterwork,38
+32663,Malign Steam Gizmo of Force,Weapon,20,Masterwork,48
+32664,Malign Great Steamblade of Agony,Weapon,14,Masterwork,57
+32665,Malign Great Steamblade of Force,Weapon,20,Masterwork,72
+32666,Malign Steam Hammer of Agony,Weapon,14,Masterwork,57
+32667,Malign Steam Hammer of Force,Weapon,20,Masterwork,72
+32668,Malign Steam Spear of Agony,Weapon,14,Masterwork,57
+32669,Malign Steam Spear of Force,Weapon,20,Masterwork,72
+32670,Malign Steam Bow of Agony,Weapon,14,Masterwork,57
+32671,Malign Steam Bow of Force,Weapon,20,Masterwork,72
+32672,Malign Steam Mace of Agony,Weapon,14,Masterwork,38
+32673,Malign Steam Mace of Force,Weapon,20,Masterwork,48
+32674,Malign Steam Pistol of Agony,Weapon,14,Masterwork,38
+32675,Malign Steam Pistol of Force,Weapon,20,Masterwork,48
+32676,Malign Steam Rifle of Agony,Weapon,14,Masterwork,57
+32677,Malign Steam Rifle of Force,Weapon,20,Masterwork,72
+32678,Malign Steam Scepter of Agony,Weapon,14,Masterwork,38
+32679,Malign Steam Scepter of Force,Weapon,20,Masterwork,48
+32680,Malign Steam Shield of Agony,Weapon,14,Masterwork,38
+32681,Malign Steam Shield of Force,Weapon,20,Masterwork,48
+32682,Malign Steam Short Bow of Agony,Weapon,14,Masterwork,57
+32683,Malign Steam Short Bow of Force,Weapon,20,Masterwork,72
+32684,Malign Steam Speargun of Agony,Weapon,14,Masterwork,57
+32685,Malign Steam Speargun of Force,Weapon,20,Masterwork,72
+32686,Malign Steam Staff of Agony,Weapon,14,Masterwork,57
+32687,Malign Steam Staff of Force,Weapon,20,Masterwork,72
+32688,Malign Steamblade of Agony,Weapon,14,Masterwork,38
+32689,Malign Steamblade of Force,Weapon,20,Masterwork,48
+32690,Malign Steam Brand of Agony,Weapon,14,Masterwork,38
+32691,Malign Steam Brand of Force,Weapon,20,Masterwork,48
+32692,Malign Steam Trident of Agony,Weapon,14,Masterwork,57
+32693,Malign Steam Trident of Force,Weapon,20,Masterwork,72
+32694,Malign Steamcaller of Agony,Weapon,14,Masterwork,38
+32695,Malign Steamcaller of Force,Weapon,20,Masterwork,48
+32696,Ravaging Steam Axe of Accuracy,Weapon,26,Masterwork,56
+32697,Ravaging Steam Axe of Grawl Slaying,Weapon,32,Masterwork,64
+32698,Ravaging Steam Dagger of Accuracy,Weapon,26,Masterwork,56
+32699,Ravaging Steam Dagger of Grawl Slaying,Weapon,32,Masterwork,64
+32700,Ravaging Steam Gizmo of Accuracy,Weapon,26,Masterwork,56
+32701,Ravaging Steam Gizmo of Grawl Slaying,Weapon,32,Masterwork,64
+32702,Ravaging Great Steamblade of Accuracy,Weapon,26,Masterwork,84
+32703,Ravaging Great Steamblade of Grawl Slaying,Weapon,32,Masterwork,96
+32704,Ravaging Steam Hammer of Accuracy,Weapon,26,Masterwork,84
+32705,Ravaging Steam Hammer of Grawl Slaying,Weapon,32,Masterwork,96
+32706,Ravaging Steam Spear of Accuracy,Weapon,26,Masterwork,84
+32707,Ravaging Steam Spear of Grawl Slaying,Weapon,32,Masterwork,96
+32708,Ravaging Steam Bow of Accuracy,Weapon,26,Masterwork,84
+32709,Ravaging Steam Bow of Grawl Slaying,Weapon,32,Masterwork,96
+32710,Ravaging Steam Mace of Accuracy,Weapon,26,Masterwork,56
+32711,Ravaging Steam Mace of Grawl Slaying,Weapon,32,Masterwork,64
+32712,Ravaging Steam Pistol of Accuracy,Weapon,26,Masterwork,56
+32713,Ravaging Steam Pistol of Grawl Slaying,Weapon,32,Masterwork,64
+32714,Ravaging Steam Rifle of Accuracy,Weapon,26,Masterwork,84
+32715,Ravaging Steam Rifle of Grawl Slaying,Weapon,32,Masterwork,96
+32716,Ravaging Steam Scepter of Accuracy,Weapon,26,Masterwork,56
+32717,Ravaging Steam Scepter of Grawl Slaying,Weapon,32,Masterwork,64
+32718,Ravaging Steam Shield of Accuracy,Weapon,26,Masterwork,56
+32719,Ravaging Steam Shield of Grawl Slaying,Weapon,32,Masterwork,64
+32720,Ravaging Steam Short Bow of Accuracy,Weapon,26,Masterwork,84
+32721,Ravaging Steam Short Bow of Grawl Slaying,Weapon,32,Masterwork,96
+32722,Ravaging Steam Speargun of Accuracy,Weapon,26,Masterwork,84
+32723,Ravaging Steam Speargun of Grawl Slaying,Weapon,32,Masterwork,96
+32724,Ravaging Steam Staff of Accuracy,Weapon,26,Masterwork,84
+32725,Ravaging Steam Staff of Grawl Slaying,Weapon,32,Masterwork,96
+32726,Ravaging Steamblade of Accuracy,Weapon,26,Masterwork,56
+32727,Ravaging Steamblade of Grawl Slaying,Weapon,32,Masterwork,64
+32728,Ravaging Steam Brand of Accuracy,Weapon,26,Masterwork,56
+32729,Ravaging Steam Brand of Grawl Slaying,Weapon,32,Masterwork,64
+32730,Ravaging Steam Trident of Accuracy,Weapon,26,Masterwork,84
+32731,Ravaging Steam Trident of Grawl Slaying,Weapon,32,Masterwork,96
+32732,Ravaging Steamcaller of Accuracy,Weapon,26,Masterwork,56
+32733,Ravaging Steamcaller of Grawl Slaying,Weapon,32,Masterwork,64
+32734,Ravaging Steam Axe of Serpent Slaying,Weapon,38,Masterwork,72
+32735,Ravaging Steam Axe of Smoldering,Weapon,44,Masterwork,80
+32736,Ravaging Steam Axe of Debility,Weapon,50,Masterwork,90
+32737,Ravaging Steam Axe of the Hydromancer,Weapon,56,Masterwork,98
+32738,Ravaging Steam Dagger of Serpent Slaying,Weapon,38,Masterwork,72
+32739,Ravaging Steam Dagger of Smoldering,Weapon,44,Masterwork,80
+32740,Ravaging Steam Dagger of Debility,Weapon,50,Masterwork,90
+32741,Ravaging Steam Dagger of the Hydromancer,Weapon,56,Masterwork,98
+32742,Ravaging Steam Gizmo of Serpent Slaying,Weapon,38,Masterwork,72
+32743,Ravaging Steam Gizmo of Smoldering,Weapon,44,Masterwork,80
+32744,Ravaging Steam Gizmo of Debility,Weapon,50,Masterwork,90
+32745,Ravaging Steam Gizmo of the Hydromancer,Weapon,56,Masterwork,98
+32746,Ravaging Great Steamblade of Serpent Slaying,Weapon,38,Masterwork,108
+32747,Ravaging Great Steamblade of Smoldering,Weapon,44,Masterwork,120
+32748,Ravaging Great Steamblade of Debility,Weapon,50,Masterwork,135
+32749,Ravaging Great Steamblade of the Hydromancer,Weapon,56,Masterwork,147
+32750,Ravaging Steam Hammer of Serpent Slaying,Weapon,38,Masterwork,108
+32751,Ravaging Steam Hammer of Smoldering,Weapon,44,Masterwork,120
+32752,Ravaging Steam Hammer of Debility,Weapon,50,Masterwork,135
+32753,Ravaging Steam Hammer of the Hydromancer,Weapon,56,Masterwork,147
+32754,Ravaging Steam Spear of Serpent Slaying,Weapon,38,Masterwork,108
+32755,Ravaging Steam Spear of Smoldering,Weapon,44,Masterwork,120
+32756,Ravaging Steam Spear of Debility,Weapon,50,Masterwork,135
+32757,Ravaging Steam Spear of the Hydromancer,Weapon,56,Masterwork,147
+32758,Ravaging Steam Bow of Serpent Slaying,Weapon,38,Masterwork,108
+32759,Ravaging Steam Bow of Smoldering,Weapon,44,Masterwork,120
+32760,Ravaging Steam Bow of Debility,Weapon,50,Masterwork,135
+32761,Ravaging Steam Bow of the Hydromancer,Weapon,56,Masterwork,147
+32762,Ravaging Steam Mace of Serpent Slaying,Weapon,38,Masterwork,72
+32763,Ravaging Steam Mace of Smoldering,Weapon,44,Masterwork,80
+32764,Ravaging Steam Mace of Debility,Weapon,50,Masterwork,90
+32765,Ravaging Steam Mace of the Hydromancer,Weapon,56,Masterwork,98
+32766,Ravaging Steam Pistol of Serpent Slaying,Weapon,38,Masterwork,72
 32767,Ravaging Steam Pistol of Smoldering,Weapon,44,Masterwork,80
 32768,Ravaging Steam Pistol of Debility,Weapon,50,Masterwork,90
 32769,Ravaging Steam Pistol of the Hydromancer,Weapon,56,Masterwork,98
@@ -73797,6 +73597,7 @@ Balance",Gizmo,0,Basic,0
 109822,WvW Rush Champion Point,Trophy,0,Rare,0
 109823,Sleeveless Wetsuit Bottoms Skin,Consumable,0,Masterwork,0
 109824,Black Lion Poolside Party Umbrella Recipe,Consumable,0,Basic,0
+109825,Foggy Forest Homestead Sky,Consumable,0,Exotic,0
 109827,Black Lion Poolside Party Water Jet (Fan) Recipe,Consumable,0,Basic,0
 109828,Black Lion Poolside Party Floor Recipe,Consumable,0,Basic,0
 109829,Summer Runner Shoes Skin,Consumable,0,Masterwork,0
