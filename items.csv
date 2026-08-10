@@ -44599,6 +44599,206 @@ id,name,type,level,rarity,vendor_value
 68579,Mordrem Greatsword Skin,Consumable,0,Rare,0
 68580,Mordrem Focus Skin,Consumable,0,Rare,0
 68581,Mordrem Short Bow Skin,Consumable,0,Rare,0
+68582,Mordrem Scepter Skin,Consumable,0,Rare,0
+68583,Mordrem Torch Skin,Consumable,0,Rare,0
+68584,Mordrem Dagger Skin,Consumable,0,Rare,0
+68585,Mordrem Axe Skin,Consumable,0,Rare,0
+68586,Mordrem Mace Skin,Consumable,0,Rare,0
+68587,Mordrem Staff Skin,Consumable,0,Rare,0
+68588,Mordrem Rifle Skin,Consumable,0,Rare,0
+68589,Mordrem Pistol Skin,Consumable,0,Rare,0
+68590,Mordrem Longbow Skin,Consumable,0,Rare,0
+68591,Mordrem Shield Skin,Consumable,0,Rare,0
+68592,Mordrem Hammer Skin,Consumable,0,Rare,0
+68593,Mordrem Sword Skin,Consumable,0,Rare,0
+68608,Mordrem Kidney Extraction Device,Consumable,0,Basic,0
+68609,Mordrem Eye Extraction Device,Consumable,0,Basic,0
+68610,Mini Ram,MiniPet,0,Masterwork,50
+68611,Plush Ram Backpack Set,Container,0,Masterwork,0
+68612,Plush Ram Backpack,Consumable,0,Masterwork,0
+68614,Red Lantern,Gizmo,0,Masterwork,0
+68617,Coffer of the Dragon Ball Champion,Container,0,Rare,0
+68618,Token of the Dragon Ball Champion,Trophy,0,Rare,0
+68619,Lucky Ram Lantern,Back,65,Rare,888
+68620,Lucky Great Ram Lantern,Back,80,Exotic,8888
+68621,Lunar New Year Firework,Weapon,0,Basic,0
+68625,Lunar New Year Firework,Consumable,0,Masterwork,0
+68626,Visage of the Great Ram Firework,Consumable,0,Exotic,0
+68628,Great Guild Firework,Consumable,0,Masterwork,0
+68630,Prismatic Rocket,Consumable,0,Rare,0
+68631,Exploding Draketail,Consumable,0,Masterwork,0
+68632,Spring Roll,Consumable,80,Rare,0
+68633,Fried Golden Dumpling,Consumable,80,Fine,0
+68634,Delicious Rice Ball,Consumable,80,Fine,0
+68635,Steamed Red Dumpling,Consumable,80,Rare,0
+68636,Sweet Bean Bun,Consumable,80,Exotic,0
+68637,Beautiful Gold-Leaf Festival Lantern,Trophy,0,Junk,888
+68638,Red Festival Lantern,Trophy,0,Junk,88
+68639,Golden Ram Figurine,Trophy,0,Junk,8888
+68640,Ornamental Golden Trophy,Trophy,0,Junk,88888
+68641,Stack of 5 Divine Lucky Envelopes,Container,0,Rare,0
+68642,Homemade Lucky Envelope,Container,0,Masterwork,88
+68643,Dragon Ball Champion's Chest of 10 Divine Lucky Envelopes,Container,0,Rare,0
+68644,Personalized Homemade Lucky Envelope,Container,0,Masterwork,0
+68645,Little Lucky Envelope,Container,0,Fine,0
+68646,Divine Lucky Envelope,Container,0,Rare,8888
+68647,Dragon Ball Champion's Divine Lucky Envelope,Container,0,Rare,8888
+68648,Dragon Ball Champion's Stack of 5 Divine Lucky Envelopes,Container,0,Rare,0
+68649,Chest of 10 Divine Lucky Envelopes,Container,0,Rare,0
+68650,Ram Balloon,Gizmo,0,Masterwork,0
+68652,Red Envelope Mail Carrier,Consumable,0,Rare,0
+68653,Crimson Lion Dye Kit,Container,0,Masterwork,0
+68654,Imperial Outfit,Consumable,0,Rare,0
+68655,Dragon Mask Skin,Consumable,0,Masterwork,0
+68656,Lion Mask Skin,Consumable,0,Masterwork,0
+68657,Crimson Lion Mace Skin,Consumable,0,Rare,0
+68658,Crimson Lion Longbow Skin,Consumable,0,Rare,0
+68659,Crimson Lion Dagger Skin,Consumable,0,Rare,0
+68660,Crimson Lion Greatsword Skin,Consumable,0,Rare,0
+68661,Crimson Lion Warhorn Skin,Consumable,0,Rare,0
+68662,Crimson Lion Scepter Skin,Consumable,0,Rare,0
+68663,Crimson Lion Short Bow Skin,Consumable,0,Rare,0
+68664,Crimson Lion Rifle Skin,Consumable,0,Rare,0
+68665,Crimson Lion Staff Skin,Consumable,0,Rare,0
+68666,Crimson Lion Focus Skin,Consumable,0,Rare,0
+68667,Crimson Lion Hammer Skin,Consumable,0,Rare,0
+68668,Crimson Lion Torch Skin,Consumable,0,Rare,0
+68669,Crimson Lion Pistol Skin,Consumable,0,Rare,0
+68670,Crimson Lion Sword Skin,Consumable,0,Rare,0
+68671,Crimson Lion Shield Skin,Consumable,0,Rare,0
+68672,Crimson Lion Axe Skin,Consumable,0,Rare,0
+68673,Golden Lion Dye,Consumable,0,Rare,50
+68674,Imperial Gold Dye,Consumable,0,Rare,50
+68675,Aureus Dye,Consumable,0,Rare,50
+68676,Imperial Red Dye,Consumable,0,Rare,50
+68677,Crimson Lion Dye,Consumable,0,Rare,50
+68678,Rosewood Dye,Consumable,0,Rare,50
+68681,Snow Owl Mail Carrier,Consumable,0,Masterwork,0
+68682,Sylvari Seed Pod Mail Carrier,Consumable,0,Rare,0
+68683,Mini Golden Pig,MiniPet,0,Masterwork,50
+68684,Crystal Nomad Outfit,Consumable,0,Rare,0
+68685,Black Wings Glider Combo,Container,0,Masterwork,0
+68686,Black Feather Wings Backpack,Consumable,0,Masterwork,0
+68687,Lord Faren's Rapier Skin,Consumable,0,Rare,0
+68688,Mini Revenant Rytlock Brimstone,MiniPet,0,Exotic,0
+68690,Shaman's Reclaimed Short Bow,Weapon,80,Fine,99
+68707,Shadow Scepter Skin,Consumable,0,Rare,0
+68708,Shaman's Reclaimed Warhorn,Weapon,80,Fine,66
+68720,Shadow Focus Skin,Consumable,0,Rare,0
+68722,Shadow Short Bow Skin,Consumable,0,Rare,0
+68728,Shadow Blue Dye,Consumable,0,Rare,50
+68731,Shaman's Reclaimed Short Bow,Weapon,76,Fine,95
+68743,Shadow Greatsword Skin,Consumable,0,Rare,0
+68761,???,Trophy,0,Fine,0
+68786,Shadow Dye Kit,Container,0,Masterwork,0
+68799,Mad Scientist's Logging Tool,Gathering,0,Rare,192
+68816,Shaman's Reclaimed Hammer,Weapon,76,Fine,95
+68819,Evergreen Core,Gizmo,0,Rare,168
+68820,Shadow Warhorn Skin,Consumable,0,Rare,0
+68828,Shaman's Reclaimed Shield,Weapon,76,Fine,63
+68831,Shaman's Reclaimed Staff,Weapon,76,Fine,95
+68843,Shaman's Reclaimed Rifle,Weapon,76,Fine,95
+68849,Celestial Mistward Pauldrons of the Dolyak,Armor,80,Exotic,0
+68866,Shaman's Reclaimed Hammer of Earth,Weapon,80,Masterwork,198
+68881,Shadow Longbow Skin,Consumable,0,Rare,0
+68898,Celestial Mistward Warboots of the Dolyak,Armor,80,Exotic,0
+68905,Mad Scientist's Mining Tool,Gathering,0,Rare,0
+68906,Shaman's Reclaimed Rifle of Earth,Weapon,80,Masterwork,198
+68921,Shaman's Reclaimed Short Bow of Earth,Weapon,80,Masterwork,198
+68928,Shaman's Reclaimed Staff,Weapon,80,Fine,99
+68935,Shaman's Reclaimed Longbow,Weapon,76,Fine,95
+68942,Evergreen Lodestone,CraftingMaterial,0,Exotic,63
+68943,Shaman's Reclaimed Pistol,Weapon,80,Fine,66
+68944,Auric Sliver,Trophy,0,Rare,0
+68947,Shadow Hammer Skin,Consumable,0,Rare,0
+68952,Evergreen Sliver,Gizmo,0,Rare,33
+68954,Shaman's Reclaimed Scepter,Weapon,76,Fine,63
+68955,Evergreen Shard,Gizmo,0,Rare,126
+68964,Shaman's Reclaimed Shield of Earth,Weapon,80,Masterwork,132
+68980,Celestial Mistward Plate of the Dolyak,Armor,80,Exotic,0
+68994,Shadow Axe Skin,Consumable,0,Rare,0
+69005,Shadow Sword Skin,Consumable,0,Rare,0
+69017,Scrap Material,Trophy,0,Basic,0
+69023,Shaman's Reclaimed Dagger,Weapon,80,Fine,66
+69038,Shadow Turquoise Dye,Consumable,0,Rare,50
+69057,Shadow Violet Dye,Consumable,0,Rare,50
+69062,Chak Egg,Trophy,0,Basic,32
+69063,Shaman's Reclaimed Scepter of Earth,Weapon,80,Masterwork,132
+69101,Shaman's Reclaimed Sword,Weapon,80,Fine,66
+69109,Shadow Purple Dye,Consumable,0,Rare,50
+69118,Bag of Tangled Depths Supplies,Container,0,Fine,66
+69124,Shadow Pistol Skin,Consumable,0,Rare,0
+69142,Shaman's Reclaimed Mace,Weapon,80,Fine,66
+69145,Resplendent Curtain,Armor,0,Basic,1
+69169,Shaman's Reclaimed Focus,Weapon,76,Fine,63
+69172,Shadow Magenta Dye,Consumable,0,Rare,50
+69181,Shadow Dagger Skin,Consumable,0,Rare,0
+69213,Shaman's Reclaimed Axe,Weapon,80,Fine,66
+69222,Shaman's Reclaimed Axe,Weapon,76,Fine,63
+69223,Shaman's Reclaimed Torch of Earth,Weapon,80,Masterwork,132
+69224,Shaman's Reclaimed Warhorn,Weapon,76,Fine,63
+69228,Shaman's Reclaimed Dagger,Weapon,76,Fine,63
+69229,Shadow Green Dye,Consumable,0,Rare,50
+69231,Shadow Abyss Dye,Consumable,0,Rare,50
+69239,Shadow Rifle Skin,Consumable,0,Rare,0
+69244,Mist Scrim,Armor,0,Basic,1
+69248,Shadow Staff Skin,Consumable,0,Rare,0
+69263,Bag of Dragon's Stand Supplies,Container,0,Fine,66
+69264,Shaman's Reclaimed Pistol of Earth,Weapon,80,Masterwork,132
+69268,Shaman's Reclaimed Greatsword,Weapon,80,Fine,99
+69285,Shaman's Reclaimed Shield,Weapon,80,Fine,66
+69287,Shaman's Reclaimed Mace,Weapon,76,Fine,63
+69292,Bag of Auric Basin Supplies,Container,0,Fine,66
+69304,Celestial Mistward Warfists of the Dolyak,Armor,80,Exotic,0
+69308,Shaman's Reclaimed Axe of Earth,Weapon,80,Masterwork,132
+69325,Shaman's Reclaimed Torch,Weapon,80,Fine,66
+69334,Shaman's Reclaimed Longbow of Earth,Weapon,80,Masterwork,198
+69338,Shaman's Reclaimed Sword,Weapon,76,Fine,63
+69342,Shaman's Reclaimed Longbow,Weapon,80,Fine,99
+69351,Shaman's Reclaimed Greatsword,Weapon,76,Fine,95
+69366,Shadow Shield Skin,Consumable,0,Rare,0
+69370,Superior Rune of the Revenant,UpgradeComponent,60,Exotic,65
+69390,Shaman's Reclaimed Torch,Weapon,76,Fine,63
+69392,Ley Line Spark,CraftingMaterial,0,Ascended,0
+69405,Shaman's Reclaimed Mace of Earth,Weapon,80,Masterwork,132
+69407,Shadow Mace Skin,Consumable,0,Rare,0
+69413,Shaman's Reclaimed Focus,Weapon,80,Fine,66
+69418,Shaman's Reclaimed Sword of Earth,Weapon,80,Masterwork,132
+69420,Veil Piercer,Armor,0,Basic,1
+69426,Shaman's Reclaimed Staff of Earth,Weapon,80,Masterwork,198
+69430,Shaman's Reclaimed Greatsword of Earth,Weapon,80,Masterwork,198
+69432,Pile of Auric Dust,CraftingMaterial,0,Ascended,0
+69434,Bottle of Airship Oil,CraftingMaterial,0,Ascended,80
+69444,Note from Caithe,Trophy,0,Basic,0
+69445,Shaman's Reclaimed Rifle,Weapon,80,Fine,99
+69451,Shadow Orange Dye,Consumable,0,Rare,50
+69455,Shaman's Reclaimed Pistol,Weapon,76,Fine,63
+69466,Evergreen Fragment,Gizmo,0,Rare,84
+69469,Shadow Yellow Dye,Consumable,0,Rare,50
+69477,Shadow Red Dye,Consumable,0,Rare,50
+69478,Mad Scientist's Harvesting Tool,Gathering,0,Rare,0
+69492,Shaman's Reclaimed Focus of Earth,Weapon,80,Masterwork,132
+69499,Shadow Torch Skin,Consumable,0,Rare,0
+69505,Shaman's Reclaimed Scepter,Weapon,80,Fine,66
+69508,Shaman's Reclaimed Warhorn of Earth,Weapon,80,Masterwork,132
+69544,Celestial Mistward Legguards of the Dolyak,Armor,80,Exotic,0
+69554,Shaman's Reclaimed Hammer,Weapon,80,Fine,99
+69568,Pile of Exalted Dust,Trophy,0,Junk,100
+69580,Bag of Verdant Brink Supplies,Container,0,Fine,66
+69595,Shaman's Reclaimed Dagger of Earth,Weapon,80,Masterwork,132
+69607,Balthazar's Regalia Outfit,Consumable,0,Rare,0
+69616,Permanent Unicorn Finisher,Consumable,0,Rare,0
+69621,Mini Moose,MiniPet,0,Masterwork,100
+69623,Exemplar Attire Outfit,Consumable,0,Rare,0
+69624,Ring of the Sun-God,Trinket,57,Fine,74
+69628,Aviator Quaggan Mail Carrier,Consumable,0,Rare,0
+69635,Ring of the Sun-God,Trinket,57,Masterwork,147
+69644,Portal to the Heart of Maguuma,Trophy,0,Legendary,2500
+69645,Mini Fancy Llama,MiniPet,0,Exotic,50
+69647,Essence of Llamatic Elegance,Trophy,0,Fine,0
+69649,Mini Elegant Llama,MiniPet,0,Exotic,50
+69650,Mini Lavish Llama,MiniPet,0,Exotic,50
+69651,Endless Interface Crafter Golem Tonic,Gizmo,0,Fine,0
 69652,Balthazar's Staff Skin,Consumable,0,Rare,0
 69653,Balthazar's Greatsword Skin,Consumable,0,Rare,0
 69654,Balthazar's Scepter Skin,Consumable,0,Rare,0
