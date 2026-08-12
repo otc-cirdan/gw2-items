@@ -15399,6 +15399,206 @@ id,name,type,level,rarity,vendor_value
 20664,Citrus Breeze Dye,Consumable,0,Fine,5
 20665,Citrus Dye,Consumable,0,Fine,5
 20666,Citrus Ice Dye,Consumable,0,Fine,5
+20667,Cucumber Dye,Consumable,0,Fine,5
+20668,Daffodil Dye,Consumable,0,Fine,5
+20669,Dark Olive Dye,Consumable,0,Fine,5
+20671,Deep Pine Dye,Consumable,0,Fine,5
+20672,Deep Teal Dye,Consumable,0,Fine,5
+20673,Fluff Dye,Consumable,0,Fine,5
+20674,Fog Dye,Consumable,0,Fine,5
+20675,Fresh Green Dye,Consumable,0,Fine,5
+20676,Freshen Dye,Consumable,0,Fine,5
+20677,Frost Breeze Dye,Consumable,0,Fine,5
+20679,Green Dye,Consumable,0,Fine,5
+20680,Heliotrope Dye,Consumable,0,Fine,5
+20681,Honeybutter Dye,Consumable,0,Fine,5
+20682,Honeysuckle Dye,Consumable,0,Fine,5
+20683,Humiliation Dye,Consumable,0,Fine,5
+20684,Hydrangea Dye,Consumable,0,Fine,5
+20685,Lavender Dye,Consumable,0,Fine,5
+20686,Lemon Ice Dye,Consumable,0,Fine,5
+20687,Lime Breeze Dye,Consumable,0,Fine,5
+20688,Lime Ice Dye,Consumable,0,Fine,5
+20690,Melon Dye,Consumable,0,Fine,5
+20691,Midday Dye,Consumable,0,Fine,5
+20692,Mint Breeze Dye,Consumable,0,Fine,5
+20693,Mintay Dye,Consumable,0,Fine,5
+20694,Morning Sea Dye,Consumable,0,Fine,5
+20695,Old Nickel Dye,Consumable,0,Fine,5
+20696,Olive Ice Dye,Consumable,0,Fine,5
+20697,Orange Spring Dye,Consumable,0,Fine,5
+20698,Papaya Dye,Consumable,0,Fine,5
+20699,Pastel Honey Dye,Consumable,0,Fine,5
+20700,Pastel Lemon Dye,Consumable,0,Fine,5
+20701,Pastel Mint Dye,Consumable,0,Fine,5
+20702,Pastel Olive Dye,Consumable,0,Fine,5
+20703,Pastel Peach Dye,Consumable,0,Fine,5
+20704,Pastel Pink Dye,Consumable,0,Fine,5
+20705,Pastel Purple Dye,Consumable,0,Fine,5
+20706,Pastel Rose Dye,Consumable,0,Fine,5
+20707,Pastel Sea Dye,Consumable,0,Fine,5
+20708,Pastel Spring Dye,Consumable,0,Fine,5
+20709,Pastel Violet Dye,Consumable,0,Fine,5
+20710,Peach Ice Dye,Consumable,0,Fine,5
+20711,Persephone Dye,Consumable,0,Fine,5
+20712,Phlox Dye,Consumable,0,Fine,5
+20713,Pink Ice Dye,Consumable,0,Fine,5
+20714,Red Dye,Consumable,0,Fine,5
+20715,River Dye,Consumable,0,Fine,5
+20716,Root Dye,Consumable,0,Fine,5
+20717,Rose Breeze Dye,Consumable,0,Fine,5
+20718,Rose Ice Dye,Consumable,0,Fine,5
+20720,Sea Breeze Dye,Consumable,0,Fine,5
+20721,Sea Ice Dye,Consumable,0,Fine,5
+20722,Shy Lilac Dye,Consumable,0,Fine,5
+20723,Shylac Dye,Consumable,0,Fine,5
+20724,Sienna Dye,Consumable,0,Fine,5
+20725,Sour Dye,Consumable,0,Fine,5
+20726,Spring Breeze Dye,Consumable,0,Fine,5
+20727,Spring Dew Dye,Consumable,0,Fine,5
+20728,Spring Ice Dye,Consumable,0,Fine,5
+20729,Spring Leaf Dye,Consumable,0,Fine,5
+20730,Spring Moss Dye,Consumable,0,Fine,5
+20731,Spring Tide Dye,Consumable,0,Fine,5
+20732,Stem Dye,Consumable,0,Fine,5
+20733,Strawberry Breeze Dye,Consumable,0,Fine,5
+20734,Strawberry Dye,Consumable,0,Fine,5
+20735,Stream Dye,Consumable,0,Basic,5
+20736,Summer Thistle Dye,Consumable,0,Fine,5
+20737,Tulip Dye,Consumable,0,Fine,5
+20738,Umber Dye,Consumable,0,Fine,5
+20739,Veronica Dye,Consumable,0,Fine,5
+20740,Violet Ice Dye,Consumable,0,Fine,5
+20741,Winter Breeze Dye,Consumable,0,Fine,5
+20742,Winter Frost Dye,Consumable,0,Fine,5
+20743,Buttercream Dye,Consumable,0,Fine,5
+20744,Cornsilk Dye,Consumable,0,Fine,5
+20745,Mountain Sky Dye,Consumable,0,Fine,5
+20746,Wine Ice Dye,Consumable,0,Fine,5
+20747,Heirloom Dye,Consumable,0,Masterwork,10
+20748,Wrath Dye,Consumable,0,Masterwork,10
+20749,Sincerity Dye,Consumable,0,Masterwork,10
+20750,Mischief Dye,Consumable,0,Masterwork,10
+20751,Blood Dye,Consumable,0,Rare,50
+20752,Redemption Dye,Consumable,0,Rare,50
+20753,Illumination Dye,Consumable,0,Rare,50
+20754,Spitfire Dye,Consumable,0,Fine,5
+20755,Lava Dye,Consumable,0,Fine,5
+20756,Spite Dye,Consumable,0,Fine,5
+20757,Forgiveness Dye,Consumable,0,Fine,5
+20758,Pride Dye,Consumable,0,Fine,5
+20759,Arrogance Dye,Consumable,0,Fine,5
+20760,Tradesman's Package,Container,0,Masterwork,0
+20762,Fuzzy Panda Hat,Armor,0,Fine,0
+20764,Recovery Package,Container,0,Masterwork,0
+20794,Loot Bag,Container,0,Rare,0
+20796,Philosopher's Stone,Trophy,0,Basic,6
+20797,Bloodstone Shard,Trophy,0,Legendary,640
+20798,Siege Novice's Guide,Trophy,0,Basic,6
+20799,Mystic Crystal,Trophy,0,Basic,6
+20800,Arcane Crystal,Trophy,0,Basic,6
+20801,Arcane Powder,Trophy,0,Basic,6
+20802,Arcane Sliver,Trophy,0,Basic,6
+20803,Light Helm Token,Trophy,0,Basic,6
+20804,Light Pauldron Token,Trophy,0,Basic,6
+20805,Light Coat Token,Trophy,0,Basic,6
+20806,Light Gloves Token,Trophy,0,Basic,6
+20807,Light Leggings Token,Trophy,0,Basic,6
+20808,Light Boots Token,Trophy,0,Basic,6
+20809,Axe Token,Trophy,0,Basic,6
+20810,Dagger Token,Trophy,0,Basic,6
+20811,Focus Token,Trophy,0,Basic,6
+20812,Greatsword Token,Trophy,0,Basic,6
+20813,Hammer Token,Trophy,0,Basic,6
+20814,Spear Token,Trophy,0,Basic,6
+20815,Longbow Token,Trophy,0,Basic,6
+20816,Mace Token,Trophy,0,Basic,6
+20817,Pistol Token,Trophy,0,Basic,6
+20818,Rifle Token,Trophy,0,Basic,6
+20819,Scepter Token,Trophy,0,Basic,6
+20820,Shield Token,Trophy,0,Basic,6
+20821,Short Bow Token,Trophy,0,Basic,6
+20822,Harpoon Gun Token,Trophy,0,Basic,6
+20823,Staff Token,Trophy,0,Basic,6
+20824,Sword Token,Trophy,0,Basic,6
+20825,Torch Token,Trophy,0,Basic,6
+20826,Trident Token,Trophy,0,Basic,6
+20827,Warhorn Token,Trophy,0,Basic,6
+20828,Rabbit Token,Trophy,0,Basic,6
+20829,Deer Token,Trophy,0,Basic,6
+20830,Dolyak Token,Trophy,0,Basic,6
+20831,Wolf Token,Trophy,0,Basic,6
+20832,Tiger Token,Trophy,0,Basic,6
+20833,Bear Token,Trophy,0,Basic,6
+20834,Shark Token,Trophy,0,Basic,6
+20835,Phoenix Token,Trophy,0,Basic,6
+20837,Free Tournament Token,Trophy,0,Basic,6
+20838,Consumable Token,Trophy,0,Basic,6
+20839,Arcane Orb,Trophy,0,Basic,6
+20840,Medium Boots Token,Trophy,0,Basic,6
+20841,Medium Coat Token,Trophy,0,Basic,6
+20842,Medium Gloves Token,Trophy,0,Basic,6
+20843,Medium Helm Token,Trophy,0,Basic,6
+20844,Medium Leggings Token,Trophy,0,Basic,6
+20845,Heavy Boots Token,Trophy,0,Basic,6
+20846,Heavy Coat Token,Trophy,0,Basic,6
+20847,Heavy Gloves Token,Trophy,0,Basic,6
+20848,Heavy Helm Token,Trophy,0,Basic,6
+20849,Heavy Leggings Token,Trophy,0,Basic,6
+20850,Medium Pauldron Token,Trophy,0,Basic,6
+20851,Heavy Pauldron Token,Trophy,0,Basic,6
+20852,Eldritch Scroll,Trophy,0,Legendary,640
+20853,Paid Tournament Token,Trophy,0,Basic,6
+20854,Dragon Emblem Shirt,Armor,0,Basic,0
+20901,Heritage Warboots,Consumable,0,Masterwork,0
+20902,Heritage Shoes,Consumable,0,Masterwork,0
+20903,Heritage Boots,Consumable,0,Masterwork,0
+20904,Heritage Legplates,Consumable,0,Masterwork,0
+20905,Heritage Pants,Consumable,0,Masterwork,0
+20906,Heritage Legguards,Consumable,0,Masterwork,0
+20907,Heritage Warplate,Consumable,0,Masterwork,0
+20908,Heritage Greatcoat,Consumable,0,Masterwork,0
+20909,Heritage Jerkin,Consumable,0,Masterwork,0
+20910,Heritage Gauntlets,Consumable,0,Masterwork,0
+20911,Heritage Gloves,Consumable,0,Masterwork,0
+20912,Heritage Armguards,Consumable,0,Masterwork,0
+20913,Heritage Pauldrons,Consumable,0,Masterwork,0
+20914,Heritage Mantle,Consumable,0,Masterwork,0
+20915,Heritage Shoulderpads,Consumable,0,Masterwork,0
+20916,Heritage Warhelm,Consumable,0,Masterwork,0
+20917,Heritage Masque,Consumable,0,Masterwork,0
+20918,Heritage Bandana,Consumable,0,Masterwork,0
+20919,Gnarled Walking Staff,Consumable,0,Masterwork,0
+20920,Living Short Bow,Consumable,0,Masterwork,0
+20921,Fiery Dragon Sword,Consumable,0,Masterwork,0
+20922,Diamond Aegis Shield,Consumable,0,Masterwork,0
+20923,Heavy Baroque Mask,Consumable,0,Masterwork,0
+20924,Light Baroque Mask,Consumable,0,Masterwork,0
+20925,Medium Baroque Mask,Consumable,0,Masterwork,0
+20926,Centurions Claw,Consumable,0,Masterwork,0
+20927,Wheelock Rifle,Consumable,0,Masterwork,0
+20928,Wayward Wand Scepter,Consumable,0,Masterwork,0
+20929,Seathunder Pistol,Consumable,0,Masterwork,0
+20930,Heavenly Heavy Bracers,Consumable,0,Masterwork,0
+20931,Heavenly Light Bracers,Consumable,0,Masterwork,0
+20932,Heavenly Medium Bracers,Consumable,0,Masterwork,0
+20933,Deldrimor Mace,Consumable,0,Masterwork,0
+20934,Chimeric Prism Focus,Consumable,0,Masterwork,0
+20935,Ithas Longbow,Consumable,0,Masterwork,0
+20936,Fellblade,Consumable,0,Masterwork,0
+20937,Icelord's Heavy Diadem,Consumable,0,Masterwork,0
+20938,Icelord's Light Diadem,Consumable,0,Masterwork,0
+20939,Icelord's Medium Diadem,Consumable,0,Masterwork,0
+20940,Icebreaker,Consumable,0,Masterwork,0
+20941,Flaming Beacon,Consumable,0,Masterwork,0
+20942,Stygian Axe,Consumable,0,Masterwork,0
+20943,Mountaincall Warhorn,Consumable,0,Masterwork,0
+20944,Fire God's Heavy Vambraces,Consumable,0,Masterwork,0
+20945,Fire God's Light Vambraces,Consumable,0,Masterwork,0
+20946,Fire God's Medium Vambraces,Consumable,0,Masterwork,0
+20947,Mini Orrian Baby Chicken,MiniPet,0,Fine,0
+20948,Mini Orange Tabby Cat,MiniPet,0,Fine,0
+20949,Mini Servitor Golem,MiniPet,0,Fine,0
 20950,Mini Rockfur Racoon,MiniPet,0,Fine,0
 20997,Heritage Warboots,Armor,80,Exotic,0
 20998,Heritage Shoes,Armor,80,Exotic,0
@@ -70006,6 +70206,7 @@ Balance",Gizmo,0,Basic,0
 105120,Leviathan Bone Short Bow,Weapon,80,Exotic,396
 105121,Leviathan Bone Focus,Weapon,80,Exotic,264
 105122,Chromatic Resin Hammer Skin,Consumable,0,Rare,0
+105123,"Homestead Recipe Book: Four Winds, Volume 8",Consumable,0,Exotic,0
 105124,"Homestead Recipe Book: Four Winds, Volume 7",Consumable,0,Exotic,0
 105125,Recipe: Siege Turtle Rental Post,Consumable,0,Basic,50
 105126,"""/Channel"" Emote Tome",Consumable,0,Exotic,0
@@ -70231,6 +70432,7 @@ Balance",Gizmo,0,Basic,0
 105382,Unchained Greatsword,Weapon,80,Exotic,396
 105383,Plush Jorms Backpack,Back,80,Exotic,8888
 105384,Graveyard Straight Stone Path Recipe,Consumable,0,Basic,0
+105385,Plush Kralky Backpack,Back,80,Exotic,8888
 105386,Graveyard Tombstone Recipe,Consumable,0,Basic,0
 105387,Box of Deathly Avian Shoulder Skins,Container,0,Masterwork,0
 105388,Unchained Mace,Weapon,80,Exotic,264
@@ -73827,3 +74029,61 @@ Balance",Gizmo,0,Basic,0
 109852,Embroidered Shoulder Cape Skin,Consumable,0,Masterwork,6250
 109853,Plaid Shorts (Long) Skin,Consumable,0,Masterwork,0
 109854,Plaid Shorts (Short) Skin,Consumable,0,Masterwork,0
+109855,Spellwork Short Bow,Weapon,80,Exotic,396
+109856,Rose Monarch's Crown Skin,Consumable,0,Masterwork,0
+109857,Lyssa's Conjured Doorway Skin,Consumable,0,Rare,0
+109858,Spellwork Greatsword,Weapon,80,Exotic,396
+109859,Recipe: Canthan Merchant Stall,Consumable,0,Basic,50
+109860,Primeval Axe Skin,Consumable,0,Rare,0
+109861,Primeval Staff Skin,Consumable,0,Rare,0
+109863,Leviathan Tempering Oil,Consumable,1,Exotic,0
+109864,Spellwork Sword,Weapon,80,Exotic,264
+109865,Recipe: Canthan Trader Cart,Consumable,0,Basic,50
+109866,Spellwork Scepter,Weapon,80,Exotic,264
+109867,Mini Jimothy,MiniPet,0,Fine,0
+109869,Primeval Rifle Skin,Consumable,0,Rare,0
+109870,Spellwork Spear,Weapon,80,Exotic,396
+109871,Primeval Hammer Skin,Consumable,0,Rare,0
+109872,Primeval Greatsword Skin,Consumable,0,Rare,0
+109873,Cloud Pteruges,Armor,80,Exotic,370
+109874,Spellwork Axe,Weapon,80,Exotic,264
+109875,Spellwork Torch,Weapon,80,Exotic,264
+109876,Spellwork Mace,Weapon,80,Exotic,264
+109877,Mini Lightning Crystal,MiniPet,0,Exotic,50
+109879,Recipe: Plush Kralky,Consumable,0,Basic,50
+109880,Primeval Spear Skin,Consumable,0,Rare,0
+109881,Spellwork Shield,Weapon,80,Exotic,264
+109882,Primeval Mace Skin,Consumable,0,Rare,0
+109883,Spellwork Longbow,Weapon,80,Exotic,396
+109884,White Tiger Weapon Box,Container,0,Rare,0
+109885,Spellwork Focus,Weapon,80,Exotic,264
+109886,Primeval Dagger Skin,Consumable,0,Rare,0
+109887,Spellwork Pistol,Weapon,80,Exotic,264
+109888,Trader's Leviathan Bone Chest,Container,0,Exotic,256
+109889,Cloud Pteruges,Container,0,Exotic,0
+109890,Spellwork Rifle,Weapon,80,Exotic,396
+109891,Canthan Trader Cart,Consumable,0,Basic,0
+109893,Plush Kralky,Consumable,0,Basic,0
+109894,Primeval Scepter Skin,Consumable,0,Rare,0
+109896,Cloud Pteruges,Armor,80,Exotic,370
+109897,Spellwork Chest,Container,0,Exotic,256
+109898,Cloud Pteruges,Armor,80,Exotic,370
+109899,Primeval Sword Skin,Consumable,0,Rare,0
+109900,Recipe: Leviathan Tempering Oil,Consumable,70,Masterwork,57
+109901,Primeval Warhorn Skin,Consumable,0,Rare,0
+109902,Primeval Short Bow Skin,Consumable,0,Rare,0
+109903,Recipe: Canthan Merchant Stall (Open-Backed),Consumable,0,Basic,50
+109904,Primeval Pistol Skin,Consumable,0,Rare,0
+109905,Primeval Torch Skin,Consumable,0,Rare,0
+109906,Spellwork Dagger,Weapon,80,Exotic,264
+109907,Primeval Focus Skin,Consumable,0,Rare,0
+109908,Spellwork Hammer,Weapon,80,Exotic,396
+109909,Primeval Longbow Skin,Consumable,0,Rare,0
+109910,Primeval Shield Skin,Consumable,0,Rare,0
+109912,Canthan Merchant Stall,Consumable,0,Basic,0
+109913,Canthan Merchant Canopy,Consumable,0,Basic,0
+109915,Watchwork Spear,Weapon,80,Exotic,396
+109916,Canthan Merchant Stall (Open-Backed),Consumable,0,Basic,0
+109917,Recipe: Canthan Merchant Canopy,Consumable,0,Basic,50
+109918,Spellwork Staff,Weapon,80,Exotic,396
+109919,Spellwork Warhorn,Weapon,80,Exotic,264
