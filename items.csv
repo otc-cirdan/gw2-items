@@ -13599,206 +13599,6 @@ id,name,type,level,rarity,vendor_value
 17518,Potent Cabalist Hood,Armor,30,Rare,117
 17519,Potent Cabalist Legs,Armor,35,Rare,143
 17520,Potent Cabalist Shoulders,Armor,35,Rare,113
-17521,Honed Cabalist Boots,Armor,35,Rare,102
-17522,Honed Cabalist Coat,Armor,35,Rare,153
-17523,Honed Cabalist Gloves,Armor,35,Rare,92
-17524,Honed Cabalist Hood,Armor,30,Rare,117
-17525,Honed Cabalist Legs,Armor,35,Rare,143
-17526,Honed Cabalist Shoulders,Armor,35,Rare,113
-17527,Potent Reinforced Scale Boots,Armor,35,Rare,102
-17528,Potent Reinforced Scale Coat,Armor,35,Rare,153
-17529,Potent Reinforced Scale Gauntlets,Armor,35,Rare,92
-17530,Potent Reinforced Scale Helm,Armor,30,Rare,117
-17531,Potent Reinforced Scale Legs,Armor,35,Rare,143
-17532,Potent Reinforced Scale Pauldrons,Armor,35,Rare,113
-17533,Honed Reinforced Scale Boots,Armor,35,Rare,102
-17534,Honed Reinforced Scale Coat,Armor,35,Rare,153
-17535,Honed Reinforced Scale Gauntlets,Armor,35,Rare,92
-17536,Honed Reinforced Scale Helm,Armor,30,Rare,117
-17537,Honed Reinforced Scale Legs,Armor,35,Rare,143
-17538,Honed Reinforced Scale Pauldrons,Armor,35,Rare,113
-17651,Rampager's Privateer Boots,Armor,80,Rare,198
-17652,Rampager's Privateer Coat,Armor,80,Rare,297
-17653,Rampager's Privateer Gloves,Armor,80,Rare,179
-17654,Rampager's Privateer Hat,Armor,78,Rare,240
-17655,Rampager's Privateer Pants,Armor,80,Rare,278
-17656,Rampager's Privateer Shoulders,Armor,80,Rare,218
-17663,Rampager's Cabalist Boots,Armor,80,Rare,198
-17664,Rampager's Cabalist Coat,Armor,80,Rare,297
-17665,Rampager's Cabalist Gloves,Armor,80,Rare,179
-17666,Rampager's Cabalist Hood,Armor,78,Rare,240
-17667,Rampager's Cabalist Legs,Armor,80,Rare,278
-17668,Rampager's Cabalist Shoulders,Armor,80,Rare,218
-17673,Cabalist Legs,Armor,80,Rare,278
-17675,Rampager's Reinforced Scale Boots,Armor,80,Rare,198
-17676,Rampager's Reinforced Scale Coat,Armor,80,Rare,297
-17677,Rampager's Reinforced Scale Gauntlets,Armor,80,Rare,179
-17678,Rampager's Reinforced Scale Helm,Armor,78,Rare,240
-17679,Rampager's Reinforced Scale Legs,Armor,80,Rare,278
-17680,Rampager's Reinforced Scale Pauldrons,Armor,80,Rare,218
-17687,Inquest Axe,Weapon,80,Exotic,264
-17688,Inquest Longbow,Weapon,80,Exotic,396
-17689,Inquest Short Bow,Weapon,80,Exotic,396
-17690,Inquest Dagger,Weapon,80,Exotic,264
-17691,Inquest Focus,Weapon,80,Exotic,264
-17692,Inquest Greatsword,Weapon,80,Exotic,396
-17693,Inquest Hammer,Weapon,80,Exotic,396
-17694,Inquest Harpoon,Weapon,80,Exotic,396
-17695,Inquest Mace,Weapon,80,Exotic,264
-17696,Inquest Pistol,Weapon,80,Exotic,264
-17697,Inquest Rifle,Weapon,80,Exotic,396
-17698,Inquest Scepter,Weapon,80,Exotic,264
-17699,Inquest Shield,Weapon,80,Exotic,264
-17700,Inquest Speargun,Weapon,80,Exotic,396
-17701,Inquest Staff,Weapon,80,Exotic,396
-17702,Inquest Sword,Weapon,80,Exotic,264
-17703,Inquest Torch,Weapon,80,Exotic,264
-17704,Inquest Trident,Weapon,80,Exotic,396
-17705,Inquest Warhorn,Weapon,80,Exotic,264
-17706,Inquest Axe,Weapon,80,Exotic,264
-17707,Inquest Longbow,Weapon,80,Exotic,396
-17708,Inquest Short Bow,Weapon,80,Exotic,396
-17709,Inquest Dagger,Weapon,80,Exotic,264
-17710,Inquest Focus,Weapon,80,Exotic,264
-17711,Inquest Greatsword,Weapon,80,Exotic,396
-17712,Inquest Hammer,Weapon,80,Exotic,396
-17713,Inquest Harpoon,Weapon,80,Exotic,396
-17714,Inquest Mace,Weapon,80,Exotic,264
-17715,Inquest Pistol,Weapon,80,Exotic,264
-17716,Inquest Rifle,Weapon,80,Exotic,396
-17717,Inquest Scepter,Weapon,80,Exotic,264
-17718,Inquest Shield,Weapon,80,Exotic,264
-17719,Inquest Speargun,Weapon,80,Exotic,396
-17720,Inquest Staff,Weapon,80,Exotic,396
-17721,Inquest Sword,Weapon,80,Exotic,264
-17722,Inquest Torch,Weapon,80,Exotic,264
-17723,Inquest Trident,Weapon,80,Exotic,396
-17724,Inquest Warhorn,Weapon,80,Exotic,264
-17744,Inquest Boots,Armor,80,Exotic,264
-17745,Inquest Guise,Armor,80,Exotic,396
-17746,Inquest Bracers,Armor,80,Exotic,238
-17747,Inquest Hood,Armor,80,Exotic,330
-17748,Inquest Leggings,Armor,80,Exotic,370
-17749,Inquest Shoulders,Armor,80,Exotic,291
-17750,Inquest Boots,Armor,80,Exotic,264
-17751,Inquest Guise,Armor,80,Exotic,396
-17752,Inquest Bracers,Armor,80,Exotic,238
-17753,Inquest Hood,Armor,80,Exotic,330
-17754,Inquest Leggings,Armor,80,Exotic,370
-17755,Inquest Shoulders,Armor,80,Exotic,291
-17762,Inquest Shoes,Armor,80,Exotic,264
-17763,Inquest Vest,Armor,80,Exotic,396
-17764,Inquest Wraps,Armor,80,Exotic,238
-17765,Inquest Circlets,Armor,80,Exotic,330
-17766,Inquest Breeches,Armor,80,Exotic,370
-17767,Inquest Mantle,Armor,80,Exotic,291
-17768,Inquest Shoes,Armor,80,Exotic,264
-17769,Inquest Vest,Armor,80,Exotic,396
-17770,Inquest Wraps,Armor,80,Exotic,238
-17771,Inquest Circlets,Armor,80,Exotic,330
-17772,Inquest Breeches,Armor,80,Exotic,370
-17773,Inquest Mantle,Armor,80,Exotic,291
-17780,Inquest Greaves,Armor,80,Exotic,264
-17781,Inquest Breastplate,Armor,80,Exotic,396
-17782,Inquest Gauntlets,Armor,80,Exotic,238
-17783,Inquest Helm,Armor,80,Exotic,330
-17784,Inquest Legguards,Armor,80,Exotic,370
-17785,Inquest Pauldrons,Armor,80,Exotic,291
-17786,Inquest Greaves,Armor,80,Exotic,264
-17787,Inquest Breastplate,Armor,80,Exotic,396
-17788,Inquest Gauntlets,Armor,80,Exotic,238
-17789,Inquest Helm,Armor,80,Exotic,330
-17790,Inquest Legguards,Armor,80,Exotic,370
-17791,Inquest Pauldrons,Armor,80,Exotic,291
-17836,Rabid Privateer Boots,Armor,80,Rare,198
-17837,Rabid Privateer Coat,Armor,80,Rare,297
-17838,Rabid Privateer Gloves,Armor,80,Rare,179
-17839,Rabid Privateer Hat,Armor,80,Rare,248
-17840,Rabid Privateer Pants,Armor,80,Rare,278
-17841,Rabid Privateer Shoulders,Armor,80,Rare,218
-17842,Knight's Privateer Boots,Armor,80,Rare,198
-17843,Knight's Privateer Coat,Armor,80,Rare,297
-17844,Knight's Privateer Gloves,Armor,80,Rare,179
-17845,Knight's Privateer Hat,Armor,80,Rare,248
-17846,Knight's Privateer Pants,Armor,80,Rare,278
-17847,Knight's Privateer Shoulders,Armor,80,Rare,218
-17848,Rabid Cabalist Boots,Armor,80,Rare,198
-17849,Rabid Cabalist Coat,Armor,80,Rare,297
-17850,Rabid Cabalist Gloves,Armor,80,Rare,179
-17851,Rabid Cabalist Hood,Armor,80,Rare,248
-17852,Rabid Cabalist Legs,Armor,80,Rare,278
-17853,Rabid Cabalist Shoulders,Armor,80,Rare,218
-17854,Knight's Cabalist Boots,Armor,80,Rare,198
-17855,Knight's Cabalist Coat,Armor,80,Rare,297
-17856,Knight's Cabalist Gloves,Armor,80,Rare,179
-17857,Knight's Cabalist Hood,Armor,80,Rare,248
-17858,Knight's Cabalist Legs,Armor,80,Rare,278
-17859,Knight's Cabalist Shoulders,Armor,80,Rare,218
-17860,Rabid Reinforced Scale Boots,Armor,80,Rare,198
-17861,Rabid Reinforced Scale Coat,Armor,80,Rare,297
-17862,Rabid Reinforced Scale Gauntlets,Armor,80,Rare,179
-17863,Rabid Reinforced Scale Helm,Armor,80,Rare,248
-17864,Rabid Reinforced Scale Legs,Armor,80,Rare,278
-17865,Rabid Reinforced Scale Pauldrons,Armor,80,Rare,218
-17866,Knight's Reinforced Scale Boots,Armor,80,Rare,198
-17867,Knight's Reinforced Scale Coat,Armor,80,Rare,297
-17868,Knight's Reinforced Scale Gauntlets,Armor,80,Rare,179
-17869,Knight's Reinforced Scale Helm,Armor,80,Rare,248
-17870,Knight's Reinforced Scale Legs,Armor,80,Rare,278
-17871,Knight's Reinforced Scale Pauldrons,Armor,80,Rare,218
-17872,Axe of the Dragon's Deep,Weapon,80,Exotic,264
-17873,Longbow of the Dragon's Deep,Weapon,80,Exotic,396
-17874,Short Bow of the Dragon's Deep,Weapon,80,Exotic,396
-17875,Dagger of the Dragon's Deep,Weapon,80,Exotic,264
-17876,Focus of the Dragon's Deep,Weapon,80,Exotic,264
-17877,Greatsword of the Dragon's Deep,Weapon,80,Exotic,396
-17878,Hammer of the Dragon's Deep,Weapon,80,Exotic,396
-17879,Harpoon of the Dragon's Deep,Weapon,80,Exotic,396
-17880,Mace of the Dragon's Deep,Weapon,80,Exotic,264
-17881,Pistol of the Dragon's Deep,Weapon,80,Exotic,264
-17882,Rifle of the Dragon's Deep,Weapon,80,Exotic,396
-17883,Scepter of the Dragon's Deep,Weapon,80,Exotic,264
-17884,Shield of the Dragon's Deep,Weapon,80,Exotic,264
-17885,Speargun of the Dragon's Deep,Weapon,80,Exotic,396
-17886,Staff of the Dragon's Deep,Weapon,80,Exotic,396
-17887,Sword of the Dragon's Deep,Weapon,80,Exotic,264
-17888,Torch of the Dragon's Deep,Weapon,80,Exotic,264
-17889,Trident of the Dragon's Deep,Weapon,80,Exotic,396
-17890,Warhorn of the Dragon's Deep,Weapon,80,Exotic,264
-17891,Axe of the Dragon's Deep,Weapon,80,Exotic,264
-17892,Longbow of the Dragon's Deep,Weapon,80,Exotic,396
-17893,Short Bow of the Dragon's Deep,Weapon,80,Exotic,396
-17894,Dagger of the Dragon's Deep,Weapon,80,Exotic,264
-17895,Focus of the Dragon's Deep,Weapon,80,Exotic,264
-17896,Greatsword of the Dragon's Deep,Weapon,80,Exotic,396
-17897,Hammer of the Dragon's Deep,Weapon,80,Exotic,396
-17898,Harpoon of the Dragon's Deep,Weapon,80,Exotic,396
-17899,Mace of the Dragon's Deep,Weapon,80,Exotic,264
-17900,Pistol of the Dragon's Deep,Weapon,80,Exotic,264
-17901,Rifle of the Dragon's Deep,Weapon,80,Exotic,396
-17902,Scepter of the Dragon's Deep,Weapon,80,Exotic,264
-17903,Shield of the Dragon's Deep,Weapon,80,Exotic,264
-17904,Speargun of the Dragon's Deep,Weapon,80,Exotic,396
-17905,Staff of the Dragon's Deep,Weapon,80,Exotic,396
-17906,Sword of the Dragon's Deep,Weapon,80,Exotic,264
-17907,Torch of the Dragon's Deep,Weapon,80,Exotic,264
-17908,Trident of the Dragon's Deep,Weapon,80,Exotic,396
-17909,Warhorn of the Dragon's Deep,Weapon,80,Exotic,264
-17910,Axe of the Dragon's Deep,Weapon,80,Exotic,264
-17911,Longbow of the Dragon's Deep,Weapon,80,Exotic,396
-17912,Short Bow of the Dragon's Deep,Weapon,80,Exotic,396
-17913,Dagger of the Dragon's Deep,Weapon,80,Exotic,264
-17914,Focus of the Dragon's Deep,Weapon,80,Exotic,264
-17915,Greatsword of the Dragon's Deep,Weapon,80,Exotic,396
-17916,Hammer of the Dragon's Deep,Weapon,80,Exotic,396
-17917,Harpoon of the Dragon's Deep,Weapon,80,Exotic,396
-17918,Mace of the Dragon's Deep,Weapon,80,Exotic,264
-17919,Pistol of the Dragon's Deep,Weapon,80,Exotic,264
-17920,Rifle of the Dragon's Deep,Weapon,80,Exotic,396
-17921,Scepter of the Dragon's Deep,Weapon,80,Exotic,264
-17922,Shield of the Dragon's Deep,Weapon,80,Exotic,264
-17923,Speargun of the Dragon's Deep,Weapon,80,Exotic,396
-17924,Staff of the Dragon's Deep,Weapon,80,Exotic,396
 17925,Sword of the Dragon's Deep,Weapon,80,Exotic,264
 17926,Torch of the Dragon's Deep,Weapon,80,Exotic,264
 17927,Trident of the Dragon's Deep,Weapon,80,Exotic,396
@@ -56199,6 +55999,206 @@ id,name,type,level,rarity,vendor_value
 86138,Defender's Greatbow,Weapon,80,Ascended,10000
 86139,Defender's Striders,Armor,80,Ascended,240
 86141,Assaulter's Doublet,Armor,80,Ascended,240
+86142,Koss on Koss (Extended Edition),Gizmo,0,Basic,0
+86143,Malicious Reaver,Weapon,80,Ascended,10000
+86144,Miniature Joko Bust (for Personal Worship),Gizmo,0,Basic,0
+86145,Sandstorm Dye,Consumable,0,Rare,5
+86146,Chest of Raider's Shoulders,Container,0,Ascended,320
+86147,Assaulter's Boots of Dhuum,Armor,80,Ascended,240
+86148,Mist Attunement 1,Consumable,0,Exotic,0
+86149,Chest of Dhuum's Shoulders,Container,0,Ascended,320
+86150,Spiteful +7 Agony Infusion,UpgradeComponent,0,Masterwork,16
+86151,Chest of Raider's One-Handed Weapons,Container,0,Ascended,320
+86152,Malicious Shako of Dhuum,Armor,80,Ascended,240
+86153,Bench of the Final Judge,Gizmo,0,Exotic,0
+86154,Silver Dhuum Trophy,Consumable,0,Basic,0
+86155,The Movement of the World,Weapon,0,Basic,0
+86156,((753217)),Weapon,0,Basic,0
+86157,Static Conduit,Weapon,0,Fine,0
+86158,Defender's Pauldrons,Armor,80,Ascended,240
+86159,Recipe: Astral Longbow,Consumable,0,Exotic,10
+86160,Chunk of Ice,Weapon,0,Basic,0
+86161,Malicious Greaves of Dhuum,Armor,80,Ascended,240
+86163,Elonian Landscape Dye Kit,Container,0,Masterwork,0
+86164,Defender's Trident,Weapon,80,Ascended,10000
+86165,Healer's Voice in the Void,Weapon,80,Ascended,10000
+86166,Recipe: Stellar Apparatus,Consumable,0,Exotic,10
+86167,Volatile Magic,Consumable,0,Fine,0
+86169,Molten Mirror,Trophy,0,Rare,192
+86170,Superior Sigil of the Stars,UpgradeComponent,60,Exotic,216
+86172,Vial of Chak Acid,Consumable,0,Rare,0
+86175,Agony Impedance 4,Consumable,0,Exotic,0
+86176,Healer's Final Death,Weapon,80,Ascended,10000
+86177,Spirit of the Jackal,Trophy,0,Legendary,640
+86178,Marshal's Stellar Cleaver,Weapon,80,Ascended,0
+86179,Malicious Voice in the Void,Weapon,80,Ascended,10000
+86180,Mystical +9 Agony Infusion,UpgradeComponent,0,Rare,24
+86181,Bead of Liquid Karma,Consumable,0,Rare,0
+86182,Recipe: Stellar Cannon,Consumable,0,Exotic,10
+86183,Polyluminescent Undulating Infusion (Green),UpgradeComponent,80,Exotic,10000
+86185,Assaulter's Epaulets,Armor,80,Ascended,240
+86186,Malicious Visage,Armor,80,Ascended,240
+86187,Defender's Musket,Weapon,80,Ascended,10000
+86188,The True Name,Weapon,80,Exotic,264
+86189,Sunspear,Weapon,80,Exotic,396
+86191,Karmic Retribution 3,Consumable,0,Exotic,0
+86193,Volatile Logging Axe,Gathering,60,Fine,50
+86194,Healer's Skullcap of Dhuum,Armor,80,Ascended,240
+86195,Defender's Gauntlets of Dhuum,Armor,80,Ascended,240
+86197,Malicious Oblivion,Weapon,80,Ascended,10000
+86198,Assaulter's Visor,Armor,80,Ascended,240
+86199,Yasna's Notes,Trophy,0,Rare,192
+86200,Sunscythe,Weapon,80,Exotic,396
+86203,Marshal's Astral Avenger,Weapon,80,Exotic,0
+86204,Disgusting Grease,Trophy,0,Basic,0
+86205,Brandstone Multitool,Gizmo,0,Basic,0
+86206,Defender's Touch of Dhuum,Weapon,80,Ascended,10000
+86207,Charged Light,Trophy,0,Rare,192
+86209,Defender's Blade,Weapon,80,Ascended,10000
+86210,Desmina's Top-Tier Supplies,Container,0,Ascended,320
+86213,Healer's Greaves,Armor,80,Ascended,240
+86214,Recipe: Astral Cannon,Consumable,0,Exotic,10
+86215,Malicious Wristguards,Armor,80,Ascended,240
+86216,Pact Crowbar,Consumable,0,Rare,0
+86217,Note from Yasna,Trophy,0,Rare,192
+86219,Small Kormir Icon,Consumable,0,Fine,0
+86220,Assaulter's Grips,Armor,80,Ascended,240
+86223,Ancient Istani Coin,Trophy,0,Basic,0
+86224,Healer's Artifact,Weapon,80,Ascended,10000
+86226,Agony Impedance 3,Consumable,0,Exotic,0
+86227,Assaulter's Revolver,Weapon,80,Ascended,10000
+86229,The Battle of Sorrow's Furnace,Gizmo,0,Basic,0
+86231,Leather Shipment,Container,0,Basic,32
+86232,Stonefist Key,Trophy,0,Basic,0
+86233,Marshal's Stellar Longbow,Weapon,80,Ascended,0
+86234,Assaulter's Greatbow,Weapon,80,Ascended,10000
+86237,Assaulter's Greaves,Armor,80,Ascended,240
+86238,Corsair Turban Box,Container,0,Exotic,0
+86240,Defender's Mantle of Dhuum,Armor,80,Ascended,240
+86241,Gift of the Riverlands,Trophy,0,Legendary,640
+86242,Mirror Calibration Readings,Trophy,0,Rare,192
+86244,Healer's Breastplate,Armor,80,Ascended,240
+86246,Assaulter's Artifact,Weapon,80,Ascended,10000
+86247,Sunspear Paragon Support,Consumable,0,Exotic,100
+86248,Polyluminescent Undulating Infusion (Black),UpgradeComponent,80,Exotic,10000
+86250,Marshal's Astral Apparatus,Weapon,80,Exotic,0
+86251,Chak Infusion,UpgradeComponent,80,Exotic,10000
+86253,Malicious Handguards of Dhuum,Armor,80,Ascended,240
+86254,Crude Flint Stone,Trophy,0,Basic,0
+86255,Defender's Revolver,Weapon,80,Ascended,10000
+86256,Defender's Artifact,Weapon,80,Ascended,10000
+86258,Bronze River of Souls Trophy,Consumable,0,Basic,0
+86259,Healer's Pauldrons of Dhuum,Armor,80,Ascended,240
+86260,Asef's Brew,Weapon,80,Exotic,264
+86262,Healer's Gauntlets of Dhuum,Armor,80,Ascended,240
+86263,Malicious Wand,Weapon,80,Ascended,10000
+86264,Malicious Blade,Weapon,80,Ascended,10000
+86265,Ancient Sunspear Regalia,Trophy,0,Basic,0
+86266,Tribute to the Dark Arts,Trophy,0,Exotic,264
+86267,Agony Impedance 1,Consumable,0,Exotic,0
+86268,Assaulter's Masque,Armor,80,Ascended,240
+86269,Powdered Rose Quartz,Trophy,0,Rare,0
+86270,Malicious Trident,Weapon,80,Ascended,10000
+86272,Recipe: Stellar Scepter,Consumable,0,Exotic,10
+86273,Defender's Flanged Mace,Weapon,80,Ascended,10000
+86274,Folded Silk Tapestry,Trophy,0,Basic,0
+86275,Liquid Aurillium Infusion,UpgradeComponent,80,Exotic,10000
+86276,Recipe: Stellar Spire,Consumable,0,Exotic,10
+86278,Defender's Breeches,Armor,80,Ascended,240
+86279,Marshal's Stellar Apparatus,Weapon,80,Ascended,0
+86280,Onyx Light,Trophy,0,Rare,192
+86281,Mist Attunement 3,Consumable,0,Exotic,0
+86283,Recipe: Kralkatite Ingot,Consumable,0,Exotic,10
+86284,Ancient Weapons: Silver,Container,0,Masterwork,0
+86287,Corsair Tuning Crystal,Consumable,80,Masterwork,66
+86288,Healer's Shako of Dhuum,Armor,80,Ascended,240
+86289,Malicious Warhammer,Weapon,80,Ascended,10000
+86290,Bronze Statue of Grenth Trophy,Consumable,0,Basic,0
+86291,Liquid Aurillium Infusion,UpgradeComponent,80,Exotic,10000
+86292,Extraction Beam,Consumable,0,Basic,0
+86293,Chest of the Istani Hero,Container,0,Exotic,0
+86294,Fine Aged Liquor,Consumable,0,Basic,0
+86295,Malicious Masque,Armor,80,Ascended,240
+86297,Brandstone Node,Consumable,0,Rare,0
+86299,Corrupted Light,Trophy,0,Rare,192
+86300,Marshal's Stellar Revolver,Weapon,80,Ascended,0
+86301,Assaulter's Oblivion,Weapon,80,Ascended,10000
+86303,Queen Bee Infusion,UpgradeComponent,80,Exotic,10000
+86306,Destroyer Mirror,Trophy,0,Rare,192
+86307,Malicious Grips,Armor,80,Ascended,240
+86308,Healer's Bastion,Weapon,80,Ascended,10000
+86309,Bronze Dhuum Trophy,Consumable,0,Basic,0
+86310,Polyluminescent Undulating Infusion (Orange),UpgradeComponent,80,Exotic,10000
+86311,Healer's Doublet,Armor,80,Ascended,240
+86312,Polyluminescent Undulating Infusion (Teal),UpgradeComponent,80,Exotic,10000
+86314,Bandit Skeleton Key,Consumable,0,Rare,0
+86315,Recipe: Corsair Tuning Crystal,Consumable,0,Masterwork,0
+86316,Rose Quartz,Trophy,0,Exotic,0
+86317,Marshal's Astral Cannon,Weapon,80,Exotic,0
+86318,Glacial Mirror,Trophy,0,Rare,192
+86319,Chunk of Apocrypha,Trophy,0,Basic,0
+86320,Fractal Empowerment 1,Consumable,0,Exotic,0
+86321,Recipe: Astral Harbinger,Consumable,0,Exotic,10
+86322,Destroyer Light,Trophy,0,Rare,192
+86324,Malicious Breeches,Armor,80,Ascended,240
+86325,Defender's Leggings,Armor,80,Ascended,240
+86326,Defender's Flesh and Sinew,Weapon,80,Ascended,10000
+86327,Recipe: Stellar Cleaver,Consumable,0,Exotic,10
+86330,Gift of the Rider,CraftingMaterial,0,Exotic,66
+86331,Chest of Dhuum's Boots,Container,0,Ascended,320
+86333,Malicious Bastion,Weapon,80,Ascended,10000
+86334,Light Corsair Turban,Armor,80,Exotic,25000
+86335,Healer's Razor,Weapon,80,Ascended,10000
+86336,Karmic Retribution,Consumable,0,Basic,0
+86337,Marshal's Astral Disk,Weapon,80,Exotic,0
+86338,Mystical +5 Agony Infusion,UpgradeComponent,0,Fine,8
+86339,Meditation Log: Desert Highlands,Trophy,0,Exotic,264
+86340,Defender's Slippers of Dhuum,Armor,80,Ascended,240
+86341,Gold River of Souls Trophy,Consumable,0,Basic,0
+86342,Istan Griffon Expert: Bronze,Container,0,Fine,0
+86344,Healer's Visor,Armor,80,Ascended,240
+86345,Assaulter's Mantle of Dhuum,Armor,80,Ascended,240
+86346,Bundle of Kralkatite,Consumable,0,Exotic,128
+86347,Celestial Infusion (Blue),UpgradeComponent,0,Exotic,32
+86348,Marshal's Stellar Khopesh,Weapon,80,Ascended,0
+86351,Sack of Kralkatite Ore,Container,0,Exotic,52
+86352,Malicious Doublet,Armor,80,Ascended,240
+86353,Everyone's a Corsair: A Guidebook,Gizmo,0,Basic,0
+86354,Marshal's Stellar Orrery,Weapon,80,Ascended,0
+86355,Marshal's Astral Scepter,Weapon,80,Exotic,0
+86356,Incoming call from Taimi.,Consumable,0,Junk,10
+86357,Mini Branded Wyvern,MiniPet,0,Rare,50
+86358,Particle Collector,Gizmo,0,Rare,192
+86359,Chest of Dhuum's Headgear,Container,0,Ascended,320
+86360,Qadim's Portable Magnetite Shard Exchange,Gizmo,0,Rare,0
+86361,Healer's Epaulets,Armor,80,Ascended,240
+86362,Malicious Harpoon Gun,Weapon,80,Ascended,10000
+86363,Malicious Flesh and Sinew,Weapon,80,Ascended,10000
+86364,Defender's Shako of Dhuum,Armor,80,Ascended,240
+86365,Defender's Spire,Weapon,80,Ascended,10000
+86366,Fractal Console,Consumable,0,Basic,0
+86367,Pamphlet of Wisdom,Consumable,80,Exotic,126
+86368,Malicious Claymore,Weapon,80,Ascended,10000
+86369,Pillaged Goods,Trophy,0,Basic,0
+86370,Malicious Epaulets,Armor,80,Ascended,240
+86371,Confiscated Food,Trophy,0,Basic,32
+86372,Recipe: Mark of the Unnamed,Consumable,0,Exotic,128
+86373,Assaulter's Herald,Weapon,80,Ascended,10000
+86374,Karmic Retribution,Consumable,0,Masterwork,0
+86375,Istan Griffon Master: Bronze,Container,0,Fine,0
+86376,Marshal's Astral Knobkerrie,Weapon,80,Exotic,0
+86377,Desmina's Lockbox,Container,0,Ascended,320
+86378,Corsair Sharpening Stone,Consumable,80,Masterwork,66
+86379,Recipe: Stellar Khopesh,Consumable,0,Exotic,10
+86380,Assaulter's Musket,Weapon,80,Ascended,10000
+86381,Meditation Log: Crystal Oasis,Trophy,0,Exotic,264
+86382,Malicious Gloves of Dhuum,Armor,80,Ascended,240
+86383,Transcendental Ink,Trophy,0,Exotic,264
+86384,Volatile Magic,Consumable,0,Fine,0
+86385,Primeval Tome,Trophy,0,Basic,0
+86386,Treatise on Astral Alignments,Trophy,0,Rare,192
+86388,Mini Toxx,MiniPet,0,Exotic,256
+86389,Giftbringer's Visor,Armor,80,Ascended,240
 86391,Enchanted Colorful Snowball (Blue),Consumable,0,Exotic,0
 86392,Tixx's Giver's Insignia,CraftingMaterial,0,Ascended,30
 86393,Tray of Eggnog,Consumable,0,Basic,0
