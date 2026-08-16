@@ -19799,6 +19799,206 @@ id,name,type,level,rarity,vendor_value
 27226,Rampager's Soft Wood Focus of Chilling,Weapon,69,Masterwork,116
 27227,Strong Soft Wood Torch,Weapon,36,Fine,35
 27228,Rampager's Soft Wood Focus of Ice,Weapon,75,Masterwork,124
+27229,Honed Soft Wood Torch,Weapon,22,Fine,25
+27230,Rampager's Soft Wood Focus of Hobbling,Weapon,80,Masterwork,132
+27231,Cleric's Soft Wood Focus of Force,Weapon,64,Masterwork,108
+27232,Honed Soft Wood Torch,Weapon,27,Fine,28
+27233,Cleric's Soft Wood Focus of Chilling,Weapon,70,Masterwork,118
+27234,Honed Soft Wood Torch,Weapon,32,Fine,32
+27235,Honed Soft Wood Torch,Weapon,37,Fine,35
+27236,Cleric's Soft Wood Focus of Fire,Weapon,76,Masterwork,126
+27237,Hearty Soft Wood Torch,Weapon,23,Fine,26
+27238,Cleric's Soft Wood Focus of the Geomancer,Weapon,80,Masterwork,132
+27239,Berserker's Soft Wood Focus of Ogre Slaying,Weapon,65,Masterwork,110
+27240,Hearty Soft Wood Torch,Weapon,28,Fine,29
+27241,Berserker's Soft Wood Focus of Chilling,Weapon,71,Masterwork,118
+27242,Hearty Soft Wood Torch,Weapon,33,Fine,33
+27243,Berserker's Soft Wood Focus of Corruption,Weapon,77,Masterwork,126
+27244,Hearty Soft Wood Torch,Weapon,38,Fine,36
+27245,Hearty Soft Wood Torch,Weapon,43,Fine,40
+27246,Berserker's Soft Wood Focus of Grawl Slaying,Weapon,80,Masterwork,132
+27247,Rampager's Soft Wood Focus of Bloodlust,Weapon,66,Masterwork,112
+27248,Strong Soft Wood Torch,Weapon,24,Fine,26
+27249,Vigorous Soft Wood Torch,Weapon,29,Fine,30
+27250,Rampager's Soft Wood Focus of Chilling,Weapon,72,Masterwork,120
+27251,Rampager's Soft Wood Focus of Hobbling,Weapon,78,Masterwork,128
+27252,Strong Soft Wood Torch,Weapon,34,Fine,33
+27253,Rampager's Soft Wood Focus of the Hydromancer,Weapon,80,Masterwork,132
+27254,Strong Soft Wood Torch,Weapon,39,Fine,37
+27255,Strong Soft Wood Torch,Weapon,44,Fine,40
+27256,Strong Soft Wood Torch,Weapon,41,Fine,38
+27257,Strong Soft Wood Focus of Restoration,Weapon,39,Rare,111
+27258,Strong Soft Wood Torch,Weapon,46,Fine,42
+27259,Strong Soft Wood Focus of Venom,Weapon,46,Rare,126
+27260,Strong Soft Wood Torch,Weapon,51,Fine,45
+27261,Strong Soft Wood Focus of Fire,Weapon,53,Rare,141
+27262,Strong Soft Wood Torch,Weapon,56,Fine,49
+27263,Honed Soft Wood Focus of Force,Weapon,40,Rare,114
+27264,Honed Soft Wood Torch,Weapon,42,Fine,39
+27265,Honed Soft Wood Focus of Air,Weapon,47,Rare,126
+27266,Honed Soft Wood Torch,Weapon,47,Fine,42
+27267,Honed Soft Wood Focus of the Hydromancer,Weapon,54,Rare,141
+27268,Honed Soft Wood Torch,Weapon,52,Fine,46
+27269,Hearty Soft Wood Focus of Agony,Weapon,55,Rare,144
+27270,Honed Soft Wood Torch,Weapon,57,Fine,49
+27271,Hearty Soft Wood Torch,Weapon,48,Fine,43
+27272,Berserker's Soft Wood Focus of Debility,Weapon,60,Rare,156
+27273,Hearty Soft Wood Torch,Weapon,53,Fine,47
+27274,Berserker's Soft Wood Focus of Battle,Weapon,67,Rare,168
+27275,Hearty Soft Wood Torch,Weapon,58,Fine,50
+27276,Berserker's Soft Wood Focus of Perception,Weapon,74,Rare,183
+27277,Hearty Soft Wood Torch,Weapon,63,Fine,54
+27278,Berserker's Soft Wood Focus of Peril,Weapon,80,Rare,198
+27279,Strong Soft Wood Torch,Weapon,49,Fine,44
+27280,Rampager's Soft Wood Focus of Venom,Weapon,61,Rare,156
+27281,Rampager's Soft Wood Focus of Chilling,Weapon,68,Rare,171
+27282,Strong Soft Wood Torch,Weapon,54,Fine,47
+27283,Strong Soft Wood Torch,Weapon,59,Fine,51
+27284,Rampager's Soft Wood Focus of Force,Weapon,75,Rare,186
+27285,Rampager's Soft Wood Focus of Venom,Weapon,80,Rare,198
+27286,Strong Soft Wood Torch,Weapon,64,Fine,54
+27287,Cleric's Soft Wood Focus of the Geomancer,Weapon,62,Rare,159
+27288,Berserker's Soft Wood Torch,Weapon,61,Fine,52
+27289,Cleric's Soft Wood Focus of Smoldering,Weapon,69,Rare,174
+27290,Berserker's Soft Wood Torch,Weapon,66,Fine,56
+27291,Cleric's Soft Wood Focus of Water,Weapon,76,Rare,189
+27292,Berserker's Soft Wood Torch,Weapon,71,Fine,59
+27293,Cleric's Soft Wood Focus of Bloodlust,Weapon,80,Rare,198
+27294,Berserker's Soft Wood Torch,Weapon,76,Fine,63
+27295,Berserker's Soft Wood Focus of Serpent Slaying,Weapon,70,Rare,177
+27296,Berserker's Soft Wood Torch,Weapon,80,Fine,66
+27297,Berserker's Soft Wood Focus of Life,Weapon,77,Rare,189
+27298,Rampager's Soft Wood Torch,Weapon,62,Fine,53
+27299,Rampager's Soft Wood Torch,Weapon,67,Fine,56
+27300,Berserker's Soft Wood Focus of Accuracy,Weapon,80,Rare,198
+27301,Rampager's Soft Wood Focus of Perception,Weapon,71,Rare,177
+27302,Rampager's Soft Wood Torch,Weapon,72,Fine,60
+27303,Rampager's Soft Wood Torch,Weapon,77,Fine,63
+27304,Rampager's Soft Wood Focus of Hobbling,Weapon,78,Rare,192
+27305,Rampager's Soft Wood Focus of Force,Weapon,80,Rare,198
+27306,Rampager's Soft Wood Torch,Weapon,80,Fine,66
+27307,Cleric's Soft Wood Focus of the Hydromancer,Weapon,72,Rare,180
+27308,Cleric's Soft Wood Torch,Weapon,68,Fine,57
+27309,Cleric's Soft Wood Focus of Debility,Weapon,79,Rare,195
+27310,Cleric's Soft Wood Torch,Weapon,73,Fine,61
+27311,Cleric's Soft Wood Focus of Smoldering,Weapon,80,Rare,198
+27312,Cleric's Soft Wood Torch,Weapon,78,Fine,64
+27313,Cleric's Soft Wood Torch,Weapon,80,Fine,66
+27314,Berserker's Soft Wood Torch,Weapon,69,Fine,58
+27315,Berserker's Soft Wood Torch,Weapon,74,Fine,61
+27316,Berserker's Soft Wood Torch,Weapon,79,Fine,65
+27317,Berserker's Soft Wood Torch,Weapon,80,Fine,66
+27318,Berserker's Iron Greatsword of Perception,Weapon,62,Exotic,318
+27319,Berserker's Iron Greatsword of Serpent Slaying,Weapon,70,Exotic,354
+27320,Berserker's Iron Greatsword of Perception,Weapon,78,Exotic,384
+27321,Naga Fang,Weapon,80,Exotic,396
+27322,Rampager's Iron Greatsword of Debility,Weapon,63,Exotic,324
+27323,Rampager's Iron Greatsword of Demon Summoning,Weapon,71,Exotic,354
+27324,Rampager's Iron Greatsword of Accuracy,Weapon,79,Exotic,390
+27325,Kymswarden,Weapon,80,Exotic,396
+27326,Cleric's Iron Greatsword of Rage,Weapon,64,Exotic,324
+27327,Cleric's Iron Greatsword of Perception,Weapon,72,Exotic,360
+27328,Ebonblade,Weapon,80,Exotic,396
+27329,Berserker's Iron Greatsword of Venom,Weapon,65,Exotic,330
+27330,Berserker's Iron Greatsword of Smoldering,Weapon,73,Exotic,366
+27331,Breath of Flame,Weapon,80,Exotic,396
+27332,Rampager's Iron Greatsword of Energy,Weapon,66,Exotic,336
+27333,Rampager's Iron Greatsword of Grawl Slaying,Weapon,74,Exotic,366
+27334,Skybringer,Weapon,80,Exotic,396
+27335,Cleric's Iron Greatsword of Blood,Weapon,75,Exotic,372
+27336,"Khrysaor, the Golden Sword",Weapon,80,Exotic,396
+27337,Rampager's Iron Greatsword of Water,Weapon,76,Exotic,378
+27338,Dhuumseal,Weapon,80,Exotic,396
+27339,Mighty Iron Greatsword,Weapon,1,Fine,9
+27340,Mighty Iron Greatsword,Weapon,6,Fine,17
+27341,Mighty Iron Greatsword,Weapon,11,Fine,24
+27342,Mighty Iron Greatsword,Weapon,16,Fine,30
+27343,Mighty Soft Wood Torch of Smoldering,Weapon,14,Masterwork,38
+27344,Precise Iron Greatsword,Weapon,0,Fine,11
+27345,Precise Iron Greatsword,Weapon,7,Fine,18
+27346,Mighty Soft Wood Torch of Ice,Weapon,20,Masterwork,48
+27347,Precise Iron Greatsword,Weapon,12,Fine,26
+27348,Strong Soft Wood Torch of Ogre Slaying,Weapon,26,Masterwork,56
+27349,Precise Iron Greatsword,Weapon,17,Fine,32
+27350,Strong Soft Wood Torch of Accuracy,Weapon,32,Masterwork,64
+27351,Vital Iron Greatsword,Weapon,0,Fine,12
+27352,Honed Soft Wood Torch of Bloodlust,Weapon,27,Masterwork,56
+27353,Vital Iron Greatsword,Weapon,8,Fine,20
+27354,Honed Soft Wood Torch of Agony,Weapon,33,Masterwork,66
+27355,Vital Iron Greatsword,Weapon,13,Fine,27
+27356,Hearty Soft Wood Torch of Force,Weapon,40,Masterwork,76
+27357,Vital Iron Greatsword,Weapon,18,Fine,33
+27358,Strong Soft Wood Torch of Earth,Weapon,38,Masterwork,72
+27359,Mighty Iron Greatsword,Weapon,0,Fine,14
+27360,Strong Soft Wood Torch of Hobbling,Weapon,44,Masterwork,80
+27361,Mighty Iron Greatsword,Weapon,9,Fine,21
+27362,Strong Soft Wood Torch of Hobbling,Weapon,50,Masterwork,90
+27363,Mighty Iron Greatsword,Weapon,14,Fine,29
+27364,Strong Soft Wood Torch of Grawl Slaying,Weapon,56,Masterwork,98
+27365,Mighty Iron Greatsword,Weapon,19,Fine,35
+27366,Honed Soft Wood Torch of the Geomancer,Weapon,39,Masterwork,74
+27367,Strong Iron Greatsword,Weapon,21,Fine,36
+27368,Honed Soft Wood Torch of Peril,Weapon,45,Masterwork,82
+27369,Honed Soft Wood Torch of Ogre Slaying,Weapon,51,Masterwork,90
+27370,Strong Iron Greatsword,Weapon,26,Fine,42
+27371,Strong Iron Greatsword,Weapon,31,Fine,47
+27372,Honed Soft Wood Torch of Grawl Slaying,Weapon,57,Masterwork,98
+27373,Hearty Soft Wood Torch of the Hydromancer,Weapon,46,Masterwork,84
+27374,Strong Iron Greatsword,Weapon,36,Fine,53
+27375,Honed Iron Greatsword,Weapon,22,Fine,38
+27376,Hearty Soft Wood Torch of Accuracy,Weapon,52,Masterwork,92
+27377,Hearty Soft Wood Torch of Air,Weapon,58,Masterwork,100
+27378,Honed Iron Greatsword,Weapon,27,Fine,42
+27379,Honed Iron Greatsword,Weapon,32,Fine,48
+27380,Strong Soft Wood Torch of Venom,Weapon,53,Masterwork,94
+27381,Strong Soft Wood Torch of Venom,Weapon,59,Masterwork,102
+27382,Honed Iron Greatsword,Weapon,37,Fine,53
+27383,Hearty Iron Greatsword,Weapon,23,Fine,39
+27384,Berserker's Soft Wood Torch of Earth,Weapon,62,Masterwork,106
+27385,Hearty Iron Greatsword,Weapon,28,Fine,44
+27386,Berserker's Soft Wood Torch of the Geomancer,Weapon,68,Masterwork,114
+27387,Hearty Iron Greatsword,Weapon,33,Fine,50
+27388,Berserker's Soft Wood Torch of Accuracy,Weapon,74,Masterwork,122
+27389,Berserker's Soft Wood Torch of Force,Weapon,80,Masterwork,132
+27390,Hearty Iron Greatsword,Weapon,38,Fine,54
+27391,Rampager's Soft Wood Torch of Ogre Slaying,Weapon,63,Masterwork,108
+27392,Hearty Iron Greatsword,Weapon,43,Fine,60
+27393,Rampager's Soft Wood Torch of Fire,Weapon,69,Masterwork,116
+27394,Strong Iron Greatsword,Weapon,24,Fine,39
+27395,Rampager's Soft Wood Torch of Accuracy,Weapon,75,Masterwork,124
+27396,Vigorous Iron Greatsword,Weapon,29,Fine,45
+27397,Rampager's Soft Wood Torch of Earth,Weapon,80,Masterwork,132
+27398,Strong Iron Greatsword,Weapon,34,Fine,50
+27399,Strong Iron Greatsword,Weapon,39,Fine,56
+27400,Cleric's Soft Wood Torch of Air,Weapon,64,Masterwork,108
+27401,Strong Iron Greatsword,Weapon,44,Fine,60
+27402,Cleric's Soft Wood Torch of Debility,Weapon,70,Masterwork,118
+27403,Strong Iron Greatsword,Weapon,41,Fine,57
+27404,Cleric's Soft Wood Torch of Agony,Weapon,76,Masterwork,126
+27405,Strong Iron Greatsword,Weapon,46,Fine,63
+27406,Cleric's Soft Wood Torch of Venom,Weapon,80,Masterwork,132
+27407,Berserker's Soft Wood Torch of Fire,Weapon,65,Masterwork,110
+27408,Strong Iron Greatsword,Weapon,51,Fine,68
+27409,Berserker's Soft Wood Torch of the Geomancer,Weapon,71,Masterwork,118
+27410,Strong Iron Greatsword,Weapon,56,Fine,74
+27411,Honed Iron Greatsword,Weapon,42,Fine,59
+27412,Berserker's Soft Wood Torch of Earth,Weapon,77,Masterwork,126
+27413,Berserker's Soft Wood Torch of Blood,Weapon,80,Masterwork,132
+27414,Honed Iron Greatsword,Weapon,47,Fine,63
+27415,Rampager's Soft Wood Torch of Venom,Weapon,66,Masterwork,112
+27416,Honed Iron Greatsword,Weapon,52,Fine,69
+27417,Rampager's Soft Wood Torch of Serpent Slaying,Weapon,72,Masterwork,120
+27418,Honed Iron Greatsword,Weapon,57,Fine,74
+27419,Hearty Iron Greatsword,Weapon,48,Fine,65
+27420,Rampager's Soft Wood Torch of Air,Weapon,78,Masterwork,128
+27421,Rampager's Soft Wood Torch of Earth,Weapon,80,Masterwork,132
+27422,Hearty Iron Greatsword,Weapon,53,Fine,71
+27423,Hearty Iron Greatsword,Weapon,58,Fine,75
+27424,Hearty Iron Greatsword,Weapon,63,Fine,81
+27425,Strong Iron Greatsword,Weapon,49,Fine,66
+27426,Strong Soft Wood Torch of Air,Weapon,39,Rare,111
+27427,Strong Iron Greatsword,Weapon,54,Fine,71
+27428,Strong Soft Wood Torch of Chilling,Weapon,46,Rare,126
 27429,Strong Soft Wood Torch of Chilling,Weapon,53,Rare,141
 27430,Strong Iron Greatsword,Weapon,59,Fine,77
 27431,Strong Iron Greatsword,Weapon,64,Fine,81
@@ -28199,206 +28399,6 @@ id,name,type,level,rarity,vendor_value
 37439,Soldier's Aurora Shoes,Armor,80,Exotic,264
 37440,Soldier's Aurora Garb,Armor,80,Exotic,396
 37441,Magi's Iron Mace,Weapon,80,Rare,198
-37443,Soldier's Aurora Gloves,Armor,80,Exotic,238
-37444,Soldier's Aurora Helm,Armor,80,Exotic,330
-37446,Soldier's Aurora Leggings,Armor,80,Exotic,370
-37447,Cavalier's Iron Pistol,Weapon,80,Rare,198
-37448,Soldier's Aurora Mantle,Armor,80,Exotic,291
-37451,Magi's Iron Pistol,Weapon,80,Masterwork,132
-37453,Magi's Iron Pistol,Weapon,80,Rare,198
-37455,Magi's Wolfborn Pistol,Weapon,80,Exotic,264
-37462,Cavalier's Privateer Boots,Armor,80,Masterwork,132
-37463,Soldier's Iron Pistol,Weapon,80,Masterwork,132
-37465,Cavalier's Privateer Coat,Armor,80,Masterwork,198
-37466,Cavalier's Privateer Gloves,Armor,80,Masterwork,119
-37468,Rabid Iron Pistol,Weapon,80,Masterwork,132
-37469,Cavalier's Privateer Hat,Armor,80,Masterwork,165
-37470,Cavalier's Privateer Pants,Armor,80,Masterwork,185
-37471,Rabid Iron Pistol,Weapon,80,Rare,198
-37472,Cavalier's Privateer Shoulders,Armor,80,Masterwork,146
-37474,Privateer Boots,Armor,80,Masterwork,132
-37475,Cavalier's Iron Rifle,Weapon,80,Masterwork,198
-37477,Privateer Coat,Armor,80,Masterwork,198
-37479,Cavalier's Iron Rifle,Weapon,80,Rare,297
-37480,Iron Rifle,Weapon,80,Masterwork,198
-37485,Privateer Shoulders,Armor,80,Masterwork,146
-37486,Soldier's Privateer Boots,Armor,80,Masterwork,132
-37487,Soldier's Iron Rifle,Weapon,80,Masterwork,198
-37488,Soldier's Privateer Coat,Armor,80,Masterwork,198
-37489,Soldier's Wolfborn Rifle,Weapon,80,Exotic,396
-37490,Soldier's Iron Rifle,Weapon,80,Rare,297
-37491,Soldier's Privateer Gloves,Armor,80,Masterwork,119
-37493,Soldier's Privateer Hat,Armor,80,Masterwork,165
-37495,Soldier's Privateer Pants,Armor,80,Masterwork,185
-37496,Rabid Iron Rifle,Weapon,80,Rare,297
-37497,Rabid Privateer Boots,Armor,80,Masterwork,132
-37498,Magi's Iron Rifle,Weapon,80,Masterwork,198
-37499,Rabid Privateer Coat,Armor,80,Masterwork,198
-37500,Rabid Privateer Gloves,Armor,80,Masterwork,119
-37502,Rabid Privateer Hat,Armor,80,Masterwork,165
-37503,Magi's Iron Rifle,Weapon,80,Rare,297
-37504,Rabid Privateer Pants,Armor,80,Masterwork,185
-37506,Rabid Privateer Shoulders,Armor,80,Masterwork,146
-37508,Magi's Privateer Boots,Armor,80,Masterwork,132
-37509,Cavalier's Soft Wood Scepter,Weapon,80,Rare,198
-37511,Magi's Privateer Coat,Armor,80,Masterwork,198
-37512,Magi's Privateer Gloves,Armor,80,Masterwork,119
-37514,Magi's Privateer Hat,Armor,80,Masterwork,165
-37515,Magi's Soft Wood Scepter,Weapon,80,Rare,198
-37516,Magi's Privateer Pants,Armor,80,Masterwork,185
-37519,Magi's Privateer Shoulders,Armor,80,Masterwork,146
-37521,Cavalier's Armageddon Greaves,Armor,80,Exotic,264
-37522,Cavalier's Armageddon Breastplate,Armor,80,Exotic,396
-37524,Cavalier's Armageddon Gauntlets,Armor,80,Exotic,238
-37526,Cavalier's Armageddon Helm,Armor,80,Exotic,330
-37527,Soldier's Soft Wood Scepter,Weapon,80,Rare,198
-37529,Cavalier's Armageddon Leggings,Armor,80,Exotic,370
-37530,Cavalier's Armageddon Pauldrons,Armor,80,Exotic,291
-37533,Rabid Soft Wood Scepter,Weapon,80,Rare,198
-37534,Cavalier's Iron Shield,Weapon,80,Masterwork,132
-37538,Cavalier's Iron Shield,Weapon,80,Rare,198
-37544,Iron Shield,Weapon,80,Rare,198
-37545,Soldier's Armageddon Greaves,Armor,80,Exotic,264
-37546,Rabid Iron Shield,Weapon,80,Masterwork,132
-37547,Soldier's Armageddon Breastplate,Armor,80,Exotic,396
-37548,Soldier's Armageddon Gauntlets,Armor,80,Exotic,238
-37550,Soldier's Armageddon Helm,Armor,80,Exotic,330
-37551,Rabid Iron Shield,Weapon,80,Rare,198
-37552,Soldier's Armageddon Leggings,Armor,80,Exotic,370
-37553,Soldier's Iron Shield,Weapon,80,Masterwork,132
-37555,Soldier's Armageddon Pauldrons,Armor,80,Exotic,291
-37556,Rabid Armageddon Greaves,Armor,80,Exotic,264
-37557,Soldier's Iron Shield,Weapon,80,Rare,198
-37558,Magi's Iron Shield,Weapon,80,Masterwork,132
-37559,Rabid Armageddon Breastplate,Armor,80,Exotic,396
-37560,Rabid Armageddon Gauntlets,Armor,80,Exotic,238
-37562,Rabid Armageddon Helm,Armor,80,Exotic,330
-37563,Magi's Iron Shield,Weapon,80,Rare,198
-37564,Rabid Armageddon Leggings,Armor,80,Exotic,370
-37565,Cavalier's Soft Wood Short Bow,Weapon,80,Masterwork,198
-37566,Rabid Armageddon Pauldrons,Armor,80,Exotic,291
-37568,Cavalier's Soft Wood Short Bow,Weapon,80,Rare,297
-37569,Magi's Armageddon Greaves,Armor,80,Exotic,264
-37570,Soft Wood Short Bow,Weapon,80,Rare,297
-37571,Magi's Armageddon Breastplate,Armor,80,Exotic,396
-37573,Magi's Armageddon Gauntlets,Armor,80,Exotic,238
-37574,Magi's Armageddon Helm,Armor,80,Exotic,330
-37576,Soldier's Soft Wood Short Bow,Weapon,80,Rare,297
-37577,Magi's Armageddon Leggings,Armor,80,Exotic,370
-37578,Magi's Armageddon Pauldrons,Armor,80,Exotic,291
-37579,Soldier's Soft Wood Short Bow,Weapon,80,Masterwork,198
-37580,Cavalier's Banded Greaves,Armor,80,Rare,198
-37582,Cavalier's Banded Coat,Armor,80,Rare,297
-37584,Cavalier's Banded Gauntlets,Armor,80,Rare,179
-37587,Cavalier's Banded Helm,Armor,80,Rare,248
-37588,Rabid Soft Wood Short Bow,Weapon,80,Rare,297
-37589,Cavalier's Banded Legs,Armor,80,Rare,278
-37591,Cavalier's Banded Pauldrons,Armor,80,Rare,218
-37592,Magi's Banded Greaves,Armor,80,Rare,198
-37594,Cavalier's Steam Speargun,Weapon,80,Masterwork,198
-37595,Magi's Banded Coat,Armor,80,Rare,297
-37596,Magi's Banded Gauntlets,Armor,80,Rare,179
-37597,Cavalier's Steam Speargun,Weapon,80,Rare,297
-37599,Magi's Banded Helm,Armor,80,Rare,248
-37601,Magi's Banded Legs,Armor,80,Rare,278
-37603,Magi's Banded Pauldrons,Armor,80,Rare,218
-37604,Rabid Banded Greaves,Armor,80,Rare,198
-37606,Soldier's Steam Speargun,Weapon,80,Masterwork,198
-37607,Rabid Banded Coat,Armor,80,Rare,297
-37609,Rabid Banded Gauntlets,Armor,80,Rare,179
-37610,Rabid Banded Helm,Armor,80,Rare,248
-37612,Soldier's Steam Speargun,Weapon,80,Masterwork,198
-37613,Rabid Banded Legs,Armor,80,Rare,278
-37614,Soldier's Steam Speargun,Weapon,80,Rare,297
-37615,Rabid Banded Pauldrons,Armor,80,Rare,218
-37616,Soldier's Banded Greaves,Armor,80,Rare,198
-37618,Soldier's Banded Coat,Armor,80,Rare,297
-37619,Magi's Steam Speargun,Weapon,80,Masterwork,198
-37620,Soldier's Banded Gauntlets,Armor,80,Rare,179
-37621,Magi's Steam Speargun,Weapon,80,Rare,297
-37623,Soldier's Banded Helm,Armor,80,Rare,248
-37624,Soldier's Banded Legs,Armor,80,Rare,278
-37625,Cavalier's Soft Wood Staff,Weapon,80,Masterwork,198
-37626,Soldier's Banded Pauldrons,Armor,80,Rare,218
-37628,Banded Greaves,Armor,80,Rare,198
-37629,Cavalier's Soft Wood Staff,Weapon,80,Rare,297
-37631,Soft Wood Staff,Weapon,80,Masterwork,198
-37633,Banded Gauntlets,Armor,80,Rare,179
-37637,Soldier's Soft Wood Staff,Weapon,80,Masterwork,198
-37640,Soldier's Soft Wood Staff,Weapon,80,Rare,297
-37641,Cavalier's Reinforced Scale Boots,Armor,80,Masterwork,132
-37642,Cavalier's Reinforced Scale Coat,Armor,80,Masterwork,198
-37643,Rabid Soft Wood Staff,Weapon,80,Masterwork,198
-37644,Cavalier's Reinforced Scale Gauntlets,Armor,80,Masterwork,119
-37646,Cavalier's Reinforced Scale Helm,Armor,80,Masterwork,165
-37647,Rabid Soft Wood Staff,Weapon,80,Rare,297
-37649,Cavalier's Reinforced Scale Legs,Armor,80,Masterwork,185
-37650,Cavalier's Reinforced Scale Pauldrons,Armor,80,Masterwork,146
-37652,Magi's Reinforced Scale Boots,Armor,80,Masterwork,132
-37653,Magi's Soft Wood Staff,Weapon,80,Rare,297
-37654,Cavalier's Iron Sword,Weapon,80,Masterwork,132
-37655,Magi's Reinforced Scale Coat,Armor,80,Masterwork,198
-37657,Magi's Reinforced Scale Gauntlets,Armor,80,Masterwork,119
-37658,Magi's Reinforced Scale Helm,Armor,80,Masterwork,165
-37659,Cavalier's Iron Sword,Weapon,80,Rare,198
-37660,Soldier's Iron Sword,Weapon,80,Masterwork,132
-37661,Magi's Reinforced Scale Legs,Armor,80,Masterwork,185
-37663,Magi's Reinforced Scale Pauldrons,Armor,80,Masterwork,146
-37664,Rabid Reinforced Scale Boots,Armor,80,Masterwork,132
-37665,Soldier's Iron Sword,Weapon,80,Rare,198
-37666,Rabid Reinforced Scale Coat,Armor,80,Masterwork,198
-37669,Rabid Reinforced Scale Gauntlets,Armor,80,Masterwork,119
-37670,Rabid Reinforced Scale Helm,Armor,80,Masterwork,165
-37672,Rabid Reinforced Scale Legs,Armor,80,Masterwork,185
-37673,Magi's Iron Sword,Weapon,80,Masterwork,132
-37675,Rabid Reinforced Scale Pauldrons,Armor,80,Masterwork,146
-37676,Magi's Iron Sword,Weapon,80,Rare,198
-37677,Soldier's Reinforced Scale Boots,Armor,80,Masterwork,132
-37678,Rabid Iron Sword,Weapon,80,Masterwork,132
-37679,Soldier's Reinforced Scale Coat,Armor,80,Masterwork,198
-37681,Soldier's Reinforced Scale Gauntlets,Armor,80,Masterwork,119
-37682,Rabid Iron Sword,Weapon,80,Rare,198
-37683,Soldier's Reinforced Scale Helm,Armor,80,Masterwork,165
-37684,Soldier's Reinforced Scale Legs,Armor,80,Masterwork,185
-37685,Cavalier's Soft Wood Torch,Weapon,80,Masterwork,132
-37686,Soldier's Reinforced Scale Pauldrons,Armor,80,Masterwork,146
-37687,Cavalier's Wolfborn Torch,Weapon,80,Exotic,264
-37688,Cavalier's Soft Wood Torch,Weapon,80,Rare,198
-37689,Reinforced Scale Boots,Armor,80,Masterwork,132
-37693,Reinforced Scale Gauntlets,Armor,80,Masterwork,119
-37694,Reinforced Scale Helm,Armor,80,Masterwork,165
-37696,Reinforced Scale Legs,Armor,80,Masterwork,185
-37697,Soldier's Soft Wood Torch,Weapon,80,Rare,198
-37698,Reinforced Scale Pauldrons,Armor,80,Masterwork,146
-37699,Soldier's Soft Wood Torch,Weapon,80,Masterwork,132
-37700,Soldier's Wolfborn Torch,Weapon,80,Exotic,264
-37701,Wayfarer's Ring,Trinket,80,Exotic,396
-37702,Wayfarer's Ring,Trinket,80,Masterwork,198
-37703,Magi's Soft Wood Torch,Weapon,80,Rare,198
-37704,Magi's Soft Wood Torch,Weapon,80,Masterwork,132
-37705,Wayfarer's Ring,Trinket,80,Rare,297
-37706,Cavalier's Ring,Trinket,80,Exotic,396
-37709,Cavalier's Ring,Trinket,80,Masterwork,198
-37710,Cavalier's Ring,Trinket,80,Rare,297
-37711,Rabid Soft Wood Torch,Weapon,80,Masterwork,132
-37713,Magi's Ring,Trinket,80,Exotic,396
-37714,Magi's Ring,Trinket,80,Masterwork,198
-37715,Cavalier's Black Earth Trident,Weapon,80,Masterwork,198
-37716,Magi's Ring,Trinket,80,Rare,297
-37717,Cavalier's Black Earth Trident,Weapon,80,Rare,297
-37718,Rabid Ring,Trinket,80,Exotic,396
-37721,Rabid Ring,Trinket,80,Masterwork,198
-37722,Black Earth Trident,Weapon,80,Rare,297
-37723,Rabid Ring,Trinket,80,Rare,297
-37724,Soldier's Ring,Trinket,80,Exotic,396
-37726,Soldier's Ring,Trinket,80,Masterwork,198
-37728,Soldier's Ring,Trinket,80,Rare,297
-37729,Soldier's Black Earth Trident,Weapon,80,Rare,297
-37730,Wayfarer's Amulet,Trinket,80,Masterwork,264
-37733,Wayfarer's Amulet,Trinket,80,Rare,396
-37734,Rabid Black Earth Trident,Weapon,80,Rare,297
-37735,Wayfarer's Amulet,Trinket,80,Exotic,528
-37737,Cavalier's Amulet,Trinket,80,Exotic,528
 37738,Magi's Black Earth Trident,Weapon,80,Masterwork,198
 37739,Cavalier's Amulet,Trinket,80,Masterwork,264
 37740,Magi's Black Earth Trident,Weapon,80,Rare,297
@@ -49999,6 +49999,206 @@ id,name,type,level,rarity,vendor_value
 77228,Viathan Lake Talisman,Trophy,0,Exotic,264
 77229,Laranthir's Breastplate,Armor,80,Ascended,240
 77230,Spooky Cauldron,Consumable,0,Rare,0
+77231,Spirit-Powered Horn,Trophy,0,Rare,198
+77233,Thesis on Speed,Consumable,60,Fine,28
+77235,Itzel Defense Strategy,Trophy,0,Rare,192
+77236,Sheet of Ultrafine Sandpaper,CraftingMaterial,0,Fine,16
+77237,Soul Battery Fragment,Gizmo,0,Exotic,264
+77238,Recipe: Vigilant Exalted Boots,Consumable,0,Exotic,132
+77239,Reclaimed Shield,Weapon,80,Rare,198
+77242,Embody Ley-Line Energy,Trophy,0,Exotic,264
+77243,Rune of the Berserker,UpgradeComponent,0,Exotic,0
+77246,Guild Karma Boost,Consumable,0,Basic,0
+77247,Crusader Auric Longbow,Weapon,80,Exotic,396
+77249,Tizlak's Warfists,Armor,80,Ascended,240
+77251,The Ley-Line Run: Bronze,Container,0,Fine,0
+77253,Draithor's Reaping Crystal,Trinket,80,Exotic,330
+77255,Berserker's Helm,Armor,80,Exotic,330
+77256,Milling Stone,CraftingMaterial,80,Basic,9
+77257,Black Tiger Loot Box,Container,0,Basic,0
+77258,Recipe: Chiaroscuro Short Bows,Consumable,0,Exotic,132
+77261,Mushroom Cache,Container,0,Fine,0
+77262,Bladed Headgear Box,Container,0,Rare,0
+77263,Gold Fractal Weapon Crate,Container,0,Exotic,256
+77266,Magically Charged Infusion Sample,Trophy,0,Rare,1500
+77267,Recipe: Minstrel's Emblazoned Coat,Consumable,0,Exotic,132
+77268,Orange Balloon,Consumable,0,Basic,0
+77269,Golden Feather Wings Glider,Consumable,0,Rare,0
+77270,Golden Feather Wings Backpack,Consumable,0,Masterwork,0
+77271,Healer's Guardian Footwear,Armor,80,Ascended,240
+77272,Malicious Energized Loop,Trinket,80,Ascended,495
+77273,Malicious Spirit Branch,Weapon,80,Ascended,10000
+77274,Ghostly Infusion,UpgradeComponent,0,Exotic,32
+77275,Plasma Focus Skin,Consumable,0,Rare,0
+77276,Chest of Short Bows,Container,0,Ascended,320
+77277,Ectoplasmic Residue,Gizmo,0,Exotic,264
+77279,The Anthem of Grandeur,Consumable,0,Basic,0
+77280,Sabetha's Defender Boomstick,Weapon,80,Ascended,10000
+77281,Sabetha's Healer Boomstick,Weapon,80,Ascended,10000
+77282,Bandit Sniper's Outfit,Consumable,0,Rare,0
+77283,Bloodbound Mace,Weapon,0,Rare,0
+77284,Multifarious Assaulter Tassets,Armor,80,Ascended,240
+77285,Chest of Harpoon Guns,Container,0,Ascended,320
+77286,Sabetha's Healer Crucible,Back,80,Ascended,330
+77287,Chest of Swords,Container,0,Ascended,320
+77288,Healer's Sparking Dagger,Weapon,80,Ascended,10000
+77289,Chest of Staves,Container,0,Ascended,320
+77290,Auric Energy Crystal,Trophy,0,Exotic,264
+77291,Soul River Glider,Consumable,0,Masterwork,0
+77292,Plasma Hammer Skin,Consumable,0,Rare,0
+77293,Sabetha's Assaulter Doublet,Armor,80,Ascended,240
+77294,Sabetha's Healer Breastplate,Armor,80,Ascended,240
+77295,Sabetha's Malicious Breastplate,Armor,80,Ascended,240
+77296,Mini Gorseval the Multifarious,MiniPet,0,Exotic,50
+77297,Bloodbound Warhorn,Weapon,0,Rare,0
+77298,Piece of Revenant Gear,Container,0,Rare,0
+77299,Crafter's Supply Bag,Container,0,Exotic,256
+77300,Defender's Guardian Greaves,Armor,80,Ascended,240
+77301,Plasma Staff Skin,Consumable,0,Rare,0
+77302,Legendary Insight,Consumable,0,Legendary,500
+77303,Ghostly Infusion,UpgradeComponent,0,Exotic,32
+77304,Multifarious Healer Tassets,Armor,80,Ascended,240
+77305,Bloodstone Battery (Charged),Trophy,0,Exotic,264
+77306,Sabetha's Malicious Guise,Armor,80,Ascended,240
+77307,Exotic Equipment Satchel,Container,0,Exotic,256
+77308,Multifarious Healer Breeches,Armor,80,Ascended,240
+77309,Malicious Guardian Greaves,Armor,80,Ascended,240
+77310,Ghostly Infusion,UpgradeComponent,0,Exotic,32
+77311,Mini Karde,MiniPet,0,Exotic,50
+77312,Defender's Spirit Branch,Weapon,80,Ascended,10000
+77313,Multifarious Malicious Leggings,Armor,80,Ascended,240
+77314,Chest of Revenant's Exotic Equipment,Container,0,Exotic,0
+77315,Bloodbound Sword,Weapon,0,Rare,0
+77316,Ghostly Infusion,UpgradeComponent,0,Exotic,32
+77317,Bloodbound Rifle,Weapon,0,Rare,0
+77318,Bloodbound Shield,Weapon,0,Rare,0
+77319,Assaulter's Energized Loop,Trinket,80,Ascended,495
+77320,Defender's Sparking Dagger,Weapon,80,Ascended,10000
+77321,The Anthem of Dread,Consumable,0,Basic,0
+77322,Multifarious Assaulter Breeches,Armor,80,Ascended,240
+77323,Spectral Ward,Trinket,80,Ascended,413
+77324,The Anthem of Celebration,Consumable,0,Basic,0
+77325,Sabetha's Defender Doublet,Armor,80,Ascended,240
+77326,Plasma Dagger Skin,Consumable,0,Rare,0
+77327,Assaulter's Guardian Footwear,Armor,80,Ascended,240
+77328,Chest of Hammers,Container,0,Ascended,320
+77329,Chest of Tridents,Container,0,Ascended,320
+77330,Compendium of Knowledge,Consumable,80,Exotic,126
+77331,Healer's Sparking Vanquisher,Weapon,80,Ascended,10000
+77332,Chest of Warhorns,Container,0,Ascended,320
+77333,The Anthem of Whimsy,Consumable,0,Basic,0
+77334,Mini Vale Guardian,MiniPet,0,Exotic,50
+77335,Bloodbound Hammer,Weapon,0,Rare,0
+77336,Tormented Aurillium,Trophy,0,Exotic,264
+77337,Healer's Guardian Greaves,Armor,80,Ascended,240
+77338,Healer's Talisman of Garr,Trinket,80,Ascended,660
+77339,Mini Sabetha,MiniPet,0,Masterwork,50
+77340,Multifarious Defender Breeches,Armor,80,Ascended,240
+77341,Defender's Spirit Ward,Weapon,80,Ascended,10000
+77342,Sabetha's Defender Crucible,Back,80,Ascended,330
+77343,Spirit Weave,Trophy,0,Exotic,264
+77344,Assaulter's Sparking Dagger,Weapon,80,Ascended,10000
+77345,"Mini ""Knuckles""",MiniPet,0,Exotic,50
+77346,Assaulter's Spirit Branch,Weapon,80,Ascended,10000
+77347,Defender's Guardian Striders,Armor,80,Ascended,240
+77348,Infused Soul Mirror,Trophy,0,Exotic,264
+77349,The Lost Art of Armor Crafting,Consumable,0,Basic,0
+77350,Bloodbound Trident,Weapon,0,Rare,0
+77351,Bloodbound Torch,Weapon,0,Rare,0
+77352,Bloodbound Pistol,Weapon,0,Rare,0
+77353,Plasma Sword Skin,Consumable,0,Rare,0
+77354,Bloodbound Harpoon Gun,Weapon,0,Rare,0
+77355,Energy Crystal,Trophy,0,Exotic,264
+77356,Bloodbound Dagger,Weapon,0,Rare,0
+77358,Malicious Sparking Vanquisher,Weapon,80,Ascended,10000
+77359,No Reward,Consumable,0,Rare,92
+77360,Plasma Mace Skin,Consumable,0,Rare,0
+77361,Assaulter's Guardian Striders,Armor,80,Ascended,240
+77362,Bloodbound Short Bow,Weapon,0,Rare,0
+77363,Sabetha's Malicious Boomstick,Weapon,80,Ascended,10000
+77365,Plasma Warhorn Skin,Consumable,0,Rare,0
+77366,Ghostly Infusion,UpgradeComponent,0,Exotic,32
+77367,Plasma Longbow Skin,Consumable,0,Rare,0
+77368,The Anthem of the Fallen,Consumable,0,Basic,0
+77369,White Mantle Ritual Goblet,Trophy,0,Exotic,264
+77370,Mini Red Guardian,MiniPet,0,Exotic,50
+77371,Sabetha's Assaulter Breastplate,Armor,80,Ascended,240
+77372,Spirit Thread,Trophy,0,Exotic,264
+77373,Plasma Short Bow Skin,Consumable,0,Rare,0
+77375,Bloodbound Spear,Weapon,0,Rare,0
+77376,Healer's Energized Loop,Trinket,80,Ascended,495
+77377,Healer's Guardian Striders,Armor,80,Ascended,240
+77378,Magnetite Shard,Consumable,0,Rare,92
+77379,Soul Mirror,Trophy,0,Exotic,264
+77380,Malicious Talisman of Irwyn,Trinket,80,Ascended,660
+77381,Chest of Shields,Container,0,Ascended,320
+77382,Sabetha's Defender Breastplate,Armor,80,Ascended,240
+77383,Multifarious Malicious Tassets,Armor,80,Ascended,240
+77384,Spirit Strings,Trophy,0,Exotic,264
+77385,Mini Kernan,MiniPet,0,Exotic,50
+77387,Malicious Guardian Footwear,Armor,80,Ascended,240
+77388,Chest of Spears,Container,0,Ascended,320
+77389,Mini Red Spark,MiniPet,0,Masterwork,50
+77390,Defender's Energized Loop,Trinket,80,Ascended,495
+77391,Sabetha's Healer Doublet,Armor,80,Ascended,240
+77392,Chest of Experimental Armor,Container,0,Exotic,0
+77393,The Anthem of Adventure,Consumable,0,Basic,0
+77394,Ghostly Infusion,UpgradeComponent,0,Exotic,32
+77395,Sabetha's Malicious Doublet,Armor,80,Ascended,240
+77396,Sabetha's Assaulter Boomstick,Weapon,80,Ascended,10000
+77397,Bloodbound Greatsword,Weapon,0,Rare,0
+77398,Coagulated Ectoplasm,Trophy,0,Exotic,264
+77399,The Anthem of Jubilance,Consumable,0,Basic,0
+77400,Chest of Longbows,Container,0,Ascended,320
+77402,Spirit Quest Tonic,Gizmo,0,Exotic,264
+77403,Mini Blue Guardian,MiniPet,0,Exotic,50
+77404,Bloodbound Scepter,Weapon,0,Rare,0
+77405,Plasma Shield Skin,Consumable,0,Rare,0
+77406,Multifarious Defender Leggings,Armor,80,Ascended,240
+77407,Plasma Axe Skin,Consumable,0,Rare,0
+77408,Sabetha's Defender Guise,Armor,80,Ascended,240
+77409,Sabetha's Healer Guise,Armor,80,Ascended,240
+77410,Assaulter's Talisman of Manton,Trinket,80,Ascended,660
+77411,The Anthem of Soldiers,Consumable,0,Basic,0
+77412,Defender's Talisman of Holt,Trinket,80,Ascended,660
+77413,Spectral Juju,Trinket,80,Ascended,413
+77414,Plasma Greatsword Skin,Consumable,0,Rare,0
+77415,Plasma Scepter Skin,Consumable,0,Rare,0
+77416,Vial of Forsaken Thicket Waters,Gizmo,0,Exotic,264
+77417,The Anthem of Dreams,Consumable,0,Basic,0
+77418,Plasma Torch Skin,Consumable,0,Rare,0
+77419,Energized Spirit Thread,Gizmo,0,Exotic,264
+77420,Malicious Guardian Striders,Armor,80,Ascended,240
+77421,Soul of the Keep,Trophy,0,Exotic,264
+77422,Spectral Talisman,Trinket,80,Ascended,413
+77423,Chest of Axes,Container,0,Ascended,320
+77424,Plasma Rifle Skin,Consumable,0,Rare,0
+77425,Sabetha's Assaulter Guise,Armor,80,Ascended,240
+77426,Multifarious Malicious Breeches,Armor,80,Ascended,240
+77427,Assaulter's Sparking Vanquisher,Weapon,80,Ascended,10000
+77428,Chest of Daggers,Container,0,Ascended,320
+77429,Sabetha's Malicious Crucible,Back,80,Ascended,330
+77430,Multifarious Healer Leggings,Armor,80,Ascended,240
+77431,Mushroom Medley,Gizmo,0,Exotic,264
+77432,Chest of Rifles,Container,0,Ascended,320
+77433,Arcane Dust,Gizmo,0,Exotic,264
+77434,Defender's Guardian Footwear,Armor,80,Ascended,240
+77435,Bloodbound Longbow,Weapon,0,Rare,0
+77436,Multifarious Defender Tassets,Armor,80,Ascended,240
+77438,Malicious Spirit Ward,Weapon,80,Ascended,10000
+77439,Bloodstone-Infused Ectoplasm,Trophy,0,Exotic,264
+77440,Assaulter's Guardian Greaves,Armor,80,Ascended,240
+77441,Chest of Scepters,Container,0,Ascended,320
+77442,Chest of Greatswords,Container,0,Ascended,320
+77443,The Anthem of Triumph,Consumable,0,Basic,0
+77444,Assaulter's Spirit Ward,Weapon,80,Ascended,10000
+77445,Bloodstone Fragment,Trophy,0,Exotic,264
+77446,Chest of Maces,Container,0,Ascended,320
+77447,Living Crystal,Trophy,0,Exotic,264
+77448,Spectral Balm,Trinket,80,Ascended,413
+77450,Bloodbound Focus,Weapon,0,Rare,0
+77451,Gift of Craftsmanship,Trophy,0,Legendary,640
+77452,Core of Flame,Trophy,0,Exotic,264
 77453,Healer's Spirit Ward,Weapon,80,Ascended,10000
 77454,Defender's Sparking Vanquisher,Weapon,80,Ascended,10000
 77455,Chest of Foci,Container,0,Ascended,320
