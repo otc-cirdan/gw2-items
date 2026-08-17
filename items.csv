@@ -28399,6 +28399,206 @@ id,name,type,level,rarity,vendor_value
 37439,Soldier's Aurora Shoes,Armor,80,Exotic,264
 37440,Soldier's Aurora Garb,Armor,80,Exotic,396
 37441,Magi's Iron Mace,Weapon,80,Rare,198
+37443,Soldier's Aurora Gloves,Armor,80,Exotic,238
+37444,Soldier's Aurora Helm,Armor,80,Exotic,330
+37446,Soldier's Aurora Leggings,Armor,80,Exotic,370
+37447,Cavalier's Iron Pistol,Weapon,80,Rare,198
+37448,Soldier's Aurora Mantle,Armor,80,Exotic,291
+37451,Magi's Iron Pistol,Weapon,80,Masterwork,132
+37453,Magi's Iron Pistol,Weapon,80,Rare,198
+37455,Magi's Wolfborn Pistol,Weapon,80,Exotic,264
+37462,Cavalier's Privateer Boots,Armor,80,Masterwork,132
+37463,Soldier's Iron Pistol,Weapon,80,Masterwork,132
+37465,Cavalier's Privateer Coat,Armor,80,Masterwork,198
+37466,Cavalier's Privateer Gloves,Armor,80,Masterwork,119
+37468,Rabid Iron Pistol,Weapon,80,Masterwork,132
+37469,Cavalier's Privateer Hat,Armor,80,Masterwork,165
+37470,Cavalier's Privateer Pants,Armor,80,Masterwork,185
+37471,Rabid Iron Pistol,Weapon,80,Rare,198
+37472,Cavalier's Privateer Shoulders,Armor,80,Masterwork,146
+37474,Privateer Boots,Armor,80,Masterwork,132
+37475,Cavalier's Iron Rifle,Weapon,80,Masterwork,198
+37477,Privateer Coat,Armor,80,Masterwork,198
+37479,Cavalier's Iron Rifle,Weapon,80,Rare,297
+37480,Iron Rifle,Weapon,80,Masterwork,198
+37485,Privateer Shoulders,Armor,80,Masterwork,146
+37486,Soldier's Privateer Boots,Armor,80,Masterwork,132
+37487,Soldier's Iron Rifle,Weapon,80,Masterwork,198
+37488,Soldier's Privateer Coat,Armor,80,Masterwork,198
+37489,Soldier's Wolfborn Rifle,Weapon,80,Exotic,396
+37490,Soldier's Iron Rifle,Weapon,80,Rare,297
+37491,Soldier's Privateer Gloves,Armor,80,Masterwork,119
+37493,Soldier's Privateer Hat,Armor,80,Masterwork,165
+37495,Soldier's Privateer Pants,Armor,80,Masterwork,185
+37496,Rabid Iron Rifle,Weapon,80,Rare,297
+37497,Rabid Privateer Boots,Armor,80,Masterwork,132
+37498,Magi's Iron Rifle,Weapon,80,Masterwork,198
+37499,Rabid Privateer Coat,Armor,80,Masterwork,198
+37500,Rabid Privateer Gloves,Armor,80,Masterwork,119
+37502,Rabid Privateer Hat,Armor,80,Masterwork,165
+37503,Magi's Iron Rifle,Weapon,80,Rare,297
+37504,Rabid Privateer Pants,Armor,80,Masterwork,185
+37506,Rabid Privateer Shoulders,Armor,80,Masterwork,146
+37508,Magi's Privateer Boots,Armor,80,Masterwork,132
+37509,Cavalier's Soft Wood Scepter,Weapon,80,Rare,198
+37511,Magi's Privateer Coat,Armor,80,Masterwork,198
+37512,Magi's Privateer Gloves,Armor,80,Masterwork,119
+37514,Magi's Privateer Hat,Armor,80,Masterwork,165
+37515,Magi's Soft Wood Scepter,Weapon,80,Rare,198
+37516,Magi's Privateer Pants,Armor,80,Masterwork,185
+37519,Magi's Privateer Shoulders,Armor,80,Masterwork,146
+37521,Cavalier's Armageddon Greaves,Armor,80,Exotic,264
+37522,Cavalier's Armageddon Breastplate,Armor,80,Exotic,396
+37524,Cavalier's Armageddon Gauntlets,Armor,80,Exotic,238
+37526,Cavalier's Armageddon Helm,Armor,80,Exotic,330
+37527,Soldier's Soft Wood Scepter,Weapon,80,Rare,198
+37529,Cavalier's Armageddon Leggings,Armor,80,Exotic,370
+37530,Cavalier's Armageddon Pauldrons,Armor,80,Exotic,291
+37533,Rabid Soft Wood Scepter,Weapon,80,Rare,198
+37534,Cavalier's Iron Shield,Weapon,80,Masterwork,132
+37538,Cavalier's Iron Shield,Weapon,80,Rare,198
+37544,Iron Shield,Weapon,80,Rare,198
+37545,Soldier's Armageddon Greaves,Armor,80,Exotic,264
+37546,Rabid Iron Shield,Weapon,80,Masterwork,132
+37547,Soldier's Armageddon Breastplate,Armor,80,Exotic,396
+37548,Soldier's Armageddon Gauntlets,Armor,80,Exotic,238
+37550,Soldier's Armageddon Helm,Armor,80,Exotic,330
+37551,Rabid Iron Shield,Weapon,80,Rare,198
+37552,Soldier's Armageddon Leggings,Armor,80,Exotic,370
+37553,Soldier's Iron Shield,Weapon,80,Masterwork,132
+37555,Soldier's Armageddon Pauldrons,Armor,80,Exotic,291
+37556,Rabid Armageddon Greaves,Armor,80,Exotic,264
+37557,Soldier's Iron Shield,Weapon,80,Rare,198
+37558,Magi's Iron Shield,Weapon,80,Masterwork,132
+37559,Rabid Armageddon Breastplate,Armor,80,Exotic,396
+37560,Rabid Armageddon Gauntlets,Armor,80,Exotic,238
+37562,Rabid Armageddon Helm,Armor,80,Exotic,330
+37563,Magi's Iron Shield,Weapon,80,Rare,198
+37564,Rabid Armageddon Leggings,Armor,80,Exotic,370
+37565,Cavalier's Soft Wood Short Bow,Weapon,80,Masterwork,198
+37566,Rabid Armageddon Pauldrons,Armor,80,Exotic,291
+37568,Cavalier's Soft Wood Short Bow,Weapon,80,Rare,297
+37569,Magi's Armageddon Greaves,Armor,80,Exotic,264
+37570,Soft Wood Short Bow,Weapon,80,Rare,297
+37571,Magi's Armageddon Breastplate,Armor,80,Exotic,396
+37573,Magi's Armageddon Gauntlets,Armor,80,Exotic,238
+37574,Magi's Armageddon Helm,Armor,80,Exotic,330
+37576,Soldier's Soft Wood Short Bow,Weapon,80,Rare,297
+37577,Magi's Armageddon Leggings,Armor,80,Exotic,370
+37578,Magi's Armageddon Pauldrons,Armor,80,Exotic,291
+37579,Soldier's Soft Wood Short Bow,Weapon,80,Masterwork,198
+37580,Cavalier's Banded Greaves,Armor,80,Rare,198
+37582,Cavalier's Banded Coat,Armor,80,Rare,297
+37584,Cavalier's Banded Gauntlets,Armor,80,Rare,179
+37587,Cavalier's Banded Helm,Armor,80,Rare,248
+37588,Rabid Soft Wood Short Bow,Weapon,80,Rare,297
+37589,Cavalier's Banded Legs,Armor,80,Rare,278
+37591,Cavalier's Banded Pauldrons,Armor,80,Rare,218
+37592,Magi's Banded Greaves,Armor,80,Rare,198
+37594,Cavalier's Steam Speargun,Weapon,80,Masterwork,198
+37595,Magi's Banded Coat,Armor,80,Rare,297
+37596,Magi's Banded Gauntlets,Armor,80,Rare,179
+37597,Cavalier's Steam Speargun,Weapon,80,Rare,297
+37599,Magi's Banded Helm,Armor,80,Rare,248
+37601,Magi's Banded Legs,Armor,80,Rare,278
+37603,Magi's Banded Pauldrons,Armor,80,Rare,218
+37604,Rabid Banded Greaves,Armor,80,Rare,198
+37606,Soldier's Steam Speargun,Weapon,80,Masterwork,198
+37607,Rabid Banded Coat,Armor,80,Rare,297
+37609,Rabid Banded Gauntlets,Armor,80,Rare,179
+37610,Rabid Banded Helm,Armor,80,Rare,248
+37612,Soldier's Steam Speargun,Weapon,80,Masterwork,198
+37613,Rabid Banded Legs,Armor,80,Rare,278
+37614,Soldier's Steam Speargun,Weapon,80,Rare,297
+37615,Rabid Banded Pauldrons,Armor,80,Rare,218
+37616,Soldier's Banded Greaves,Armor,80,Rare,198
+37618,Soldier's Banded Coat,Armor,80,Rare,297
+37619,Magi's Steam Speargun,Weapon,80,Masterwork,198
+37620,Soldier's Banded Gauntlets,Armor,80,Rare,179
+37621,Magi's Steam Speargun,Weapon,80,Rare,297
+37623,Soldier's Banded Helm,Armor,80,Rare,248
+37624,Soldier's Banded Legs,Armor,80,Rare,278
+37625,Cavalier's Soft Wood Staff,Weapon,80,Masterwork,198
+37626,Soldier's Banded Pauldrons,Armor,80,Rare,218
+37628,Banded Greaves,Armor,80,Rare,198
+37629,Cavalier's Soft Wood Staff,Weapon,80,Rare,297
+37631,Soft Wood Staff,Weapon,80,Masterwork,198
+37633,Banded Gauntlets,Armor,80,Rare,179
+37637,Soldier's Soft Wood Staff,Weapon,80,Masterwork,198
+37640,Soldier's Soft Wood Staff,Weapon,80,Rare,297
+37641,Cavalier's Reinforced Scale Boots,Armor,80,Masterwork,132
+37642,Cavalier's Reinforced Scale Coat,Armor,80,Masterwork,198
+37643,Rabid Soft Wood Staff,Weapon,80,Masterwork,198
+37644,Cavalier's Reinforced Scale Gauntlets,Armor,80,Masterwork,119
+37646,Cavalier's Reinforced Scale Helm,Armor,80,Masterwork,165
+37647,Rabid Soft Wood Staff,Weapon,80,Rare,297
+37649,Cavalier's Reinforced Scale Legs,Armor,80,Masterwork,185
+37650,Cavalier's Reinforced Scale Pauldrons,Armor,80,Masterwork,146
+37652,Magi's Reinforced Scale Boots,Armor,80,Masterwork,132
+37653,Magi's Soft Wood Staff,Weapon,80,Rare,297
+37654,Cavalier's Iron Sword,Weapon,80,Masterwork,132
+37655,Magi's Reinforced Scale Coat,Armor,80,Masterwork,198
+37657,Magi's Reinforced Scale Gauntlets,Armor,80,Masterwork,119
+37658,Magi's Reinforced Scale Helm,Armor,80,Masterwork,165
+37659,Cavalier's Iron Sword,Weapon,80,Rare,198
+37660,Soldier's Iron Sword,Weapon,80,Masterwork,132
+37661,Magi's Reinforced Scale Legs,Armor,80,Masterwork,185
+37663,Magi's Reinforced Scale Pauldrons,Armor,80,Masterwork,146
+37664,Rabid Reinforced Scale Boots,Armor,80,Masterwork,132
+37665,Soldier's Iron Sword,Weapon,80,Rare,198
+37666,Rabid Reinforced Scale Coat,Armor,80,Masterwork,198
+37669,Rabid Reinforced Scale Gauntlets,Armor,80,Masterwork,119
+37670,Rabid Reinforced Scale Helm,Armor,80,Masterwork,165
+37672,Rabid Reinforced Scale Legs,Armor,80,Masterwork,185
+37673,Magi's Iron Sword,Weapon,80,Masterwork,132
+37675,Rabid Reinforced Scale Pauldrons,Armor,80,Masterwork,146
+37676,Magi's Iron Sword,Weapon,80,Rare,198
+37677,Soldier's Reinforced Scale Boots,Armor,80,Masterwork,132
+37678,Rabid Iron Sword,Weapon,80,Masterwork,132
+37679,Soldier's Reinforced Scale Coat,Armor,80,Masterwork,198
+37681,Soldier's Reinforced Scale Gauntlets,Armor,80,Masterwork,119
+37682,Rabid Iron Sword,Weapon,80,Rare,198
+37683,Soldier's Reinforced Scale Helm,Armor,80,Masterwork,165
+37684,Soldier's Reinforced Scale Legs,Armor,80,Masterwork,185
+37685,Cavalier's Soft Wood Torch,Weapon,80,Masterwork,132
+37686,Soldier's Reinforced Scale Pauldrons,Armor,80,Masterwork,146
+37687,Cavalier's Wolfborn Torch,Weapon,80,Exotic,264
+37688,Cavalier's Soft Wood Torch,Weapon,80,Rare,198
+37689,Reinforced Scale Boots,Armor,80,Masterwork,132
+37693,Reinforced Scale Gauntlets,Armor,80,Masterwork,119
+37694,Reinforced Scale Helm,Armor,80,Masterwork,165
+37696,Reinforced Scale Legs,Armor,80,Masterwork,185
+37697,Soldier's Soft Wood Torch,Weapon,80,Rare,198
+37698,Reinforced Scale Pauldrons,Armor,80,Masterwork,146
+37699,Soldier's Soft Wood Torch,Weapon,80,Masterwork,132
+37700,Soldier's Wolfborn Torch,Weapon,80,Exotic,264
+37701,Wayfarer's Ring,Trinket,80,Exotic,396
+37702,Wayfarer's Ring,Trinket,80,Masterwork,198
+37703,Magi's Soft Wood Torch,Weapon,80,Rare,198
+37704,Magi's Soft Wood Torch,Weapon,80,Masterwork,132
+37705,Wayfarer's Ring,Trinket,80,Rare,297
+37706,Cavalier's Ring,Trinket,80,Exotic,396
+37709,Cavalier's Ring,Trinket,80,Masterwork,198
+37710,Cavalier's Ring,Trinket,80,Rare,297
+37711,Rabid Soft Wood Torch,Weapon,80,Masterwork,132
+37713,Magi's Ring,Trinket,80,Exotic,396
+37714,Magi's Ring,Trinket,80,Masterwork,198
+37715,Cavalier's Black Earth Trident,Weapon,80,Masterwork,198
+37716,Magi's Ring,Trinket,80,Rare,297
+37717,Cavalier's Black Earth Trident,Weapon,80,Rare,297
+37718,Rabid Ring,Trinket,80,Exotic,396
+37721,Rabid Ring,Trinket,80,Masterwork,198
+37722,Black Earth Trident,Weapon,80,Rare,297
+37723,Rabid Ring,Trinket,80,Rare,297
+37724,Soldier's Ring,Trinket,80,Exotic,396
+37726,Soldier's Ring,Trinket,80,Masterwork,198
+37728,Soldier's Ring,Trinket,80,Rare,297
+37729,Soldier's Black Earth Trident,Weapon,80,Rare,297
+37730,Wayfarer's Amulet,Trinket,80,Masterwork,264
+37733,Wayfarer's Amulet,Trinket,80,Rare,396
+37734,Rabid Black Earth Trident,Weapon,80,Rare,297
+37735,Wayfarer's Amulet,Trinket,80,Exotic,528
+37737,Cavalier's Amulet,Trinket,80,Exotic,528
 37738,Magi's Black Earth Trident,Weapon,80,Masterwork,198
 37739,Cavalier's Amulet,Trinket,80,Masterwork,264
 37740,Magi's Black Earth Trident,Weapon,80,Rare,297
@@ -33599,206 +33799,6 @@ id,name,type,level,rarity,vendor_value
 46299,Hunter's Steel Shield,Weapon,40,Fine,38
 46300,Hunter's Steel Shield,Weapon,50,Masterwork,90
 46301,Hunter's Dredge Barricade,Weapon,50,Rare,135
-46302,Assassin's Darksteel Shield,Weapon,60,Fine,52
-46303,Assassin's Darksteel Shield,Weapon,65,Masterwork,110
-46304,Assassin's Ogre Bulwark,Weapon,65,Rare,165
-46305,Assassin's Mithril Shield,Weapon,75,Fine,62
-46306,Assassin's Mithril Shield,Weapon,80,Masterwork,132
-46307,Assassin's Krait Shell,Weapon,80,Rare,198
-46308,Assassin's Pearl Shell,Weapon,80,Exotic,264
-46309,Hunter's Iron Axe,Weapon,25,Fine,27
-46310,Hunter's Iron Axe,Weapon,35,Masterwork,68
-46311,Hunter's Bandit Cleaver,Weapon,35,Rare,102
-46312,Hunter's Steel Axe,Weapon,40,Fine,38
-46313,Hunter's Steel Axe,Weapon,50,Masterwork,90
-46314,Hunter's Dredge Bonehewer,Weapon,50,Rare,135
-46315,Assassin's Darksteel Axe,Weapon,60,Fine,52
-46316,Assassin's Darksteel Axe,Weapon,65,Masterwork,110
-46317,Assassin's Ogre Cleaver,Weapon,65,Rare,165
-46318,Assassin's Mithril Axe,Weapon,75,Fine,62
-46319,Assassin's Mithril Axe,Weapon,80,Masterwork,132
-46320,Assassin's Krait Battleaxe,Weapon,80,Rare,198
-46321,Assassin's Pearl Reaver,Weapon,80,Exotic,264
-46322,Hunter's Iron Greatsword,Weapon,25,Fine,41
-46323,Hunter's Iron Greatsword,Weapon,35,Masterwork,102
-46324,Hunter's Bandit Sunderer,Weapon,35,Rare,153
-46325,Hunter's Steel Greatsword,Weapon,40,Fine,57
-46326,Hunter's Steel Greatsword,Weapon,50,Masterwork,135
-46327,Hunter's Dredge Sunderer,Weapon,50,Rare,203
-46328,Assassin's Darksteel Greatsword,Weapon,60,Fine,78
-46329,Assassin's Darksteel Greatsword,Weapon,65,Masterwork,165
-46330,Assassin's Ogre Longsword,Weapon,65,Rare,248
-46331,Assassin's Mithril Greatsword,Weapon,75,Fine,93
-46332,Assassin's Mithril Greatsword,Weapon,80,Masterwork,198
-46333,Assassin's Krait Slayer,Weapon,80,Rare,297
-46334,Assassin's Pearl Broadsword,Weapon,80,Exotic,396
-46335,Hunter's Iron Hammer,Weapon,25,Fine,41
-46336,Hunter's Iron Hammer,Weapon,35,Masterwork,102
-46337,Hunter's Bandit Demolisher,Weapon,35,Rare,153
-46338,Hunter's Steel Hammer,Weapon,40,Fine,57
-46339,Hunter's Steel Hammer,Weapon,50,Masterwork,135
-46340,Hunter's Dredge Pulverizer,Weapon,50,Rare,203
-46341,Assassin's Darksteel Hammer,Weapon,60,Fine,78
-46342,Assassin's Darksteel Hammer,Weapon,65,Masterwork,165
-46343,Assassin's Ogre Breaker,Weapon,65,Rare,248
-46344,Assassin's Mithril Hammer,Weapon,75,Fine,93
-46345,Assassin's Mithril Hammer,Weapon,80,Masterwork,198
-46346,Assassin's Krait Warhammer,Weapon,80,Rare,297
-46347,Assassin's Pearl Crusher,Weapon,80,Exotic,396
-46348,Hunter's Iron Spear,Weapon,25,Fine,41
-46349,Hunter's Iron Spear,Weapon,35,Masterwork,102
-46350,Hunter's Bandit Spear,Weapon,35,Rare,153
-46351,Hunter's Steel Spear,Weapon,40,Fine,57
-46352,Hunter's Steel Spear,Weapon,50,Masterwork,135
-46353,Hunter's Dredge Spear,Weapon,50,Rare,203
-46354,Assassin's Darksteel Spear,Weapon,60,Fine,78
-46355,Assassin's Darksteel Spear,Weapon,65,Masterwork,165
-46356,Assassin's Ogre Javelin,Weapon,65,Rare,248
-46357,Assassin's Mithril Spear,Weapon,75,Fine,93
-46358,Assassin's Mithril Spear,Weapon,80,Masterwork,198
-46359,Assassin's Krait Pilum,Weapon,80,Rare,297
-46360,Assassin's Pearl Impaler,Weapon,80,Exotic,396
-46380,Dire Privateer Boots,Armor,80,Rare,198
-46381,Dire Privateer Coat,Armor,80,Rare,297
-46382,Dire Privateer Gloves,Armor,80,Rare,179
-46383,Dire Privateer Hat,Armor,78,Rare,240
-46384,Dire Privateer Pants,Armor,80,Rare,278
-46385,Dire Privateer Shoulders,Armor,80,Rare,218
-46386,Dire Cabalist Boots,Armor,80,Rare,198
-46387,Dire Cabalist Coat,Armor,80,Rare,297
-46388,Dire Cabalist Gloves,Armor,80,Rare,179
-46389,Dire Cabalist Hood,Armor,78,Rare,240
-46390,Dire Cabalist Legs,Armor,80,Rare,278
-46391,Dire Cabalist Shoulders,Armor,80,Rare,218
-46392,Dire Reinforced Scale Boots,Armor,80,Rare,198
-46393,Dire Reinforced Scale Coat,Armor,80,Rare,297
-46394,Dire Reinforced Scale Gauntlets,Armor,80,Rare,179
-46395,Dire Reinforced Scale Helm,Armor,78,Rare,240
-46396,Dire Reinforced Scale Legs,Armor,80,Rare,278
-46397,Dire Reinforced Scale Pauldrons,Armor,80,Rare,218
-46398,Inquest Axe,Weapon,80,Exotic,264
-46399,Inquest Longbow,Weapon,80,Exotic,396
-46400,Inquest Short Bow,Weapon,80,Exotic,396
-46401,Inquest Dagger,Weapon,80,Exotic,264
-46402,Inquest Focus,Weapon,80,Exotic,264
-46403,Inquest Greatsword,Weapon,80,Exotic,396
-46404,Inquest Hammer,Weapon,80,Exotic,396
-46405,Inquest Harpoon,Weapon,80,Exotic,396
-46406,Inquest Mace,Weapon,80,Exotic,264
-46407,Inquest Pistol,Weapon,80,Exotic,264
-46408,Inquest Rifle,Weapon,80,Exotic,396
-46409,Inquest Scepter,Weapon,80,Exotic,264
-46410,Inquest Shield,Weapon,80,Exotic,264
-46411,Inquest Speargun,Weapon,80,Exotic,396
-46412,Inquest Staff,Weapon,80,Exotic,396
-46413,Inquest Sword,Weapon,80,Exotic,264
-46414,Inquest Torch,Weapon,80,Exotic,264
-46415,Inquest Trident,Weapon,80,Exotic,396
-46416,Inquest Warhorn,Weapon,80,Exotic,264
-46417,Inquest Boots,Armor,80,Exotic,264
-46418,Inquest Guise,Armor,80,Exotic,396
-46419,Inquest Bracers,Armor,80,Exotic,238
-46420,Inquest Hood,Armor,80,Exotic,330
-46421,Inquest Leggings,Armor,80,Exotic,370
-46422,Inquest Shoulders,Armor,80,Exotic,291
-46423,Inquest Shoes,Armor,80,Exotic,264
-46424,Inquest Vest,Armor,80,Exotic,396
-46425,Inquest Wraps,Armor,80,Exotic,238
-46426,Inquest Circlets,Armor,80,Exotic,330
-46427,Inquest Breeches,Armor,80,Exotic,370
-46428,Inquest Mantle,Armor,80,Exotic,291
-46429,Inquest Greaves,Armor,80,Exotic,264
-46430,Inquest Breastplate,Armor,80,Exotic,396
-46431,Inquest Gauntlets,Armor,80,Exotic,238
-46432,Inquest Helm,Armor,80,Exotic,330
-46433,Inquest Legguards,Armor,80,Exotic,370
-46434,Inquest Pauldrons,Armor,80,Exotic,291
-46435,Ghostly Spineguard,Back,35,Masterwork,68
-46436,Ghostly Spineguard,Back,45,Masterwork,82
-46437,Ghostly Spineguard,Back,55,Masterwork,96
-46438,Ghostly Spineguard,Back,45,Rare,123
-46439,Ghostly Spineguard,Back,55,Rare,144
-46440,Caudecus's Journal,Trinket,45,Masterwork,103
-46442,Caudecus's Journal,Trinket,45,Rare,154
-46444,Ghost Eater's Hide,Back,80,Exotic,264
-46445,Ghostly Spineguard,Back,65,Masterwork,110
-46446,Ghostly Spineguard,Back,75,Masterwork,124
-46447,Ghostly Spineguard,Back,80,Masterwork,132
-46448,Ghostly Spineguard,Back,65,Rare,165
-46449,Ghostly Spineguard,Back,75,Rare,186
-46450,Ghostly Spineguard,Back,80,Rare,198
-46451,Stargazer Pendant,Trinket,80,Exotic,528
-46452,Coral Pendant,Trinket,80,Masterwork,264
-46453,Coral Pendant,Trinket,80,Rare,396
-46454,Vallog's Demise,Trinket,80,Exotic,330
-46461,Ring of Blood,Trinket,80,Exotic,396
-46462,Arctic Ring,Trinket,80,Masterwork,198
-46463,Arctic Ring,Trinket,80,Rare,297
-46464,Alpha Conduit,Trinket,80,Exotic,528
-46465,Diffraction Crystal,Trinket,80,Masterwork,264
-46466,Diffraction Crystal,Trinket,80,Rare,396
-46467,Sam,Trinket,80,Exotic,330
-46468,All Seeing,Trinket,80,Exotic,528
-46490,Plush Moto Backpack,Back,0,Masterwork,0
-46492,Plush Moto Backpack Cover,Consumable,0,Masterwork,250
-46493,Plush Moto Backpack Cover,Container,0,Masterwork,0
-46494,Mini Super Banana,MiniPet,0,Masterwork,50
-46495,Mini Super Raccoon,MiniPet,0,Masterwork,50
-46496,Mini Super Yeti,MiniPet,0,Masterwork,50
-46497,Mini Super Assassin,MiniPet,0,Masterwork,50
-46498,Mini Super Trio—World 2,Container,0,Masterwork,0
-46499,Infinite Continue Coin,Trophy,0,Masterwork,0
-46500,World 1 Super Boom Box,Gizmo,0,Rare,0
-46504,World 2 Super Boom Box,Gizmo,0,Rare,0
-46506,King Toad Z-1,Trophy,0,Masterwork,20
-46507,Storm Wizard Z-1,Trophy,0,Masterwork,20
-46508,King Toad Z-2,Trophy,0,Masterwork,20
-46509,King Toad Z-3,Trophy,0,Masterwork,20
-46510,Storm Wizard Z-2,Trophy,0,Masterwork,20
-46511,Storm Wizard Z-3,Trophy,0,Masterwork,20
-46512,Super Mace Skin,Consumable,0,Masterwork,0
-46515,Super Axe Skin,Consumable,0,Masterwork,0
-46518,Super Warhorn Skin,Consumable,0,Masterwork,0
-46521,Super Focus Skin,Consumable,0,Masterwork,0
-46524,Super Torch Skin,Consumable,0,Masterwork,0
-46527,Super Pistol Skin,Consumable,0,Masterwork,0
-46530,Super Rifle Skin,Consumable,0,Masterwork,0
-46533,Super Dagger Skin,Consumable,0,Masterwork,0
-46536,Super Hammer Skin,Consumable,0,Masterwork,0
-46539,Super Mace Skin,Consumable,0,Rare,0
-46540,Super Axe Skin,Consumable,0,Rare,0
-46541,Super Warhorn Skin,Consumable,0,Rare,0
-46542,Super Focus Skin,Consumable,0,Rare,0
-46543,Super Torch Skin,Consumable,0,Rare,0
-46544,Super Pistol Skin,Consumable,0,Rare,0
-46545,Super Rifle Skin,Consumable,0,Rare,0
-46546,Super Dagger Skin,Consumable,0,Rare,0
-46547,Super Hammer Skin,Consumable,0,Rare,0
-46548,King Toad's Mace Skin,Consumable,0,Masterwork,0
-46551,King Toad's Axe Skin,Consumable,0,Masterwork,0
-46554,King Toad's Warhorn Skin,Consumable,0,Masterwork,0
-46557,King Toad's Focus Skin,Consumable,0,Masterwork,0
-46560,King Toad's Torch Skin,Consumable,0,Masterwork,0
-46563,King Toad's Pistol Skin,Consumable,0,Masterwork,0
-46566,King Toad's Rifle Skin,Consumable,0,Masterwork,0
-46569,King Toad's Dagger Skin,Consumable,0,Masterwork,0
-46572,King Toad's Hammer Skin,Consumable,0,Masterwork,0
-46575,King Toad's Greatsword Skin,Consumable,0,Masterwork,0
-46578,King Toad's Longbow Skin,Consumable,0,Masterwork,0
-46581,King Toad's Scepter Skin,Consumable,0,Masterwork,0
-46584,King Toad's Shield Skin,Consumable,0,Masterwork,0
-46587,King Toad's Short Bow Skin,Consumable,0,Masterwork,0
-46590,King Toad's Staff Skin,Consumable,0,Masterwork,0
-46593,King Toad's Sword Skin,Consumable,0,Masterwork,0
-46596,Storm Wizard's Mace Skin,Consumable,0,Masterwork,0
-46599,Storm Wizard's Axe Skin,Consumable,0,Masterwork,0
-46602,Storm Wizard's Warhorn Skin,Consumable,0,Masterwork,0
-46605,Storm Wizard's Focus Skin,Consumable,0,Masterwork,0
-46608,Storm Wizard's Torch Skin,Consumable,0,Masterwork,0
-46611,Storm Wizard's Pistol Skin,Consumable,0,Masterwork,0
-46614,Storm Wizard's Rifle Skin,Consumable,0,Masterwork,0
-46617,Storm Wizard's Dagger Skin,Consumable,0,Masterwork,0
-46620,Storm Wizard's Hammer Skin,Consumable,0,Masterwork,0
 46623,Storm Wizard's Greatsword Skin,Consumable,0,Masterwork,0
 46626,Storm Wizard's Longbow Skin,Consumable,0,Masterwork,0
 46629,Storm Wizard's Scepter Skin,Consumable,0,Masterwork,0
@@ -63199,206 +63199,6 @@ id,name,type,level,rarity,vendor_value
 95545,Abyss Stalker Dagger Skin,Consumable,0,Rare,0
 95546,Abyss Stalker Sword Skin,Consumable,0,Rare,0
 95547,Shatterspark Cape,Consumable,0,Masterwork,6250
-95548,White Tiger Short Bow Skin,Consumable,0,Rare,0
-95549,Primal Tiger Hood,Armor,80,Exotic,330
-95550,Wintersday Weapon Chest,Container,0,Exotic,0
-95551,Abyss Stalker Focus Skin,Consumable,0,Rare,0
-95552,Abyss Stalker Greatsword Skin,Consumable,0,Rare,0
-95553,Abyss Stalker Shield Skin,Consumable,0,Rare,0
-95554,Abyss Stalker Mace Skin,Consumable,0,Rare,0
-95555,White Tiger Axe Skin,Consumable,0,Rare,0
-95556,Turrón Slice,Consumable,20,Masterwork,0
-95557,White Tiger Pistol Skin,Consumable,0,Rare,0
-95558,Abyss Stalker Scepter Skin,Consumable,0,Rare,0
-95559,Shatterspark Sword Skin,Consumable,0,Rare,0
-95560,Aurene Wings Backpack and Glider Combo,Consumable,0,Masterwork,0
-95561,Crescent Steel,Weapon,80,Exotic,264
-95562,White Tiger Focus Skin,Consumable,0,Rare,0
-95563,White Tiger Torch Skin,Consumable,0,Rare,0
-95564,Foefire Mask Helm Skin,Consumable,0,Masterwork,0
-95565,Toymaker's Machine,Consumable,0,Basic,0
-95566,Wintergreen Custom Candy Cane Hammer,Weapon,80,Exotic,396
-95567,Ravensoul Greatsword Skin,Consumable,0,Rare,0
-95568,Plush Jorms,Trinket,80,Ascended,413
-95570,White Tiger Hammer Skin,Consumable,0,Rare,0
-95571,White Tiger Dagger Skin,Consumable,0,Rare,0
-95572,Golden Tiger Figurine,Trophy,0,Junk,8888
-95573,Diamond Throne,Gizmo,0,Rare,0
-95574,White Tiger Jackal Skin,Consumable,0,Exotic,0
-95575,White Tiger Mace Skin,Consumable,0,Rare,0
-95576,Lunar Backpack,Consumable,0,Masterwork,0
-95577,White Tiger Scepter Skin,Consumable,0,Rare,0
-95578,Lucky Tiger Lantern,Back,65,Rare,888
-95579,Aurene Wings Glider,Consumable,0,Masterwork,0
-95580,Jar of Fish Eggs,Container,0,Fine,64
-95582,Scavenger Protocol: Might Trophies,JadeTechModule,80,Exotic,256
-95583,Suun's Greaves,Armor,80,Ascended,240
-95584,Royal Featherback,Container,0,Ascended,320
-95586,Angler Hat Skin,Consumable,0,Exotic,0
-95587,End of Dragons Launch Supply Drop: Week One,Container,0,Rare,0
-95592,Return the Jade Dragon Statuette to its keeper.,Gizmo,0,Rare,0
-95594,Recipe: Jade Tech Hat,Consumable,0,Exotic,6000
-95595,Recipe: Jade Tech Dagger,Consumable,0,Exotic,128
-95596,Knifefish,Container,0,Fine,64
-95598,Specter's Trinket,Trinket,80,Exotic,330
-95599,Notes on Jade Tech,Consumable,80,Exotic,132
-95600,Sea Robin,Container,0,Exotic,256
-95602,Bent Horseshoe,Trophy,0,Junk,20
-95603,Spotted Stingray,Container,0,Ascended,320
-95605,Suun's Visor,Armor,80,Ascended,240
-95606,Canthan Backpack,Container,0,Exotic,0
-95608,Paddlefish,Container,0,Rare,192
-95609,Muskellunge,Container,0,Legendary,640
-95612,Aurene's Tail,Weapon,80,Legendary,660
-95614,Recipe: Suun's Shoulderguard,Consumable,0,Ascended,160
-95615,Prayer Bead Wraps Skin,Consumable,0,Masterwork,0
-95617,Ancient Canthan Spaulders Skin,Consumable,80,Rare,9000
-95619,Specter's Stamp,Consumable,80,Exotic,132
-95621,Gift of New Kaineng City,Trophy,0,Legendary,640
-95622,Glow Worm,Gathering,0,Fine,0
-95623,Recipe: Suun's Razor,Consumable,0,Ascended,160
-95624,Fangfish,Container,0,Rare,192
-95625,Turtle Food Fishing List,Consumable,0,Basic,5000
-95626,Suun's Doublet,Armor,80,Ascended,240
-95629,Berserker's Medium Antique Shoes,Armor,80,Exotic,264
-95631,Fortified Precursor Focus Casing,CraftingMaterial,0,Exotic,64
-95632,Chambered Nautilus,Container,0,Legendary,640
-95633,Sea Perch,Container,0,Basic,32
-95634,Crucible,Weapon,80,Exotic,264
-95635,Chest of the Jade Explorer,Container,0,Exotic,0
-95637,Ancient Canthan Heavy Greaves Skin,Consumable,80,Rare,9000
-95638,Mai Trin's Coffer,Container,0,Exotic,0
-95639,Harbinger's Trinket,Trinket,80,Exotic,330
-95641,Starter Kit: The Juggernaut,Container,80,Exotic,264
-95642,Dolphin Tonic,Consumable,0,Masterwork,26
-95643,Attuned Master Mechanist's Ring (Infused),Trinket,80,Ascended,495
-95644,Flame Serpent Sword,Weapon,80,Rare,198
-95645,Bladesworn's Feat,Consumable,80,Exotic,132
-95646,Sheaf of Recipes: Dragon's Wing,Consumable,0,Ascended,160
-95647,Turtle Pilot Booster 3,JadeTechModule,0,Exotic,256
-95648,Red Crane Staff Skin,Consumable,0,Rare,0
-95650,Ritualist's Ancient Canthan Light Boots,Armor,80,Rare,198
-95653,Tips on Fishing,Consumable,0,Basic,0
-95654,Seahorse,Container,0,Rare,192
-95656,Small Fortified Precursor Haft,CraftingMaterial,0,Exotic,64
-95657,Recipe: Jade Orichalcum Earring,Consumable,0,Exotic,132
-95658,Gilded Shadhavar Horn,Consumable,0,Exotic,0
-95663,Fantastic Fish Fillet,CraftingMaterial,80,Exotic,0
-95666,Flame Serpent Dagger,Weapon,80,Rare,198
-95667,Suun's Artifact,Weapon,80,Ascended,10000
-95668,Sockeye,Container,0,Rare,192
-95669,Jade Runestone,Trophy,0,Exotic,256
-95670,Toadfish,Container,0,Masterwork,128
-95671,Uncommon Canach Stash,Container,0,Masterwork,0
-95672,Dragonvoid Cache,Container,0,Basic,0
-95673,Flawless Fish Fillet,CraftingMaterial,80,Ascended,0
-95675,Aurene's Fang,Weapon,80,Legendary,660
-95676,Spindrift Longbow,Weapon,80,Exotic,396
-95677,Speed-Loading Manual,Consumable,80,Exotic,132
-95678,Ritualist's Ancient Kraken Greaves,Armor,80,Exotic,264
-95679,Living Water Longbow,Weapon,80,Ascended,495
-95680,,Consumable,0,Junk,10
-95682,Totemfish,Container,0,Rare,192
-95683,Recipe: Togo's Guise,Consumable,0,Ascended,160
-95684,Aurene's Weight,Weapon,80,Legendary,990
-95687,Jade Punk Rifle,Weapon,80,Ascended,495
-95688,Recipe: Jade Tech Rifle,Consumable,0,Exotic,128
-95689,Bag of Loot,Container,0,Fine,66
-95690,Recipe: Togo's Blade,Consumable,0,Ascended,160
-95691,Kaineng City Fishing License,Consumable,0,Exotic,0
-95692,Writ of Dragon's End,Consumable,0,Basic,0
-95693,Recipe: Suun's Blade,Consumable,0,Ascended,160
-95694,Badge of the Catalyst,Trophy,0,Exotic,5000
-95695,Starter Kit: Incinerator,Container,80,Exotic,264
-95696,Chest of the Jade Explorer,Container,0,Exotic,0
-95697,Ancient Canthan Gloves Skin,Consumable,80,Rare,9000
-95698,Koi Tonic,Consumable,0,Masterwork,26
-95699,Axolotl,Container,0,Ascended,320
-95700,Ancient Canthan Medium Leggings Skin,Consumable,80,Rare,9000
-95701,Endless Cave Crab Tonic,Gizmo,0,Exotic,104
-95702,Recipe: Shadow Serpent Staff,Consumable,0,Exotic,128
-95703,Replica Oni Left Arm,Consumable,80,Exotic,132
-95704,Flame Serpent Hammer,Weapon,80,Rare,297
-95705,Research Notebook,Consumable,0,Masterwork,0
-95706,Flame Serpent Focus,Weapon,80,Rare,198
-95708,Fortified Precursor Longbow Stave,CraftingMaterial,0,Exotic,64
-95709,Jade Tech Scepter,Weapon,80,Exotic,264
-95710,Saltspray Dagger,Weapon,80,Exotic,264
-95711,Recipe: Tier 10 Core,Consumable,0,Exotic,128
-95713,Ritualist's Ancient Canthan Helm,Armor,80,Rare,248
-95714,Togo's Leggings,Armor,80,Ascended,240
-95715,Mini Wallow,MiniPet,0,Masterwork,50
-95716,Ring of Fire Fishing Reward,Container,0,Legendary,640
-95717,Living Water Warhorn,Weapon,80,Ascended,330
-95718,Recipe: Jade Tech Greatsword,Consumable,0,Exotic,128
-95720,Cave Crab Tonic,Consumable,0,Masterwork,26
-95721,Recipe: Ancient Ritualist Pants,Consumable,0,Exotic,6000
-95723,Alabaster Oscar,Container,0,Legendary,640
-95724,Master Bladesworn's Badge,Trinket,80,Ascended,660
-95725,Mini Jade Courier,MiniPet,0,Masterwork,50
-95727,Mini Joon,MiniPet,0,Masterwork,50
-95729,Gourami,Container,0,Fine,64
-95730,Polished-Resin Orichalcum Amulet,Trinket,80,Exotic,528
-95731,Queenfish,Container,0,Ascended,320
-95732,Turtle Saddle Parts List,Consumable,0,Exotic,5000
-95733,Vindicator's Cache,Container,0,Rare,192
-95734,Attuned Master Willbender's Ring (Infused),Trinket,80,Ascended,495
-95735,Badge of the Untamed,Trophy,0,Exotic,5000
-95736,Recipe: Suun's Warhammer,Consumable,0,Ascended,160
-95737,Master Specter's Ring (Infused),Trinket,80,Ascended,495
-95738,"""/Rock"" Emote Tome",Consumable,0,Ascended,0
-95740,Poem on Shields,Trophy,0,Legendary,640
-95742,Jade Tech Hammer,Weapon,80,Exotic,396
-95745,Bowl of Canthan Vegetable Mix,CraftingMaterial,80,Fine,17
-95746,Scavenger Bag: Metal,Container,0,Basic,32
-95747,Seething Terror Stone,Trophy,0,Exotic,256
-95748,Mini Navan,MiniPet,0,Masterwork,50
-95749,Suun's Herald,Weapon,80,Ascended,10000
-95750,Catalyst's Cache,Container,0,Rare,0
-95751,Silver Drum,Container,0,Fine,64
-95754,Recipe: Togo's Spire,Consumable,0,Ascended,160
-95755,Ritualist's Ancient Canthan Light Helm,Armor,80,Rare,248
-95756,Virtuoso's Cache,Container,0,Rare,192
-95758,Ritualist's Ancient Canthan Jacket,Armor,80,Rare,297
-95759,Recipe: Togo's Masque,Consumable,0,Ascended,160
-95760,Ritualist's Ancient Ritualist Cowl,Armor,80,Exotic,330
-95762,Recipe: Turtle Siege Enhancer,Consumable,0,Exotic,128
-95763,Recipe: Jade Tech Gauntlets,Consumable,0,Exotic,6000
-95765,Albino Axolotl,Container,0,Ascended,320
-95766,Icefish,Container,0,Basic,32
-95767,Pockmarked Vase,Trophy,0,Junk,16
-95768,Recipe: Togo's Wristguards,Consumable,0,Ascended,160
-95771,Bounty of New Kaineng City,Container,0,Rare,0
-95773,Canthan Armor Box,Container,0,Basic,0
-95774,Master Untamed's Ring,Trinket,80,Ascended,495
-95775,Endless Aetherblade Mutineer Combat Tonic,Gizmo,0,Exotic,0
-95776,Tahkayun's Edge Skin,Consumable,80,Exotic,132
-95777,Gift of Aurene's Flight,Trophy,0,Legendary,640
-95778,Chest of Canthan Plants,Container,0,Rare,0
-95781,Togo's Reaver,Weapon,80,Ascended,10000
-95782,Crystal Desert Isles Fishing License,Consumable,0,Exotic,0
-95784,Prosperity,Weapon,80,Exotic,396
-95785,Jade Punk Torch,Weapon,80,Ascended,330
-95786,Recipe: Togo's Trident,Consumable,0,Ascended,160
-95787,Recipe: Scavenger Protocol: Might Trophies,Consumable,0,Exotic,128
-95791,Ancient Canthan Coat Skin Box,Container,0,Rare,0
-95792,Shadow Serpent Rifle,Weapon,80,Exotic,396
-95793,Flapjack Octopus,Container,0,Rare,192
-95794,Diamond Trevally,Container,0,Masterwork,128
-95796,Bounty of Dragon's End,Container,0,Rare,0
-95797,Emperor Fish,Container,0,Fine,64
-95800,Scavenger Protocol: Leather,JadeTechModule,80,Rare,192
-95801,Scavenger Protocol: Metal,JadeTechModule,80,Rare,192
-95802,Mount Energy Booster 2,JadeTechModule,80,Rare,192
-95803,End of Dragons Emblem Clothing Outfit,Consumable,0,Rare,0
-95804,Ritualist's Ancient Canthan Light Leggings,Armor,80,Rare,278
-95806,Volatile Explosive Ore Chunk,Trophy,0,Junk,100
-95807,Endless Dragonvoid Combat Tonic,Gizmo,0,Exotic,0
-95808,Aurene's Argument,Weapon,80,Legendary,660
-95809,Poem on Pistols,Trophy,0,Legendary,640
-95810,Crystal Desert Fishing License,Consumable,0,Exotic,0
-95811,Recipe: Shadow Serpent Shield,Consumable,0,Exotic,128
-95813,Hydrocatalytic Reagent,CraftingMaterial,0,Ascended,80
 95814,Dragon's Insight,Weapon,80,Exotic,0
 95816,Antique Porcelain Vase,Trophy,0,Junk,10000
 95818,Mini Void Vinetooth,MiniPet,0,Exotic,0
