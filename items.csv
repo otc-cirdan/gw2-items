@@ -4199,6 +4199,206 @@ id,name,type,level,rarity,vendor_value
 4359,Severed Breach Cowl,Armor,61,Masterwork,130
 4360,Severed Breach Mask,Armor,61,Masterwork,130
 4361,Tactical Pauldrons,Armor,67,Masterwork,124
+4362,Tactical Mantle,Armor,67,Masterwork,124
+4363,Tactical Shoulderpads,Armor,67,Masterwork,124
+4364,Tarstar Gauntlets,Armor,63,Masterwork,98
+4365,Tarstar Handwraps,Armor,63,Masterwork,98
+4366,Tarstar Gloves,Armor,63,Masterwork,98
+4367,Cistern Hydrobreather,Armor,61,Masterwork,130
+4368,Cistern Aquabreather,Armor,61,Masterwork,130
+4369,Cistern Waterbreather,Armor,61,Masterwork,130
+4370,Tarstar Gauntlets,Armor,63,Fine,49
+4371,Tarstar Handwraps,Armor,63,Fine,49
+4372,Tarstar Gloves,Armor,63,Fine,49
+4373,Tactical Pauldrons,Armor,67,Fine,62
+4374,Tactical Mantle,Armor,67,Fine,62
+4375,Tactical Shoulderpads,Armor,67,Fine,62
+4376,Severed Breach Helm,Armor,61,Fine,65
+4377,Severed Breach Cowl,Armor,61,Fine,65
+4378,Severed Breach Mask,Armor,61,Fine,65
+4379,Truyere Tassets,Armor,60,Fine,73
+4380,Truyere Legwraps,Armor,60,Fine,73
+4381,Truyere Leggings,Armor,60,Fine,73
+4382,Enduring Breastplate,Armor,66,Fine,84
+4383,Enduring Garb,Armor,66,Fine,84
+4384,Enduring Coat,Armor,66,Fine,84
+4385,Everburning Greaves,Armor,68,Fine,57
+4386,Everburning Shoes,Armor,68,Fine,57
+4387,Everburning Boots,Armor,68,Fine,57
+4388,Heavy Sentinel's Gloves,Armor,42,Fine,36
+4389,Cloth Sentinel's Gloves,Armor,42,Fine,36
+4390,Leather Sentinel's Gloves,Armor,42,Fine,36
+4391,Heavy Sentinel's Gloves,Armor,42,Masterwork,71
+4392,Cloth Sentinel's Gloves,Armor,42,Masterwork,71
+4393,Leather Sentinel's Gloves,Armor,42,Masterwork,71
+4394,Heavy Duskmade Boots,Armor,48,Fine,43
+4395,Cloth Duskmade Boots,Armor,48,Fine,43
+4396,Leather Duskmade Boots,Armor,48,Fine,43
+4397,Heavy Duskmade Boots,Armor,48,Masterwork,86
+4398,Cloth Duskmade Boots,Armor,48,Masterwork,86
+4399,Leather Duskmade Boots,Armor,48,Masterwork,86
+4400,Heavy Foewatch Leggings,Armor,40,Fine,54
+4401,Light Foewatch Leggings,Armor,40,Fine,54
+4402,Medium Foewatch Leggings,Armor,40,Fine,54
+4403,Heavy Foewatch Leggings,Armor,40,Masterwork,107
+4404,Light Foewatch Leggings,Armor,40,Masterwork,107
+4405,Medium Foewatch Leggings,Armor,40,Masterwork,107
+4406,Sentinel Scout Heavy Helm,Armor,46,Fine,53
+4407,Sentinel Scout Cloth Helm,Armor,46,Fine,53
+4408,Sentinel Scout Leather Helm,Armor,46,Fine,53
+4409,Sentinel Scout Heavy Helm,Armor,46,Masterwork,105
+4410,Sentinel Scout Cloth Helm,Armor,46,Masterwork,105
+4411,Sentinel Scout Leather Helm,Armor,46,Masterwork,105
+4412,Deno's Rebreather,Armor,41,Fine,48
+4413,Deno's Rebreather,Armor,41,Fine,48
+4414,Deno's Rebreather,Armor,41,Fine,48
+4415,Deno's Rebreather,Armor,41,Masterwork,95
+4416,Deno's Rebreather,Armor,41,Masterwork,95
+4417,Deno's Rebreather,Armor,41,Masterwork,95
+4418,Heavy Steeleye Chestpiece,Armor,43,Fine,60
+4419,Light Steeleye Chestpiece,Armor,43,Fine,60
+4420,Medium Steeleye Chestpiece,Armor,43,Fine,60
+4421,Heavy Steeleye Chestpiece,Armor,43,Masterwork,120
+4422,Light Steeleye Chestpiece,Armor,43,Masterwork,120
+4423,Medium Steeleye Chestpiece,Armor,43,Masterwork,120
+4424,Heavy Scout Shoulderguards,Armor,50,Fine,50
+4425,Light Scout Shoulderguards,Armor,50,Fine,50
+4426,Medium Scout Shoulderguards,Armor,50,Fine,50
+4427,Heavy Scout Shoulderguards,Armor,50,Masterwork,99
+4428,Light Scout Shoulderguards,Armor,50,Masterwork,99
+4429,Medium Scout Shoulderguards,Armor,50,Masterwork,99
+4430,Stentor Tassets,Armor,72,Fine,84
+4431,Stygian Water Breather,Armor,72,Fine,75
+4432,Stentor Legwraps,Armor,72,Fine,84
+4433,Stygian Water Breather,Armor,72,Fine,75
+4434,Stentor Leggings,Armor,72,Fine,84
+4435,Stygian Water Breather,Armor,72,Fine,75
+4436,Stentor Tassets,Armor,72,Masterwork,168
+4437,Stygian Water Breather,Armor,72,Masterwork,150
+4438,Stentor Legwraps,Armor,72,Masterwork,168
+4439,Stygian Water Breather,Armor,72,Masterwork,150
+4440,Stentor Leggings,Armor,72,Masterwork,168
+4441,Stygian Water Breather,Armor,72,Masterwork,150
+4442,Sarayi Gauntlets,Armor,73,Fine,55
+4443,Sarayi Gloves,Armor,73,Fine,55
+4444,Sarayi Gloves,Armor,73,Fine,55
+4445,Sarayi Gauntlets,Armor,73,Masterwork,110
+4446,Sarayi Gloves,Armor,73,Masterwork,110
+4447,Sarayi Gloves,Armor,73,Masterwork,110
+4448,Rally Greaves,Armor,74,Fine,61
+4449,Conquest Breastplate,Armor,74,Fine,92
+4450,Lone Helm,Armor,74,Fine,77
+4451,Brassclaw Pauldrons,Armor,74,Fine,68
+4452,Rally Shoes,Armor,74,Fine,61
+4453,Conquest Garb,Armor,74,Fine,92
+4454,Lone Helm,Armor,74,Fine,77
+4455,Brassclaw Mantle,Armor,74,Fine,68
+4456,Rally Boots,Armor,74,Fine,61
+4457,Conquest Coat,Armor,74,Fine,92
+4458,Lone Mask,Armor,74,Fine,77
+4459,Brassclaw Shoulderpads,Armor,74,Fine,68
+4460,Rally Greaves,Armor,74,Masterwork,122
+4461,Conquest Breastplate,Armor,74,Masterwork,183
+4462,Lone Helm,Armor,74,Masterwork,153
+4463,Brassclaw Pauldrons,Armor,74,Masterwork,135
+4464,Rally Shoes,Armor,74,Masterwork,122
+4465,Conquest Garb,Armor,74,Masterwork,183
+4466,Lone Helm,Armor,74,Masterwork,153
+4467,Brassclaw Mantle,Armor,74,Masterwork,135
+4468,Rally Boots,Armor,74,Masterwork,122
+4469,Conquest Coat,Armor,74,Masterwork,183
+4470,Lone Mask,Armor,74,Masterwork,153
+4471,Brassclaw Shoulderpads,Armor,74,Masterwork,135
+4472,Heavy Penitent Leggings,Armor,80,Fine,93
+4473,Gavbeorn Breather,Armor,80,Fine,83
+4474,Light Penitent Leggings,Armor,80,Fine,93
+4475,Gavbeorn Breather,Armor,80,Fine,83
+4476,Medium Penitent Leggings,Armor,80,Fine,93
+4477,Gavbeorn Breather,Armor,80,Fine,83
+4478,Heavy Penitent Leggings,Armor,80,Masterwork,185
+4479,Gavbeorn Breather,Armor,80,Masterwork,165
+4480,Light Penitent Leggings,Armor,80,Masterwork,185
+4481,Gavbeorn Breather,Armor,80,Masterwork,165
+4482,Medium Penitent Leggings,Armor,80,Masterwork,185
+4483,Gavbeorn Breather,Armor,80,Masterwork,165
+4484,Cachistic Gauntlets,Armor,80,Fine,60
+4485,Cachistic Handwraps,Armor,80,Fine,60
+4486,Cachistic Gloves,Armor,80,Fine,60
+4487,Cachistic Gauntlets,Armor,80,Masterwork,119
+4488,Cachistic Handwraps,Armor,80,Masterwork,119
+4489,Cachistic Gloves,Armor,80,Masterwork,119
+4490,Shadowfain Greaves,Armor,80,Fine,66
+4491,Shank Breastplate,Armor,80,Fine,99
+4492,Shelter Helm,Armor,80,Fine,83
+4493,Jofast's Pauldrons,Armor,80,Fine,73
+4494,Shadowfain Shoes,Armor,80,Fine,66
+4495,Shank Garb,Armor,80,Fine,99
+4496,Shelter Cowl,Armor,80,Fine,83
+4497,Jofast's Mantle,Armor,80,Fine,73
+4498,Shadowfain Boots,Armor,80,Fine,66
+4499,Shank Coat,Armor,80,Fine,99
+4500,Shelter Visage,Armor,80,Fine,83
+4501,Jofast's Shoulderpads,Armor,80,Fine,73
+4502,Shadowfain Greaves,Armor,80,Masterwork,132
+4503,Shank Breastplate,Armor,80,Masterwork,198
+4504,Shelter Helm,Armor,80,Masterwork,165
+4505,Jofast's Pauldrons,Armor,80,Masterwork,146
+4506,Shadowfain Shoes,Armor,80,Masterwork,132
+4507,Shank Garb,Armor,80,Masterwork,198
+4508,Shelter Cowl,Armor,80,Masterwork,165
+4509,Jofast's Mantle,Armor,80,Masterwork,146
+4510,Shadowfain Boots,Armor,80,Masterwork,132
+4511,Shank Coat,Armor,80,Masterwork,198
+4512,Shelter Visage,Armor,80,Masterwork,165
+4513,Jofast's Shoulderpads,Armor,80,Masterwork,146
+4514,Murmur Boots,Armor,79,Fine,65
+4515,Pagga's Breastplate,Armor,75,Fine,93
+4516,Colonnade Gauntlets,Armor,75,Fine,56
+4517,Doric Helm,Armor,79,Fine,82
+4518,Shelter Leggings,Armor,75,Fine,87
+4519,Wren Pauldrons,Armor,77,Fine,70
+4520,Kohlopoi Aquabreather,Armor,79,Fine,82
+4521,Murmur Shoes,Armor,79,Fine,65
+4522,Pagga's Garb,Armor,75,Fine,93
+4523,Colonnade Gloves,Armor,75,Fine,56
+4524,Doric Helm,Armor,79,Fine,82
+4525,Shelter Leggings,Armor,75,Fine,87
+4526,Wren Mantle,Armor,77,Fine,70
+4527,Kohlopoi Aquabreather,Armor,79,Fine,82
+4528,Murmur Boots,Armor,79,Fine,65
+4529,Pagga's Coat,Armor,75,Fine,93
+4530,Colonnade Gloves,Armor,75,Fine,56
+4531,Doric Mask,Armor,79,Fine,82
+4532,Shelter Leggings,Armor,75,Fine,87
+4533,Wren Shoulderpads,Armor,77,Fine,70
+4534,Kohlopoi Aquabreather,Armor,79,Fine,82
+4535,Murmur Boots,Armor,79,Masterwork,130
+4536,Pagga's Breastplate,Armor,75,Masterwork,186
+4537,Colonnade Gauntlets,Armor,75,Masterwork,112
+4538,Doric Helm,Armor,79,Masterwork,163
+4539,Shelter Leggings,Armor,75,Masterwork,174
+4540,Wren Pauldrons,Armor,77,Masterwork,139
+4541,Kohlopoi Aquabreather,Armor,79,Masterwork,163
+4542,Murmur Shoes,Armor,79,Masterwork,130
+4543,Pagga's Garb,Armor,75,Masterwork,186
+4544,Colonnade Gloves,Armor,75,Masterwork,112
+4545,Doric Helm,Armor,79,Masterwork,163
+4546,Shelter Leggings,Armor,75,Masterwork,174
+4547,Wren Mantle,Armor,77,Masterwork,139
+4548,Kohlopoi Aquabreather,Armor,79,Masterwork,163
+4549,Murmur Boots,Armor,79,Masterwork,130
+4550,Pagga's Coat,Armor,75,Masterwork,186
+4551,Colonnade Gloves,Armor,75,Masterwork,112
+4552,Doric Mask,Armor,79,Masterwork,163
+4553,Shelter Leggings,Armor,75,Masterwork,174
+4554,Wren Shoulderpads,Armor,77,Masterwork,139
+4555,Kohlopoi Aquabreather,Armor,79,Masterwork,163
+4593,Rabid Armageddon Breastplate of Lyssa,Armor,80,Exotic,6000
+4601,Rabid Aurora Helm of Lyssa,Armor,80,Exotic,6000
+4602,Rabid Aurora Leggings of Lyssa,Armor,80,Exotic,6000
+4608,Rabid Rubicon Leggings of Lyssa,Armor,80,Exotic,6000
+4610,Soldier's Armageddon Greaves of Infiltration,Armor,80,Exotic,6000
+4611,Soldier's Armageddon Breastplate of Infiltration,Armor,80,Exotic,6000
 4616,Soldier's Aurora Shoes of Infiltration,Armor,80,Exotic,6000
 4619,Soldier's Aurora Helm of Infiltration,Armor,80,Exotic,6000
 4622,Soldier's Rubicon Boots of Infiltration,Armor,80,Exotic,6000
@@ -18799,206 +18999,6 @@ id,name,type,level,rarity,vendor_value
 26426,Vital Soft Wood Scepter,Weapon,0,Fine,8
 26427,Berserker's Iron Sword of Air,Weapon,62,Masterwork,106
 26428,Berserker's Iron Sword of Debility,Weapon,68,Masterwork,114
-26429,Vital Soft Wood Scepter,Weapon,8,Fine,13
-26430,Berserker's Iron Sword of Air,Weapon,74,Masterwork,122
-26431,Vital Soft Wood Scepter,Weapon,13,Fine,18
-26432,Berserker's Iron Sword of Agony,Weapon,80,Masterwork,132
-26433,Vital Soft Wood Scepter,Weapon,18,Fine,22
-26434,Mighty Soft Wood Scepter,Weapon,0,Fine,9
-26435,Rampager's Iron Sword of Serpent Slaying,Weapon,63,Masterwork,108
-26436,Mighty Soft Wood Scepter,Weapon,9,Fine,14
-26437,Rampager's Iron Sword of Grawl Slaying,Weapon,69,Masterwork,116
-26438,Mighty Soft Wood Scepter,Weapon,14,Fine,19
-26439,Rampager's Iron Sword of the Hydromancer,Weapon,75,Masterwork,124
-26440,Rampager's Iron Sword of Serpent Slaying,Weapon,80,Masterwork,132
-26441,Mighty Soft Wood Scepter,Weapon,19,Fine,23
-26442,Strong Soft Wood Scepter,Weapon,21,Fine,24
-26443,Cleric's Iron Sword of Agony,Weapon,64,Masterwork,108
-26444,Strong Soft Wood Scepter,Weapon,26,Fine,28
-26445,Cleric's Iron Sword of Chilling,Weapon,70,Masterwork,118
-26446,Strong Soft Wood Scepter,Weapon,31,Fine,31
-26447,Cleric's Iron Sword of Water,Weapon,76,Masterwork,126
-26448,Cleric's Iron Sword of Peril,Weapon,80,Masterwork,132
-26449,Strong Soft Wood Scepter,Weapon,36,Fine,35
-26450,Berserker's Iron Sword of Air,Weapon,65,Masterwork,110
-26451,Honed Soft Wood Scepter,Weapon,22,Fine,25
-26452,Honed Soft Wood Scepter,Weapon,27,Fine,28
-26453,Berserker's Iron Sword of Serpent Slaying,Weapon,71,Masterwork,118
-26454,Berserker's Iron Sword of Grawl Slaying,Weapon,77,Masterwork,126
-26455,Honed Soft Wood Scepter,Weapon,32,Fine,32
-26456,Honed Soft Wood Scepter,Weapon,37,Fine,35
-26457,Berserker's Iron Sword of Venom,Weapon,80,Masterwork,132
-26458,Hearty Soft Wood Scepter,Weapon,23,Fine,26
-26459,Rampager's Iron Sword of the Geomancer,Weapon,66,Masterwork,112
-26460,Hearty Soft Wood Scepter,Weapon,28,Fine,29
-26461,Rampager's Iron Sword of Chilling,Weapon,72,Masterwork,120
-26462,Hearty Soft Wood Scepter,Weapon,33,Fine,33
-26463,Rampager's Iron Sword of Fire,Weapon,78,Masterwork,128
-26464,Hearty Soft Wood Scepter,Weapon,38,Fine,36
-26465,Rampager's Iron Sword of Corruption,Weapon,80,Masterwork,132
-26466,Hearty Soft Wood Scepter,Weapon,43,Fine,40
-26467,Strong Soft Wood Scepter,Weapon,24,Fine,26
-26468,Strong Iron Sword of Ice,Weapon,39,Rare,111
-26469,Vigorous Soft Wood Scepter,Weapon,29,Fine,30
-26470,Strong Soft Wood Scepter,Weapon,34,Fine,33
-26471,Strong Iron Sword of Battle,Weapon,46,Rare,126
-26472,Strong Soft Wood Scepter,Weapon,39,Fine,37
-26473,Strong Iron Sword of Force,Weapon,53,Rare,141
-26474,Honed Iron Sword of Chilling,Weapon,40,Rare,114
-26475,Strong Soft Wood Scepter,Weapon,44,Fine,40
-26476,Strong Soft Wood Scepter,Weapon,41,Fine,38
-26477,Honed Iron Sword of Air,Weapon,47,Rare,126
-26478,Honed Iron Sword of Blood,Weapon,54,Rare,141
-26479,Strong Soft Wood Scepter,Weapon,46,Fine,42
-26480,Strong Soft Wood Scepter,Weapon,51,Fine,45
-26481,Hearty Iron Sword of Grawl Slaying,Weapon,55,Rare,144
-26482,Strong Soft Wood Scepter,Weapon,56,Fine,49
-26483,Berserker's Iron Sword of Perception,Weapon,60,Rare,156
-26484,Honed Soft Wood Scepter,Weapon,42,Fine,39
-26485,Berserker's Iron Sword of Air,Weapon,67,Rare,168
-26486,Honed Soft Wood Scepter,Weapon,47,Fine,42
-26487,Berserker's Iron Sword of Leeching,Weapon,74,Rare,183
-26488,Berserker's Iron Sword of the Hydromancer,Weapon,80,Rare,198
-26489,Honed Soft Wood Scepter,Weapon,52,Fine,46
-26490,Honed Soft Wood Scepter,Weapon,57,Fine,49
-26491,Rampager's Iron Sword of Corruption,Weapon,61,Rare,156
-26492,Hearty Soft Wood Scepter,Weapon,48,Fine,43
-26493,Rampager's Iron Sword of Corruption,Weapon,68,Rare,171
-26494,Rampager's Iron Sword of Venom,Weapon,75,Rare,186
-26495,Hearty Soft Wood Scepter,Weapon,53,Fine,47
-26496,Rampager's Iron Sword of Leeching,Weapon,80,Rare,198
-26497,Hearty Soft Wood Scepter,Weapon,58,Fine,50
-26498,Cleric's Iron Sword of Smoldering,Weapon,62,Rare,159
-26499,Hearty Soft Wood Scepter,Weapon,63,Fine,54
-26500,Cleric's Iron Sword of Blood,Weapon,69,Rare,174
-26501,Strong Soft Wood Scepter,Weapon,49,Fine,44
-26502,Strong Soft Wood Scepter,Weapon,54,Fine,47
-26503,Cleric's Iron Sword of Force,Weapon,76,Rare,189
-26504,Cleric's Iron Sword of Leeching,Weapon,80,Rare,198
-26505,Strong Soft Wood Scepter,Weapon,59,Fine,51
-26506,Strong Soft Wood Scepter,Weapon,64,Fine,54
-26507,Berserker's Iron Sword of Earth,Weapon,70,Rare,177
-26508,Berserker's Soft Wood Scepter,Weapon,61,Fine,52
-26509,Berserker's Iron Sword of the Hydromancer,Weapon,77,Rare,189
-26510,Berserker's Soft Wood Scepter,Weapon,66,Fine,56
-26511,Berserker's Iron Sword of Serpent Slaying,Weapon,80,Rare,198
-26512,Berserker's Soft Wood Scepter,Weapon,71,Fine,59
-26513,Rampager's Iron Sword of Force,Weapon,71,Rare,177
-26514,Berserker's Soft Wood Scepter,Weapon,76,Fine,63
-26515,Rampager's Iron Sword of Hobbling,Weapon,78,Rare,192
-26516,Rampager's Iron Sword of Battle,Weapon,80,Rare,198
-26517,Berserker's Soft Wood Scepter,Weapon,80,Fine,66
-26518,Rampager's Soft Wood Scepter,Weapon,62,Fine,53
-26519,Cleric's Iron Sword of the Hydromancer,Weapon,72,Rare,180
-26520,Rampager's Soft Wood Scepter,Weapon,67,Fine,56
-26521,Cleric's Iron Sword of Accuracy,Weapon,79,Rare,195
-26522,Cleric's Iron Sword of Peril,Weapon,80,Rare,198
-26523,Rampager's Soft Wood Scepter,Weapon,72,Fine,60
-26524,Rampager's Soft Wood Scepter,Weapon,77,Fine,63
-26525,Rampager's Soft Wood Scepter,Weapon,80,Fine,66
-26526,Cleric's Soft Wood Scepter,Weapon,68,Fine,57
-26527,Cleric's Soft Wood Scepter,Weapon,73,Fine,61
-26528,Cleric's Soft Wood Scepter,Weapon,78,Fine,64
-26529,Cleric's Soft Wood Scepter,Weapon,80,Fine,66
-26530,Berserker's Soft Wood Scepter,Weapon,69,Fine,58
-26531,Berserker's Soft Wood Scepter,Weapon,74,Fine,61
-26532,Berserker's Soft Wood Scepter,Weapon,79,Fine,65
-26533,Berserker's Soft Wood Scepter,Weapon,80,Fine,66
-26534,Berserker's Iron Shield of Demon Summoning,Weapon,62,Exotic,212
-26535,Berserker's Iron Shield of Rage,Weapon,70,Exotic,236
-26536,Berserker's Iron Shield of Agony,Weapon,78,Exotic,256
-26537,Jora's Defender,Weapon,80,Exotic,264
-26538,Rampager's Iron Shield of Grawl Slaying,Weapon,63,Exotic,216
-26539,Rampager's Iron Shield of Ice,Weapon,71,Exotic,236
-26540,Rampager's Iron Shield of Vision,Weapon,79,Exotic,260
-26541,Kryta's Embrace,Weapon,80,Exotic,264
-26542,Cleric's Iron Shield of Accuracy,Weapon,64,Exotic,216
-26543,Cleric's Iron Shield of Fire,Weapon,72,Exotic,240
-26544,Guardian of the Six,Weapon,80,Exotic,264
-26545,Berserker's Iron Shield of Hobbling,Weapon,65,Exotic,220
-26546,Berserker's Iron Shield of Blood,Weapon,73,Exotic,244
-26547,Rivetwall,Weapon,80,Exotic,264
-26548,Mighty Soft Wood Scepter of Air,Weapon,14,Masterwork,38
-26549,Rampager's Iron Shield of Corruption,Weapon,66,Exotic,224
-26550,Rampager's Iron Shield of Nullification,Weapon,74,Exotic,244
-26551,Mighty Soft Wood Scepter of Force,Weapon,20,Masterwork,48
-26552,Shield of the Moon,Weapon,80,Exotic,264
-26553,Strong Soft Wood Scepter of Chilling,Weapon,26,Masterwork,56
-26554,Strong Soft Wood Scepter of Ogre Slaying,Weapon,32,Masterwork,64
-26555,Cleric's Iron Shield of Fire,Weapon,75,Exotic,248
-26556,Honed Soft Wood Scepter of Blood,Weapon,27,Masterwork,56
-26557,Grimward,Weapon,80,Exotic,264
-26558,Honed Soft Wood Scepter of Smoldering,Weapon,33,Masterwork,66
-26559,Rampager's Iron Shield of Serpent Slaying,Weapon,76,Exotic,252
-26560,Hearty Soft Wood Scepter of Smoldering,Weapon,40,Masterwork,76
-26561,Shield of the Wing,Weapon,80,Exotic,264
-26562,Strong Soft Wood Scepter of Corruption,Weapon,38,Masterwork,72
-26563,Mighty Iron Shield,Weapon,1,Fine,6
-26564,Strong Soft Wood Scepter of Grawl Slaying,Weapon,44,Masterwork,80
-26565,Mighty Iron Shield,Weapon,6,Fine,11
-26566,Strong Soft Wood Scepter of Earth,Weapon,50,Masterwork,90
-26567,Mighty Iron Shield,Weapon,11,Fine,16
-26568,Strong Soft Wood Scepter of Venom,Weapon,56,Masterwork,98
-26569,Mighty Iron Shield,Weapon,16,Fine,20
-26570,Honed Soft Wood Scepter of Fire,Weapon,39,Masterwork,74
-26571,Precise Iron Shield,Weapon,0,Fine,7
-26572,Honed Soft Wood Scepter of Venom,Weapon,45,Masterwork,82
-26573,Precise Iron Shield,Weapon,7,Fine,12
-26574,Precise Iron Shield,Weapon,12,Fine,17
-26575,Honed Soft Wood Scepter of Agony,Weapon,51,Masterwork,90
-26576,Honed Soft Wood Scepter of Venom,Weapon,57,Masterwork,98
-26577,Precise Iron Shield,Weapon,17,Fine,21
-26578,Hearty Soft Wood Scepter of Agony,Weapon,46,Masterwork,84
-26579,Vital Iron Shield,Weapon,0,Fine,8
-26580,Hearty Soft Wood Scepter of Ice,Weapon,52,Masterwork,92
-26581,Vital Iron Shield,Weapon,8,Fine,13
-26582,Hearty Soft Wood Scepter of Blood,Weapon,58,Masterwork,100
-26583,Vital Iron Shield,Weapon,13,Fine,18
-26584,Strong Soft Wood Scepter of Force,Weapon,53,Masterwork,94
-26585,Vital Iron Shield,Weapon,18,Fine,22
-26586,Strong Soft Wood Scepter of Force,Weapon,59,Masterwork,102
-26587,Mighty Iron Shield,Weapon,0,Fine,9
-26588,Berserker's Soft Wood Scepter of Smoldering,Weapon,62,Masterwork,106
-26589,Mighty Iron Shield,Weapon,9,Fine,14
-26590,Mighty Iron Shield,Weapon,14,Fine,19
-26591,Berserker's Soft Wood Scepter of Fire,Weapon,68,Masterwork,114
-26592,Berserker's Soft Wood Scepter of the Hydromancer,Weapon,74,Masterwork,122
-26593,Mighty Iron Shield,Weapon,19,Fine,23
-26594,Strong Iron Shield,Weapon,21,Fine,24
-26595,Berserker's Soft Wood Scepter of Ice,Weapon,80,Masterwork,132
-26596,Rampager's Soft Wood Scepter of Air,Weapon,63,Masterwork,108
-26597,Strong Iron Shield,Weapon,26,Fine,28
-26598,Strong Iron Shield,Weapon,31,Fine,31
-26599,Rampager's Soft Wood Scepter of Venom,Weapon,69,Masterwork,116
-26600,Rampager's Soft Wood Scepter of Debility,Weapon,75,Masterwork,124
-26601,Strong Iron Shield,Weapon,36,Fine,35
-26602,Rampager's Soft Wood Scepter of Fire,Weapon,80,Masterwork,132
-26603,Honed Iron Shield,Weapon,22,Fine,25
-26604,Cleric's Soft Wood Scepter of Smoldering,Weapon,64,Masterwork,108
-26605,Honed Iron Shield,Weapon,27,Fine,28
-26606,Cleric's Soft Wood Scepter of Chilling,Weapon,70,Masterwork,118
-26607,Honed Iron Shield,Weapon,32,Fine,32
-26608,Cleric's Soft Wood Scepter of Air,Weapon,76,Masterwork,126
-26609,Honed Iron Shield,Weapon,37,Fine,35
-26610,Hearty Iron Shield,Weapon,23,Fine,26
-26611,Cleric's Soft Wood Scepter of Corruption,Weapon,80,Masterwork,132
-26612,Berserker's Soft Wood Scepter of Venom,Weapon,65,Masterwork,110
-26613,Hearty Iron Shield,Weapon,28,Fine,29
-26614,Berserker's Soft Wood Scepter of Ice,Weapon,71,Masterwork,118
-26615,Hearty Iron Shield,Weapon,33,Fine,33
-26616,Hearty Iron Shield,Weapon,38,Fine,36
-26617,Berserker's Soft Wood Scepter of Agony,Weapon,77,Masterwork,126
-26618,Berserker's Soft Wood Scepter of Hobbling,Weapon,80,Masterwork,132
-26619,Hearty Iron Shield,Weapon,43,Fine,40
-26620,Rampager's Soft Wood Scepter of Corruption,Weapon,66,Masterwork,112
-26621,Strong Iron Shield,Weapon,24,Fine,26
-26622,Vigorous Iron Shield,Weapon,29,Fine,30
-26623,Rampager's Soft Wood Scepter of Serpent Slaying,Weapon,72,Masterwork,120
-26624,Rampager's Soft Wood Scepter of Bloodlust,Weapon,78,Masterwork,128
-26625,Strong Iron Shield,Weapon,34,Fine,33
-26626,Rampager's Soft Wood Scepter of Accuracy,Weapon,80,Masterwork,132
-26627,Strong Iron Shield,Weapon,39,Fine,37
-26628,Strong Iron Shield,Weapon,44,Fine,40
 26629,Strong Iron Shield,Weapon,41,Fine,38
 26630,Strong Soft Wood Scepter of the Geomancer,Weapon,39,Rare,111
 26631,Strong Iron Shield,Weapon,46,Fine,42
@@ -65376,6 +65376,7 @@ id,name,type,level,rarity,vendor_value
 98752,Trimaran Skiff Skin,Consumable,0,Rare,0
 98754,Leather Bag,Bag,0,Basic,1
 98755,Watchwork Shield,Weapon,80,Exotic,264
+98760,Birthday Gift,Container,0,Rare,100
 98769,Scale Splinter of Kralkatorrik,Gizmo,0,Exotic,0
 98775,Watchwork Sword,Weapon,80,Exotic,264
 98779,Dragon Decade Staff Skin,Consumable,0,Exotic,0
@@ -71883,6 +71884,7 @@ Balance",Gizmo,0,Basic,0
 107666,Beigarth's Greaves,Armor,80,Ascended,240
 107667,Zojja's Doublet,Armor,80,Ascended,240
 107668,Zehtuka's Pauldrons,Armor,80,Ascended,240
+107669,Laranthir's Footwear,Armor,80,Ascended,240
 107670,Suun's Visor,Armor,80,Ascended,240
 107671,Tizlak's Herald,Weapon,80,Ascended,10000
 107672,Maklain's Visage,Armor,80,Ascended,240
@@ -72383,6 +72385,7 @@ Balance",Gizmo,0,Basic,0
 108177,Yassith's Spire,Weapon,80,Ascended,10000
 108178,Yassith's Shoulderguard,Armor,80,Ascended,240
 108179,Togo's Razor,Weapon,80,Ascended,10000
+108180,Laranthir's Epaulets,Armor,80,Ascended,240
 108181,Pahua's Short Bow,Weapon,80,Ascended,10000
 108182,Ruka's Wristguards,Armor,80,Ascended,240
 108183,Zintl Herald,Weapon,80,Ascended,10000
@@ -72421,6 +72424,7 @@ Balance",Gizmo,0,Basic,0
 108216,Ebonmane's Revolver,Weapon,80,Ascended,10000
 108217,Yassith's Doublet,Armor,80,Ascended,240
 108218,Nadijeh's Warfists,Armor,80,Ascended,240
+108219,Laranthir's Wristguards,Armor,80,Ascended,240
 108220,Maklain's Striders,Armor,80,Ascended,240
 108221,Tixx's Herald,Weapon,80,Ascended,10000
 108222,Angchu Pauldrons,Armor,80,Ascended,240
@@ -72493,6 +72497,7 @@ Balance",Gizmo,0,Basic,0
 108291,Maklain's Warhammer,Weapon,80,Ascended,10000
 108292,Forgemaster's Visor,Armor,80,Ascended,240
 108293,Tixx's Footwear,Armor,80,Ascended,240
+108294,Laranthir's Masque,Armor,80,Ascended,240
 108295,Pahua's Musket,Weapon,80,Ascended,10000
 108296,Phoenix Weapon Box,Container,0,Rare,0
 108297,Steelstar's Claymore,Weapon,80,Ascended,10000
