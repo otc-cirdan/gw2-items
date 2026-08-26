@@ -72018,6 +72018,7 @@ Balance",Gizmo,0,Basic,0
 107594,Coalforge's Musket,Weapon,80,Ascended,10000
 107595,Tateos's Guise,Armor,80,Ascended,240
 107596,Steelstar's Visor,Armor,80,Ascended,240
+107597,Laranthir's Leather Breather,Armor,80,Ascended,240
 107598,Tateos's Striders,Armor,80,Ascended,240
 107599,Coalforge's Trident,Weapon,80,Ascended,10000
 107600,Nadijeh's Shoulderguard,Armor,80,Ascended,240
@@ -74060,6 +74061,7 @@ Balance",Gizmo,0,Basic,0
 109875,Spellwork Torch,Weapon,80,Exotic,264
 109876,Spellwork Mace,Weapon,80,Exotic,264
 109877,Mini Lightning Crystal,MiniPet,0,Exotic,50
+109878,Piñata Logging Tool,Gathering,0,Rare,192
 109879,Recipe: Plush Kralky,Consumable,0,Basic,50
 109880,Primeval Spear Skin,Consumable,0,Rare,0
 109881,Spellwork Shield,Weapon,80,Exotic,264
@@ -74090,8 +74092,10 @@ Balance",Gizmo,0,Basic,0
 109908,Spellwork Hammer,Weapon,80,Exotic,396
 109909,Primeval Longbow Skin,Consumable,0,Rare,0
 109910,Primeval Shield Skin,Consumable,0,Rare,0
+109911,Piñata Mining Tool,Gathering,0,Rare,192
 109912,Canthan Merchant Stall,Consumable,0,Basic,0
 109913,Canthan Merchant Canopy,Consumable,0,Basic,0
+109914,Piñata Harvesting Tool,Gathering,0,Rare,192
 109915,Watchwork Spear,Weapon,80,Exotic,396
 109916,Canthan Merchant Stall (Open-Backed),Consumable,0,Basic,0
 109917,Recipe: Canthan Merchant Canopy,Consumable,0,Basic,50
