@@ -69232,6 +69232,7 @@ Balance",Gizmo,0,Basic,0
 103904,Bronze Ura Trophy,Consumable,0,Basic,0
 103905,Blood Moon Rifle of Blood,Weapon,80,Exotic,396
 103906,Natural Blade,Weapon,80,Ascended,10000
+103907,Legendary Weapon Starter Key—Set 2,Container,0,Legendary,640
 103908,Sea-Glass Wave Axe,Weapon,80,Ascended,330
 103909,Blood Moon Dagger of Blood,Weapon,80,Exotic,264
 103911,Infinite Siege Golem Blueprint,Gizmo,0,Ascended,1
@@ -69330,6 +69331,7 @@ Balance",Gizmo,0,Basic,0
 104020,Recipe: Greer's Token,Consumable,0,Basic,50
 104021,Blood Moon Staff of Blood,Weapon,80,Exotic,396
 104022,Relic of the Steamshrieker,Relic,60,Exotic,200
+104023,Legendary Weapon Starter Key—Set 2,Gizmo,0,Legendary,640
 104025,Sea-Glass Wave Staff,Weapon,80,Ascended,495
 104026,Gaeting Crystal,Consumable,0,Rare,96
 104027,Bronze Greer Trophy,Consumable,0,Basic,0
@@ -70787,6 +70789,7 @@ Balance",Gizmo,0,Basic,0
 105899,Track 3: Harr Mire,Consumable,0,Exotic,0
 105901,Track 43: Stone and Bark,Consumable,0,Exotic,0
 105902,Cabana Wall (120),Consumable,0,Basic,0
+105903,Island Fern (Wide),Consumable,0,Basic,0
 105904,Boardwalk (240 x 1920),Consumable,0,Basic,0
 105905,"""/Shocked"" Emote Tome",Consumable,0,Exotic,0
 105906,Track 24: For the Ward!,Consumable,0,Exotic,0
@@ -70894,6 +70897,7 @@ Balance",Gizmo,0,Basic,0
 106082,Track 15: Peitha's Flame,Consumable,0,Exotic,0
 106083,Alliance Field Operative's Light Gloves,Armor,80,Exotic,238
 106084,Seer-Enchanted Axe,Weapon,80,Exotic,264
+106085,Seer Acting Manual Page,Consumable,0,Basic,0
 106086,Restless Captain's Armor Chest,Gizmo,0,Exotic,0
 106087,Galleon Hull (Middle),Consumable,0,Basic,0
 106088,Track 34: Dirge of the Father King,Consumable,0,Exotic,0
@@ -70914,6 +70918,7 @@ Balance",Gizmo,0,Basic,0
 106117,Extremis Light Mantle,Armor,80,Exotic,291
 106118,Track 7: Elona Reach,Consumable,0,Exotic,0
 106119,Track 12: Daigo Ward,Consumable,0,Exotic,0
+106120,Kodan Spear,Weapon,80,Exotic,396
 106121,Pearlshell Axe Skin,Consumable,0,Rare,0
 106125,Track 23: Mount Balrior,Consumable,0,Exotic,0
 106126,Feathered Inquest Breastplate Skin,Consumable,0,Masterwork,0
@@ -71183,6 +71188,7 @@ Balance",Gizmo,0,Basic,0
 106529,Track 28: Ishan's Watch,Consumable,0,Exotic,0
 106531,Fast Constructor's Pistol,Weapon,80,Exotic,264
 106532,Skirmish Chest,Gizmo,0,Exotic,0
+106533,Rosebay,Weapon,80,Exotic,396
 106534,Track 8: Forged in Fire,Consumable,0,Exotic,0
 106535,Island Shrub,Consumable,0,Basic,0
 106536,Track 2: Maguuma Overture,Consumable,0,Exotic,0
@@ -71317,6 +71323,7 @@ Balance",Gizmo,0,Basic,0
 106746,Restless Captain's Medium Boots,Armor,80,Exotic,264
 106747,Gift of the Seas,CraftingMaterial,0,Legendary,0
 106748,Castoran Cache of Riches,Container,0,Exotic,256
+106750,Dark Asuran Spear,Weapon,80,Exotic,396
 106752,Fast Constructor's Dagger,Weapon,80,Exotic,264
 106753,Track 2: A Fractured Horizon,Consumable,0,Exotic,0
 106754,Seer-Enchanted Rifle,Weapon,80,Exotic,396
@@ -71472,6 +71479,7 @@ Balance",Gizmo,0,Basic,0
 106974,Proof of the Key of Ahdashim Completion,Consumable,0,Basic,0
 106975,Gift of Infused Gems,CraftingMaterial,0,Legendary,0
 106978,Painter's Brilliance Rifle Skin,Consumable,0,Rare,0
+106979,Ship Rib,Consumable,0,Basic,0
 106980,Proof of Salvation Pass Completion,Consumable,0,Basic,0
 106981,Recipe: Golden Horse Statue,Consumable,0,Basic,50
 106982,Elixir of Janthir Wilds Mastery,Consumable,0,Masterwork,1000
@@ -71523,6 +71531,7 @@ Balance",Gizmo,0,Basic,0
 107034,Largos Combat Tonic Container,Container,0,Exotic,0
 107035,Mini Eye of Judgment,MiniPet,0,Exotic,50
 107036,Toxinshell Sword Skin,Consumable,0,Rare,0
+107037,Windowed Wall 120 x 240,Consumable,0,Basic,0
 107038,Painter's Brilliance Axe Skin,Consumable,0,Rare,0
 107039,Visions of Eternity Relic Set 2 Container,Container,0,Exotic,0
 107040,Gift of Rays,CraftingMaterial,0,Legendary,0
@@ -71562,6 +71571,7 @@ Balance",Gizmo,0,Basic,0
 107085,Recipe: Earth Elemental Left Hand,Consumable,0,Basic,50
 107086,Celestial's Firework Greatsword,Weapon,80,Exotic,396
 107087,Dagda's Coffer,Container,0,Exotic,0
+107088,Ship Bowsprit,Consumable,0,Basic,0
 107089,Proof of Spirit Vale Completion,Consumable,0,Basic,0
 107090,Medium Castoran Researcher's Mask,Armor,80,Exotic,330
 107091,Toxinshell Short Bow Skin,Consumable,0,Rare,0
@@ -71594,6 +71604,7 @@ Balance",Gizmo,0,Basic,0
 107125,Recipe: Vale Guardian Pylon,Consumable,0,Basic,50
 107126,Celestial's Firework Axe,Weapon,80,Exotic,264
 107127,Celestial's Firework Mace,Weapon,80,Exotic,264
+107131,Extended Stairs (Clockwise Corner),Consumable,0,Basic,0
 107132,Assault Knights' Magnificent Coffer,Container,0,Exotic,0
 107133,Largos Platform,Consumable,0,Basic,0
 107134,Celestial's Firework Hammer,Weapon,80,Exotic,396
@@ -73361,6 +73372,7 @@ Balance",Gizmo,0,Basic,0
 108972,Track 23: Forging Steel,Consumable,0,Exotic,0
 108973,Seer Bed,Consumable,0,Basic,0
 108975,Track 30: Ruinbringer,Consumable,0,Exotic,0
+108976,Ward Hunter's Mask Skin,Consumable,0,Masterwork,0
 108977,Track 52: Almora's Revelation,Consumable,0,Exotic,0
 108978,Track 8: Desmina's Reclamation,Consumable,0,Exotic,0
 108979,Track 23: Watch Your Step,Consumable,0,Exotic,0
@@ -73409,6 +73421,7 @@ Balance",Gizmo,0,Basic,0
 109035,Forge Guard's Heavy Gloves,Armor,80,Exotic,238
 109036,Track 5: Mountain March,Consumable,0,Exotic,0
 109037,Track 33: Qadim,Consumable,0,Exotic,0
+109038,Mini Crystal Coleopteran,MiniPet,0,Exotic,50
 109040,Track 44: Journey through Caledon,Consumable,0,Exotic,0
 109041,Track 31: Zojja and Mr. Sparkles,Consumable,0,Exotic,0
 109042,Mini River Otter,MiniPet,0,Exotic,50
@@ -73471,6 +73484,7 @@ Balance",Gizmo,0,Basic,0
 109113,Track 16: Alpine Marches,Consumable,0,Exotic,0
 109114,Gift of Eternity's Garden Exploration,CraftingMaterial,0,Legendary,0
 109115,Mini All Seer,MiniPet,0,Exotic,50
+109116,Arcane Occultist's Hat Skin,Consumable,0,Masterwork,0
 109117,Iron Window,Consumable,0,Basic,0
 109118,Track 45: World of Ice,Consumable,0,Exotic,0
 109119,Track 10: Encounter with the White Mantle,Consumable,0,Exotic,0
@@ -73710,6 +73724,7 @@ Balance",Gizmo,0,Basic,0
 109415,Track 40: United Legions II,Consumable,0,Exotic,0
 109416,Track 45: The Ascension,Consumable,0,Exotic,0
 109417,Track 21: Joko's Victory,Consumable,0,Exotic,0
+109419,Ward Hunter's Coat Skin,Consumable,0,Masterwork,0
 109421,Recipe: Glimmering Resin Staff,Consumable,0,Exotic,128
 109422,Track 59: Knight of Embers,Consumable,0,Exotic,0
 109423,Track 19: Drakkar,Consumable,0,Exotic,0
@@ -73753,12 +73768,14 @@ Balance",Gizmo,0,Basic,0
 109467,Ward Hunter's Boots Skin,Consumable,0,Masterwork,0
 109469,Gift of Galdra,CraftingMaterial,0,Legendary,0
 109471,Synergetics Focus Skin,Consumable,0,Rare,0
+109473,Ward Hunter's Cape Skin,Consumable,0,Masterwork,0
 109475,Recipe: Glimmering Resin Scepter,Consumable,0,Exotic,128
 109476,Track 24: Zhaitan,Consumable,0,Exotic,0
 109477,Track 21: Eye of the North,Consumable,0,Exotic,0
 109478,Track 42: Rytlock,Consumable,0,Exotic,0
 109479,Track 7: Winter's Vigil,Consumable,0,Exotic,0
 109480,Recipe: Glimmering Resin Torch,Consumable,0,Exotic,128
+109481,Ward Hunter's Leggings Skin,Consumable,0,Masterwork,0
 109482,Forge Guard's Medium Boots,Armor,80,Exotic,264
 109483,Track 8: The Mordrem,Consumable,0,Exotic,0
 109485,Track 46: Champion of Primordus,Consumable,0,Exotic,0
@@ -73930,6 +73947,7 @@ Balance",Gizmo,0,Basic,0
 109713,Track 14: The Priory Archives,Consumable,0,Exotic,0
 109714,Track 2: Grothmar Valley,Consumable,0,Exotic,0
 109715,Shadowstone Containment Frame,CraftingMaterial,0,Legendary,0
+109716,Mini Mindless Mutation,MiniPet,0,Exotic,50
 109717,Track 13: Diaphonous Diffraction Randomizer,Consumable,0,Exotic,0
 109718,Track 5: Taimi's Game Part 1,Consumable,0,Exotic,0
 109719,Track 22: Visions of the Past: Steel and Fire,Consumable,0,Exotic,0
@@ -74017,7 +74035,7 @@ Balance",Gizmo,0,Basic,0
 109822,WvW Rush Champion Point,Trophy,0,Rare,0
 109823,Sleeveless Wetsuit Bottoms Skin,Consumable,0,Masterwork,0
 109824,Black Lion Poolside Party Umbrella Recipe,Consumable,0,Basic,0
-109825,Foggy Forest Homestead Sky,Consumable,0,Exotic,0
+109825,Foggy Day Forest Homestead Sky,Consumable,0,Exotic,0
 109827,Black Lion Poolside Party Water Jet (Fan) Recipe,Consumable,0,Basic,0
 109828,Black Lion Poolside Party Floor Recipe,Consumable,0,Basic,0
 109829,Summer Runner Shoes Skin,Consumable,0,Masterwork,0
@@ -74109,3 +74127,148 @@ Balance",Gizmo,0,Basic,0
 109917,Recipe: Canthan Merchant Canopy,Consumable,0,Basic,50
 109918,Spellwork Staff,Weapon,80,Exotic,396
 109919,Spellwork Warhorn,Weapon,80,Exotic,264
+109922,Aetherlocation Detective: Bronze,Container,0,Fine,0
+109924,Recipe: Shining Ward Short Bow,Consumable,0,Exotic,128
+109925,Gwyl Knight's Rifle Skin,Consumable,0,Rare,0
+109926,Gwyl Knight's Greatsword Skin,Consumable,0,Rare,0
+109927,Kuda's Cache,Container,0,Rare,0
+109929,Explorer's Kukri,Weapon,80,Exotic,264
+109930,Gwyl Knight's Axe Skin,Consumable,0,Rare,0
+109933,Shining Ward Pistol,Weapon,80,Exotic,264
+109936,Relic of the Lantern,Relic,60,Exotic,200
+109939,Gwyl Knight's Dagger Skin,Consumable,0,Rare,0
+109942,Relic of the Last Tyrant,Relic,60,Exotic,200
+109943,Shining Ward Dagger,Weapon,80,Exotic,264
+109944,Tenebral Ward Token: Leggings,Trophy,0,Exotic,20000
+109949,Fine Overcharged Rift Extraction,Container,0,Fine,64
+109950,Gwyl Knight's Warhorn Skin,Consumable,0,Rare,0
+109951,Norn Tent (Wide),Consumable,0,Basic,0
+109952,Bird's Nest,Consumable,0,Basic,0
+109954,Endless Ascended Visionary Combat Tonic,Gizmo,0,Exotic,0
+109955,Tenebral Ward Medium Boots,Armor,80,Exotic,264
+109956,Mastery Point,Consumable,0,Basic,0
+109957,Gwyl Knight's Shield Skin,Consumable,0,Rare,0
+109959,Shining Ward Sword,Weapon,80,Exotic,264
+109960,Recipe: Shining Ward Hammer,Consumable,0,Exotic,128
+109961,Forgotten Convergence Reward Box,Container,0,Basic,0
+109966,Shining Ward Rifle,Weapon,80,Exotic,396
+109968,Gwyl Knight's Spear Skin,Consumable,0,Rare,0
+109973,Recipe: Shining Ward Focus,Consumable,0,Exotic,128
+109976,Tenebral Ward Token: Shoulders,Trophy,0,Exotic,10000
+109978,Withered Ivy,Consumable,0,Basic,0
+109979,Tenebral Ward Light Helmet,Armor,80,Exotic,330
+109980,Relic of the Eternal Alchemy,Relic,60,Exotic,200
+109982,Shining Ward Hammer,Weapon,80,Exotic,396
+109984,Tenebral Ward Medium Helmet,Armor,80,Exotic,330
+109985,Tropical Depths Gear Bag,Container,0,Fine,0
+109987,Tenebral Ward Medium Leggings,Armor,80,Exotic,370
+109989,Flapjack's Bits and Bobs,Container,0,Exotic,264
+109990,,Consumable,0,Junk,10
+109992,Shining Ward Short Bow,Weapon,80,Exotic,396
+109996,Tropical Depths Gear Bag,Container,0,Exotic,264
+109998,Relic of the Tyrian Hero,Relic,60,Exotic,200
+110003,Gwyl Knight's Hammer Skin,Consumable,0,Rare,0
+110004,Recipe: Shining Ward Longbow,Consumable,0,Exotic,128
+110005,Additional Requisition Team Contract,Consumable,0,Rare,0
+110009,Relic of the Curator,Relic,60,Exotic,200
+110010,Recipe: Shining Ward Shield,Consumable,0,Exotic,128
+110011,Tenebral Ward Medium Pauldrons,Armor,80,Exotic,291
+110012,Recipe: Shining Ward Spear,Consumable,0,Exotic,128
+110023,Gwyl Knight's Mace Skin,Consumable,0,Rare,0
+110024,,Consumable,0,Junk,10
+110026,Recipe: Shining Ward Staff,Consumable,0,Exotic,128
+110027,Aetherlocation Detective: Gold,Container,0,Fine,0
+110028,Tenebral Ward Heavy Helmet,Armor,80,Exotic,330
+110030,Bessie's Toy,Trophy,0,Basic,0
+110032,Gwyl Knight's Longbow Skin,Consumable,0,Rare,0
+110036,Serpent Simulator: Bronze,Container,0,Fine,0
+110040,Recipe: Shining Ward Axe,Consumable,0,Exotic,128
+110041,Mini Kuda,MiniPet,0,Exotic,50
+110045,Medium Seer Cache,Container,0,Exotic,264
+110046,Rare Overcharged Rift Extraction,Container,0,Rare,192
+110047,Shining Ward Spear,Weapon,80,Exotic,396
+110048,Recipe: Shining Ward Rifle,Consumable,0,Exotic,128
+110052,Tenebral Ward Token: Helmet,Trophy,0,Exotic,0
+110053,Recipe: Shining Ward Scepter,Consumable,0,Exotic,128
+110059,Tenebral Ward Heavy Leggings,Armor,80,Exotic,370
+110062,Shining Ward Shield,Weapon,80,Exotic,264
+110063,Shining Ward Scepter,Weapon,80,Exotic,264
+110064,Tenebral Ward Light Leggings,Armor,80,Exotic,370
+110065,Gwyl Knight's Scepter Skin,Consumable,0,Rare,0
+110067,Rift Extraction,Container,0,Fine,29
+110069,Shining Ward Greatsword,Weapon,80,Exotic,396
+110070,Aetherlocation Detective: Silver,Container,0,Fine,0
+110075,Tenebral Ward Heavy Gloves,Armor,80,Exotic,238
+110076,Recipe: Arcane Eye Banner,Consumable,0,Basic,50
+110078,"""/Lean"" Emote Tome",Consumable,0,Exotic,0
+110082,Iron Column 16 x 240 x 30,Consumable,0,Basic,0
+110084,Advanced Research Data Crystal,CraftingMaterial,0,Legendary,0
+110085,Endless Inquest Director Combat Tonic,Gizmo,0,Exotic,0
+110089,Recipe: Shining Ward Torch,Consumable,0,Exotic,128
+110091,Recipe: Shining Ward Greatsword,Consumable,0,Exotic,128
+110095,Tenebral Ward Medium Gloves,Armor,80,Exotic,238
+110096,Gwyl Knight's Sword Skin,Consumable,0,Rare,0
+110099,Mini Wavehawk Skimmer,MiniPet,0,Exotic,50
+110101,Tenebral Ward Token: Boots,Trophy,0,Exotic,5000
+110105,The Tyrant's Selection Process,Weapon,80,Exotic,264
+110107,Backbone Breaker Spear,Weapon,80,Exotic,396
+110109,Mini Gnarled Boar,MiniPet,0,Exotic,50
+110110,"""/FireDance"" Emote Tome",Consumable,0,Exotic,0
+110111,Gwyl Knight's Pistol Skin,Consumable,0,Rare,0
+110112,Shining Ward Warhorn,Weapon,80,Exotic,264
+110116,Tenebral Ward Heavy Pauldrons,Armor,80,Exotic,291
+110117,Mini Water Elemental,MiniPet,0,Exotic,50
+110119,Code of Creation Supply Drop Requisition,Consumable,0,Rare,0
+110120,Bird Pond Chair,Gizmo,0,Rare,0
+110122,Gift of Leyspring Hollows Exploration,CraftingMaterial,0,Legendary,0
+110124,Recipe: Roller Beetle Boost Pad,Consumable,0,Basic,50
+110126,Inquest Rifleblade Greatsword,Weapon,80,Exotic,396
+110128,Gwyl Knight's Short Bow Skin,Consumable,0,Rare,0
+110130,Serpent Simulator: Silver,Container,0,Fine,0
+110133,Gift of Shining Arms,CraftingMaterial,0,Legendary,0
+110134,Gwyl Knight's Torch Skin,Consumable,0,Rare,0
+110137,Convergence: Nexus of Eternity Commander's Choice Chest,Gizmo,0,Exotic,0
+110138,Serpent Simulator: Gold,Container,0,Fine,0
+110142,Fledgling Constellation,Weapon,80,Exotic,264
+110145,Recipe: Shining Ward Dagger,Consumable,0,Exotic,128
+110147,Tenebral Ward Light Gloves,Armor,80,Exotic,238
+110152,Relic of the Visionary,Relic,60,Exotic,200
+110153,Tenebral Ward Token: Gloves,Trophy,0,Exotic,5000
+110156,Shadowstone Research Data,CraftingMaterial,0,Basic,0
+110157,The Tyrant's Justification,Weapon,80,Exotic,264
+110161,Gwyl Knight's Focus Skin,Consumable,0,Rare,0
+110162,Banner of the Tenebral Ward,CraftingMaterial,0,Legendary,0
+110168,Shining Ward Mace,Weapon,80,Exotic,264
+110169,"""/Clap"" Emote Tome",Consumable,0,Exotic,0
+110171,Shining Ward Longbow,Weapon,80,Exotic,396
+110174,Jungle Tree Branch,Consumable,0,Basic,0
+110175,Masterwork Overcharged Rift Extraction,Container,0,Masterwork,128
+110178,Recipe: Shining Ward Sword,Consumable,0,Exotic,128
+110179,Volatile Glimmer of Ascension,Container,0,Exotic,0
+110183,Shining Ward Staff,Weapon,80,Exotic,396
+110185,Recipe: Shining Ward Mace,Consumable,0,Exotic,128
+110186,Recipe: Shining Ward Warhorn,Consumable,0,Exotic,128
+110190,Jungle Tree Branch (Broken),Consumable,0,Basic,0
+110192,Shining Ward Weapon Shard,Trophy,0,Exotic,10
+110195,Recipe: Shining Ward Pistol,Consumable,0,Exotic,128
+110200,Tenebral Ward Light Boots,Armor,80,Exotic,264
+110203,Tenebral Ward Light Pauldrons,Armor,80,Exotic,291
+110205,Leyspring Hollows: Hero's Choice Chest,Gizmo,0,Exotic,0
+110206,Torrs Calare Greatsword,Weapon,80,Ascended,495
+110208,Gwyl Knight's Staff Skin,Consumable,0,Rare,0
+110210,Gwyl Knight's Selection Box,Container,0,Rare,0
+110211,Mini Project 5388,MiniPet,0,Exotic,50
+110214,Overcharged Rift Extraction Scrap,Container,0,Basic,32
+110216,Mini Vloxx,MiniPet,0,Exotic,50
+110218,Mini Subject Gamma,MiniPet,0,Exotic,50
+110219,Shining Ward Focus,Weapon,80,Exotic,264
+110220,Castoran Gear Box,Container,0,Exotic,116
+110223,Leyspring Hollows Renown Token,Trophy,0,Rare,0
+110224,Mini Twisted Creation,MiniPet,0,Exotic,50
+110225,Shining Ward Torch,Weapon,80,Exotic,264
+110227,Homestead Recipe Book: Seer Catalogue Volume 2,Consumable,0,Basic,50
+110228,Code of Creation Launch Supply Drop: Week One,Container,0,Rare,0
+110231,Vloxx's Coffer,Container,0,Exotic,0
+110233,Shining Ward Axe,Weapon,80,Exotic,264
+110234,Tenebral Ward Heavy Boots,Armor,80,Exotic,264
+110237,Mini PTM,MiniPet,0,Exotic,50
