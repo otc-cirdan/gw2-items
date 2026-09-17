@@ -74127,6 +74127,7 @@ Balance",Gizmo,0,Basic,0
 109917,Recipe: Canthan Merchant Canopy,Consumable,0,Basic,50
 109918,Spellwork Staff,Weapon,80,Exotic,396
 109919,Spellwork Warhorn,Weapon,80,Exotic,264
+109921,Volatile Ascension,UpgradeComponent,80,Exotic,10000
 109922,Aetherlocation Detective: Bronze,Container,0,Fine,0
 109924,Recipe: Shining Ward Short Bow,Consumable,0,Exotic,128
 109925,Gwyl Knight's Rifle Skin,Consumable,0,Rare,0
@@ -74152,6 +74153,7 @@ Balance",Gizmo,0,Basic,0
 109960,Recipe: Shining Ward Hammer,Consumable,0,Exotic,128
 109961,Forgotten Convergence Reward Box,Container,0,Basic,0
 109966,Shining Ward Rifle,Weapon,80,Exotic,396
+109967,Tenebral Ward Light Chestplate,Armor,80,Exotic,396
 109968,Gwyl Knight's Spear Skin,Consumable,0,Rare,0
 109973,Recipe: Shining Ward Focus,Consumable,0,Exotic,128
 109976,Tenebral Ward Token: Shoulders,Trophy,0,Exotic,10000
@@ -74170,10 +74172,12 @@ Balance",Gizmo,0,Basic,0
 110003,Gwyl Knight's Hammer Skin,Consumable,0,Rare,0
 110004,Recipe: Shining Ward Longbow,Consumable,0,Exotic,128
 110005,Additional Requisition Team Contract,Consumable,0,Rare,0
+110008,Gift of Reality,CraftingMaterial,0,Legendary,0
 110009,Relic of the Curator,Relic,60,Exotic,200
 110010,Recipe: Shining Ward Shield,Consumable,0,Exotic,128
 110011,Tenebral Ward Medium Pauldrons,Armor,80,Exotic,291
 110012,Recipe: Shining Ward Spear,Consumable,0,Exotic,128
+110020,Wages of Stars,Weapon,80,Legendary,660
 110023,Gwyl Knight's Mace Skin,Consumable,0,Rare,0
 110024,,Consumable,0,Junk,10
 110026,Recipe: Shining Ward Staff,Consumable,0,Exotic,128
@@ -74181,13 +74185,17 @@ Balance",Gizmo,0,Basic,0
 110028,Tenebral Ward Heavy Helmet,Armor,80,Exotic,330
 110030,Bessie's Toy,Trophy,0,Basic,0
 110032,Gwyl Knight's Longbow Skin,Consumable,0,Rare,0
+110033,Gift of Tenebral Armor,CraftingMaterial,0,Legendary,0
 110036,Serpent Simulator: Bronze,Container,0,Fine,0
+110038,Roller Beetle Boost Pad,Gizmo,0,Basic,0
 110040,Recipe: Shining Ward Axe,Consumable,0,Exotic,128
 110041,Mini Kuda,MiniPet,0,Exotic,50
 110045,Medium Seer Cache,Container,0,Exotic,264
 110046,Rare Overcharged Rift Extraction,Container,0,Rare,192
 110047,Shining Ward Spear,Weapon,80,Exotic,396
 110048,Recipe: Shining Ward Rifle,Consumable,0,Exotic,128
+110049,Tenebral Ward Token: Chest,Trophy,0,Exotic,0
+110050,Mini Director Vloxx,MiniPet,0,Exotic,50
 110052,Tenebral Ward Token: Helmet,Trophy,0,Exotic,0
 110053,Recipe: Shining Ward Scepter,Consumable,0,Exotic,128
 110059,Tenebral Ward Heavy Leggings,Armor,80,Exotic,370
@@ -74201,6 +74209,7 @@ Balance",Gizmo,0,Basic,0
 110075,Tenebral Ward Heavy Gloves,Armor,80,Exotic,238
 110076,Recipe: Arcane Eye Banner,Consumable,0,Basic,50
 110078,"""/Lean"" Emote Tome",Consumable,0,Exotic,0
+110081,Gift of the Tenebral Ward,CraftingMaterial,0,Legendary,0
 110082,Iron Column 16 x 240 x 30,Consumable,0,Basic,0
 110084,Advanced Research Data Crystal,CraftingMaterial,0,Legendary,0
 110085,Endless Inquest Director Combat Tonic,Gizmo,0,Exotic,0
@@ -74227,11 +74236,14 @@ Balance",Gizmo,0,Basic,0
 110130,Serpent Simulator: Silver,Container,0,Fine,0
 110133,Gift of Shining Arms,CraftingMaterial,0,Legendary,0
 110134,Gwyl Knight's Torch Skin,Consumable,0,Rare,0
+110136,Volatile Ascension,UpgradeComponent,80,Exotic,10000
 110137,Convergence: Nexus of Eternity Commander's Choice Chest,Gizmo,0,Exotic,0
 110138,Serpent Simulator: Gold,Container,0,Fine,0
 110142,Fledgling Constellation,Weapon,80,Exotic,264
 110145,Recipe: Shining Ward Dagger,Consumable,0,Exotic,128
 110147,Tenebral Ward Light Gloves,Armor,80,Exotic,238
+110148,Mists Scrying Mirror,CraftingMaterial,0,Legendary,0
+110150,Tenebral Ward Heavy Chestplate,Armor,80,Exotic,396
 110152,Relic of the Visionary,Relic,60,Exotic,200
 110153,Tenebral Ward Token: Gloves,Trophy,0,Exotic,5000
 110156,Shadowstone Research Data,CraftingMaterial,0,Basic,0
@@ -74258,6 +74270,7 @@ Balance",Gizmo,0,Basic,0
 110208,Gwyl Knight's Staff Skin,Consumable,0,Rare,0
 110210,Gwyl Knight's Selection Box,Container,0,Rare,0
 110211,Mini Project 5388,MiniPet,0,Exotic,50
+110213,Tenebral Ward Medium Chestplate,Armor,80,Exotic,396
 110214,Overcharged Rift Extraction Scrap,Container,0,Basic,32
 110216,Mini Vloxx,MiniPet,0,Exotic,50
 110218,Mini Subject Gamma,MiniPet,0,Exotic,50
