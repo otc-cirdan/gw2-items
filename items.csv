@@ -74136,6 +74136,7 @@ Balance",Gizmo,0,Basic,0
 109929,Explorer's Kukri,Weapon,80,Exotic,264
 109930,Gwyl Knight's Axe Skin,Consumable,0,Rare,0
 109933,Shining Ward Pistol,Weapon,80,Exotic,264
+109934,Exuberant Chest Skin,Consumable,0,Masterwork,0
 109936,Relic of the Lantern,Relic,60,Exotic,200
 109938,Volatile Ascension,UpgradeComponent,80,Exotic,10000
 109939,Gwyl Knight's Dagger Skin,Consumable,0,Rare,0
@@ -74156,6 +74157,7 @@ Balance",Gizmo,0,Basic,0
 109966,Shining Ward Rifle,Weapon,80,Exotic,396
 109967,Tenebral Ward Light Chestplate,Armor,80,Exotic,396
 109968,Gwyl Knight's Spear Skin,Consumable,0,Rare,0
+109970,Exuberant Helm Skin,Consumable,0,Masterwork,0
 109973,Recipe: Shining Ward Focus,Consumable,0,Exotic,128
 109976,Tenebral Ward Token: Shoulders,Trophy,0,Exotic,10000
 109978,Withered Ivy,Consumable,0,Basic,0
@@ -74167,6 +74169,7 @@ Balance",Gizmo,0,Basic,0
 109987,Tenebral Ward Medium Leggings,Armor,80,Exotic,370
 109989,Flapjack's Bits and Bobs,Container,0,Exotic,264
 109990,,Consumable,0,Junk,10
+109991,Exuberant Leggings Skin,Consumable,0,Masterwork,0
 109992,Shining Ward Short Bow,Weapon,80,Exotic,396
 109996,Tropical Depths Gear Bag,Container,0,Exotic,264
 109998,Relic of the Tyrian Hero,Relic,60,Exotic,200
@@ -74213,8 +74216,10 @@ Balance",Gizmo,0,Basic,0
 110078,"""/Lean"" Emote Tome",Consumable,0,Exotic,0
 110081,Gift of the Tenebral Ward,CraftingMaterial,0,Legendary,0
 110082,Iron Column 16 x 240 x 30,Consumable,0,Basic,0
+110083,Code of Creation Launch Supply Drop: Week Two,Container,0,Rare,0
 110084,Advanced Research Data Crystal,CraftingMaterial,0,Legendary,0
 110085,Endless Inquest Director Combat Tonic,Gizmo,0,Exotic,0
+110086,Exuberant Sandals Skin,Consumable,0,Masterwork,0
 110089,Recipe: Shining Ward Torch,Consumable,0,Exotic,128
 110091,Recipe: Shining Ward Greatsword,Consumable,0,Exotic,128
 110095,Tenebral Ward Medium Gloves,Armor,80,Exotic,238
@@ -74227,6 +74232,7 @@ Balance",Gizmo,0,Basic,0
 110110,"""/FireDance"" Emote Tome",Consumable,0,Exotic,0
 110111,Gwyl Knight's Pistol Skin,Consumable,0,Rare,0
 110112,Shining Ward Warhorn,Weapon,80,Exotic,264
+110115,Exuberant Gloves Skin,Consumable,0,Masterwork,0
 110116,Tenebral Ward Heavy Pauldrons,Armor,80,Exotic,291
 110117,Mini Water Elemental,MiniPet,0,Exotic,50
 110119,Code of Creation Supply Drop Requisition,Consumable,0,Rare,0
@@ -74242,6 +74248,7 @@ Balance",Gizmo,0,Basic,0
 110136,Volatile Ascension,UpgradeComponent,80,Exotic,10000
 110137,Convergence: Nexus of Eternity Commander's Choice Chest,Gizmo,0,Exotic,0
 110138,Serpent Simulator: Gold,Container,0,Fine,0
+110140,Dreamwalker Spear Skin,Consumable,0,Rare,0
 110142,Fledgling Constellation,Weapon,80,Exotic,264
 110145,Recipe: Shining Ward Dagger,Consumable,0,Exotic,128
 110147,Tenebral Ward Light Gloves,Armor,80,Exotic,238
