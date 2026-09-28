@@ -5233,6 +5233,7 @@ id,name,type,level,rarity,vendor_value
 5565,Conjurer Gloves,Armor,0,Exotic,0
 5566,Conjurer Mask,Armor,0,Exotic,0
 5567,Conjurer Pants,Armor,0,Exotic,0
+5568,Conjurer Mantle,Armor,0,Exotic,0
 5569,Apostle Shoes,Armor,0,Exotic,0
 5570,Apostle Cassock,Armor,0,Exotic,0
 5571,Apostle Wraps,Armor,0,Exotic,0
@@ -71026,6 +71027,7 @@ Balance",Gizmo,0,Basic,0
 106284,Calligrapher's Greatsword Skin,Consumable,0,Rare,0
 106285,Chromatic Bubble Wand,Container,0,Exotic,0
 106286,Stairs (120 x 60),Consumable,0,Basic,0
+106287,Berserker's Krait Spear,Weapon,80,Rare,297
 106289,Mini Shadowstone Pet Rock,MiniPet,0,Exotic,50
 106290,Dragonsblood Spear Echo,Weapon,80,Ascended,0
 106291,Track 17: Leaving Tarir,Consumable,0,Exotic,0
@@ -71083,6 +71085,7 @@ Balance",Gizmo,0,Basic,0
 106370,Survivor's Enchanted Compass,CraftingMaterial,0,Exotic,0
 106371,Track 11: The Wizards,Consumable,0,Exotic,0
 106375,Alliance Field Operative's Heavy Gloves,Armor,80,Exotic,238
+106377,Magi's Pact Spade of Force,Weapon,80,Rare,297
 106379,Extremis Token: Coat,Trophy,0,Exotic,30000
 106380,Pearlshell Selection Box,Container,0,Rare,0
 106382,Aquabreather Piece,Consumable,0,Basic,0
@@ -71095,6 +71098,7 @@ Balance",Gizmo,0,Basic,0
 106394,Feathered Inquest Mantle Skin,Consumable,0,Masterwork,0
 106395,"Track 24: Manikaz, the Blood Phenom",Consumable,0,Exotic,0
 106396,Track 23: A Promise,Consumable,0,Exotic,0
+106397,Berserker's Godskull Poleaxe,Weapon,80,Rare,297
 106398,Track 6: Stroll in the Night Market,Consumable,0,Exotic,0
 106399,Chromatic Bubbles,UpgradeComponent,80,Exotic,10000
 106400,Agaleus,Armor,80,Exotic,330
@@ -71216,6 +71220,7 @@ Balance",Gizmo,0,Basic,0
 106577,Calligrapher's Pistol Skin,Consumable,0,Rare,0
 106578,Starlit Weald Cache,Container,0,Basic,0
 106579,Fast Constructor's Shield,Weapon,80,Exotic,264
+106581,Berserker's Norn Impaler,Weapon,80,Rare,297
 106582,Track 1: Secrets of the Obscure,Consumable,0,Exotic,0
 106585,Seer-Enchanted Warhorn,Weapon,80,Exotic,264
 106587,Track 18: Might of the Cosmos,Consumable,0,Exotic,0
@@ -71890,6 +71895,7 @@ Balance",Gizmo,0,Basic,0
 107443,Zintl Trident,Weapon,80,Ascended,10000
 107444,Occam's Striders,Armor,80,Ascended,240
 107445,Thackeray's Flame,Weapon,80,Ascended,10000
+107446,Ventari's Leather Breather,Armor,80,Ascended,240
 107447,Ossa's Musket,Weapon,80,Ascended,10000
 107448,Zintl Reaver,Weapon,80,Ascended,10000
 107449,Maklain's Spire,Weapon,80,Ascended,10000
