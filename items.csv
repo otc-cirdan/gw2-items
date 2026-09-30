@@ -74166,6 +74166,7 @@ Balance",Gizmo,0,Basic,0
 109968,Gwyl Knight's Spear Skin,Consumable,0,Rare,0
 109970,Exuberant Helm Skin,Consumable,0,Masterwork,0
 109973,Recipe: Shining Ward Focus,Consumable,0,Exotic,128
+109975,The Tyrant's Absolute Oppression,Weapon,80,Ascended,330
 109976,Tenebral Ward Token: Shoulders,Trophy,0,Exotic,10000
 109978,Withered Ivy,Consumable,0,Basic,0
 109979,Tenebral Ward Light Helmet,Armor,80,Exotic,330
@@ -74174,6 +74175,7 @@ Balance",Gizmo,0,Basic,0
 109984,Tenebral Ward Medium Helmet,Armor,80,Exotic,330
 109985,Tropical Depths Gear Bag,Container,0,Fine,0
 109987,Tenebral Ward Medium Leggings,Armor,80,Exotic,370
+109988,Tenebral Ward Armor Chest,Gizmo,0,Exotic,0
 109989,Flapjack's Bits and Bobs,Container,0,Exotic,264
 109990,,Consumable,0,Junk,10
 109991,Exuberant Leggings Skin,Consumable,0,Masterwork,0
@@ -74210,6 +74212,7 @@ Balance",Gizmo,0,Basic,0
 110052,Tenebral Ward Token: Helmet,Trophy,0,Exotic,0
 110053,Recipe: Shining Ward Scepter,Consumable,0,Exotic,128
 110059,Tenebral Ward Heavy Leggings,Armor,80,Exotic,370
+110060,Convergence Challenge Mode: Silver,Container,0,Masterwork,0
 110062,Shining Ward Shield,Weapon,80,Exotic,264
 110063,Shining Ward Scepter,Weapon,80,Exotic,264
 110064,Tenebral Ward Light Leggings,Armor,80,Exotic,370
@@ -74218,6 +74221,7 @@ Balance",Gizmo,0,Basic,0
 110069,Shining Ward Greatsword,Weapon,80,Exotic,396
 110070,Aetherlocation Detective: Silver,Container,0,Fine,0
 110071,Volatile Ascension,UpgradeComponent,80,Exotic,10000
+110073,Convergence Challenge Mode: Bronze,Container,0,Fine,0
 110075,Tenebral Ward Heavy Gloves,Armor,80,Exotic,238
 110076,Recipe: Arcane Eye Banner,Consumable,0,Basic,50
 110078,"""/Lean"" Emote Tome",Consumable,0,Exotic,0
@@ -74267,9 +74271,11 @@ Balance",Gizmo,0,Basic,0
 110157,The Tyrant's Justification,Weapon,80,Exotic,264
 110161,Gwyl Knight's Focus Skin,Consumable,0,Rare,0
 110162,Banner of the Tenebral Ward,CraftingMaterial,0,Legendary,0
+110164,Code of Creation Launch Supply Drop: Week Three,Container,0,Rare,0
 110168,Shining Ward Mace,Weapon,80,Exotic,264
 110169,"""/Clap"" Emote Tome",Consumable,0,Exotic,0
 110171,Shining Ward Longbow,Weapon,80,Exotic,396
+110173,Convergence Challenge Mode: Gold,Container,0,Rare,0
 110174,Jungle Tree Branch,Consumable,0,Basic,0
 110175,Masterwork Overcharged Rift Extraction,Container,0,Masterwork,128
 110178,Recipe: Shining Ward Sword,Consumable,0,Exotic,128
@@ -74304,3 +74310,10 @@ Balance",Gizmo,0,Basic,0
 110234,Tenebral Ward Heavy Boots,Armor,80,Exotic,264
 110235,Volatile Ascension,UpgradeComponent,80,Exotic,10000
 110237,Mini PTM,MiniPet,0,Exotic,50
+110238,Dismounting Potion,Consumable,2,Rare,96
+110239,Enchanted Threader Package,Container,0,Rare,0
+110240,Mad King Homestead Sky,Consumable,0,Exotic,0
+110241,Enchanted Threader Spear Skin,Consumable,0,Rare,0
+110242,Enchanted Threader Staff Skin,Consumable,0,Rare,0
+110244,Marvelous Convergence Extraction,Container,0,Exotic,256
+110245,Vloxx's Magnificent Coffer,Container,0,Exotic,0
