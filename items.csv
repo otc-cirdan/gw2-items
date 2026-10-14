@@ -70427,6 +70427,7 @@ Balance",Gizmo,0,Basic,0
 105367,Plush Primo Backpack,Back,80,Exotic,8888
 105368,Unchained Scepter,Weapon,80,Exotic,264
 105369,Graveyard Gate Recipe,Consumable,0,Basic,0
+105371,"Homestead Recipe Book: Halloween, Volume 11",Consumable,0,Exotic,0
 105372,Unchained Hammer,Weapon,80,Exotic,396
 105373,Recipe: Festive Fall Tent,Consumable,0,Basic,50
 105374,Unchained Staff,Weapon,80,Exotic,396
@@ -70702,6 +70703,7 @@ Balance",Gizmo,0,Basic,0
 105769,Ethereal Sea-Life Infusion,UpgradeComponent,80,Exotic,10000
 105770,Track 21: Thick Dark Water,Consumable,0,Exotic,0
 105772,Mini Dancing Crab,MiniPet,0,Exotic,50
+105773,Soundtrack Single—Visions of Eternity,Container,0,Exotic,0
 105774,Track 34: Dirge of the Father King,Consumable,0,Exotic,0
 105776,Mini Kela,MiniPet,0,Exotic,50
 105777,Track 7: Elona Reach,Consumable,0,Exotic,0
@@ -70832,6 +70834,7 @@ Balance",Gizmo,0,Basic,0
 105966,Pearlshell Dagger Skin,Consumable,0,Rare,0
 105967,Restless Captain's Light Mantle,Armor,80,Exotic,291
 105969,Track 21: Strangers Masked in Shadow,Consumable,0,Exotic,0
+105970,Track 1: Visions of Eternity,Consumable,0,Exotic,0
 105971,Alliance Field Operative's Heavy Jacket,Armor,80,Exotic,396
 105972,Castoran King Crab: Gold,Container,0,Fine,0
 105974,Alliance Field Operative's Light Helmet,Armor,80,Exotic,330
@@ -74334,3 +74337,51 @@ Balance",Gizmo,0,Basic,0
 110243,Mad King Conjured Doorway Skin,Consumable,0,Rare,0
 110244,Marvelous Convergence Extraction,Container,0,Exotic,256
 110245,Vloxx's Magnificent Coffer,Container,0,Exotic,0
+110246,Plush Mad King Backpack,Back,80,Exotic,8888
+110249,Black Lion Autumn Garden Fence Recipe,Consumable,0,Basic,0
+110254,Black Lion Autumn Garden Hanging Lantern Recipe,Consumable,0,Basic,0
+110256,Fog Machine Shield,Weapon,80,Exotic,264
+110259,Trader's Unchained Chest,Container,0,Exotic,256
+110262,Fog Machine Chest,Container,0,Exotic,256
+110263,Fog Machine Greatsword,Weapon,80,Exotic,396
+110264,Black Lion Autumn Garden Leaf Pile Recipe,Consumable,0,Basic,0
+110265,Grieving Primeval King's Wrappings,Armor,80,Exotic,330
+110267,Fog Machine Sword,Weapon,80,Exotic,264
+110270,Grieving Primeval King's Wrappings,Armor,80,Exotic,330
+110271,Black Lion Autumn Garden Tree Recipe,Consumable,0,Basic,0
+110274,Recipe: Foreboding Raven Tree,Consumable,0,Basic,50
+110276,Fog Machine Warhorn,Weapon,80,Exotic,264
+110279,Mini Longhaired Black Cat,MiniPet,0,Exotic,50
+110283,Black Lion Autumn Garden Tree Stump Recipe,Consumable,0,Basic,0
+110285,Fog Machine Longbow,Weapon,80,Exotic,396
+110287,Fog Machine Hammer,Weapon,80,Exotic,396
+110291,Starter Pack Supplies,Container,0,Exotic,0
+110298,Track 4: After Sunfall,Consumable,0,Exotic,0
+110299,Fog Machine Rifle,Weapon,80,Exotic,396
+110301,Fog Machine Pistol,Weapon,80,Exotic,264
+110305,Fog Machine Torch,Weapon,80,Exotic,264
+110308,Autumn Garden Homestead Package,Container,0,Basic,0
+110310,Fog Machine Spear,Weapon,80,Exotic,396
+110312,Black Lion Autumn Garden Gate Recipe,Consumable,0,Basic,0
+110313,Black Lion Autumn Garden Falling Leaves Recipe,Consumable,0,Basic,0
+110320,Grim Machine Spear,Weapon,80,Exotic,396
+110321,Recipe: Plush Mad King,Consumable,0,Basic,50
+110322,Fog Machine Dagger,Weapon,80,Exotic,264
+110329,Stone Formation,Consumable,0,Basic,0
+110337,Fog Machine Staff,Weapon,80,Exotic,396
+110339,Black Lion Autumn Garden Cornstalk Recipe,Consumable,0,Basic,0
+110342,Fog Machine Mace,Weapon,80,Exotic,264
+110344,Fog Machine Axe,Weapon,80,Exotic,264
+110347,Grieving Primeval King's Wrappings,Armor,80,Exotic,330
+110348,Plush Zhaia,Consumable,0,Basic,0
+110349,Fog Machine Focus,Weapon,80,Exotic,264
+110352,Flowing Sand Cape Skin,Consumable,0,Masterwork,6250
+110353,Primeval King's Wrappings Choice,Container,0,Exotic,0
+110355,Plush Mad King,Consumable,0,Basic,0
+110356,Fog Machine Scepter,Weapon,80,Exotic,264
+110361,Black Lion Autumn Garden Tree (Bare) Recipe,Consumable,0,Basic,0
+110365,Recipe: Foreboding Raven Roost,Consumable,0,Basic,50
+110367,Stone Pillar,Consumable,0,Basic,0
+110370,Stone Cliff,Consumable,0,Basic,0
+110374,Recipe: Plush Zhaia,Consumable,0,Basic,50
+110377,Fog Machine Short Bow,Weapon,80,Exotic,396
