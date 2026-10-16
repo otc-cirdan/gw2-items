@@ -72949,6 +72949,7 @@ Balance",Gizmo,0,Basic,0
 108508,Nerashi's Spire,Weapon,80,Ascended,10000
 108510,Chorben's Reaver,Weapon,80,Ascended,10000
 108511,Hronk's Shoulderguard,Armor,80,Ascended,240
+108512,Giftbringer's Flanged Mace,Weapon,80,Ascended,10000
 108513,Maklain's Flanged Mace,Weapon,80,Ascended,10000
 108514,Zojja's Visage,Armor,80,Ascended,240
 108515,Steelstar's Short Bow,Weapon,80,Ascended,10000
@@ -74351,11 +74352,13 @@ Balance",Gizmo,0,Basic,0
 110271,Black Lion Autumn Garden Tree Recipe,Consumable,0,Basic,0
 110274,Recipe: Foreboding Raven Tree,Consumable,0,Basic,50
 110276,Fog Machine Warhorn,Weapon,80,Exotic,264
+110278,"Track 33: Alone, If I Must",Consumable,0,Exotic,0
 110279,Mini Longhaired Black Cat,MiniPet,0,Exotic,50
 110283,Black Lion Autumn Garden Tree Stump Recipe,Consumable,0,Basic,0
 110285,Fog Machine Longbow,Weapon,80,Exotic,396
 110287,Fog Machine Hammer,Weapon,80,Exotic,396
 110291,Starter Pack Supplies,Container,0,Exotic,0
+110292,"Track 33: Alone, If I Must",Consumable,0,Exotic,0
 110298,Track 4: After Sunfall,Consumable,0,Exotic,0
 110299,Fog Machine Rifle,Weapon,80,Exotic,396
 110301,Fog Machine Pistol,Weapon,80,Exotic,264
@@ -74367,7 +74370,9 @@ Balance",Gizmo,0,Basic,0
 110320,Grim Machine Spear,Weapon,80,Exotic,396
 110321,Recipe: Plush Mad King,Consumable,0,Basic,50
 110322,Fog Machine Dagger,Weapon,80,Exotic,264
+110324,Track 28: Shackles of the Ancients,Consumable,0,Exotic,0
 110329,Stone Formation,Consumable,0,Basic,0
+110330,Track 10: The Hammerhearts,Consumable,0,Exotic,0
 110337,Fog Machine Staff,Weapon,80,Exotic,396
 110339,Black Lion Autumn Garden Cornstalk Recipe,Consumable,0,Basic,0
 110342,Fog Machine Mace,Weapon,80,Exotic,264
@@ -74383,5 +74388,6 @@ Balance",Gizmo,0,Basic,0
 110365,Recipe: Foreboding Raven Roost,Consumable,0,Basic,50
 110367,Stone Pillar,Consumable,0,Basic,0
 110370,Stone Cliff,Consumable,0,Basic,0
+110371,Track 28: Shackles of the Ancients,Consumable,0,Exotic,0
 110374,Recipe: Plush Zhaia,Consumable,0,Basic,50
 110377,Fog Machine Short Bow,Weapon,80,Exotic,396
