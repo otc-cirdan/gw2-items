@@ -71212,6 +71212,7 @@ Balance",Gizmo,0,Basic,0
 106557,Track 7: Amnytas in Peril,Consumable,0,Exotic,0
 106560,"""/ThumbsDown"" Emote Tome",Consumable,0,Exotic,0
 106561,Track 22: On the Banks of the Elon,Consumable,0,Exotic,0
+106562,Track 1: Visions of Eternity,Consumable,0,Exotic,0
 106563,Track 20: The Quiet Before,Consumable,0,Exotic,0
 106564,Track 50: Harvest Ceremony,Consumable,0,Exotic,0
 106565,Track 2: The Seraph,Consumable,0,Exotic,0
@@ -74165,6 +74166,7 @@ Balance",Gizmo,0,Basic,0
 109936,Relic of the Lantern,Relic,60,Exotic,200
 109938,Volatile Ascension,UpgradeComponent,80,Exotic,10000
 109939,Gwyl Knight's Dagger Skin,Consumable,0,Rare,0
+109940,Volatile Ascension,UpgradeComponent,80,Exotic,10000
 109942,Relic of the Last Tyrant,Relic,60,Exotic,200
 109943,Shining Ward Dagger,Weapon,80,Exotic,264
 109944,Tenebral Ward Token: Leggings,Trophy,0,Exotic,20000
@@ -74341,8 +74343,10 @@ Balance",Gizmo,0,Basic,0
 110244,Marvelous Convergence Extraction,Container,0,Exotic,256
 110245,Vloxx's Magnificent Coffer,Container,0,Exotic,0
 110246,Plush Mad King Backpack,Back,80,Exotic,8888
+110248,Track 22: Augmented Perception,Consumable,0,Exotic,0
 110249,Black Lion Autumn Garden Fence Recipe,Consumable,0,Basic,0
 110252,Track 38: One Charr,Consumable,0,Exotic,0
+110253,Track 22: Augmented Perception,Consumable,0,Exotic,0
 110254,Black Lion Autumn Garden Hanging Lantern Recipe,Consumable,0,Basic,0
 110255,Track 34: Magus Disaster,Consumable,0,Exotic,0
 110256,Fog Machine Shield,Weapon,80,Exotic,264
@@ -74357,6 +74361,7 @@ Balance",Gizmo,0,Basic,0
 110270,Grieving Primeval King's Wrappings,Armor,80,Exotic,330
 110271,Black Lion Autumn Garden Tree Recipe,Consumable,0,Basic,0
 110274,Recipe: Foreboding Raven Tree,Consumable,0,Basic,50
+110275,Track 36: Terror from the Mists,Consumable,0,Exotic,0
 110276,Fog Machine Warhorn,Weapon,80,Exotic,264
 110278,"Track 33: Alone, If I Must",Consumable,0,Exotic,0
 110279,Mini Longhaired Black Cat,MiniPet,0,Exotic,50
@@ -74369,17 +74374,23 @@ Balance",Gizmo,0,Basic,0
 110290,Track 35: Awakened Pestilence,Consumable,0,Exotic,0
 110291,Starter Pack Supplies,Container,0,Exotic,0
 110292,"Track 33: Alone, If I Must",Consumable,0,Exotic,0
+110293,Track 21: Terra Firma,Consumable,0,Exotic,0
+110295,Track 23: Choya Dance,Consumable,0,Exotic,0
+110296,Track 21: Terra Firma,Consumable,0,Exotic,0
 110298,Track 4: After Sunfall,Consumable,0,Exotic,0
 110299,Fog Machine Rifle,Weapon,80,Exotic,396
 110301,Fog Machine Pistol,Weapon,80,Exotic,264
 110302,Track 32: Nexus of Eternity,Consumable,0,Exotic,0
+110303,Track 36: Terror from the Mists,Consumable,0,Exotic,0
 110305,Fog Machine Torch,Weapon,80,Exotic,264
 110306,Track 40: A World without Us,Consumable,0,Exotic,0
 110308,Autumn Garden Homestead Package,Container,0,Basic,0
 110310,Fog Machine Spear,Weapon,80,Exotic,396
 110312,Black Lion Autumn Garden Gate Recipe,Consumable,0,Basic,0
 110313,Black Lion Autumn Garden Falling Leaves Recipe,Consumable,0,Basic,0
+110315,Track 23: Choya Dance,Consumable,0,Exotic,0
 110318,Track 38: One Charr,Consumable,0,Exotic,0
+110319,Track 5: When All Else Is Quiet,Consumable,0,Exotic,0
 110320,Grim Machine Spear,Weapon,80,Exotic,396
 110321,Recipe: Plush Mad King,Consumable,0,Basic,50
 110322,Fog Machine Dagger,Weapon,80,Exotic,264
@@ -74387,6 +74398,8 @@ Balance",Gizmo,0,Basic,0
 110329,Stone Formation,Consumable,0,Basic,0
 110330,Track 10: The Hammerhearts,Consumable,0,Exotic,0
 110333,Track 37: The Director's Mettle,Consumable,0,Exotic,0
+110335,Track 5: When All Else Is Quiet,Consumable,0,Exotic,0
+110336,Track 31: Prodigious Daughter,Consumable,0,Exotic,0
 110337,Fog Machine Staff,Weapon,80,Exotic,396
 110339,Black Lion Autumn Garden Cornstalk Recipe,Consumable,0,Basic,0
 110340,Track 37: The Director's Mettle,Consumable,0,Exotic,0
@@ -74413,4 +74426,5 @@ Balance",Gizmo,0,Basic,0
 110371,Track 28: Shackles of the Ancients,Consumable,0,Exotic,0
 110372,Track 34: Magus Disaster,Consumable,0,Exotic,0
 110374,Recipe: Plush Zhaia,Consumable,0,Basic,50
+110375,Track 31: Prodigious Daughter,Consumable,0,Exotic,0
 110377,Fog Machine Short Bow,Weapon,80,Exotic,396
